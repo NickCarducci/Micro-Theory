@@ -63,7 +63,10 @@ export default function App() {
         </b>
         <br />- government or business may only certify advice to a standard
         unless your actions affect another by disclusion, duress or opinion of
-        their actions
+        their actions. Not sharing health data or getting tagged with a graft to
+        be included precludes any right to stop people from doing anything based
+        on health, preference or bodily composition unless it is apparent,
+        symptomatic or unanimously deduced
       </span>
       <br />
       <span>
