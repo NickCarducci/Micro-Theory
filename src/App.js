@@ -59,10 +59,11 @@ export default function App() {
         <b>
           not get paid due to preferences; or receive services due to
           impairment, only under duress or by your own interpretation of their
-          benefit and cost - you may only certify to your standards unless their
-          own assets or domain are affected and adjunicated frugally. Think,
-          human-centered design.
+          benefit and cost
         </b>
+        <br />- government or business may only certify advice to a standard
+        unless your actions affect another by disclusion, duress or opinion of
+        their actions
       </span>
       <br />
       <span>
