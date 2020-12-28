@@ -57,8 +57,11 @@ export default function App() {
       <span>
         or be able to pay but{" "}
         <b>
-          not get paid due to preferences, or receive services due to impairment
-          or only under duress
+          not get paid due to preferences; or receive services due to
+          impairment, only under duress or by your own interpretation of their
+          benefit and cost - you may only certify to your standards unless their
+          own assets or domain are affected and adjunicated frugally. Think,
+          human-centered design.
         </b>
       </span>
       <br />
