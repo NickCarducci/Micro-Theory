@@ -7,11 +7,13 @@ export default function App() {
       <h1>Micro-Theory</h1>
       <h2>Platitudes</h2>
       <br />
-      <span>
+      <div style={{ display: "block", flexDirection: "column" }}>
         <b>
           <i>We still live in colonialism </i>
         </b>
-      </span>
+        <br />
+        <i>at each market-level </i>
+      </div>
       <br />
       <span>
         <b>
