@@ -56,6 +56,23 @@ export default function App() {
         able to work out of without others' benefits at your disposal
       </span>
       <br />
+      <a
+        href="https://Vaults.biz"
+        style={{
+          fontSize: "30px",
+          display: "flex",
+          position: "relative",
+          alignItems: "center",
+          justifyContent: "center",
+          width: "100%",
+          height: "76px",
+          backgroundColor: "rgb(20,20,25)",
+          color: "rgb(200,200,220)"
+        }}
+      >
+        Vaults.biz
+      </a>
+      <br />
       <span>
         or be able to pay but{" "}
         <b>
@@ -65,10 +82,10 @@ export default function App() {
         </b>
         <br />- government or business may only certify advice to a standard
         unless your actions affect another by disclusion, duress or opinion of
-        their actions or opinons. Not sharing health data or getting tagged with a graft to
-        be included precludes any right to stop people from doing anything based
-        on health, preference or bodily composition unless it is apparent,
-        symptomatic or unanimously deduced
+        their actions or opinions. Not sharing health data or getting tagged
+        with a graft to be included precludes any right to stop people from
+        doing anything based on health, preference or bodily composition unless
+        it is apparent, symptomatic or unanimously deduced
       </span>
       <br />
       <span>
