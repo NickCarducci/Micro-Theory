@@ -28,7 +28,7 @@ export default function App() {
         </b>
         the prohibition of trade thru which to benefit from more than how much
         they could possibly benefit in reality by owning the place, and not
-        trespassing at one time (>1m) (1/5)
+        trespassing at one time (>1mo) (1/5)
       </span>
       <br />
       <span>
@@ -54,6 +54,14 @@ export default function App() {
         </b>
         an impossible contract, theft or indentured servitude that which is not
         able to work out of without others' benefits at your disposal
+      </span>
+      <br />
+      <span>
+        <b>
+          <i>Lending is </i>
+        </b>
+        a conspiracy to price-fix and corner assets with a borrower using
+        someone else's money as a valuation metric
       </span>
       <br />
       <a
