@@ -94,6 +94,15 @@ export default function App() {
         with a graft to be included precludes any right to stop people from
         doing anything based on health, preference or bodily composition unless
         it is apparent, symptomatic or unanimously deduced
+        <br />
+        <b>
+          A1 is only for laws, well then you can turn people away from your
+          business based on arousal-orientation?
+        </b>{" "}
+        Freedom of orientation is protected by A14 and Civil Rights Act, also
+        A13 if you do not want to instigate slavery of allowing them to give but
+        not take in the economy. Especially if there are few providers or you
+        want to be protected from what people say
       </span>
       <br />
       <span>
