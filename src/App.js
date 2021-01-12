@@ -15,6 +15,14 @@ export default function App() {
         <i>at each market-level </i>
       </div>
       <br />
+      <div style={{ display: "block", flexDirection: "column" }}>
+        <b>
+          <i>national security is</i>
+        </b>{" "}
+        really bondholder security, we would do better after emancipation and no
+        more slavery. insurrection against slaveowners is ok
+      </div>
+      <br />
       <span>
         <b>
           <i>GDP is </i>
