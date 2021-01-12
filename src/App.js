@@ -28,7 +28,7 @@ export default function App() {
         </b>
         the prohibition of trade thru which to benefit from more than how much
         they could possibly benefit in reality by owning the place, and not
-        trespassing at one time (>1mo) (1/5)
+        trespassing at one time ({">"}1mo) (1/5)
       </span>
       <br />
       <span>
@@ -103,6 +103,26 @@ export default function App() {
         A13 if you do not want to instigate slavery of allowing them to give but
         not take in the economy. Especially if there are few providers or you
         want to be protected from what people say
+        <br />
+        <b>privacy is required for free expression</b> Freedom of
+        arousal-orientation, whatever makes you happy is protected by A14 and
+        Civil Rights Act, also A13 if you do not want to instigate slavery of
+        allowing them to give but not take in the economy. Especially if there
+        are few providers or you want to be protected from what people say{" "}
+        <br />
+        as long as it is not If they know this they should be able to find the
+        attendees beforehand. Sounds like a con. Stop selling bonds/promising
+        savers’ money at 11x more than we have to enemies for price-fixed
+        cornering of assets please. bio on each guy and put them on the parole
+        intranet
+        <br />
+        <b>
+          supreme court saying nazi could walk chicago <i>is wrong</i>
+        </b>{" "}
+        because there is probable-evidence-of-evidence of motive to do them harm
+        physically or financially (not valuation but tangible losses)
+        neighborhood law is like the sea law but between homes, that's why
+        open-carry is also an exhibited threat
       </span>
       <br />
       <span>
