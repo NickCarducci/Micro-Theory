@@ -15,20 +15,20 @@ export default function App() {
         <i>at each market-level </i>
       </div>
       <br />
-      <div style={{ display: "block", flexDirection: "column" }}>
-        <span>
-          <b>
-            <i>Regulators can only </i>
-          </b>
-          certify because they have been wrong before about tobacco and methane
-          fires in crowded theatres are invisible
-        </span>
+      <span>
+        <b>
+          <i>Regulators can only </i>
+        </b>
+        certify because they have been wrong before about tobacco and methane
+        fires in crowded theatres are invisible
+      </span>
+      <span>
         <b>
           <i>national security is</i>
         </b>{" "}
         really bondholder security, we would do better after emancipation and no
         more slavery. insurrection against slaveowners is ok
-      </div>
+      </span>
       <br />
       <span>
         <b>
