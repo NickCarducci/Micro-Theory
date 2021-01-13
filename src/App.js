@@ -41,7 +41,7 @@ export default function App() {
       <br />
       <span>
         <b>
-          <i>Debt, invoices & insurance brokering gift cards are </i>
+          <i>Debt, invoices & insurance brokering gift cards & expiring gift certificates are </i>
         </b>
         to price-fix & monopolize the Demand curve & leverage other peoples'
         autonomy in principal & interest, or the sellers' equity in principal &
