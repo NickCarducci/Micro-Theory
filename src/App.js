@@ -8,6 +8,11 @@ export default function App() {
       <h2>Platitudes</h2>
       <br />
       <div style={{ display: "block", flexDirection: "column" }}>
+        If insurance companies are a net loss because they pay invoices instead
+        of rollover gift certificates, can ALL insurance companies keep saying
+        they save people money if the part that they can never say in unison is
+        that they save people money only relatively??
+        <br />
         <b>
           <i>We still live in colonialism </i>
         </b>
