@@ -29,6 +29,11 @@ export default function App() {
         really bondholder security, we would do better after emancipation and no
         more slavery. insurrection against slaveowners is ok
       </span>
+      <span>
+        <b>borrowing with my money is counterfeit</b>, I now have to wait for
+        you to get the money back from the lender or seller before I can get the
+        depreciated asset
+      </span>
       <br />
       <span>
         <b>
@@ -247,6 +252,27 @@ export default function App() {
             valuable as toilet paper or colonialism{" "}
           </i>
         </b>
+        <b>
+          If the government is giving aid and comfort to China by way of
+          instigating savers into involuntary servitude and having the market’s
+          assets cornered by no utility gained just price-fixing imagination of
+          capturing saver’s money + either (a) being a government employee +
+          this(); or (b)(1) LENDER pay BORROWER, (2) BORROWER pay LENDER 14%APR
+          or this() Comments Nick Carducci price-fixing is when you place the
+          ask and the bid by oligopoly or otherwise... what, you are only
+          cooperating when you have a funny name? · Reply · 2h · Edited Nick
+          Carducci in the name of · Reply · 1h Write a reply… Nick Carducci
+          promising more than you can pay; insurance that doesn't rollover (not
+          subs because they promise no more than what you use/ do not give more
+          to others in the pool or their customers or tort prosecutors) or is
+          unsettled by invoice to buy is counterfeit · Reply · 1h · Edited Nick
+          Carducci of reality and facts right now in the ground the assumptions
+          of other's for future and past only exist in the claimant's head ·
+          Reply · 1h · Edited Write a reply… Nick Carducci Lettin people profit
+          from bugs being used rather than useful things is intentful harm being
+          done to other people they sign up under duress or those who those
+          people sell to.
+        </b>{" "}
         <br />
         <br />
       </span>
