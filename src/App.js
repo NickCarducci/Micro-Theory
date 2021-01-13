@@ -308,30 +308,28 @@ export default function App() {
           If the government is giving aid and comfort to China by way of
           instigating savers into involuntary servitude and having the market’s
           assets cornered by no utility gained just price-fixing imagination of
-          capturing saver’s money + either (a) being a government employee +
-          this(); or (b)(1) LENDER pay BORROWER, (2) BORROWER pay LENDER 14%APR
-          or this()
-          <br />
-          price-fixing is when you place the ask and the bid by oligopoly or
-          otherwise... what, you are only cooperating when you have a funny
-          name?
-          <br /> in the name of · ·
-          <br />
-          promising more than you can pay; insurance that doesn't rollover (not
-          subs because they promise no more than what you use/ do not give more
-          to others in the pool or their customers or tort prosecutors) or is
-          unsettled by invoice to buy is counterfeit
-          <br />
-          of reality and facts right now in the ground the assumptions of
-          other's for future and past only exist in the claimant's head
-          <br /> Lettin people profit from bugs being used rather than useful
-          things is intentful harm being done to other people they sign up under
-          duress or those who those people sell to.
+          a resolution of this infinite promise{" "}
+          {`(()=>{servitude:()=>capturing saver’s money + either (a) being a government employee + this(); or (b)(1) LENDER pay BORROWER, (2) BORROWER pay LENDER 14%APR or this()})()`}
         </b>{" "}
-        wagering dollars as comparative as shareholder rights or counterfeit
-        being mixed in supply or achieving a purchase is; or copyright over
-        patents. invoices are theft; debt interest per time, or on customers, is
-        too per price or compound on their customers required, unrequited...
+        <br />
+        price-fixing is when you place the ask and the bid by oligopoly or
+        otherwise... what, you are only cooperating when you have a funny name?
+        <br /> in the name of · ·
+        <br />
+        promising more than you can pay; insurance that doesn't rollover (not
+        subs because they promise no more than what you use/ do not give more to
+        others in the pool or their customers or tort prosecutors) or is
+        unsettled by invoice to buy is counterfeit
+        <br />
+        of reality and facts right now in the ground the assumptions of other's
+        for future and past only exist in the claimant's head
+        <br /> Lettin people profit from bugs being used rather than useful
+        things is intentful harm being done to other people they sign up under
+        duress or those who those people sell to. wagering dollars as
+        comparative as shareholder rights or counterfeit being mixed in supply
+        or achieving a purchase is; or copyright over patents. invoices are
+        theft; debt interest per time, or on customers, is too per price or
+        compound on their customers required, unrequited...
         <br />
         <br />
       </span>
