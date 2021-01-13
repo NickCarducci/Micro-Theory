@@ -29,6 +29,15 @@ export default function App() {
         really bondholder security, we would do better after emancipation and no
         more slavery. insurrection against slaveowners is ok
       </span>
+      time is a snapshot of facts, facts don't change from time but by voluntary
+      trade or else it breaks A13
+      <br />
+      voluntary by no duress or alterior uneccesary, hidden or unknowable harm
+      or by literally people colluding together about your money being theirs
+      and they reap the benefits of using the collateral now... which is all
+      that matters and the money the seller gets and is now instilling a cost
+      only they can pay in full and more from another saver in the borrowers'
+      customers
       <span>
         <b>
           borrowing with my money itelf as a lender or assuming it as a consumer
@@ -127,20 +136,6 @@ export default function App() {
         it is apparent, symptomatic or unanimously deduced
         <br />
         <b>
-          A1 is only for laws, well then you can turn people away from your
-          business based on arousal-orientation?
-        </b>{" "}
-        Freedom of orientation is protected by A14 and Civil Rights Act, also
-        A13 if you do not want to instigate slavery of allowing them to give but
-        not take in the economy. Especially if there are few providers or you
-        want to be protected from what people say
-        <br />
-        <b>privacy is required for free expression</b> Freedom of
-        arousal-orientation, whatever makes you happy is protected by A14 and
-        Civil Rights Act, also A13 if you do not want to instigate slavery of
-        allowing them to give but not take in the economy.
-        <br />
-        <b>
           you have to prove that what I believe is not true to make me stop
           saying it and I would have to prove something to make you have to
           repair the situation within your means
@@ -176,6 +171,21 @@ export default function App() {
           #securitiesregulation #nationalsecurity of secession is not of foreign
           bond-holder aid and comfort
         </div>
+        <br />
+        <b>
+          A1 is only for laws, well then you can turn people away from your
+          business based on arousal-orientation?
+        </b>{" "}
+        Freedom of orientation is protected by A14 and Civil Rights Act, also
+        A13 if you do not want to instigate slavery of allowing them to give but
+        not take in the economy. Especially if there are few providers or you
+        want to be protected from what people say
+        <br />
+        <b>privacy is required for free expression</b> Freedom of
+        arousal-orientation, whatever makes you happy is protected by A14 and
+        Civil Rights Act, also A13 if you do not want to instigate slavery of
+        allowing them to give but not take in the economy.
+        <br />
         <div
           style={{
             border: "1px solid",
