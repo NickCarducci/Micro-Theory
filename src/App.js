@@ -133,15 +133,44 @@ export default function App() {
         <b>privacy is required for free expression</b> Freedom of
         arousal-orientation, whatever makes you happy is protected by A14 and
         Civil Rights Act, also A13 if you do not want to instigate slavery of
-        allowing them to give but not take in the economy. Especially if there
-        are few providers or you want to be protected from what people say{" "}
+        allowing them to give but not take in the economy.
         <br />
+        <b>
+          you have to prove that what I believe is not true to make me stop
+          saying it and I would have to prove something to make you have to
+          repair the situation within your means
+        </b>
         as long as it is not If they know this they should be able to find the
         attendees beforehand. Sounds like a con. Stop selling bonds/promising
         savers’ money at 11x more than we have to enemies for price-fixed
         cornering of assets please. bio on each guy and put them on the parole
         intranet
         <br />
+        <div
+          style={{
+            border: "1px solid",
+            margin: "10px"
+          }}
+        >
+          A derivative cannot be a constant since apples are not oranges of
+          differing, but the same units. #calculus Integral function is how
+          constants observed (never adequate, random is as random does) predict
+          future occurrences (which can be endless). #firstamendment Methane
+          fires in a crowded theatre like debt or a percolating
+          insurance-abetting invoice bill now you charge your customers rather
+          when they choose you and you don't corner assets with your lender by
+          not giving any utility but using a bug{" "}
+          {`(()=>{servitude:()=>capturing saver’s money + either (a) being a government employee + this(); or (b)(1) LENDER pay BORROWER, (2) BORROWER pay LENDER 14%APR or this()})`}
+          , can cause invisible or misunderstood harm as is lying or trusting
+          that gov-sanctioned tobacco is healthy. Inclusion is an issue of A13 &
+          A14 to give but not take, not A1; discovery of what we can garner as
+          facts from comprehensive data and viewpoints discussing with an intent
+          to settle and without malintent or usurping other's rights is an issue
+          of A1 #criminallaw #criminalintent #intention #whitecollarcrime
+          #finance #consumerlaw #accounting #securitieslitigation
+          #securitiesregulation #nationalsecurity of secession is not of foreign
+          bond-holder aid and comfort
+        </div>
         <div
           style={{
             border: "1px solid",
