@@ -124,15 +124,21 @@ export default function App() {
         cornering of assets please. bio on each guy and put them on the parole
         intranet
         <br />
-        <b>
-          supreme court saying nazi could walk chicago <i>is wrong</i>
-        </b>{" "}
-        because there is probable-evidence-of-evidence of motive to do them harm
-        physically or financially (not valuation but tangible losses)
-        neighborhood law is like the sea law but between homes, that's why
-        open-carry is also an exhibited threat
+        <div
+          style={{
+            border: "1px solid",
+            margin: "10px"
+          }}
+        >
+          <b>
+            supreme court saying nazi could walk chicago <i>is wrong</i>
+          </b>{" "}
+          because there is probable-evidence-of-evidence of motive to do them
+          harm physically or financially (not valuation but tangible losses)
+          neighborhood law is like the sea law but between homes, that's why
+          open-carry is also an exhibited threat
+        </div>
       </span>
-      <br />
       <span>
         or earning other people’s money (debt is the only bet that you can wager
         someone else’s money)
