@@ -279,6 +279,10 @@ export default function App() {
           things is intentful harm being done to other people they sign up under
           duress or those who those people sell to.
         </b>{" "}
+        wagering dollars as comparative as shareholder rights or counterfeit
+        being mixed in supply or achieving a purchase is; or copyright over
+        patents. invoices are theft; debt interest per time, or on customers, is
+        too per price or compound on their customers required, unrequited...
         <br />
         <br />
       </span>
