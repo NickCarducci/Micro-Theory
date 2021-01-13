@@ -16,6 +16,13 @@ export default function App() {
       </div>
       <br />
       <div style={{ display: "block", flexDirection: "column" }}>
+        <span>
+          <b>
+            <i>Regulators can only </i>
+          </b>
+          certify because they have been wrong before about tobacco and methane
+          fires in crowded theatres are invisible
+        </span>
         <b>
           <i>national security is</i>
         </b>{" "}
@@ -41,7 +48,10 @@ export default function App() {
       <br />
       <span>
         <b>
-          <i>Debt, invoices & insurance brokering gift cards & expiring gift certificates are </i>
+          <i>
+            Debt, invoices & insurance brokering gift cards & expiring gift
+            certificates are{" "}
+          </i>
         </b>
         to price-fix & monopolize the Demand curve & leverage other peoples'
         autonomy in principal & interest, or the sellers' equity in principal &
