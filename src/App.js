@@ -30,9 +30,12 @@ export default function App() {
         more slavery. insurrection against slaveowners is ok
       </span>
       <span>
-        <b>borrowing with my money is counterfeit</b>, I now have to wait for
-        you to get the money back from the lender or seller before I can get the
-        depreciated asset
+        <b>
+          borrowing with my money itelf as a lender or assuming it as a consumer
+          is counterfeit
+        </b>
+        , I now have to wait for you to get the money back from the lender or
+        seller before I can get the depreciated asset
       </span>
       <br />
       <span>
