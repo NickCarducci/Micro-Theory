@@ -32,7 +32,12 @@ export default function App() {
       <span>
         <b>
           borrowing with my money itelf as a lender or assuming it as a consumer
-          is counterfeit
+          is counterfeit not of copyright which should never be patent by mafia
+          pay-off but of not your property to wager, your payment scedule
+          collusion with seller, lender and borrower assumes you'll get my
+          market-share, which should be vault-share, which is all currency
+          really is. a gift certificates that rollover at the depreciation of
+          the item in storage
         </b>
         , I now have to wait for you to get the money back from the lender or
         seller before I can get the depreciated asset
