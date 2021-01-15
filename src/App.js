@@ -7,6 +7,10 @@ export default function App() {
       <h1>Micro-Theory</h1>
       <h2>Platitudes</h2>
       <br />
+      Productivity as measured by gdp is incorrect since it is mostly debt by
+      evidence of v1 being derived from a gdp number of m2*v2. Productivity
+      should be measured by benefit to cost, which cannot be encapsulated by a
+      benefit that is a cost
       <div style={{ display: "block", flexDirection: "column" }}>
         If insurance companies are a net loss because they pay invoices instead
         of rollover gift certificates, can ALL insurance companies keep saying
