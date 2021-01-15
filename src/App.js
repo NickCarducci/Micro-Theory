@@ -7,11 +7,18 @@ export default function App() {
       <h1>Micro-Theory</h1>
       <h2>Platitudes</h2>
       <br />
-      Productivity as measured by gdp is incorrect since it is mostly debt by
-      evidence of v1 being derived from a gdp number of m2*v2. Productivity
-      should be measured by benefit to cost, which cannot be encapsulated by a
-      benefit that is a cost
       <div style={{ display: "block", flexDirection: "column" }}>
+        Productivity as measured by gdp is incorrect since it is mostly debt by
+        evidence of v1 being derived from a gdp number of m2*v2. Productivity
+        should be measured by benefit to cost, which cannot be encapsulated by a
+        benefit that is a cost
+        <br />
+        They are colluding with finance (11x wealth only 2% of population)
+        giving it to people who have debt to bail out $82t of usurped debt
+        cornering assets by promising other people's money which is only $6t,
+        they do not want to adjudicate, they just want to split dollar-equity
+        without consent
+        <br />
         If insurance companies are a net loss because they pay invoices instead
         of rollover gift certificates, can ALL insurance companies keep saying
         they save people money if the part that they can never say in unison is
