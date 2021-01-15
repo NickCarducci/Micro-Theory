@@ -8,11 +8,18 @@ export default function App() {
       <h2>Platitudes</h2>
       <br />
       <div style={{ display: "block", flexDirection: "column" }}>
-        Only if you are [ "late on your business-line or collateralized debt,
-        and the lender tacks on more than they estimated they would need to take
-        on this risk forever (depreciation-no-give-backsies)", "scalping markets
-        with no utility in assets or cash"] are you usurping a time-based payout
-        schedule or trade
+        Only if you are [ "late on your business-line{" "}
+        <span
+          style={{
+            textDecoration: "line-through"
+          }}
+        >
+          or collateralized debt
+        </span>
+        , and the lender tacks on more than they estimated they would need to
+        take on this risk forever (depreciation-no-give-backsies)", "scalping
+        markets with no utility in assets or cash"] are you usurping a
+        time-based payout schedule or trade
         <br />
         Productivity as measured by gdp is incorrect since it is mostly debt by
         evidence of v1 being derived from a gdp number of m2*v2. Productivity
