@@ -4,6 +4,29 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
+      <span>
+        Your debts are mine if I buy from you, and that money you promised is
+        not yours to promise.&nbsp;&nbsp;
+        <b>
+          How can I get us out of debt when there is $82t:$7t [actually&nbsp;
+          <a href="https://fred.stlouisfed.org/series/CURRSL">
+            currencyComponentOfM1
+          </a>
+          &nbsp;is $2t of $7t, $5t is&nbsp;
+          <a href="https://fred.stlouisfed.org/series/M1SL">
+            M1 savings valuation
+          </a>
+          &nbsp;, M2 is&nbsp;
+          <a href="https://fred.stlouisfed.org/series/M1SL">$19t</a>&nbsp;is
+          valuation of last traded savings accounts as well, or $7t when "
+          <a href="https://fred.stlouisfed.org/series/M2REAL">deflated</a>
+          &nbsp;with cpi" which doesn't include the greatest inflation in
+          housing nor in price-inelasticity of $82/$2t (4100% vs 2%)]
+          <br />
+          2021
+        </b>
+      </span>
+      <br />
       <h1>Micro-Theory</h1>
       <h2>Platitudes</h2>
       <br />
@@ -233,12 +256,6 @@ export default function App() {
       <span>
         or earning other people’s money (debt is the only bet that you can wager
         someone else’s money)
-      </span>
-      <br />
-      <span>
-        Your debts are mine if I buy from you, and that money you promised is
-        not yours to promise.&nbsp;&nbsp;
-        <b>How can I get us out of debt when there is 82t:7t of it</b>
       </span>
       <br />
       <h2>Strategy-Comparison to Macroeconomics</h2>
