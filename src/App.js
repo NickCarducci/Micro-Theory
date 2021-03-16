@@ -4,6 +4,26 @@ import "./styles.css";
 export default function App() {
   return (
     <div style={{ width: "100%" }}>
+      <a
+        href="https://scopes.cc"
+        style={{
+          fontSize: "30px",
+          display: "flex",
+          flexDirection: "column",
+          position: "relative",
+          alignItems: "center",
+          justifyContent: "center",
+          width: "100%",
+          height: "76px",
+          backgroundColor: "#c39767ff",
+          color: "white"
+        }}
+      >
+        Scopebook
+        <br />
+        <span>scopes.cc accrual-zero</span>
+      </a>
+      <br />
       People are dying; my _ considers death
       <br />
       <span>
