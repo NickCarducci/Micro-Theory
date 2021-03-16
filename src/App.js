@@ -32,7 +32,8 @@ export default function App() {
       individual-efficiency, comparative-advantage productivity)
       <br />
       <br />
-      <div
+      <a
+        href="https://saverparty.xyz"
         style={{
           position: "relative"
         }}
@@ -42,7 +43,8 @@ export default function App() {
           src="https://www.dl.dropboxusercontent.com/s/ohyyc9wensqjmar/interest%20dead%20weight%20%282%29.png?dl=0"
           alt="interest dead-weight by equity-bid supply and demand"
         />
-      </div>
+      </a>
+      <br />
       <br />
       People are dying; my _ considers death
       <br />
