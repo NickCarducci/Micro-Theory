@@ -24,6 +24,26 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      not taking credit, striving to work for market(copyright, not{" "}
+      <a href="https://vaults.biz">depositary</a>) share instead of entrapping
+      myself into <a href="https://stripe.com">Stripe.com</a>
+      <br />
+      <br />
+      Judges cannot judge what is right for bail, they'rn't impartial - as in
+      they get the bail.
+      <br />
+      Bail for judges'n't for consumers/community - the service at its most
+      efficient as to keep everyone happiest, individually, for the complainants
+      only; class action is for precedence, but we all assume it gets less than
+      each individual case would.
+      <br />
+      <br />
+      Allpoint and Greendot oligopoly prevents me from extending payable
+      services because it requires me to take counterfeit offers with
+      cross-party down-payment malfeasant-jurisprudence risk in requiring that I
+      accept credit to accept debit, and banks that cost $10/mo instead of ATM
+      networks
+      <br />
       CountyReimbursementsAcrossTheCountry, that's my equitymoney, dike
       <br />
       <div style={{ display: "flex" }}>
