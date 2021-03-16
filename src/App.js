@@ -3,7 +3,9 @@ import "./styles.css";
 
 export default function App() {
   return (
-    <div className="App">
+    <div style={{ width: "100%" }}>
+      People are dying; my _ considers death
+      <br />
       <span>
         Your debts are mine if I buy from you, and that money you promised is
         not yours to promise.&nbsp;&nbsp;
