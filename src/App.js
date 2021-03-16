@@ -81,8 +81,9 @@ export default function App() {
       <br />
       This fat talks about equity and then says thanks to Biden for providing
       funds. Funding doesn't help, it only monopsonizes above the ask. Not only
-      is it fraud by PCR antibody the "gold standard" but false positive as is
-      for cold's response, the policy was forced upon us in 1937
+      is it fraud by PCR antibody the "
+      <a href="https://humanharvest.info">gold</a>&nbsp;standard" but false
+      positive as is for cold's response, the policy was forced upon us in 1937
       <br />
       <br />
       Border Patrol agents are saying 50-100% have wristbands to show how much
@@ -518,4 +519,3 @@ export default function App() {
     </div>
   );
 }
-
