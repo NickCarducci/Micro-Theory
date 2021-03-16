@@ -35,10 +35,11 @@ export default function App() {
       Judges cannot judge what is right for bail, they'rn't impartial - as in
       they get the bail.
       <br />
-      Bail for judges'n't for consumers/community - the service at its most
-      efficient as to keep everyone happiest, individually, for the complainants
-      only; class action is for precedence, but we all assume it gets less than
-      each individual case would.
+      Bail for judges'n't for consumers/
+      <a href="https://wavv.art/United_States_of_America">community</a>&nbsp;-
+      the service at its most efficient as to keep everyone happiest,
+      individually, for the complainants only; class action is for precedence,
+      but we all assume it gets less than each individual case would.
       <br />
       <br />
       Allpoint and Greendot (Shazam/Gallileo/Dwolla&nbsp;
