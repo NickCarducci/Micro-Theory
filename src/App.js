@@ -100,10 +100,12 @@ export default function App() {
       individual-efficiency, comparative-advantage productivity)
       <br />
       <br />
-      STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY
-      PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED SUPPLY
-      CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY
-      COUNTERFEIT-IN-CONTRACT
+      STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS&nbsp;
+      <a href="https://saverparty.xyz">
+        PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY
+      </a>
+      , WE NEED SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL
+      BY COUNTERFEIT-IN-CONTRACT
       <br />
       <div
         style={{
@@ -519,3 +521,4 @@ export default function App() {
     </div>
   );
 }
+
