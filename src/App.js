@@ -24,12 +24,89 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      CountyReimbursementsAcrossTheCountry, that's my equitymoney, dike
+      <br />
+      <div style={{ display: "flex" }}>
+        <div
+          style={{
+            width: "40%",
+            position: "relative"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?dl=0"
+          />
+        </div>{" "}
+        <div
+          style={{
+            width: "40%",
+            position: "relative"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?dl=0"
+          />
+        </div>
+      </div>
+      <br />
+      This fat talks about equity and then says thanks to Biden for providing
+      funds. Funding doesn't help, it only monopsonizes above the ask. Not only
+      is it fraud by PCR antibody the "gold standard" but false positive as is
+      for cold's response, the policy was forced upon us in 1937
+      <br />
+      <br />
+      Border Patrol agents are saying 50-100% have wristbands to show how much
+      pootang they owe the cartels on the way up. &nbsp;
+      <a href="https://en.wikipedia.org/wiki/Janet_Yellen">STOP THE SPIGGETS</a>
+      <br />
+      <br />
+      <br />
       What is with the media today reminding us that the vaccine has already
       been approved and the bills are finalized? We could take all your money
       and give it to Greta Thunberg The only path forward is the Efficiency Act
       and debt:cash reconciliation for all purchases to which the most frugal
       price-giving ask and price-taking person found price*output(or
       individual-efficiency, comparative-advantage productivity)
+      <br />
+      <br />
+      STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS PERFECTLY
+      PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY, WE NEED SUPPLY
+      CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY
+      COUNTERFEIT-IN-CONTRACT
+      <br />
+      <div
+        style={{
+          width: "40%",
+          position: "relative"
+        }}
+      >
+        <img
+          alt=""
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?dl=0"
+        />
+      </div>{" "}
+      <br />
+      "Need funds immediately." NO YOU DON'T you need to adjunicate finance,
+      insurance-by-duress, rentier-colonism & involuntary trade now
+      <br />
+      <br />
+      "Leverage things" of donors or settled-market price, not equity. That's
+      illegal. It is not a matter of time. Naturally debt:cash is 1:1depositary
+      in 1908, now is 41:1
       <br />
       <br />
       <a
@@ -421,3 +498,4 @@ export default function App() {
     </div>
   );
 }
+
