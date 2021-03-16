@@ -24,7 +24,10 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
-      not taking credit, striving to work for market(copyright, not{" "}
+      <a href="https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom?si=i8hSI_NeQtuCwpt9x34p6w">
+        not taking credit
+      </a>
+      , striving to work for market(copyright, not{" "}
       <a href="https://vaults.biz">depositary</a>) share instead of entrapping
       myself into <a href="https://stripe.com">Stripe.com</a>
       <br />
@@ -521,4 +524,3 @@ export default function App() {
     </div>
   );
 }
-
