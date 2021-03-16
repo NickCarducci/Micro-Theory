@@ -28,6 +28,12 @@ export default function App() {
       <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
         YOU DONT NEED IT
       </a>
+      . &nbsp;<a href="https://nmlsconsumeraccess.org/">Consumer Access</a>
+      &nbsp;costs access, by its being to greater effect AND absolutely of
+      relative savings...&nbsp;
+      <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+        doing it is a waste of time and equityutilitymoney
+      </a>
       <br />
       <br />
       "Help is on the way with your finances" - Wold Blitzer
