@@ -108,12 +108,20 @@ export default function App() {
       individual-efficiency, comparative-advantage productivity)
       <br />
       <br />
-      STOP ASKING FOR CAPACITY WHEN YOU MEAN DEMAND CAPACITY WHICH IS&nbsp;
+      STOP ASKING FOR CAPACITY WHEN YOU MEAN&nbsp;
+      <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+        DEMAND CAPACITY
+      </a>
+      &nbsp;WHICH IS&nbsp;
       <a href="https://saverparty.xyz">
         PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY
       </a>
-      , WE NEED SUPPLY CAPACITY OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL
-      BY COUNTERFEIT-IN-CONTRACT
+      , WE NEED&nbsp;
+      <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+        SUPPLY CAPACITY
+      </a>
+      &nbsp;OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY
+      COUNTERFEIT-IN-CONTRACT
       <br />
       <div
         style={{
