@@ -24,6 +24,12 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      Liberty Mutual: "You only pay for what you need." &nbsp;
+      <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+        YOU DONT NEED IT
+      </a>
+      <br />
+      <br />
       "Help is on the way with your finances" - Wold Blitzer
       <br />
       you are taking equitymoney, splitting it as you would corporate shares,
