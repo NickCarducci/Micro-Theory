@@ -24,6 +24,18 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      <div
+        style={{
+          position: "relative"
+        }}
+      >
+        <img
+          style={{ width: "90%", maxWidth: "800px" }}
+          src="https://www.dl.dropboxusercontent.com/s/ohyyc9wensqjmar/interest%20dead%20weight%20%282%29.png?dl=0"
+          alt="interest dead-weight by equity-bid supply and demand"
+        />
+      </div>
+      <br />
       People are dying; my _ considers death
       <br />
       <span>
@@ -399,3 +411,4 @@ export default function App() {
     </div>
   );
 }
+
