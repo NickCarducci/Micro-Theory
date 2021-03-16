@@ -41,13 +41,17 @@ export default function App() {
       each individual case would.
       <br />
       <br />
-      Allpoint and Greendot oligopoly prevents me from extending payable
-      services because it requires me to take counterfeit offers with
-      cross-party down-payment malfeasant-jurisprudence risk in requiring that I
-      accept credit to accept debit, and banks that cost $10/mo instead of ATM
-      networks
+      Allpoint and Greendot (Shazam/Gallileo/Dwolla&nbsp;
+      <a href="https://nationalsecuritycasino.com">only US</a>) oligopoly
+      prevents me from extending payable services because it requires me to take
+      counterfeit offers with cross-party down-payment malfeasant-jurisprudence
+      risk in requiring that I accept credit to accept debit, and banks that
+      cost $10/mo instead of ATM networks
       <br />
-      CountyReimbursementsAcrossTheCountry, that's my equitymoney, dike
+      <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+        CountyReimbursementsAcrossTheCountry
+      </a>
+      , that's my equitymoney, dike
       <br />
       <div style={{ display: "flex" }}>
         <div
@@ -524,3 +528,4 @@ export default function App() {
     </div>
   );
 }
+
