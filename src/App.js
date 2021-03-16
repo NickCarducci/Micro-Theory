@@ -24,6 +24,13 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      "Help is on the way with your finances" - Wold Blitzer
+      <br />
+      you are taking equitymoney, splitting it as you would corporate shares,
+      and giving them back less and of increased demand capacity for
+      price:utility (no reason, not help, only helps the ask to get more&nbsp;
+      <a href="https://foiegras.life">for the same thing</a>)
+      <br />
       <a href="https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom?si=i8hSI_NeQtuCwpt9x34p6w">
         not taking credit
       </a>
@@ -537,4 +544,3 @@ export default function App() {
     </div>
   );
 }
-
