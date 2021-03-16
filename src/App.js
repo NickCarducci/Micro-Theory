@@ -24,6 +24,14 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      What is with the media today reminding us that the vaccine has already
+      been approved and the bills are finalized? We could take all your money
+      and give it to Greta Thunberg The only path forward is the Efficiency Act
+      and debt:cash reconciliation for all purchases to which the most frugal
+      price-giving ask and price-taking person found price*output(or
+      individual-efficiency, comparative-advantage productivity)
+      <br />
+      <br />
       <div
         style={{
           position: "relative"
@@ -411,4 +419,3 @@ export default function App() {
     </div>
   );
 }
-
