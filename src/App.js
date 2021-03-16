@@ -188,7 +188,7 @@ export default function App() {
           valuation of last traded savings accounts as well, or $7t when "
           <a href="https://fred.stlouisfed.org/series/M2REAL">deflated</a>
           &nbsp;with cpi" which doesn't include the greatest inflation in
-          housing nor in price-inelasticity of $82/$2t (4100% vs 2%)]
+          housing nor in price-inelasticity of $82/$2t (4100% vs 102%)]
           <br />
           2021
         </b>
