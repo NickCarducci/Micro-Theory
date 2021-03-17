@@ -27,6 +27,42 @@ export default function App() {
       this is colonialism, this is counterfeit; cannibalism not dominance
       <br />
       <br />
+      government monopsony
+      <br />
+      <div style={{ display: "flex" }}>
+        <div
+          style={{
+            width: "40%",
+            position: "relative"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/esz6ke2xn7fs716/Markey1.png?dl=0"
+          />
+        </div>
+        <div
+          style={{
+            width: "40%",
+            position: "relative"
+          }}
+        >
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/xjhg8b1kcmwxpxz/Markey2.png?dl=0"
+          />
+        </div>
+      </div>{" "}
+      <br />
+      <br />
       We all have to make a living (read:cannibal), but we all don't have to
       produce by front-running and than dumber-fooling consumers. and these
       direct deposits are involuntary split that you get 9% of
@@ -579,4 +615,3 @@ export default function App() {
     </div>
   );
 }
-
