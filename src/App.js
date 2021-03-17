@@ -34,7 +34,7 @@ export default function App() {
       <br />
       "5 Bipartisan Covid Relief Plans, no Covid Health Spending which would be
       to help small businesses and family workers," 9%. Ben Furgeson says 9%
-      "Goes to you." You guys suck!
+      "Goes to you." You guys suck!  Not liable for the products you advertise, huh, M. levin 
       <br />
       <br />
       Liberty Mutual: "You only pay for what you need." &nbsp;
@@ -569,3 +569,4 @@ export default function App() {
     </div>
   );
 }
+
