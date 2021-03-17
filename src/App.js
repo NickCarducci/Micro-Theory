@@ -24,6 +24,19 @@ export default function App() {
         <span>scopes.cc accrual-zero</span>
       </a>
       <br />
+      this is colonialism, this is counterfeit; cannibalism not dominance
+      <br />
+      <br />
+      We all have to make a living (read:cannibal), but we all don't have to
+      produce by front-running and than dumber-fooling consumers. and these
+      direct deposits are involuntary split that you get 9% of
+      <br />
+      <br />
+      "5 Bipartisan Covid Relief Plans, no Covid Health Spending which would be
+      to help small businesses and family workers," 9%. Ben Furgeson says 9%
+      "Goes to you." You guys suck!
+      <br />
+      <br />
       Liberty Mutual: "You only pay for what you need." &nbsp;
       <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
         YOU DONT NEED IT
