@@ -34,7 +34,8 @@ export default function App() {
       <br />
       "5 Bipartisan Covid Relief Plans, no Covid Health Spending which would be
       to help small businesses and family workers," 9%. Ben Furgeson says 9%
-      "Goes to you." You guys suck!  Not liable for the products you advertise, huh, M. levin 
+      "Goes to you." You guys suck! Not liable for the products you advertise,
+      huh, M. levin
       <br />
       <br />
       Liberty Mutual: "You only pay for what you need." &nbsp;
@@ -47,6 +48,15 @@ export default function App() {
       <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
         doing it is a waste of time and equityutilitymoney
       </a>
+      <br />
+      <br />
+      “Special financial assistance,” would be to help negotiate original
+      principle without credit found market marginal utility:cost price, not
+      favor the lender or overreaching landlord
+      <br />
+      <br />
+      The key to world peace is no finance. Not mental health services by the
+      hand of state sanctioned, paid, conflictedly-interested experts
       <br />
       <br />
       "Help is on the way with your finances" - Wold Blitzer
