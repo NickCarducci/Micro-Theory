@@ -43,6 +43,7 @@ export default function App() {
         <div style={{ display: "flex", flexWrap: "wrap" }}>
           <div
             style={{
+              minWidth: "120px",
               width: "25%",
               position: "relative"
             }}
@@ -58,6 +59,7 @@ export default function App() {
           </div>
           <div
             style={{
+              minWidth: "120px",
               width: "25%",
               position: "relative"
             }}
@@ -73,6 +75,7 @@ export default function App() {
           </div>
           <div
             style={{
+              minWidth: "120px",
               width: "25%",
               position: "relative"
             }}
@@ -88,6 +91,7 @@ export default function App() {
           </div>
           <div
             style={{
+              minWidth: "120px",
               width: "25%",
               position: "relative"
             }}
@@ -661,4 +665,3 @@ export default function App() {
     </div>
   );
 }
-
