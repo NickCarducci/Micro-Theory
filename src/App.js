@@ -31,6 +31,9 @@ export default function App() {
           <span>scopes.cc accrual-zero</span>
         </a>{" "}
         <br /> <br />
+        Everyone is at commercial, but one has to be bullshiting for compliance
+        at :20, :35 and :52
+        <br /> <br />
         The point in which&nbsp;
         <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
           supply and demand meet
