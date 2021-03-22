@@ -40,7 +40,8 @@ export default function App() {
         </a>
         &nbsp;is the price in which the most frugal, price-giving supplier meets
         the most frugal, price taking demand, and thereby trades to paint the
-        last trade valuation
+        last trade valuation&nbsp;
+        <a href="https://humanharvest.info">mirrorcode</a>
         <br /> <br />
         this is colonialism, this is counterfeit; cannibalism not dominance
         <br />
