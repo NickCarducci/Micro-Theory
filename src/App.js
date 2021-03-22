@@ -31,9 +31,13 @@ export default function App() {
           <span>scopes.cc accrual-zero</span>
         </a>{" "}
         <br /> <br />
-        The point in which supply and demand meet is the price in which the most
-        frugal, price-giving supplier meets the most frugal, price taking
-        demand, and thereby trades to paint the last trade valuation
+        The point in which&nbsp;
+        <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+          supply and demand meet
+        </a>
+        &nbsp;is the price in which the most frugal, price-giving supplier meets
+        the most frugal, price taking demand, and thereby trades to paint the
+        last trade valuation
         <br /> <br />
         this is colonialism, this is counterfeit; cannibalism not dominance
         <br />
