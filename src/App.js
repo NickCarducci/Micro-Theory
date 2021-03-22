@@ -22,8 +22,12 @@ export default function App() {
         Scopebook
         <br />
         <span>scopes.cc accrual-zero</span>
-      </a>
-      <br />
+      </a>{" "}
+      <br /> <br />
+      The point in which supply and demand meet is the price in which the most
+      frugal, price-giving supplier meets the most frugal, price taking demand,
+      and thereby trades to paint the last trade valuation
+      <br /> <br />
       this is colonialism, this is counterfeit; cannibalism not dominance
       <br />
       <br />
