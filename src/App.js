@@ -38,9 +38,9 @@ export default function App() {
         <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
           supply and demand meet
         </a>
-        &nbsp;is the price in which the most frugal, price-giving supplier meets
-        the most frugal, price taking demand, and thereby trades to paint the
-        last trade valuation&nbsp;
+        &nbsp;is the price in which the LEAST frugal, price-giving supplier
+        meets the LEAST frugal, price taking demand, and thereby trades to paint
+        the last trade valuation&nbsp;
         <a href="https://humanharvest.info">mirrorcode</a>
         <br /> <br />
         this is colonialism, this is counterfeit; cannibalism not dominance
@@ -114,6 +114,14 @@ export default function App() {
             />
           </div>
         </div>{" "}
+        <br />
+        <b style={{ color: "blue" }}>
+          I’m a laborer and pre-rev inventor, I will be suing for damages and
+          unequal law;
+          <br />
+          there are plenty of counts, Sherman Act, Amendment 14, 13,
+          counterfeit-wagering prohibiting trade settlements...
+        </b>
         <br />
         <br />
         We all have to make a living (read:cannibal), but we all don't have to
@@ -237,7 +245,7 @@ export default function App() {
         What is with the media today reminding us that the vaccine has already
         been approved and the bills are finalized? We could take all your money
         and give it to Greta Thunberg The only path forward is the Efficiency
-        Act and debt:cash reconciliation for all purchases to which the most
+        Act and debt:cash reconciliation for all purchases to which the LEAST
         frugal price-giving ask and price-taking person found price*output(or
         individual-efficiency, comparative-advantage productivity)
         <br />
