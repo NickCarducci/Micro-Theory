@@ -11,26 +11,32 @@ export default function App() {
           padding: "20px"
         }}
       >
-        <a
-          href="https://scopes.cc"
-          style={{
-            fontSize: "30px",
-            display: "flex",
-            flexDirection: "column",
-            position: "relative",
-            alignItems: "center",
-            justifyContent: "center",
-            width: "100%",
-            height: "76px",
-            backgroundColor: "#c39767ff",
-            color: "white"
-          }}
-        >
-          Scopebook
-          <br />
-          <span>scopes.cc accrual-zero</span>
-        </a>{" "}
-        <br /> <br />
+        <div>
+          <a
+            href="https://scopes.cc"
+            style={{
+              fontSize: "30px",
+              display: "flex",
+              flexDirection: "column",
+              position: "relative",
+              alignItems: "center",
+              justifyContent: "center",
+              width: "100%",
+              height: "76px",
+              backgroundColor: "#c39767ff",
+              color: "white"
+            }}
+          >
+            Scopebook
+            <br />
+            <span>scopes.cc accrual-zero</span>
+          </a>
+        </div>
+        <br />
+        Scott, Tax Foundation: "10% Union Workforce by Federal Discrimination"
+        when unions are not just strikes
+        <br />
+        <br />
         Everyone is at commercial, but one has to be bullshiting for compliance
         at :20, :35 and :52
         <br /> <br />
@@ -682,3 +688,4 @@ export default function App() {
     </div>
   );
 }
+
