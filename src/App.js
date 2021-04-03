@@ -43,7 +43,8 @@ export default function App() {
         the last trade valuation&nbsp;
         <a href="https://humanharvest.info">mirrorcode</a>
         <br /> <br />
-        this is colonialism, this is counterfeit; cannibalism not dominance
+        this is colonialism, this is counterfeit; cannibalism not dominance or
+        profits/assets to institutions/labor
         <br />
         <br />
         government monopsony
