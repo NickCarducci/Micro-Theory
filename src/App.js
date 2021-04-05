@@ -136,59 +136,143 @@ export default function App() {
         direct deposits are involuntary split that you get 9% of
         <br />
         <br />
-        Only pay for what you need. An abject lie @LibertyMutual unless you are
-        admitting to intending to harm by subjecting Demand to cross-party-bloat
-        && price-variable-gift-cards @77WABCradio
-        <br />
-        <br />
-        What is the difference between an unsettled-obligation &&
-        prisoners’-dilemma-duress and slavery?
-        <br />
-        <br />
-        But a Constitution of Government once changed from Freedom, can never be
-        restored. Liberty, once lost, is lost forever.
-        <br />
-        <br />
-        Somebody report me! Donald already incriminated for nothing
-        <br />
-        <br />
-        Chris Hahn @ChristopherHahn It’s a tantrum not a boycott.
-        <br />
-        <br />
-        The Former Guy will never be welcome at Yankee Stadium or anywhere else
-        in New York.
-        <br />
-        <br />
-        Replying to @ChristopherHahn Push him out to sea
-        <br />
-        <br />
-        I had a word with lit- prefix that really narrowed it down but then a
-        guy on the radio said DUI of weed or cocaine makes sense
-        <br />
-        <br />
-        Producers say to rentier you are not one of us, we compete with
-        eachother for customers, we don’t take the land or air above it to not
-        use it or flip and settle or supply is not practically constrained to
-        charge rent (if copyright is not too broad, but well-managed...)
-        <br />
-        <br />
-        Invoices are theft Max five rent 3 under 2 Reverse purchases to
-        cash:debt
-        <br />
-        <br />
-        Colluding to make prices higher with father time && the intent to harm
-        (not use) are what make rent illegal
-        <br />
-        <br />
-        This is not a subscription to a service that doesn’t harm others (if
-        non-compete monopsony, the subscription does harm with involuntary
-        trade)
-        <br />
-        <br />
-        A competable-subscription service is not
-        bloating-demand-with-prisoners-dilemma or
-        assigning-impossible-usurped-unrequited-invoices
-        <br />
+        <div
+          style={{
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px",
+            border: "1px solid grey"
+          }}
+        >
+          Harder for GA absentee & early-voting somehow from runoff... it makes
+          it easier for most! we can use internet no more political parties
+          <br />
+          <br />
+          80% infrastructure investment support, did you specify if by debt or
+          tax? What is the n size? @PressSec
+          <br />
+          <br />
+          “Competitive-bidding process” is abjectly untrue to describe your
+          monopsony proposal. You can force network companies to pay because
+          they are a market-of-markets
+          <br />
+          <br />
+          If you are to act in between a consumer-subcontractor, as contractor,
+          you should be flipping-assets or pro-rated-for-escrow-on @scopeboo
+          http://scopes.cc labor/material auto-unlock-per-sprint-payment
+          <br />
+          <br />
+          Jen Psaki about to admit her preferential treatment of “American
+          workers and our economy” over savers and labor @PressSec
+          <br />
+          <br />
+          Do not volunteer Cowards Starve - Protomartyr open.spotify.com
+          <br />
+          <br />
+          Extending the deadline was not in the consumer credit contract, Jen.
+          You lose moldmask.co, cocaine is money, purity health dpt
+          <br />
+          <br />
+          I obey if I am sick, but get the “vaccine”/graft to please you @cnn
+          won’t even say your doctor’s name @BrookeBaldwin
+          <br />
+          <br />
+          You can see how good #cocaine is by looking at these three charts, you
+          don't need a @MoodysInvSvc rating or @GeraldoRivera report
+          https://drugabuse.gov/publications/teaching-addiction-science/brain-actions-cocaine-opioids-marijuana
+          #Marijuanastocks
+          <br />
+          <br />
+          https://ncbi.nlm.nih.gov/pmc/articles/PMC3165962/ #MinnesotaIsGuilty
+          #ChauvinTrial #cocaina #cocainewhite
+          <br />
+          <br />
+          Meth x fetanol = Hypoxaemia, oxygen deficiency [relative-to carbon
+          dioxide. no narcan when no cardio Dr. Bradford Langford (called:
+          "non-responsive, no-pulse on-arrival")
+          https://pubmed.ncbi.nlm.nih.gov/23636734/ Ph low during cardiac
+          arrest, no blood flow
+          https://ncbi.nlm.nih.gov/pmc/articles/PMC3208791/ striatal hypoxia The
+          effects of opioids on the lung - PubMed The term opioid refers to a
+          broad class of medications that are used most frequently for their
+          analgesic effects. Along with this effect, they also produce euphoria,
+          and it is for this reason that... pubmed.ncbi.nlm.nih.gov
+          <br />
+          <br />
+          (oxygen) to tissues: pi, lactate Co2, high, uh, varies, blood/gas not
+          cause of one offer the other in edi arrest. High co2 suggest
+          respiratory cause by drug, suffocation or both
+          https://erj.ersjournals.com/content/44/4/1023 reports of
+          in-conjunction for po-po: top of citations are tenants; its slavery
+          Gas exchange and ventilation–perfusion relationships in the lung A
+          review of ventilation–perfusion relationships and gas exchange, basic
+          concepts and their relation to clinical cases http://ow.ly/wMUwq
+          erj.ersjournals.com
+          <br />
+          <br />
+          If the @ftc can make it the liability of the merchant for fault of
+          disbursements prior to notification, their application of
+          residual-split ('86-benefits) is as well @ssa your onus is to ensure
+          that I am who I say I am regardless of how you don't
+          regen-private-keys or photo-ID
+          <br />
+          <br />
+          What is the difference between an unsettled-obligation &&
+          prisoners’-dilemma-duress and slavery?
+          <br />
+          <br />
+          Only pay for what you need. An abject lie @LibertyMutual unless you
+          are admitting to intending to harm by subjecting Demand to
+          cross-party-bloat && price-variable-gift-cards @77WABCradio
+          <br />
+          <br />
+          What is the difference between an unsettled-obligation &&
+          prisoners’-dilemma-duress and slavery?
+          <br />
+          <br />
+          But a Constitution of Government once changed from Freedom, can never
+          be restored. Liberty, once lost, is lost forever.
+          <br />
+          <br />
+          Somebody report me! Donald already incriminated for nothing
+          <br />
+          <br />
+          Chris Hahn @ChristopherHahn It’s a tantrum not a boycott.
+          <br />
+          <br />
+          The Former Guy will never be welcome at Yankee Stadium or anywhere
+          else in New York.
+          <br />
+          <br />
+          Replying to @ChristopherHahn Push him out to sea
+          <br />
+          <br />
+          I had a word with lit- prefix that really narrowed it down but then a
+          guy on the radio said DUI of weed or cocaine makes sense
+          <br />
+          <br />
+          Producers say to rentier you are not one of us, we compete with
+          eachother for customers, we don’t take the land or air above it to not
+          use it or flip and settle or supply is not practically constrained to
+          charge rent (if copyright is not too broad, but well-managed...)
+          <br />
+          <br />
+          Invoices are theft Max five rent 3 under 2 Reverse purchases to
+          cash:debt
+          <br />
+          <br />
+          Colluding to make prices higher with father time && the intent to harm
+          (not use) are what make rent illegal
+          <br />
+          <br />
+          This is not a subscription to a service that doesn’t harm others (if
+          non-compete monopsony, the subscription does harm with involuntary
+          trade)
+          <br />
+          <br />A competable-subscription service is not
+          bloating-demand-with-prisoners-dilemma or
+          assigning-impossible-usurped-unrequited-invoices
+        </div>
         <br />
         Cases are rising, deaths are less lethal because the vulnerable are
         already dead and there are testing what already existed since 1900 cold
@@ -754,4 +838,3 @@ export default function App() {
     </div>
   );
 }
-
