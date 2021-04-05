@@ -136,71 +136,208 @@ export default function App() {
         direct deposits are involuntary split that you get 9% of
         <br />
         <br />
-        "5 Bipartisan Covid Relief Plans, no Covid Health Spending which would
-        be to help small businesses and family workers," 9%. Ben Furgeson says
-        9% "Goes to you." You guys suck! Not liable for the products you
-        advertise, huh, M. levin
+        Only pay for what you need. An abject lie @LibertyMutual unless you are
+        admitting to intending to harm by subjecting Demand to cross-party-bloat
+        && price-variable-gift-cards @77WABCradio
         <br />
         <br />
-        Liberty Mutual: "You only pay for what you need." &nbsp;
-        <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
-          YOU DONT NEED IT
-        </a>
-        . &nbsp;<a href="https://nmlsconsumeraccess.org/">Consumer Access</a>
-        &nbsp;costs access, by its being to greater effect AND absolutely of
-        relative savings...&nbsp;
-        <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
-          doing it is a waste of time and equityutilitymoney
-        </a>
+        What is the difference between an unsettled-obligation &&
+        prisoners’-dilemma-duress and slavery?
         <br />
         <br />
-        “Special financial assistance,” would be to help negotiate original
-        principle without credit found market marginal utility:cost price, not
-        favor the lender or overreaching landlord
+        But a Constitution of Government once changed from Freedom, can never be
+        restored. Liberty, once lost, is lost forever.
         <br />
         <br />
-        The key to world peace is no finance. Not mental health services by the
-        hand of state sanctioned, paid, conflictedly-interested experts
+        Somebody report me! Donald already incriminated for nothing
         <br />
         <br />
-        "Help is on the way with your finances" - Wold Blitzer
-        <br />
-        you are taking equitymoney, splitting it as you would corporate shares,
-        and giving them back less and of increased demand capacity for
-        price:utility (no reason, not help, only helps the ask to get more&nbsp;
-        <a href="https://foiegras.life">for the same thing</a>)
-        <br />
-        <a href="https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom?si=i8hSI_NeQtuCwpt9x34p6w">
-          not taking credit
-        </a>
-        , striving to work for market(copyright, not{" "}
-        <a href="https://vaults.biz">depositary</a>) share instead of entrapping
-        myself into <a href="https://stripe.com">Stripe.com</a>
+        Chris Hahn @ChristopherHahn It’s a tantrum not a boycott.
         <br />
         <br />
-        Judges cannot judge what is right for bail, they'rn't impartial - as in
-        they get the bail.
-        <br />
-        Bail for judges'n't for consumers/
-        <a href="https://wavv.art/United_States_of_America">community</a>&nbsp;-
-        the service at its most efficient as to keep everyone happiest,
-        individually, for the complainants only; class action is for precedence,
-        but we all assume it gets less than each individual case would.
+        The Former Guy will never be welcome at Yankee Stadium or anywhere else
+        in New York.
         <br />
         <br />
-        Allpoint and Greendot (Shazam/Gallileo/Dwolla&nbsp;
-        <a href="https://nationalsecuritycasino.com">only US</a>) oligopoly
-        prevents me from extending payable services because it requires me to
-        take counterfeit offers with cross-party down-payment
-        malfeasant-jurisprudence risk in requiring that I accept credit to
-        accept debit, and banks that cost $10/mo instead of ATM networks
+        Replying to @ChristopherHahn Push him out to sea
         <br />
-        <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
-          CountyReimbursementsAcrossTheCountry
-        </a>
-        , that's my equitymoney, dike
         <br />
-        <div style={{ display: "flex" }}>
+        I had a word with lit- prefix that really narrowed it down but then a
+        guy on the radio said DUI of weed or cocaine makes sense
+        <br />
+        <br />
+        Producers say to rentier you are not one of us, we compete with
+        eachother for customers, we don’t take the land or air above it to not
+        use it or flip and settle or supply is not practically constrained to
+        charge rent (if copyright is not too broad, but well-managed...)
+        <br />
+        <br />
+        Invoices are theft Max five rent 3 under 2 Reverse purchases to
+        cash:debt
+        <br />
+        <br />
+        Colluding to make prices higher with father time && the intent to harm
+        (not use) are what make rent illegal
+        <br />
+        <br />
+        This is not a subscription to a service that doesn’t harm others (if
+        non-compete monopsony, the subscription does harm with involuntary
+        trade)
+        <br />
+        <br />
+        A competable-subscription service is not
+        bloating-demand-with-prisoners-dilemma or
+        assigning-impossible-usurped-unrequited-invoices
+        <br />
+        <br />
+        Cases are rising, deaths are less lethal because the vulnerable are
+        already dead and there are testing what already existed since 1900 cold
+        make same antibodies but only work if robotic platform
+        <hr />
+        <br />
+        <hr />
+        <br />
+        <hr />
+        <div style={{ backgroundColor: "rgb(200,220,255)" }}>
+          "5 Bipartisan Covid Relief Plans, no Covid Health Spending which would
+          be to help small businesses and family workers," 9%. Ben Furgeson says
+          9% "Goes to you." You guys suck! Not liable for the products you
+          advertise, huh, M. levin
+          <br />
+          <br />
+          Liberty Mutual: "You only pay for what you need." &nbsp;
+          <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+            YOU DONT NEED IT
+          </a>
+          . &nbsp;<a href="https://nmlsconsumeraccess.org/">Consumer Access</a>
+          &nbsp;costs access, by its being to greater effect AND absolutely of
+          relative savings...&nbsp;
+          <a href="https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp">
+            doing it is a waste of time and equityutilitymoney
+          </a>
+          <br />
+          <br />
+          “Special financial assistance,” would be to help negotiate original
+          principle without credit found market marginal utility:cost price, not
+          favor the lender or overreaching landlord
+          <br />
+          <br />
+          The key to world peace is no finance. Not mental health services by
+          the hand of state sanctioned, paid, conflictedly-interested experts
+          <br />
+          <br />
+          "Help is on the way with your finances" - Wold Blitzer
+          <br />
+          you are taking equitymoney, splitting it as you would corporate
+          shares, and giving them back less and of increased demand capacity for
+          price:utility (no reason, not help, only helps the ask to get
+          more&nbsp;
+          <a href="https://foiegras.life">for the same thing</a>)
+          <br />
+          <a href="https://open.spotify.com/track/0KeDuUqEX3P0cKzRD5pEom?si=i8hSI_NeQtuCwpt9x34p6w">
+            not taking credit
+          </a>
+          , striving to work for market(copyright, not{" "}
+          <a href="https://vaults.biz">depositary</a>) share instead of
+          entrapping myself into <a href="https://stripe.com">Stripe.com</a>
+          <br />
+          <br />
+          Judges cannot judge what is right for bail, they'rn't impartial - as
+          in they get the bail.
+          <br />
+          Bail for judges'n't for consumers/
+          <a href="https://wavv.art/United_States_of_America">community</a>
+          &nbsp;- the service at its most efficient as to keep everyone
+          happiest, individually, for the complainants only; class action is for
+          precedence, but we all assume it gets less than each individual case
+          would.
+          <br />
+          <br />
+          Allpoint and Greendot (Shazam/Gallileo/Dwolla&nbsp;
+          <a href="https://nationalsecuritycasino.com">only US</a>) oligopoly
+          prevents me from extending payable services because it requires me to
+          take counterfeit offers with cross-party down-payment
+          malfeasant-jurisprudence risk in requiring that I accept credit to
+          accept debit, and banks that cost $10/mo instead of ATM networks
+          <br />
+          <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+            CountyReimbursementsAcrossTheCountry
+          </a>
+          , that's my equitymoney, dike
+          <br />
+          <div style={{ display: "flex" }}>
+            <div
+              style={{
+                width: "40%",
+                position: "relative"
+              }}
+            >
+              <img
+                alt=""
+                style={{
+                  width: "100%",
+                  height: "auto"
+                }}
+                src="https://www.dl.dropboxusercontent.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?dl=0"
+              />
+            </div>{" "}
+            <div
+              style={{
+                width: "40%",
+                position: "relative"
+              }}
+            >
+              <img
+                alt=""
+                style={{
+                  width: "100%",
+                  height: "auto"
+                }}
+                src="https://www.dl.dropboxusercontent.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?dl=0"
+              />
+            </div>
+          </div>
+          <br />
+          This fat talks about equity and then says thanks to Biden for
+          providing funds. Funding doesn't help, it only monopsonizes above the
+          ask. Not only is it fraud by PCR antibody the "
+          <a href="https://humanharvest.info">gold</a>&nbsp;standard" but false
+          positive as is for cold's response, the policy was forced upon us in
+          1937
+          <br />
+          <br />
+          Border Patrol agents are saying 50-100% have wristbands to show how
+          much pootang they owe the cartels on the way up. &nbsp;
+          <a href="https://en.wikipedia.org/wiki/Janet_Yellen">
+            STOP THE SPIGGETS
+          </a>
+          <br />
+          <br />
+          <br />
+          What is with the media today reminding us that the vaccine has already
+          been approved and the bills are finalized? We could take all your
+          money and give it to Greta Thunberg The only path forward is the
+          Efficiency Act and debt:cash reconciliation for all purchases to which
+          the LEAST frugal price-giving ask and price-taking person found
+          price*output(or individual-efficiency, comparative-advantage
+          productivity)
+          <br />
+          <br />
+          STOP ASKING FOR CAPACITY WHEN YOU MEAN&nbsp;
+          <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
+            DEMAND CAPACITY
+          </a>
+          &nbsp;WHICH IS&nbsp;
+          <a href="https://saverparty.xyz">
+            PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY
+          </a>
+          , WE NEED&nbsp;
+          <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+            SUPPLY CAPACITY
+          </a>
+          &nbsp;OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY
+          COUNTERFEIT-IN-CONTRACT
+          <br />
           <div
             style={{
               width: "40%",
@@ -213,89 +350,18 @@ export default function App() {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?dl=0"
+              src="https://www.dl.dropboxusercontent.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?dl=0"
             />
           </div>{" "}
-          <div
-            style={{
-              width: "40%",
-              position: "relative"
-            }}
-          >
-            <img
-              alt=""
-              style={{
-                width: "100%",
-                height: "auto"
-              }}
-              src="https://www.dl.dropboxusercontent.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?dl=0"
-            />
-          </div>
+          <br />
+          "Need funds immediately." NO YOU DON'T you need to adjunicate finance,
+          insurance-by-duress, rentier-colonism & involuntary trade now
+          <br />
+          <br />
+          "Leverage things" of donors or settled-market price, not equity.
+          That's illegal. It is not a matter of time. Naturally debt:cash is
+          1:1depositary in 1908, now is 41:1
         </div>
-        <br />
-        This fat talks about equity and then says thanks to Biden for providing
-        funds. Funding doesn't help, it only monopsonizes above the ask. Not
-        only is it fraud by PCR antibody the "
-        <a href="https://humanharvest.info">gold</a>&nbsp;standard" but false
-        positive as is for cold's response, the policy was forced upon us in
-        1937
-        <br />
-        <br />
-        Border Patrol agents are saying 50-100% have wristbands to show how much
-        pootang they owe the cartels on the way up. &nbsp;
-        <a href="https://en.wikipedia.org/wiki/Janet_Yellen">
-          STOP THE SPIGGETS
-        </a>
-        <br />
-        <br />
-        <br />
-        What is with the media today reminding us that the vaccine has already
-        been approved and the bills are finalized? We could take all your money
-        and give it to Greta Thunberg The only path forward is the Efficiency
-        Act and debt:cash reconciliation for all purchases to which the LEAST
-        frugal price-giving ask and price-taking person found price*output(or
-        individual-efficiency, comparative-advantage productivity)
-        <br />
-        <br />
-        STOP ASKING FOR CAPACITY WHEN YOU MEAN&nbsp;
-        <a href="https://www.academia.edu/43983364/Review_Capitalism_in_the_21st_Century">
-          DEMAND CAPACITY
-        </a>
-        &nbsp;WHICH IS&nbsp;
-        <a href="https://saverparty.xyz">
-          PERFECTLY PRICE ELASTIC FOR ITS UTILITY PER EACH NEW CAPACITY
-        </a>
-        , WE NEED&nbsp;
-        <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
-          SUPPLY CAPACITY
-        </a>
-        &nbsp;OR VOLUNTEER OR LESS FRUGAL PRODUCERS, NOT STEAL BY
-        COUNTERFEIT-IN-CONTRACT
-        <br />
-        <div
-          style={{
-            width: "40%",
-            position: "relative"
-          }}
-        >
-          <img
-            alt=""
-            style={{
-              width: "100%",
-              height: "auto"
-            }}
-            src="https://www.dl.dropboxusercontent.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?dl=0"
-          />
-        </div>{" "}
-        <br />
-        "Need funds immediately." NO YOU DON'T you need to adjunicate finance,
-        insurance-by-duress, rentier-colonism & involuntary trade now
-        <br />
-        <br />
-        "Leverage things" of donors or settled-market price, not equity. That's
-        illegal. It is not a matter of time. Naturally debt:cash is
-        1:1depositary in 1908, now is 41:1
-        <br />
         <br />
         <a
           href="https://saverparty.xyz"
