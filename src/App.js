@@ -13,6 +13,27 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          The government could have given $70k/yr to people every year with the
+          amount of money they printed (red) and $300k promised (blue) but
+          instead operated their trust-built monopsony
+          https://fred.stlouisfed.org/graph/?g=D2jW
+          <br />
+          <br />
+          peeky-blinders prior to conviction? I'll be using the deviceKeyBox
+          &/or physicalKey w/ convicted homicides, rapes, counterfeits,
+          racketeering & non-compliance @ftc loaded on a dashboard for police to
+          interact w/ 1st-time cited plans of attack publicly forced onto
+          @firebase
+          https://vianickcarducci.medium.com/optimal-security-for-webapps-dd2a65c2418c
+          <br />
+          <br />
+          should a http://vau.money atm fee charge in such a way on
+          http://scopes.cc employee-management-auth-cards? and
+          http://thumbprint.us marketplace? I can only prohibit taking
+          credit-counterfeit by using ACH for transfer & ATM for banking...
+          http://vaults.biz
+          <br />
+          <br />
           <div
             style={{
               borderRadius: "10px",
