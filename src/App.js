@@ -1,4 +1,3 @@
-import React from "react";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -13,6 +12,65 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          This can only be solved with non-social government (photo & criminal)
+          identity @DeptofDefense
+          <br />
+          <br />
+          I mean having a physical payment authorization, with certificates on
+          commodity sdr & 44x1 shmita
+          <br />
+          <br />
+          <div
+            style={{
+              borderRadius: "10px",
+              border: "1px solid rgb(100,200,255)",
+              textAlign: "center"
+            }}
+          >
+            {" "}
+            44x cash, debt is now. Borrowers colluding with bankers, loitering
+            on the assets and prohibiting their settled trade away from the
+            youth - to which the youth are put into wageless labor at school,
+            all paid by promising to each other what is not theirs. Now that
+            this case is ...
+            <br />
+            <br />
+            ... apparent, they will print unrequited to make up the difference
+          </div>
+          <br />
+          Why work in cash when you can work to default on debt? Why is being
+          driven to a mental health place once (was it not a hearing?) not
+          congruent w only being able to commute once a month due to a
+          jaggedly-torn vastus medialis that hasn’t healed as I was a bartender
+          @SocialSecurity
+          <br />
+          <br />
+          A bridge, a toll and a broadband network walk into
+          free-rider-monopsony. @Apple Store is the bartender, & the header for
+          webapps is the bootlegged-booze #infrastructure #InfrastructureBill
+          #InfraWeek free-rider-immutables Police officer© sales-tax-geohash
+          http://3under2.us @BrigadeAbe
+          <br />
+          <br />
+          Margin target. Interesting how congruency is perpendicular for an
+          exponential relationship. Hope http://mortality.org is ready for me to
+          put life expectancy under death which could explain the season. Seems
+          the medical community knew it would be a doozy @nih what u know? @who
+          http://Humanharvest.info
+          <br />
+          <br />
+          GDP is all m2, where does currencyComponentOfM1?
+          <br />
+          <br />A degree in economics taught at JHU is not factual, and medical
+          papers are prone to act unlike the reasonable-doubt of “do-no-harm”
+          <br />
+          <br />
+          Let alone are they interested in the wrong answer if it pays
+          <br />
+          <br />
+          Or there is an improper treatment of doctors that abstain for this
+          <br />
+          <br />
           The government could have given $70k/yr to people every year with the
           amount of money they printed (red) and $300k promised (blue) but
           instead operated their trust-built monopsony
