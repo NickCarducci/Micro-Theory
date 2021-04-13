@@ -1,3 +1,4 @@
+import React from "react";
 import "./styles.css";
 
 export default class App extends React.Component {
@@ -36,6 +37,24 @@ export default class App extends React.Component {
             <br />
             <br />
             ... apparent, they will print unrequited to make up the difference
+            <br />
+            <br />
+            <div
+              style={{
+                margin: "10px",
+                borderRadius: "10px",
+                border: "1px solid rgb(100,200,255)",
+                textAlign: "center"
+              }}
+            >
+              In the near future we will steward equity+royalty w/max-profit and
+              reverse those purchases to all those affected by the manipulated
+              least frugal supplier and demander by
+              debt-counterfeit-in-contract-wagering monopsony of the consumer’s
+              other marketable assets by prisoners’ dilemma duress coagulating
+              and bloating demand beyond their willingness and ability in their
+              individual propensity https://vaults.biz
+            </div>
           </div>
           <br />
           Why work in cash when you can work to default on debt? Why is being
