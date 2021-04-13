@@ -208,9 +208,12 @@ export default class App extends React.Component {
           counterfeit as of now. Hope they realize what this solidifies for
           comparative rights in enforcing counterfeit if they can use
           low-to-moderate positionary-asphyxia force, not even possible with
-          knee except with handcuffs... malfeasance in foresight &
-          monopsony-by-credit for their free-rider-immutable brandishing that
-          keeps us all safe! ....
+          knee except with handcuffs...&nbsp;
+          <a href="https://www.fletc.gov/sites/default/files/imported_files/training/programs/legal-division/downloads-articles-and-faqs/research-by-subject/4th-amendment/ConsenttoEnterorSearchbyDeception.pdf">
+            malfeasance in foresight & monopsony-by-credit for their
+            free-rider-immutable brandishing that keeps us all safe
+          </a>
+          ! ....
           <br />
           <br />
           Bloat prices for their input costs? Launder profits of their business
@@ -1213,3 +1216,4 @@ export default class App extends React.Component {
     );
   }
 }
+
