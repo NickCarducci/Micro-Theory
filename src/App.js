@@ -13,6 +13,40 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          Light to moderate pressure during handcuffs is policy? For
+          counterfeit? Let me show credit history of US gov
+          <br />
+          <br />
+          The police are guilty for positionary-aphyxia force in handcuffs may
+          be a scapegoat... I want the original arrest for counterfeit, even
+          knowingly, to be deemed illegal given the Minn Police operate on
+          counterfeit as of now. Hope they realize what this solidifies for
+          comparative rights in enforcing counterfeit if they can use
+          low-to-moderate positionary-asphyxia force, not even possible with
+          knee except with handcuffs... malfeasance in foresight &
+          monopsony-by-credit for their free-rider-immutable brandishing that
+          keeps us all safe! ....
+          <br />
+          <br />
+          Bloat prices for their input costs? Launder profits of their business
+          to the bank? That isn’t owning a home! The creditor gets to repossess
+          and keep community down payments
+          <br />
+          <br />
+          Benefit/cost on what grounds? One person’s lifeline? Stop conflating
+          vectors
+          <br />
+          <br />
+          Many factors than cannot be added together in algebra/calculus, they
+          are different units: blood clot loaned to Canada, they owe us the
+          impossibly returned price-fixed at that price damages? This wouldn’t
+          happen if a commodity sdr was lost in the utility of that single
+          vector without cross-party-harm B-cell oncogenesis to boot, for a
+          monoclonal antibody that is learned (where mRNA does/is not,
+          taught-by-doing) over thousands of Antigens. What is the DNA structure
+          you are testing for in the PCR cultures?
+          <br />
+          <br />
           "So let me get this straight: Pubs in Congress claim spending billions
           on F-35s creates jobs, but spending on rebuilding roads and bridges
           doesn't" - Robert Reich
