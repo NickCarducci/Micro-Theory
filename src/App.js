@@ -46,7 +46,8 @@ export default class App extends React.Component {
             }
           >
             The Government is liable: deadly force, accidental death, of
-            integral instigation
+            integral instigation; or sting, undercover warrant, who called it
+            in? lie of reasoning?
           </div>
           {this.state.openMinnesota && <br />}
           {this.state.openMinnesota && (
@@ -56,6 +57,11 @@ export default class App extends React.Component {
                 border: "1px solid rgb(100,200,255)"
               }}
             >
+              prone-control is not use of force, but should be used as
+              active-resisting. ok. but you have the address of Floyd right? let
+              him go #MinnesotaIsGuilty #ChauvinTrial
+              <br />
+              <br />
               People on drugs might not understand, irratic-behavior, not feel
               pain, super-human, compliant-to-complete-non-compliance in a
               heartbeat
