@@ -13,6 +13,13 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          "So let me get this straight: Pubs in Congress claim spending billions
+          on F-35s creates jobs, but spending on rebuilding roads and bridges
+          doesn't" - Robert Reich
+          <br />
+          <br />
+          It takes jobs from others! You can use monopsony-margin-targeting and
+          free-rider-mutability in tolls too. It doesn’t create jobs
           <div
             style={{
               borderRadius: "10px",
