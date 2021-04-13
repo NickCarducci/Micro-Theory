@@ -11,6 +11,32 @@ export default function App() {
           padding: "20px"
         }}
       >
+        Lending, buying to rent with unsettled trade and unrequited-split is not
+        help, it is cannibalism
+        <br />
+        <br />
+        Why default or go to war? COVID-19 mRNA Vaccination-Induced
+        Lymphadenopathy humanharvest.info
+        <br />
+        <br />
+        Growth for @JoanHamburgShow is if people die and she has to share less
+        <br />
+        <br />
+        Usually they find an excuse to print from “public credit” to private
+        debts
+        <br />
+        <br />
+        Business is the key to non-profit efficiency, as if profits are income
+        over spending, of as discretionary-income are revenue over expenditures,
+        and efficiency is investment (asset, profit-share accumulation, not
+        lending or building with the intent to rent) over wages moldmask.co,
+        cocaine is money, purity health dpt @SaverParty
+        <br />
+        <br />
+        Investment must be channeled from willing, able and ready customers,
+        free-rider-mutable market, immutable https://3under2.us
+        <br />
+        <br />
         <div>
           <a
             href="https://scopes.cc"
