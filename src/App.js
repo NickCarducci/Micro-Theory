@@ -13,6 +13,87 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <div
+            style={{
+              borderRadius: "10px",
+              backgroundColor: "rgb(100,200,255)",
+              textAlign: "center",
+              padding: "4px 0px"
+            }}
+            onClick={() =>
+              this.setState({ openMinnesota: !this.state.openMinnesota })
+            }
+          >
+            The Government is liable: deadly force, accidental death, of
+            integral instigation
+          </div>
+          {this.state.openMinnesota && <br />}
+          {this.state.openMinnesota && (
+            <div
+              style={{
+                borderRadius: "3px",
+                border: "1px solid rgb(100,200,255)"
+              }}
+            >
+              People on drugs might not understand, irratic-behavior, not feel
+              pain, super-human, compliant-to-complete-non-compliance in a
+              heartbeat
+              <br />
+              <br />
+              Compliance, force, duress, intent to harm is not competing with
+              customers or unequal law like '"lawful escalation" of an unequal
+              punishment of infraction.' Do you like it
+              <br />
+              <br />
+              Causes lymphoma; more significant than graft vs humoral response
+              to D416G @CDCgov @NIH
+              <br />
+              <br />
+              Free rider religion of self on civil rights act let alone
+              exclusion @HealthNYGov @RutgersU @JohnsHopkins
+              <br />
+              <br />
+              What proof is not due to mask humidity mold elongating gestation
+              of virus without human cell and rather virus not going up to
+              atmosphere or ceiling in condensation; can we have a study of
+              countertop-talking? @JohnsHopkinsSPH
+              <br />
+              <br />
+              Non-malignant lymphadenopathy is diagnosed by “history and
+              physical examination” Unexplained Lymphadenopathy: Evaluation and
+              Differential Diagnosis Lymphadenopathy is benign and self-limited
+              in most patients. Etiologies include malignancy, infection, and
+              autoimmune disorders, as well as medications and iatrogenic
+              causes. The history and physical... aafp.org
+              <br />
+              <br />
+              The mRNA grafts aren’t saving lives, deaths are exponentially
+              correlated with age @fda https://aafp.org/afp/2002/1201/p2103.html
+              you ran out of vulnerable old people, now the malignant
+              over-production of b-cells will occur Lymphadenopathy and
+              Malignancy The majority of patients presenting with peripheral
+              lymphadenopathy have easily identifiable causes that are benign or
+              self-limited. Among primary care patients presenting with
+              lymphadenopathy, the... aafp.org
+              <br />
+              <br />
+              “Wartime effort” is fraud like gold confiscation in 1932. @ftc
+              @fcc @TheJusticeDept duress religion of self. Hesitancy is not
+              your choice and you certainly cannot mislead
+            </div>
+          )}
+          <br />
+          “Don’t pay thousands in car bills,” where do you think you get the
+          money?
+          <br />
+          <br />
+          Lawful run of red-light, don't you have a snap of the license?
+          <br />
+          <br />
+          You can't crash into them if they continue driving at the speed limit
+          after knowingly running a red light
+          <br />
+          <br />
           Light to moderate pressure during handcuffs is policy? For
           counterfeit? Let me show credit history of US gov
           <br />
@@ -54,6 +135,8 @@ export default class App extends React.Component {
           <br />
           It takes jobs from others! You can use monopsony-margin-targeting and
           free-rider-mutability in tolls too. It doesn’t create jobs
+          <br />
+          <br />
           <div
             style={{
               borderRadius: "10px",
