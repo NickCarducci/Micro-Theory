@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 
 export default class App extends React.Component {
   state = {};
@@ -13,8 +14,35 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <b>Saver Party 202X</b>&nbsp;
+          <a href="https://saverparty.xyz">#ThirdPartyBeneficiary</a>
+          <br />
+          <b>#CreditCounterfeitLaundering</b>&nbsp;#ReverseM2, #GreenNewDeal
+          <br />
+          <b>#FreeRiderMutables</b>&nbsp;Involuntary-servitude,
+          #GovernmentGentrification, #SocialismIsParetoEfficient,
+          #FiniteProducers, #RepublicansAreCommunists, #LibertariansAreGimps,
+          #ConsortiumCommunism, #LocaleDepositaries, #DebtlessEconomy,
+          #ZeroSpendingEconomy, #TradeNotSpending
+          <br />
+          <b>#CompetingWithConsumers</b>&nbsp;#RolloverInsurance,
+          #PrisonersDilemma, #RolloverCollectiveBargaining,
+          #UselessPriceInelasticity
+          <br />
+          <b>#FundSewagePolice</b>
+          <br />
+          <b>#TruncatedSalesTax</b>&nbsp;3% under $2k max $60 geohash-spoofable
+          <br />
+          <b>#ImplausibleLandlordUse</b>&nbsp;30 days or 5 units
+          <br />
+          <TwitterTweetEmbed
+            key="1421471623136358405"
+            tweetId="1421471623136358405"
+          />
+          <br />
           This can only be solved with non-social government (photo & criminal)
-          identity @DeptofDefense
+          identity&nbsp;
+          <a href="https://nationalsecuritycasino.com">@DeptofDefense</a>
           <br />
           <br />
           I mean having a physical payment authorization, with certificates on
@@ -1216,4 +1244,3 @@ export default class App extends React.Component {
     );
   }
 }
-
