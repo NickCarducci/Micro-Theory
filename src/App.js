@@ -24,7 +24,8 @@ export default class App extends React.Component {
           #FiniteProducers, #RepublicansAreCommunists, #LibertariansAreGimps,
           #ConsortiumCommunism, #LocaleDepositaries, #DebtlessEconomy,
           #ZeroSpendingEconomy, #TradeNotSpending,
-          #ReimburseDownPaymentsDuringBankruptcy, #DepositIsntAnOption
+          #ReimburseDownPaymentsDuringBankruptcy, #DepositIsntAnOption,
+          #BondVigilantes
           <br />
           <b>#CompetingWithConsumers</b>&nbsp;#RolloverInsurance,
           #PrisonersDilemma, #RolloverCollectiveBargaining,
