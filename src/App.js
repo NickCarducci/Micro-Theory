@@ -29,7 +29,9 @@ export default class App extends React.Component {
           <br />
           <b>#CompetingWithConsumers</b>&nbsp;#RolloverInsurance,
           #PrisonersDilemma, #RolloverCollectiveBargaining,
-          #UselessPriceInelasticity
+          #UselessPriceInelasticity,&nbsp;
+          <a href="https://vaults.biz">#MillennialIncomeDeficit</a>,
+          #M2Laundering
           <br />
           <b>#VaccinesAreRacist</b>&nbsp;Involuntary-servitude, duress beyond
           incontrovertable, absent of reasonable doubt, consensus proir to
