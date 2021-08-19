@@ -31,6 +31,12 @@ export default class App extends React.Component {
           #PrisonersDilemma, #RolloverCollectiveBargaining,
           #UselessPriceInelasticity
           <br />
+          <b>#VaccinesAreRacist</b>&nbsp;Involuntary-servitude, duress beyond
+          incontrovertable, absent of reasonable doubt, consensus proir to
+          conviction, permitting, or ordering of desistation{" "}
+          <a href="https://froth.app/stats">#BasisRateFallacy</a>, #Epiology,
+          #NullHypothesis
+          <br />
           <b>#FundSewagePolice</b>
           <br />
           <b>#TruncatedSalesTax</b>&nbsp;3% under $2k max $60 geohash-spoofable
