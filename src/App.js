@@ -31,13 +31,17 @@ export default class App extends React.Component {
           #PrisonersDilemma, #RolloverCollectiveBargaining,
           #UselessPriceInelasticity,&nbsp;
           <a href="https://vaults.biz">#MillennialIncomeDeficit</a>,
-          #M2Laundering
+          #M2Laundering,
+          #ConflictOfInterests:#AbjectFailure-#BonaFideIntent+#PromotedWill,
+          #ClassPrecedenceMalfeasance
           <br />
           <b>#VaccinesAreRacist</b>&nbsp;Involuntary-servitude, duress beyond
           incontrovertable, absent of reasonable doubt, consensus proir to
           conviction, permitting, or ordering of desistation{" "}
           <a href="https://froth.app/stats">#BasisRateFallacy</a>, #Epiology,
-          #NullHypothesis
+          #NullHypothesis, "not, not is necessary but not necessarily
+          sufficient", when the basis matches the outcome, you must deduce all
+          other causes to extrapolate a law.
           <br />
           <b>#FundSewagePolice</b>
           <br />
