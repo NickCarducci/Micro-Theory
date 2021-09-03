@@ -45,7 +45,10 @@ export default class App extends React.Component {
           other causes to extrapolate a law.
           <br />
           <b>#FundSewagePolice</b>&nbsp;hung-jury beyond minimal viable product?
-          1/3 doctors believe smoking cause birth-defects
+          &nbsp;
+          <a href="https://www.rutgers.edu/news/rutgers-led-national-survey-uncovers-doctors-misconceptions-about-nicotine-risks">
+            1/3 doctors believe smoking cause birth-defects
+          </a>
           <br />
           <TwitterTweetEmbed
             key="1430159596417699842"
