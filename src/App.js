@@ -27,8 +27,9 @@ export default class App extends React.Component {
           #ReimburseDownPaymentsDuringBankruptcy, #DepositIsntAnOption,
           #BondVigilantes
           <br />
-          <b>#CompetingWithConsumers</b>&nbsp;#RolloverInsurance,
-          #PrisonersDilemma, #RolloverCollectiveBargaining,
+          <b>#CompetingWithConsumers</b>
+          &nbsp;#CONFLICTOFINTERESTS#UNION#COMPARATIVEADVANTAGE, #GAMETHEORY,
+          ##RolloverInsurance, #PrisonersDilemma, #RolloverCollectiveBargaining,
           #UselessPriceInelasticity,&nbsp;
           <a href="https://vaults.biz">#MillennialIncomeDeficit</a>,
           #M2Laundering,
