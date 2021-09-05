@@ -15,6 +15,10 @@ export default class App extends React.Component {
           }}
         >
           <b>Saver Party 202X</b>&nbsp;
+          <TwitterTweetEmbed
+            key="1434606169516032012"
+            tweetId="1434606169516032012"
+          />
           <a href="https://saverparty.xyz">#ThirdPartyBeneficiary</a>
           <br />
           <b>#CreditCounterfeitLaundering</b>&nbsp;#ReverseM2, #GreenNewDeal
@@ -27,6 +31,10 @@ export default class App extends React.Component {
           #ReimburseDownPaymentsDuringBankruptcy, #DepositIsntAnOption,
           #BondVigilantes
           <br />
+          <TwitterTweetEmbed
+            key="1434603553176309764"
+            tweetId="1434603553176309764"
+          />
           <b>#CompetingWithConsumers</b>
           &nbsp;#CONFLICTOFINTERESTS#UNION#COMPARATIVEADVANTAGE, #GAMETHEORY,
           ##RolloverInsurance, #PrisonersDilemma, #RolloverCollectiveBargaining,
@@ -36,6 +44,11 @@ export default class App extends React.Component {
           #ConflictOfInterests:#AbjectFailure-#BonaFideIntent+#PromotedWill,
           #ClassPrecedenceMalfeasance
           <br />
+          <TwitterTweetEmbed
+            key="1434602186160414727"
+            tweetId="1434602186160414727"
+          />
+          @SaverParty
           <b>#VaccinesAreRacist</b>&nbsp;Involuntary-servitude, duress beyond
           incontrovertable, absent of reasonable doubt, consensus proir to
           conviction, permitting, or ordering of desistation{" "}
@@ -123,6 +136,10 @@ export default class App extends React.Component {
           http://3under2.us @BrigadeAbe
           <br />
           <br />
+          <TwitterTweetEmbed
+            key="1434585366183522312"
+            tweetId="1434585366183522312"
+          />
           Margin target. Interesting how congruency is perpendicular for an
           exponential relationship. Hope http://mortality.org is ready for me to
           put life expectancy under death which could explain the season. Seems
