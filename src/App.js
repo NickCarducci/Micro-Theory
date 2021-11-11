@@ -14,7 +14,21 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
-          <b>Saver Party 202X</b>&nbsp;
+          excess deaths CAN be-standardized for cohort sizes to assign
+          significance!" epiologists
+          <br />
+          <b>
+            Saver Party 202X, truncated sales tax, a flat tax's flat tax, free
+            rider immutable sewage police lawsuits
+          </b>
+          : It is literally insignificant except for 20%x more than normal fed
+          spending/yr free rider mutables, 40% debt spending, 10% debt service,
+          .8$ debt for fed spend dollar-public-park (without share-split-accrual
+          a.k.a. “strings), 1/4 pentagon, 1/14 pension, 1/4 premiums for
+          monthly-savings, accosting the supply chain. Why not immigration
+          working-age to sold your delirious supply-chain problem when c1970
+          half-life .5x unemployed to population, 10x price/hours more hours for
+          median home
           <TwitterTweetEmbed
             key="1434606169516032012"
             tweetId="1434606169516032012"
