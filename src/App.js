@@ -164,7 +164,7 @@ export default class App extends React.Component {
           <div
             style={{
               height: "min-content",
-              float: this.state.iosNoPhoto ? "" : "left"
+              float: this.state.serviceCancelingImages ? "" : "left"
             }}
           >
             <div style={{ display: "flex", flexWrap: "wrap" }}>
