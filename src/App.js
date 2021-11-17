@@ -27,6 +27,31 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1MEOHPu0i7lFCB2DWGwZRZ87SErCXp5Dn/preview"
+            }
+            float="right"
+            title="National Report - Housing market fluctuations with bob-sellers"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 4]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          Slowing of the housing-cycle,” says Bob sellers about foreclosures and
+          the mopping of down payments, amortize, don't cancel nor bailout.
+          timelesspaydayroyalty scoped for industry-type in p2p for
+          non-concurrentable&nbsp;
+          <a href="https://vaults.biz">
+            max-profit-royalty schedule for outlays upon withdrawal or sale
+          </a>
+          , keep investment bank collective bargaining in warehousing equity or
+          fully-funding a collective-bargain without credit
+          <br />
+          <br />
           void ab initio, duress beyond mvp{/**tom king attorney amistad */}
           <br />
           incarceration net loss profit by bonds, regulate (open-source) don't
