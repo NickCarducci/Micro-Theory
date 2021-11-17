@@ -90,15 +90,21 @@ export default class App extends React.Component {
           Socialists’ dream, “tax increases for small businesses,” a socialists
           dream would be to outlay
           <br />
-          Home sale price changes Percent of new debt
+          <a href="https://fred.stlouisfed.org/graph/?graph_id=961160&rn=793">
+            Home sale price changes Percent of new debt
+          </a>
           <br />
-          https://fred.stlouisfed.org/graph/?graph_id=961160&rn=793 Debt percent
-          of gdp
+          <a href="https://fred.stlouisfed.org/graph/?g=C6m9">
+            Debt percent of gdp
+          </a>
           <br />
-          https://fred.stlouisfed.org/graph/?g=C6m9 Debt share of mortgages and
-          federal debt
+          <a href="https://fred.stlouisfed.org/graph/?g=G8nU">
+            Debt share of mortgages and federal debt
+          </a>
           <br />
-          https://fred.stlouisfed.org/graph/?g=G8nU
+          expiring-insurance, third-party-beneficiary malfeasance,
+          raffle-licensing-monopsony incite violence
+          <br />
           <div
             style={{
               height: "min-content",
