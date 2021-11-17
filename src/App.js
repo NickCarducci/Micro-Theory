@@ -52,6 +52,26 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          Accrual and premiums over monthly savings is retarded, not savings
+          <Cable
+            style={{ width: "100%", height: "330px", maxHeight: "35vw" }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1aLHSTZdvS5Jw47YOsRz1WaG1j0Sr3COQ/preview"
+            }
+            float={null}
+            title="Outlays to debt 40% revenue 60%, not tax-payer"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 10]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <a href="https://ballotpedia.org/New_Jersey_state_budget_and_finances">
+            stop saying tax payer funded
+          </a>
+          , bitch, that is my money, drop dead
           <Cable
             style={{ height: "440px" }}
             onError={handleScollImgError}
