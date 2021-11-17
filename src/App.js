@@ -316,6 +316,11 @@ export default class App extends React.Component {
             only expiring-insurance pool bid fraud can afford advertising
           </h2>
           <br />
+          The corporate tax from matching turkeys actually taxes from consumers,
+          if the shareholders are outlaid to join demand without withholdings,
+          public nor private market-communes
+          <br />
+          <br />
           He doesn’t give up right to self defense because he was there. Do not
           mix laws or double jeopardy by countervailing laws (and therefore
           abject racketeering class precedence of the law-licensing-board, akin
