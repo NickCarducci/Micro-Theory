@@ -6,11 +6,36 @@ import Cable from "./Dropwire";
 export default class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = { scrollTop: 0 };
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
   }
+  componentDidMount = () => {
+    window.addEventListener("scroll", this.handleScroll);
+  };
+  componentWillUnmount = () => {
+    window.removeEventListener("scroll", this.handleScroll);
+  };
+  handleScroll = (e) => {
+    if (!this.state.offScroll) {
+      const scrollTop = window.scrollY;
+      this.setState(
+        {
+          scrolling: true,
+          scrollTop
+        },
+        () => {
+          clearTimeout(this.scrollTimeout);
+          this.scrollTimeout = setTimeout(() => {
+            this.setState({
+              scrolling: false
+            });
+          }, 900);
+        }
+      );
+    }
+  };
   render() {
     const handleScollImgError = (e) => {
       if (e.message) {
@@ -27,6 +52,27 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1FSwqDP5OcRPA2G0WY5aDiK6OnrI4kujm/preview"
+            }
+            float="left"
+            title="Brian Kilmeade portrait"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 6]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          "dealing with car repairs seems like a lose-lose situation, that's why
+          you need Carsheild "plans," expiring-insurance is a net-harm... claims
+          bargained for with middle-man-insurance that cannot be withdrwawaln at
+          once is already illegal per the surrendering of your consumers' money
+          with the false pooled bid - to which finite producers cannot compete
+          as to regulate themselves into productive-output (price-deflation per
+          hour) efficiency
           <Cable
             onError={handleScollImgError}
             src={
