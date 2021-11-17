@@ -52,6 +52,43 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <div
+            style={{
+              height: "min-content",
+              float: this.state.iosNoPhoto ? "" : "left"
+            }}
+          >
+            <div style={{ display: "flex", flexWrap: "wrap" }}>
+              <TwitterTweetEmbed
+                key="1421471623136358405"
+                tweetId="1421471623136358405"
+              />
+            </div>
+          </div>
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1k1Q7mfwZ96mzffl7YcEHuzwP-39l3wjg/preview"
+            }
+            float="right"
+            title="nextdoor.com - 54%/38% n = 13, (8%=1)"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 7]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          If electric-cars are feasbile, there is no reason for illiquidity.
+          They had earlier denied my call for the rental-income problem solved
+          by "pillar of Saver Party, to cap rent at quantity, not price." After
+          I had presented the idea here on WABC, but before this nextdoor.com
+          poll
+          <span>
+            release the antibiotics (open-source, cash-tuition without
+            non-consumer money, rental-units)
+          </span>
           <Cable
             onError={handleScollImgError}
             src={
