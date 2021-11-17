@@ -1,10 +1,23 @@
 import React from "react";
 import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
+import Cable from "./Dropwire";
 
 export default class App extends React.Component {
-  state = {};
+  constructor(props) {
+    super(props);
+    this.state = {};
+    for (let i = 0; i < 220; i++) {
+      this["scrollImg" + i] = React.createRef();
+    }
+  }
   render() {
+    const handleScollImgError = (e) => {
+      if (e.message) {
+        console.log(e.message);
+        this.setState({ serviceCancelingImages: true });
+      }
+    };
     return (
       <div style={{ width: "100%" }}>
         <div
@@ -14,8 +27,36 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            style={{
+              height: "500px"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1gQ6YJf6orTjfFQrL23l-AdhrYdSxce-v/preview"
+            }
+            float="left"
+            title="National Report - GOP budget guy"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h2>
+            price-deflation per hours is sufficed by immigration or ending wall
+            st, being 60% of debt-spending, which certainly IS price-elastic &
+            -inelastic of bid-to-ask
+          </h2>
+          <h2>poorness=(poverty/equality)</h2>, best friends
+          <h2>propensity of output</h2>, expiring-insurance collective
+          bargaining oxymoron, false, fallacy
+          <br />
+          <br />
           excess deaths CAN be-standardized for cohort sizes to assign
           significance!" epiologists
+          <br />
           <br />
           <b>
             Saver Party 202X, truncated sales tax, a flat tax's flat tax, free
