@@ -52,6 +52,13 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          enslaving generations of people by wall st/gov 60/40 wealth inequality
+          by third party beneficiary lender-work-deficit
+          <iframe
+            style={{ width: "100%", height: "400px" }}
+            src="https://www.youtube.com/embed/10kjUOVqk7o"
+            title="YouTube video player"
+          />
           <h1>
             Amortize, don't cancel nor bailout, then&nbsp;
             <a href="https://carducci.us">truncate sales tax 2025</a>&nbsp;
@@ -163,16 +170,16 @@ export default class App extends React.Component {
           <br />
           <div
             style={{
-              height: "min-content",
-              float: this.state.serviceCancelingImages ? "" : "left"
+              height: "min-content"
             }}
           >
-            <div style={{ display: "flex", flexWrap: "wrap" }}>
-              <TwitterTweetEmbed
-                key="1421471623136358405"
-                tweetId="1421471623136358405"
-              />
-            </div>
+            <TwitterTweetEmbed
+              style={{
+                float: "left"
+              }}
+              key="1421471623136358405"
+              tweetId="1421471623136358405"
+            />
           </div>
           <Cable
             style={{ height: "440px" }}
