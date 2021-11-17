@@ -27,6 +27,70 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            style={{
+              height: "300px"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1JPM1NiA4osQ17-H-TUV7FsHIVTGjAd9a/preview"
+            }
+            float="left"
+            title="Occupy Democrats - take my treatment before jury-verdict of 11/12 without prejudice of expertise"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 3]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h2>expertise breed complacency and savefacing</h2>
+          <Cable
+            style={{
+              height: "500px"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1szNRKdYpOQOtQMVDeleUVbai0pAxPo2E/preview"
+            }
+            float="right"
+            title="Bernie and Sid - infinite producers, accounting and jury, bona fide and inclusive"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 2]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          licensure to 50-50 raffle and&nbsp;
+          <a href="https://truncatedsalestax.com">have advice be taken from</a>
+          &nbsp;is rent-seeking, like
+          fda-craft-beer/nih-r&d-monopsony/doe-trade-secrets/hung-jury-permits
+          <br />
+          We only benefit from charity when we are going to buy those turkies
+          with that money anyway. Price elasticity is 1. Right?!
+          <span
+            role="img"
+            aria-label="side-splitting-laughter hear-no-evil old-man"
+          >
+            🤣🙉👨🏻‍🦳
+          </span>
+          <h2>
+            work off from "seller, loiter on collateral; gdp=debt/down==11/1,
+            only expiring-insurance pool bid fraud can afford advertising
+          </h2>
+          <br />
+          He doesn’t give up right to self defense because he was there. Do not
+          mix laws or double jeopardy by countervailing laws (and therefore
+          abject racketeering class precedence of the law-licensing-board, akin
+          to fad craft-beer malintent reasons to close-source trade secrets in
+          trust-building and competing with consumer educational institutions,
+          public or private, in labor-dead-weight without exclusive demand
+          autonomy, 60/40 being wall st/gov 40% debt spending $300k/year/person,
+          10-40% bond laundering, debt-service, in fed-state, respectively
+          <br />
+          <br />
+          duress isn't voluntary, random isn't when emulated, but voluntary
           <h1>politics between reason and law</h1>
           <Cable
             style={{
