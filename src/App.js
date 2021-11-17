@@ -127,7 +127,25 @@ export default class App extends React.Component {
           for counterfeit in contract and pharma-monopsony, open-carry without
           luggage is guilty, licensing without open-source is guilty, barriers
           to entry is guilty. register the gun, don't jail or fine when you come
-          up against a detractor to your gerontocracy
+          up against a detractor to your gerontocracy. "
+          <a href="https://truncatedsalestax.com">
+            when kyle took out this mental-patient
+          </a>
+          ," who 'raped 3 children' but served their time? nj says you are
+          mental-patient if you are homeless after 10x hours and half unemployed
+          to working age cohort size since 1970, then they lie about you saying
+          you kick and punch after trying to elope after presenting you with a
+          siringe, after going in for a knee problem, then believing my mother
+          who just wanted me out of the house without evidence, 13 days, after
+          being called bizarre for calling the diagnosing doctor's income a
+          false pooled bid of expiring-insurance, while Paul Krugman runs free.
+          Ask a murderer why they did it, it is never insanity. only 1/12 jury
+          conviction is legally-crazy, until you have brainscan.info
+          malformity-correlations. I own copyright, you retards are working
+          against $821/day/person new debt. Cocaine and Weed is a performance
+          enhancer, but pain-medication and antibiotics are currency-competition
+          to the public-park dilution that is dollar-park-shares of 20% us fed
+          lands
           <Cable
             style={{
               height: "500px"
