@@ -27,6 +27,7 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <h1>politics between reason and law</h1>
           <Cable
             style={{
               height: "500px"
