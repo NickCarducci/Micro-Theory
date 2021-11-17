@@ -52,6 +52,10 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          gift cards illegal to expire? I think so. ftc says it is state issue
+          now, ftc says
+          <br />
+          <br />
           enslaving generations of people by wall st/gov 60/40 wealth inequality
           by third party beneficiary lender-work-deficit
           <iframe
