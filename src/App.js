@@ -27,7 +27,7 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
-          void abenisia duress beyond mvp{/**tom king attorney amistad */}
+          void ab initio, duress beyond mvp{/**tom king attorney amistad */}
           <br />
           incarceration net loss profit by bonds, regulate (open-source) don't
           racketeer (compete-with-consumers) means jailtime
