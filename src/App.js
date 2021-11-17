@@ -121,6 +121,13 @@ export default class App extends React.Component {
           <br />
           duress isn't voluntary, random isn't when emulated, but voluntary
           <h1>politics between reason and law</h1>
+          “‘I’m going to kill you if you enforce the illegal-law,’ might makes
+          right is why civilization exists,” Brian Kilmeade. minnesota is
+          guilty, comparative natural law means we must now carface jamie dimon
+          for counterfeit in contract and pharma-monopsony, open-carry without
+          luggage is guilty, licensing without open-source is guilty, barriers
+          to entry is guilty. register the gun, don't jail or fine when you come
+          up against a detractor to your gerontocracy
           <Cable
             style={{
               height: "500px"
