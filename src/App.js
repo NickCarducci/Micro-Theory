@@ -27,6 +27,8 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          incarceration net loss profit by bonds, regulate (open-source) don't
+          racketeer (compete-with-consumers) means jailtime
           <Cable
             style={{
               height: "300px"
