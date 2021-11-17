@@ -120,11 +120,27 @@ export default class App extends React.Component {
           <br />
           <br />
           duress isn't voluntary, random isn't when emulated, but voluntary
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1JJmqGwKcojFamC_-Io5M11HFzsanf_LJ/preview"
+            }
+            float="right"
+            title="Tucker Carlson fam"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 5]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <h1>politics between reason and law</h1>
           “‘I’m going to kill you if you enforce the illegal-law,’ might makes
-          right is why civilization exists,” Brian Kilmeade. minnesota is
-          guilty, comparative natural law means we must now carface jamie dimon
-          for counterfeit in contract and pharma-monopsony, open-carry without
+          right is why civilization exists,” Tucker Carlson talking about
+          reasons to jail without naturtal crime to Brian Kilmeade. Minnesota is
+          guilty, comparative natural law means we must now carface Jamie Dimon
+          for livlihood counterfeit in contract, pharma-monopsony and
+          malfeasant-/countervailing-justice-and-precedence, open-carry without
           luggage is guilty, licensing without open-source is guilty, barriers
           to entry is guilty. register the gun, don't jail or fine when you come
           up against a detractor to your gerontocracy. "
