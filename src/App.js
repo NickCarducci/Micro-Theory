@@ -52,6 +52,11 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <h1>
+            Amortize, don't cancel nor bailout, then&nbsp;
+            <a href="https://carducci.us">truncate sales tax 2025</a>&nbsp;
+            against menendez
+          </h1>
           Accrual and premiums over monthly savings is retarded, not savings
           <Cable
             style={{ width: "100%", height: "330px", maxHeight: "35vw" }}
