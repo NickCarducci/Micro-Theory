@@ -52,6 +52,10 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          I took it doesn’t because it was an offensive-threat, but because
+          others thought it was
+          <br />
+          <br />
           gift cards illegal to expire? I think so. ftc says it is state issue
           now, ftc says
           <br />
