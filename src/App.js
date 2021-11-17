@@ -52,6 +52,53 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1F3kU7lqYR2Nqvv_X_wsVYMTOICoXM33X/preview"
+            }
+            float="left"
+            title="The open-carry-without-luggage right in Wisconsin slanders Marx as an arsonist"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 8]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <a href="https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm">
+            Where does Marx say he wants to burn things
+          </a>
+          ? margins outlaid immediately
+          <br />
+          what are you talking about?&nbsp;
+          <a href="https://monthlyreview.org/2020/07/01/marx-and-slavery/#:~:text=It%20is%20worth%20noting">
+            He is talking about the credit cycle
+          </a>
+          &nbsp;(down payments kept upon foreclosure)
+          <br />
+          defense of livelihood of fractional reserve in contract,
+          false-savings-bid-expiring-pool is not “Political violence, to use
+          your platform to depict violence depleting the credibility of this
+          body,”
+          <br />
+          <br />
+          no surrender = claim as much time as i can consume implausible use
+          impossible settlement intentful
+          <br />
+          <br />
+          Socialists’ dream, “tax increases for small businesses,” a socialists
+          dream would be to outlay
+          <br />
+          Home sale price changes Percent of new debt
+          <br />
+          https://fred.stlouisfed.org/graph/?graph_id=961160&rn=793 Debt percent
+          of gdp
+          <br />
+          https://fred.stlouisfed.org/graph/?g=C6m9 Debt share of mortgages and
+          federal debt
+          <br />
+          https://fred.stlouisfed.org/graph/?g=G8nU
           <div
             style={{
               height: "min-content",
