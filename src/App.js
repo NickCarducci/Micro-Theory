@@ -51,6 +51,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        We gotta wrap it up rollup nomenclature software development knows more
+        academic, politics, reason, law, the edge of flat earth
         <div>
           <h1>FREE RIDER MUTABLE NATION</h1>
           <h2>sewage police lawsuits</h2>
