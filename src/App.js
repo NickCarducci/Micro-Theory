@@ -52,6 +52,24 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            style={{
+              height: "440px"
+            }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.settleDropboxFree
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/5jmlz813kivmxc3/Rogan%20better%20angels%20finite%20producers.MP4?dl=0"
+            }
+            float="right"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 12]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           A freelancer for msnbc for blowing red light is irrelevant, and is as
           much onus derived from a contractor estimate with changing
           intermediate demand
