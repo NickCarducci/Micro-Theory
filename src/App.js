@@ -106,6 +106,17 @@ export default class App extends React.Component {
           <br />
           the most engaging comes about by algorithmic censorship? no... the
           most contrived
+          <br />
+          <br />
+          rent-seeking operational-costs, public & private
+          <br />
+          Selling out on&nbsp;
+          <a href="https://open.spotify.com/track/1nyWxVfSonPbt7pTCrPbah?si=c967f067d0d4472a">
+            perpetual
+          </a>
+          &nbsp;durable motion good&nbsp;
+          <a href="https://magnate.company">machine</a>&nbsp;for services and
+          hamburgers
           <iframe
             style={{ width: "100%", height: "400px" }}
             src="https://www.youtube.com/embed/10kjUOVqk7o"
