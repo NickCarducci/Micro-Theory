@@ -102,6 +102,10 @@ export default class App extends React.Component {
           <br />
           enslaving generations of people by wall st/gov 60/40 wealth inequality
           by third party beneficiary lender-work-deficit
+          <br />
+          <br />
+          the most engaging comes about by algorithmic censorship? no... the
+          most contrived
           <iframe
             style={{ width: "100%", height: "400px" }}
             src="https://www.youtube.com/embed/10kjUOVqk7o"
