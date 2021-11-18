@@ -52,6 +52,25 @@ export default class App extends React.Component {
             padding: "20px"
           }}
         >
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1ys9b82WhTKYaQGzV-h_UH3CwoN8B96gL/preview"
+            }
+            float="left"
+            title="Peter 'virus is alive' Morcini"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 11]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          Monpoly is the reason for inflation, not exclusively money printing
+          (share-split), as with working age and lender work deficit for being
+          untowards price deflation over hours (DRIP)
+          <br />
+          <br />
           I took it doesn’t because it was an offensive-threat, but because
           others thought it was
           <br />
