@@ -118,6 +118,41 @@ export default class App extends React.Component {
           viable product or conviction, lest payment with comment for
           discrimination, lest reciprocation of discriminateds' products,
           therfore a "nuclear-dilemma"
+          <br />
+          <br />
+          <Cable
+            style={{ height: "500px" }}
+            onError={handleScollImgError}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1SYZjIEl2SHmFlA7J5X4G-xMb2_t9yfa-/preview"
+            }
+            float="left"
+            title="National Report slanders socialism AGAIN"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 11]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h1>
+            Marxism, introduced by the, "[application of infinite producers by
+            labor outlaid profits without delay]," in Schumpeter
+          </h1>
+          <a href="https://carducci.sh">We want jury-permits</a>, not infinite
+          producer reasoning what duress is requited by a minimal viable product
+          <br />
+          We just want to amortize, nor cancel, bailout, nor keep this credit
+          cycle of keeping down payments upon reposession, beyond third party
+          beneficiary law and comparative/natural law reasoning that which to
+          each their own, without aggression, financially to compete with
+          consumers like implausible landlord use and false bid pool brokering
+          in insurance "collective bargaining" fraud loitering on the real
+          demand
+          <br />
+          “Non-scientific, randomly enforced,” Cheryl Chumley slanders socialism
+          <br />
+          <br />
           <Cable
             onError={handleScollImgError}
             src={
