@@ -153,6 +153,11 @@ export default class App extends React.Component {
           “Non-scientific, randomly enforced,” Cheryl Chumley slanders socialism
           <br />
           <br />
+          <span role="img" aria-label="bottom-left">
+            ↙️
+          </span>
+          Output production of price-deflation per hour is of propensity to
+          their own hourly efforts
           <Cable
             onError={handleScollImgError}
             src={
