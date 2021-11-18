@@ -8,7 +8,7 @@ class Cable extends React.Component {
 
       var between =
         scrollTopAndHeight - continuee.scrollTop > -100 &&
-        scrollTop - continuee.scrollTop > -100;
+        continuee.scrollTop - scrollTop > -100;
       clearTimeout(this.setset);
       this.setset = setTimeout(
         () =>
@@ -22,9 +22,10 @@ class Cable extends React.Component {
   render() {
     const { between, continuee } = this.state;
     const { src, float, title, img } = this.props;
-    return (
-      (!continuee || between) &&
-      (img ? (
+    return !continuee || between ? (
+      src === "" ? (
+        <span style={{ border: "1px gray solid" }}>{title}</span>
+      ) : img ? (
         <img
           onError={this.props.onError}
           alt={title}
@@ -54,8 +55,8 @@ class Cable extends React.Component {
           ref={this.props.fwd}
           src={src}
         />
-      ))
-    );
+      )
+    ) : null;
   }
 }
 export default React.forwardRef((props, ref) => <Cable fwd={ref} {...props} />);
