@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "what is so hard about calling yourself a capitalist?" probably the
+        infinite producer assumption, and racketeering counterfeit in contract,
+        down payments kept upon recollateralization
+        <br />
         <h2>productivity isn't gdp/p, it is price-deflation over hours</h2>
         <br />
         <Cable
