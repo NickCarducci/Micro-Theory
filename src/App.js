@@ -72,7 +72,12 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        Jo pinion compares Kyle self defense to attempt at the same, but&nbsp;
+        Sen Dan Sullivan: "Build the future of tomorrow on the backs of the
+        hardworking Americans today,” GOP desires to find the arc of the
+        covenant, a perpetual profit machine with free operating costs Jobs
+        using american abundance, exporting gas gets their durable goods as
+        public park deeds (currency, concurrentable-units or unit) Jo pinion
+        compares Kyle self defense to attempt at the same, but&nbsp;
         <a href="https://humanharvest.info">self-defense</a>&nbsp;isn’t garnered
         by&nbsp;
         <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
