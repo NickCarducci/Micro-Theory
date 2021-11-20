@@ -51,6 +51,38 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        this is why non-experts shouldn't espouse conclusions of experts without
+        understanding their assumptions
+        <h2>
+          price deflation over hours, jury-permitting trumps bending over for
+          the finite producer right.
+        </h2>
+        The right & top thinks DeSantis is good for bypassing jury-rules for
+        permitting duress within minimal viable production and voluntary trade,
+        and that testing bybyproduct asymptomatically determines cause, with
+        insignificant aggregate deaths/population. You are loitering as a
+        borrower, and working for a corporation is a net loss of individual
+        profits. I own the market thru copyright, your market commune owns all
+        the work you've done. Selling out of durable-goods/services is additive
+        to gdp, which is retarded.
+        <Cable
+          style={{ width: "100%", height: "560px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=Gkvt&width=670&height=475`
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="right"
+          title="539 tries to talk about polling with Mr. Random himself, then"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 9]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <br />
+        <br />
         We gotta wrap it up rollup nomenclature software development knows more
         academic, politics, reason, law, the edge of flat earth
         <div>
@@ -163,18 +195,34 @@ export default class App extends React.Component {
         </a>
         , bitch, that is my money, drop dead
         <Cable
-          style={{ width: "100%" }}
+          style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
+          //img={true}
           src={
-            this.state.serviceCancelingImages
+            this.state.settleDropboxFree
               ? ""
-              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=Gkvt&width=670&height=475`
-            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=H5XB&width=670&height=475`
           }
           float="right"
-          title="539 tries to talk about polling with Mr. Random himself, then"
+          title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 9]}
+          fwd={this["scrollImg" + 10]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ width: "100%", height: "560px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.settleDropboxFree
+              ? ""
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=FSwQ&width=670&height=475`
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 13]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
