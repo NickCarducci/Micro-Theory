@@ -72,6 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Uspto international has less propensity for broadness
         <h2>
           bancruptcy wishes to credit cycle, marx was first to critique the
           mises, "business cycle," or maybe another word for shmita, except they
