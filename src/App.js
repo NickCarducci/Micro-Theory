@@ -84,6 +84,16 @@ export default class App extends React.Component {
         "subsidies for everyone, at least," a person on Larry Kudlow's show
         pleads
         <br />
+        we need to make an amendment to make it better for corporations to be
+        domesticated,"
+        <br />
+        like slavery, nationalism/technological-advancement-by-pareto-efficiency
+        without dead-weight-rentier nor corporate-profits withheld by
+        oligolopies/(self-employed), public companies pay twice corporation tax
+        for government-beyond article-4 into free-rider-mutable tax & 40-50%
+        fed-state debt-spend, 10-40% bond-laundering debt-service, rent-seeking
+        to go public, to boot, is retarded.
+        <br />
         <br />
         <Cable
           style={{ width: "100%", height: "560px" }}
