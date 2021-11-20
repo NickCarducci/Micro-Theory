@@ -72,9 +72,19 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        "growth brings profits intot the american peiple, i mean the emerican
-        government"- Russ from CBO
-        <h2>self-defensive-threats, when third party beneficiary law is malfeasant</h2>
+        'growth brings profits intot the american peiple, i mean the emerican
+        government'- Russ on CBO from Center for Renewing america.
+        <br />
+        <br />
+        'Economic winners' or price deflation over hours? The latter if tech
+        advancement is espoused by price deflation. Otherwise those “economic
+        winners,” are more like, “busy work.” 'Inflation will be worse,' unless
+        we amortize & alternative finance to max profit royalty, for
+        lender/landlord work deficit can solve the working age supply chain
+        issue
+        <h2>
+          self-defensive-threats, when third party beneficiary law is malfeasant
+        </h2>
         <h2>
           <a href="https://carducci.us">amortize, don't</a>&nbsp;cancel nor keep
           down payments upon repo, ppp trust-building && laundering
