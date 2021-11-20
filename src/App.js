@@ -72,6 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>target margin, 11/12 jury-permits, and open-source licensure</h2>
         "supply side leads to less taxes," by corporate-profits? free market in
         reality is finite producers and demand isn't exclusively labor as to
         even be the most infinite it can be
