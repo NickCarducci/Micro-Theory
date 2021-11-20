@@ -72,6 +72,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          <a href="https://carducci.us">amortize, don't</a>&nbsp;cancel nor keep
+          down payments upon repo, ppp trust-building && laundering
+        </h2>
+        <br />
+        lower profits by not-trust-building but actual margin-targeting would
+        emulate supply and demand would increase labor, being
+        hours/propensity-to-work
+        <br />
         "subsidies for everyone, at least," a person on Larry Kudlow's show
         pleads
         <br />
