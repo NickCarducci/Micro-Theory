@@ -78,9 +78,35 @@ export default class App extends React.Component {
         even be the most infinite it can be
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/NBTw_p-WChI"
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="right"
+          title="https://www.youtube.com/watch?v=NBTw_p-WChI"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 17]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         wall st is a central planner 60/40 gov new debt 40-50% fed-state
         debt-spending new debt $821/day/person, repossession after
         laundering-loitering-borrower's consumers/employers bid
+        <br />
+        <br />
+        Small company stocks aren’t new business over exporting and complacent,
+        non-labor demand David Banson, author of No Free Lunch: “Generated great
+        balance sheets, themselves,” is appraised assets on book 44x, but 1x
+        beyond that already written up Job killer;inflation filler
+        <h2>
+          Supply & demand is productivity by propensity to work as surrogated in
+          propensity to spend in equity outlaid, not withheld, falsly-bid nor
+          accrued-interest by time, on a price vertical-plane
+        </h2>
         <Cable
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
@@ -91,17 +117,12 @@ export default class App extends React.Component {
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
           }
           float="right"
-          title="https://fred.stlouisfed.org/graph/?g=HzlI"
+          title="https://fred.stlouisfed.org/graph/?g=J88P"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 16]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <h2>
-          Supply & demand is productivity by propensity to work as surrogated in
-          propensity to spend in equity outlaid, not withheld, falsly-bid nor
-          accrued-interest by time, on a price vertical-plane
-        </h2>
         Sen Dan Sullivan: "Build the future of tomorrow on the backs of the
         hardworking Americans today,” GOP desires to find the arc of the
         covenant, a perpetual profit machine with free operating costs Jobs
