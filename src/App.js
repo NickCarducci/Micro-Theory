@@ -74,7 +74,12 @@ export default class App extends React.Component {
       >
         Communism is the bastardization. Of the 1/12 crazy person on a
         convicting jury, as to revolt against the time-series of individual
-        labor equity (public parks, durable-goods/ham) savings
+        labor equity (public parks, durable-goods/ham) savings, in tort, as
+        capitalism always corrupts itself. Marx would end there. I suspect it is
+        because the Wealth of Nations by Adam Smith's assumption of
+        infinite-producers was not taken seriously enough, like emulating
+        randmomness in Statistics... Voluntary is best exogenous basis rate fix,
+        and cohort size is integral to age-standardization
         <br />
         <br />
         Uspto international has less propensity for broadness
