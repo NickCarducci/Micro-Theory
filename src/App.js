@@ -72,7 +72,22 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        A lethal dose for every living American it is so small and used in
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1KdzgLEjyCUfO8SJuuC5aqGxDDH4rihF2/preview"
+          }
+          float="left"
+          title="Peter 'virus is alive' Morcini"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 16]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>productivity isn't gdp/p, it is price-deflation over hours</h2>
+        <br />A lethal dose for every living American it is so small and used in
         extreme pain-reduction cases, 100k == missing children. Both issues can
         be fixed with&nbsp;
         <a href="https://teapharmacy.party">open-source-licensure</a>, no
