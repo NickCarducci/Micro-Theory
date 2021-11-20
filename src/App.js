@@ -72,6 +72,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        A lethal dose for every living American it is so small and used in
+        extreme pain-reduction cases, 100k == missing children. Both issues can
+        be fixed with&nbsp;
+        <a href="https://teapharmacy.party">open-source-licensure</a>, no
+        false-bid-pools &&nbsp;
+        <a href="https://thumbprint.us/phone">convict intranet</a>
+        <br />
+        <br />
         I am literally better than all of the lawyers
         <br />
         class precendece malfeasance
