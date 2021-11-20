@@ -72,6 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>free rider mutable tax and 40-50% debt spend</h2>
         "Most people use it to pay wall st, what do you think they do with their
         money?" Grover Nordquist
         <br />
