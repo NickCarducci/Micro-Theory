@@ -2,6 +2,7 @@ import React from "react";
 import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import Cable from "./Dropwire";
+import GDP from "./GDP";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -12,9 +13,14 @@ export default class App extends React.Component {
     }
   }
   componentDidMount = () => {
+    window.addEventListener("resize", this.refresh);
     window.addEventListener("scroll", this.handleScroll);
+    this.refresh(true);
   };
   componentWillUnmount = () => {
+    clearTimeout(this.scrollTimeout);
+    clearTimeout(this.resizeTimer);
+    window.removeEventListener("resize", this.refresh);
     window.removeEventListener("scroll", this.handleScroll);
   };
   handleScroll = (e) => {
@@ -34,6 +40,21 @@ export default class App extends React.Component {
           }, 900);
         }
       );
+    }
+  };
+  refresh = (first) => {
+    const width = this.state.ios ? window.screen.availWidth : window.innerWidth;
+    if (first || Math.abs(this.state.lastWidth - width) > 0) {
+      clearTimeout(this.resizeTimer);
+      this.resizeTimer = setTimeout(() => {
+        this.setState({
+          lastWidth: width,
+          width,
+          availableHeight: this.state.ios
+            ? window.screen.availHeight - 20
+            : window.innerHeight
+        });
+      }, 600);
     }
   };
   render() {
@@ -57,6 +78,9 @@ export default class App extends React.Component {
           price deflation over hours, jury-permitting trumps bending over for
           the finite producer right.
         </h2>
+        {!isNaN(this.state.width) && (
+          <GDP width={Math.min(600, this.state.width)} />
+        )}
         The right & top thinks DeSantis is good for bypassing jury-rules for
         permitting duress within minimal viable production and voluntary trade,
         and that testing bybyproduct asymptomatically determines cause, with
