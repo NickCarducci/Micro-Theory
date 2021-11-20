@@ -72,6 +72,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Jo pinion compares Kyle self defense to attempt at the same, but&nbsp;
+        <a href="https://humanharvest.info">self-defense</a>&nbsp;isn’t garnered
+        by&nbsp;
+        <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
+          mRNA-sporing-grafts
+        </a>
+        <br />
+        <br />
         Communism is the bastardization. Of the 1/12 crazy person on a
         convicting jury, as to revolt against the time-series of individual
         labor equity (public parks, durable-goods/ham) savings, in tort, as
