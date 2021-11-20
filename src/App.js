@@ -72,6 +72,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          bancruptcy wishes to credit cycle, marx was first to critique the
+          mises, "business cycle," or maybe another word for shmita, except they
+          keep down payments and reposess, not cancel. bottom-left
+          SaverParty.xyz wishes to amortize, not bailout.&nbsp;
+          <a href="https://www.federalreservehistory.org/essays/glass-steagall-act#:~:text=The%20Glass%2DSteagall%20Act%20effectively,Roosevelt%20in%20June%201933.">
+            don't obama my bernie
+          </a>
+        </h2>
         "what is so hard about calling yourself a capitalist?" probably the
         infinite producer assumption, and racketeering counterfeit in contract,
         down payments kept upon recollateralization
