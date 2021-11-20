@@ -72,6 +72,33 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          bipartisan rent-seeking instead of target-margin consumer surrogate
+        </h2>
+        working-class is better-off than non-working, and democrats want to
+        "invest" with money from outside of that market for the same things and
+        laundering to lenders and landlords, whom otherwise keep down payments
+        upon repo
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/hatfsd34100ky5t/phil%20murphy.jpeg?dl=0"
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="left"
+          title="https://newjerseyglobe.com/governor/phil-murphys-inside-outside-call/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 18]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        creating jobs by free rider mutable tax and 50% debt-spending for weed
+        duress is not concent nor anything but trust-building, rent-seeking away
+        from new innovation for r&d monopsony
+        <br />
         <h2>target margin, 11/12 jury-permits, and open-source licensure</h2>
         "supply side leads to less taxes," by corporate-profits? free market in
         reality is finite producers and demand isn't exclusively labor as to
@@ -127,8 +154,10 @@ export default class App extends React.Component {
         hardworking Americans today,” GOP desires to find the arc of the
         covenant, a perpetual profit machine with free operating costs Jobs
         using american abundance, exporting gas gets their durable goods as
-        public park deeds (currency, concurrentable-units or unit) Jo pinion
-        compares Kyle self defense to attempt at the same, but&nbsp;
+        public park deeds (currency, concurrentable-units or unit)
+        <br />
+        <br />
+        Jo pinion compares Kyle self defense to attempt at the same, but&nbsp;
         <a href="https://humanharvest.info">self-defense</a>&nbsp;isn’t garnered
         by&nbsp;
         <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
@@ -148,6 +177,9 @@ export default class App extends React.Component {
         </a>
         &nbsp;in Statistics... Voluntary is best exogenous basis rate fix, and
         cohort size is integral to age-standardization
+        <br />
+        <br />
+        You can use reasoning without jury as defense, not prosecution
         <br />
         <br />
         Uspto international has less propensity for broadness
