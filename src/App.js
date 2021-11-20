@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "Most people use it to pay wall st, what do you think they do with their
+        money?" Grover Nordquist
+        <br />
         <h2>google.com/search?q=how+to+apply+for+local+reporter+12k</h2>
         new business{" > "}existing business
         <br />
