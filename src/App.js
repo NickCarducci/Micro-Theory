@@ -158,9 +158,11 @@ export default class App extends React.Component {
             units-conccurrentable, not false bid pools of hidden premiums when
             40-50% debt-spending fed-state... 10-40% fed-state
             bond-laundering(debt-spending). apples to oranges competes too =
-            subsidies for charging-stations. consumer-surrogate rent-seeken
-            broadband/tolls with privately-target-margin instead of
-            gov-gentrification, in all its ways in housing, healthcare...
+            subsidies for&nbsp;
+            <a href="https://magnate.company">charging-stations</a>.
+            consumer-surrogate rent-seeken broadband/tolls with
+            privately-target-margin instead of gov-gentrification, in all its
+            ways in housing, healthcare...
           </h2>
         </div>
         Retard belie forlorn becoming tarded self harm, afro-tool,
