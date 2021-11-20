@@ -72,6 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Supply & demand is productivity by propensity to work as surrogated in
+          propensity to spend in equity outlaid, not withheld, falsly-bid nor
+          accrued-interest by time, on a price vertical-plane
+        </h2>
         Sen Dan Sullivan: "Build the future of tomorrow on the backs of the
         hardworking Americans today,” GOP desires to find the arc of the
         covenant, a perpetual profit machine with free operating costs Jobs
