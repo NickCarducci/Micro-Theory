@@ -72,7 +72,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        'growth brings profits intot the american peiple, i mean the emerican
+        <h2>
+          Government/wall st 40/60 gentrification, rent-seeking, trust-building,
+          competing-with-consumers, prohibiting price-inelasticity of bid-to-ask
+          and prohibiting trade:
+        </h2>
+        "Ports, broadband, bridge-traffic-tolls," while we have the technology
+        njta STILL services nearly 40% of revenue on debt, and they
+        financially-"invest" in outlays that they have nothing to do with on
+        asset-tangible
+        <br />
+        <br />
+        <h2>
+          childcare/industry-vocational loss of durable-good/service when you
+          don't merely target margin networks and finite producers for
+          micreconomic reasons
+        </h2>
+        public insurance doesn’t do anything differently than private. We need
+        to ban these&nbsp;
+        <a href="https://youtu.be/aJEszZK54dw">false bid pools</a>&nbsp;and the
+        invoices they abet on third party beneficiary grounds
+        <br />
+        <br />
+        'growth brings profits into the american peiple, i mean the emerican
         government'- Russ on CBO from Center for Renewing america.
         <br />
         <br />
