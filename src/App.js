@@ -81,6 +81,22 @@ export default class App extends React.Component {
         wall st is a central planner 60/40 gov new debt 40-50% fed-state
         debt-spending new debt $821/day/person, repossession after
         laundering-loitering-borrower's consumers/employers bid
+        <Cable
+          style={{ width: "100%", height: "560px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=J88P&width=670&height=475`
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=HzlI"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 16]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>
           Supply & demand is productivity by propensity to work as surrogated in
           propensity to spend in equity outlaid, not withheld, falsly-bid nor
