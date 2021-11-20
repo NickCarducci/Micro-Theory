@@ -72,7 +72,26 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        outlay corporate profit today!
+        <h2>
+          oh look,&nbsp;
+          <a href="https://www.americanbar.org/groups/litigation/committees/commercial-business/boilerplate-contracts/third-party-contract-beneficiaries/">
+            racketeering tortious-claim
+          </a>
+          &nbsp;what would be truncated sales tax flat flat tax would pay for
+          free rider immutable sewage police
+          (non-bond-net-loss-profit-per-incarceration-10-40%-laundering, 40-50%
+          spending not trading)&nbsp;&nbsp;
+          <a href="https://wavv.art">LAWSUITS</a>
+        </h2>
+        outlay corporate profit today! tax for consumer free rider immutable
+        immediate escrow concurrentable units or unit collective-bargaining (not
+        insurance belaying deductible for premium and producer-work-deficit),
+        and tort&nbsp;
+        <a href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/dealings-competitors/price-fixing">
+          appraisals
+        </a>
+        &nbsp;of third party beneficiary
+        <br />
         <h2>free rider mutable tax and 40-50% debt spend</h2>
         "Most people use it to pay wall st, what do you think they do with their
         money?" Grover Nordquist
@@ -96,7 +115,6 @@ export default class App extends React.Component {
         financially-"invest" in outlays that they have nothing to do with on
         asset-tangible
         <br />
-        <br />
         <h2>
           childcare/industry-vocational loss of durable-good/service when you
           don't merely target margin networks and finite producers for
@@ -107,11 +125,10 @@ export default class App extends React.Component {
         <a href="https://youtu.be/aJEszZK54dw">false bid pools</a>&nbsp;and the
         invoices they abet on third party beneficiary grounds
         <br />
-        <br />
-        'growth brings profits into the american peiple, i mean the emerican
-        government'- Russ on CBO from Center for Renewing america.
-        <br />
-        <br />
+        <h2>
+          'growth brings profits into the american peiple, i mean the emerican
+          government'- Russ on CBO from Center for Renewing america.
+        </h2>
         'Economic winners' or price deflation over hours? The latter if tech
         advancement is espoused by price deflation. Otherwise those “economic
         winners,” are more like, “busy work.” 'Inflation will be worse,' unless
@@ -125,7 +142,6 @@ export default class App extends React.Component {
           <a href="https://carducci.us">amortize, don't</a>&nbsp;cancel nor keep
           down payments upon repo, ppp trust-building && laundering
         </h2>
-        <br />
         lower profits by not-trust-building but actual margin-targeting would
         emulate supply and demand would increase labor, being
         hours/propensity-to-work
