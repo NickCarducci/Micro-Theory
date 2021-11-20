@@ -72,6 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        1/12 upon conviction is only crazy, lest dent in head or hate
+        indiscriminate
+        <br />
+        501 IP to government laundered, socialism is anti-rent-seeking
+        dead-weight-label indiscriminate.
         <h2>
           Government/wall st 40/60 gentrification, rent-seeking, trust-building,
           competing-with-consumers, prohibiting price-inelasticity of bid-to-ask
