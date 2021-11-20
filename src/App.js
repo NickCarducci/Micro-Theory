@@ -72,6 +72,26 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "subsidies for everyone, at least," a person on Larry Kudlow's show
+        pleads
+        <br />
+        <br />
+        <Cable
+          style={{ width: "100%", height: "560px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=HzlI&width=670&height=475`
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=HzlI"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 14]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         this is why non-experts shouldn't espouse conclusions of experts without
         understanding their assumptions
         <h2>
@@ -99,7 +119,7 @@ export default class App extends React.Component {
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
           }
           float="right"
-          title="539 tries to talk about polling with Mr. Random himself, then"
+          title="https://fred.stlouisfed.org/graph/?g=Gkvt"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 9]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -228,7 +248,7 @@ export default class App extends React.Component {
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=H5XB&width=670&height=475`
           }
           float="right"
-          title=""
+          title="https://fred.stlouisfed.org/graph/?g=H5XB"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 10]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -244,7 +264,7 @@ export default class App extends React.Component {
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=FSwQ&width=670&height=475`
           }
           float="right"
-          title=""
+          title="https://fred.stlouisfed.org/graph/?g=FSwQ"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 13]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -1478,6 +1498,21 @@ export default class App extends React.Component {
           That's illegal. It is not a matter of time. Naturally debt:cash is
           1:1depositary in 1908, now is 41:1
         </div>
+        <Cable
+          style={{ width: "100%", height: "560px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=J6zW&width=670&height=475`
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=J6zW"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 15]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <br />
         <a
           href="https://saverparty.xyz"
