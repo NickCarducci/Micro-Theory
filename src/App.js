@@ -72,6 +72,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "supply side leads to less taxes," by corporate-profits? free market in
+        reality is finite producers and demand isn't exclusively labor as to
+        even be the most infinite it can be
+        <br />
+        <br />
+        wall st is a central planner 60/40 gov new debt 40-50% fed-state
+        debt-spending new debt $821/day/person, repossession after
+        laundering-loitering-borrower's consumers/employers bid
         <h2>
           Supply & demand is productivity by propensity to work as surrogated in
           propensity to spend in equity outlaid, not withheld, falsly-bid nor
@@ -831,8 +839,8 @@ export default class App extends React.Component {
           key="1434603553176309764"
           tweetId="1434603553176309764"
         />
-        <b>#CompetingWithConsumers</b>
-        &nbsp;#CONFLICTOFINTERESTS#UNION#COMPARATIVEADVANTAGE, #GAMETHEORY,
+        <b>#CompetingWithConsumers</b>{" "}
+        #CONFLICTOFINTERESTS#UNION#COMPARATIVEADVANTAGE, #GAMETHEORY,
         ##RolloverInsurance, #PrisonersDilemma, #RolloverCollectiveBargaining,
         #UselessPriceInelasticity,&nbsp;
         <a href="https://vaults.biz">#MillennialIncomeDeficit</a>,
