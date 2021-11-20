@@ -72,6 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Communism is the bastardization. Of the 1/12 crazy person on a
+        convicting jury, as to revolt against the time-series of individual
+        labor equity (public parks, durable-goods/ham) savings
+        <br />
+        <br />
         Uspto international has less propensity for broadness
         <h2>
           bancruptcy wishes to credit cycle, marx was first to critique the
