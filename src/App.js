@@ -72,6 +72,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        I am literally better than all of the lawyers
+        <br />
+        class precendece malfeasance
+        <br />
+        “It’s gotta be the 40% who stand up, not me.” THEN WHY ARE YOU ON
+        INSTEAD OF ME? Bitch
+        <br />
+        Fucking eldercare in casting more like, on the Tom Bastile show
+        <br />
+        <a href="https://www.ftc.gov/sites/default/files/documents/statutes/credit-card-accountability-responsibility-and-disclosure-act-2009-credit-card-act/credit-card-pub-l-111-24_0.pdf#page=21">
+          73% 50+ pro-AARP
+        </a>
         <h2>
           oh look,&nbsp;
           <a href="https://www.americanbar.org/groups/litigation/committees/commercial-business/boilerplate-contracts/third-party-contract-beneficiaries/">
