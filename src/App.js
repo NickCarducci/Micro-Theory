@@ -73,6 +73,16 @@ export default class App extends React.Component {
         }}
       >
         <h2>
+          Rudy Giuliani: “Your first impression can be wrong,” people can
+          change, mishap for exogenous to moral core reason even without the
+          law, between that and academic/political and comparative, is reason.
+        </h2>
+        Dr. Maria Ryan: “Your tax-payer money,” 40-50% debt-spending… “The
+        wealthy keep the country going,” with $300k/year/person new debt and
+        $400k taxes whom own those bond-index-funds valued and keep down
+        payments upon collateralization repossession
+        <br />
+        <h2>
           bipartisan rent-seeking instead of target-margin consumer surrogate
         </h2>
         working-class is better-off than non-working, and democrats want to
