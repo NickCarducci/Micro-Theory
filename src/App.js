@@ -150,8 +150,8 @@ export default class App extends React.Component {
           law, between that and academic/political and comparative, is reason.
         </h2>
         Dr. Maria Ryan: “Your tax-payer money,” 40-50% debt-spending… “The
-        wealthy keep the country going,” with $300k/year/person new debt and
-        $400k taxes whom own those bond-index-funds valued and keep down
+        wealthy keep the country going,” with $300k/year/person new debt ({">"}
+        $400k income-taxes) whom own those bond-index-funds valued and keep down
         payments upon collateralization repossession
         <br />
         <h2>
