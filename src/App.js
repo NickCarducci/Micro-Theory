@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Socialists isn't reappropriation, but truncated sales tax after
+          amortization, not income, gift nor public share & 13D {">"}5 3-month
+          disclosure, uuid non-anonymized, and false bid pool torts unamortized.
+          Outlay the means of production, durable-parks/hamberger-services,
+          today!
+        </h2>
         <Cable
           style={{
             height: "440px"
