@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Not self defense when felony, except when the state has a r&r
+          monopsony
+        </h2>
         Bernie calls welfare socialism because otherwise calling it share-split
         would lead in "accrual" to mean the same (description)
         <h2>
@@ -100,7 +104,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        cases vs tests - excessive force, self-defense, hung-jury-permit-duress isn’t voluntary, but purposefully-impossible
+        cases vs tests - excessive force, self-defense, hung-jury-permit-duress
+        isn’t voluntary, but purposefully-impossible
         <br />
         <div style={{ backgroundColor: "rgb(170,80,200)", color: "white" }}>
           Dead-weight-as-rentier & "output-propensity" x-axis productivty-as
