@@ -72,6 +72,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        price-inelasticity of&nbsp;
+        <a href="https://foiegras.life">bid-to ask</a>
         <h2>
           free portrayed by free rider mutable tax from consumers of other
           markets inflation, lender-work-deficit & 40-50% fed-state debt
