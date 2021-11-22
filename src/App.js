@@ -72,6 +72,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Such a dramatist cannot wait for profits by accrual and false bid pools.
+        Banks keep out of max-profit-royalties & insurance keep out of claims
+        outlays non-concurrent schedule upon 1/11 down-payments/gdp (actual
+        customers & jobs), keep in equity concurrentable. Only way out is to
+        amortize, not cancel nor keep down payment upon repo “business cycle”
+        (bailout share-split). Dollars are 20% US lands, gdp/p before 1913 was
+        nearly constant micro-theory.com
+        <br />
+        <br />
+        1/3 try is owned by foreigners, $1t/$7t being China
+        <br />
+        <br />
         credit is useless price inelasticity the same intermediate-goods
         <br />
         <br />
