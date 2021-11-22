@@ -72,6 +72,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        living-like an consumer-laborer without
+        competition-by-duress-nor-settlement, in a finite-producer world
         <h2>
           Not self defense when felony, except when the state (120% wall st) has
           a r&r monopsony
