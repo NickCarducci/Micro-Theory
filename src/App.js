@@ -198,6 +198,14 @@ export default class App extends React.Component {
         <br />
         You can use reasoning without jury as defense, not prosecution
         <br />
+        “Burden is on the state” “Duty to deliberate, and find facts about the
+        case, the law is the slaw, be it comparative/natural over
+        illegal-precedence and countervailing-law class precedence malfeasance
+        of bifurcated law-licensing-board”
+        <br />
+        "fair minded and impartial juror seeking the truth," get kicked off for
+        amortizing false bid pool third party beneficiary
+        <br />
         <br />
         Uspto international has less propensity for broadness
         <h2>
