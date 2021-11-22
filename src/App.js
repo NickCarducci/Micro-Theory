@@ -73,6 +73,65 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/OqgUxnqc3AM"
+          }
+          float="right"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 25]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/TjvqmfDvOfQ"
+          }
+          float="right"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/AJWkVjK7u48"
+          }
+          float="right"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 23]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <TwitterTweetEmbed
+          style={{ float: "left", width: "230px" }}
+          key="1429182687588278276"
+          tweetId="1429182687588278276"
+        />
+        "Jury selection and cameras in courtrooms to prevent tyranny of[
+        industry-precedence-interest, not reason even 1/12 upon conviction or
+        permitting mvp-duress nuts are to be excluded]"
+        <br />
+        <br />
+        The only way out of supply chain problem is working age immigration or
+        amortization of lender-work-deficit
+        <br />
+        <br />
+        <Cable
           style={{
             height: "470px"
           }}
@@ -86,7 +145,7 @@ export default class App extends React.Component {
           float="right"
           title="https://fb.watch/9ruq5dxR9r/"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 20]}
+          fwd={this["scrollImg" + 22]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -136,7 +195,7 @@ export default class App extends React.Component {
           float="left"
           title="https://fb.watch/9ruq5dxR9r/"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 20]}
+          fwd={this["scrollImg" + 21]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
