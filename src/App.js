@@ -79,7 +79,12 @@ export default class App extends React.Component {
         reverse
         <br />
         <br />
-        “Protect your retirement income with gold,” Bo Snerdley (back to back)
+        “Protect your retirement income with gold,” Bo Snerdley (back to
+        back&nbsp;
+        <a href="https://www.youtube.com/watch?v=wxiMrvDbq3s">
+          public park divestment
+        </a>
+        )
         <br />
         <br />
         <Cable
