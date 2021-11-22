@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “Protect your retirement income with gold,” Bo Snerdley
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           //img={true}
