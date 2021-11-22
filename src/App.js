@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        cases vs tests
+        <br />
+        <div style={{ backgroundColor: "rgb(170,80,200)", color: "white" }}>
+          Dead-weight-as-rentier & "output-propensity" x-axis productivty-as
+          per-hour price-deflation is what differs between this site and other
+          microeconomics
+        </div>
         <h2>
           Rudy Giuliani: “Your first impression can be wrong,” people can
           change, mishap for exogenous to moral core reason even without the
