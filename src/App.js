@@ -108,7 +108,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.youtube.com/embed/TjvqmfDvOfQ"
+              : "https://www.youtube.com/embed/1D6n2om9I6A"
           }
           float="right"
           title="https://fb.watch/9ruq5dxR9r/"
@@ -810,6 +810,21 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/TjvqmfDvOfQ"
+          }
+          float="right"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
           //img={true}
@@ -836,7 +851,7 @@ export default class App extends React.Component {
           float="right"
           title="539 tries to talk about polling with Mr. Random himself, then"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 9]}
+          fwd={this["scrollImg" + 26]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
