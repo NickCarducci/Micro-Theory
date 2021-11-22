@@ -73,8 +73,8 @@ export default class App extends React.Component {
         }}
       >
         <h2>
-          Not self defense when felony, except when the state has a r&r
-          monopsony
+          Not self defense when felony, except when the state (120% wall st) has
+          a r&r monopsony
         </h2>
         Bernie calls welfare socialism because otherwise calling it share-split
         would lead in "accrual" to mean the same (description)
