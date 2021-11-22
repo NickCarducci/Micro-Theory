@@ -73,7 +73,19 @@ export default class App extends React.Component {
         }}
       >
         price-inelasticity of&nbsp;
-        <a href="https://foiegras.life">bid-to ask</a>
+        <a href="https://foiegras.life">bid-to ask</a>, consent is not granted
+        when a third party is concerned, implicitly without tort lest&nbsp;
+        <a
+          href="https://nationalsecuritycasino.com"
+          style={{ textDecoration: "none" }}
+        >
+          <span style={{ color: "red" }}>class</span>&nbsp;
+          <span style={{ backgroundColor: "black", color: "white" }}>
+            precedence
+          </span>
+          &nbsp;
+          <span style={{ color: "blue" }}>malfeasance</span>
+        </a>
         <h2>
           free portrayed by free rider mutable tax from consumers of other
           markets inflation, lender-work-deficit & 40-50% fed-state debt
