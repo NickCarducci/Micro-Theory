@@ -72,6 +72,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        credit is useless price inelasticity the same intermediate-goods
+        <br />
+        <br />
+        “Provide Taiwan with weapons to sustain themselves,” why don’t you allow
+        them to make their own? Our money funding that only inflates as would
+        intermediate good like free rider mutable tax and 40-50% fed-state debt
+        spending, 10-40% debt service bond laundering
+        <br />
+        <br />
         boycotting credit, gdp:down payment isn;t a job, and accrual/grandiose
         scope with estimate insurance isn't a customer but false bid pool
         <h2>third party bene, anti-rent-seeker-bona-fides</h2>
