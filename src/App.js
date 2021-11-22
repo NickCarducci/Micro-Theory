@@ -72,6 +72,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Bernie calls welfare socialism because otherwise calling it share-split
+        would lead in "accrual" to mean the same (description)
         <h2>
           Socialists isn't reappropriation, but truncated sales tax after
           amortization, not income, gift nor public share & 13D {">"}5 3-month
@@ -146,6 +148,10 @@ export default class App extends React.Component {
         "supply side leads to less taxes," by corporate-profits (corporations
         pay twice)? free market in reality is finite producers and demand isn't
         exclusively labor as to even be the most infinite it can be
+        <h2>sewage police lawsuits, free rider immutables</h2>
+        bail instead of keeping them in jail? Ins't that racketeering? Do donors
+        get their money back? Bonds compount third party beneficiary laundered,
+        not 40-50% fed-state debt spending && 10-40% debt-servicing, alone
         <br />
         <br />
         <Cable
@@ -172,6 +178,7 @@ export default class App extends React.Component {
         non-labor demand David Banson, author of No Free Lunch: “Generated great
         balance sheets, themselves,” is appraised assets on book 44x, but 1x
         beyond that already written up Job killer;inflation filler
+        (busy-work/share-solidarity)
         <h2>
           Supply & demand is productivity by propensity to work as surrogated in
           propensity to spend in equity outlaid, not withheld, falsly-bid nor
