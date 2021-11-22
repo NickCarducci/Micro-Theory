@@ -72,7 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        “Protect your retirement income with gold,” Bo Snerdley
+        “Protect your retirement income with gold,” Bo Snerdley (back to back)
         <br />
         <br />
         <Cable
