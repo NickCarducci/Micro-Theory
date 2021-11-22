@@ -72,6 +72,35 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        new deal cuts income inequality in half!
+        <h2>Inflation doesn't discount bailout</h2>
+        immmigration of working-age, amortization of debt correction instead of
+        keeping down payments upon repossession nor cancel forbidden by past
+        laborequity.org&nbsp;<a href="https://saverparty.xyz">savings</a>
+        <br />
+        <br />
+        Amortize
+        <br />
+        ​abolish bonds as private property
+        <br />
+        ​same as all competing with consumer false pool bids and implausible use
+        intent detection
+        <br />
+        ​socialism isn't broadband rent-seeking hud rent-seekig, nor
+        reappropriating labor, it is to emulate infinite producers with
+        jury-permits for min viable product duress+target-margin
+        consumer-surrogate
+        <br />
+        covid is 1 year lower life expectancy than flu*, but 2015 75+ 1.2m/yr
+        ppl
+        <br />
+        greens won't amortize, they might outlay corporate profits, today!
+        non-voters are plural-majority lmao
+        <br />
+        <br />
+        collective bargain my checking acc
+        <br />
+        false bid pools are like corporate escrow profits withheld for what?
         <Cable
           style={{
             width: "615px",
@@ -91,6 +120,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        If it is true 41k year carbon cycles are from humans and not natural
+        binding, then humans must go extinct
+        <br />
+        <br />
         false bid pools are on time, working together (that is escrow-withheld
         is grandiose scope standing, as would an estimate, especially without
         utilitarian-choke-points in&nbsp;
