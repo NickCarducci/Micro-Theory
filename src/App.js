@@ -72,6 +72,33 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{
+            width: "615px",
+            height: "470px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.slideshare.net/NicholasCarducci/slideshelf"
+          }
+          float="left"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 20]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        false bid pools are on time, working together (that is escrow-withheld
+        is grandiose scope standing, as would an estimate, especially without
+        utilitarian-choke-points in&nbsp;
+        <a href="https://scopes.cc">outlays for labor & materials</a>)
+        Obfuscating mental health with HUD/wall st 40/60 gentrification &
+        rent-seeking
+        <br />
+        <br />
         price-inelasticity of&nbsp;
         <a href="https://foiegras.life">bid-to ask</a>, consent is not granted
         when a third party is concerned, implicitly without tort lest&nbsp;
@@ -277,6 +304,25 @@ export default class App extends React.Component {
           mRNA-sporing-grafts
         </a>
         , net loss bonds profit, with standing to boot
+        <br />
+        <br />
+        <Cable
+          style={{ padding: "10px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1iYPZZJ7XqxmCmWO0kmQ9KNtMsK7iT81z/preview"
+          }
+          float="right"
+          title="Newsmax 12 noon est - Wisconsin's 'Childrens' Hospital' rep"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 20]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Obfuscating mental health with HUD/wall st 40/60 gentrification &
+        rent-seeking
         <br />
         <br />
         Communism is the bastardization. Of the 1/12 crazy person on a
