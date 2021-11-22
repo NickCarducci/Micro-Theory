@@ -807,6 +807,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        “There are people concerned about Quran placement in Gitmo but no
+        blowback for organ harvesting by China?”
+        <br />
+        <br />
         "dealing with car repairs seems like a lose-lose situation, that's why
         you need Carsheild "plans," expiring-insurance is a net-harm... claims
         bargained for with middle-man-insurance that cannot be withdrwawaln at
