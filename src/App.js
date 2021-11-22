@@ -72,6 +72,31 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        hung-jury-permits, in mvp-duress, are unconstitutional
+        <Cable
+          style={{
+            height: "440px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100064690506088%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+          }
+          float="left"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 20]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “President get paws on oil and gas [rent-seeking & gentrification, as
+        opposed to target margin consumer surrogates, truncated sales tax 2025
+        against menendez for free rider immutable sewage police lawsuits],”
+        Logan Raddick
+        <br />
+        <br />
         living-like an consumer-laborer without
         competition-by-duress-nor-settlement, in a finite-producer world
         <h2>
