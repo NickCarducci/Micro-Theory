@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        boycotting credit, gdp:down payment isn;t a job, and accrual/grandiose
+        scope with estimate insurance isn't a customer but false bid pool
+        <h2>third party bene, anti-rent-seeker-bona-fides</h2>
         You can be vaccinated and spread it, you can be unvaccinated and spread
         it. That is not an artifact, but a symptom
         <br />
