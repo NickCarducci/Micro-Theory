@@ -118,7 +118,7 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <TwitterTweetEmbed
-          style={{ float: "left", width: "230px" }}
+          style={{ float: "left", width: "300px" }}
           key="1429182687588278276"
           tweetId="1429182687588278276"
         />
