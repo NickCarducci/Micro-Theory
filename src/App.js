@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        You can be vaccinated and spread it, you can be unvaccinated and spread
+        it. That is not an artifact, but a symptom
+        <br />
+        Dems want to lower bail and nobody wants to raise rates let alone
+        reverse
+        <br />
+        <br />
         “Protect your retirement income with gold,” Bo Snerdley (back to back)
         <br />
         <br />
