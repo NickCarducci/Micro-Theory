@@ -72,6 +72,24 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{
+            height: "470px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1nQ3nEEiA8HnytQM_jg0KZ3PYs7lInnYx/preview"
+          }
+          float="right"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 20]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         new deal cuts income inequality in half!
         <h2>Inflation doesn't discount bailout</h2>
         immmigration of working-age, amortization of debt correction instead of
@@ -94,6 +112,7 @@ export default class App extends React.Component {
         covid is 1 year lower life expectancy than flu*, but 2015 75+ 1.2m/yr
         ppl
         <br />
+        <h2>jury-science please</h2>
         greens won't amortize, they might outlay corporate profits, today!
         non-voters are plural-majority lmao
         <br />
@@ -101,6 +120,7 @@ export default class App extends React.Component {
         collective bargain my checking acc
         <br />
         false bid pools are like corporate escrow profits withheld for what?
+        <br />
         <Cable
           style={{
             width: "615px",
