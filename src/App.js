@@ -72,6 +72,25 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{
+            height: "440px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1X6qODro1SMVRAvc-K_o2-mzs0I0Wj-PH/preview"
+            //"https://fred.stlouisfed.org/graph/?g=Gkvt"
+          }
+          float="right"
+          title="amortization of down payments upon repossession of collateral for third party beneficiary grounds"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 19]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         cases vs tests
         <br />
         <div style={{ backgroundColor: "rgb(170,80,200)", color: "white" }}>
