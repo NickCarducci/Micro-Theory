@@ -91,6 +91,10 @@ export default class App extends React.Component {
         reverse
         <br />
         <br />
+        Bail instead of keeping them in jail? Isn't that racketeering? Do donors
+        get money back? Bonds compound third party beneficiary laundered
+        <br />
+        <br />
         “Protect your retirement income with gold,” Bo Snerdley (back to
         back&nbsp;
         <a href="https://www.youtube.com/watch?v=wxiMrvDbq3s">
@@ -100,6 +104,7 @@ export default class App extends React.Component {
         <br />
         <br />
         <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -115,6 +120,7 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -130,6 +136,7 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
           onError={handleScollImgError}
           //img={true}
           src={
