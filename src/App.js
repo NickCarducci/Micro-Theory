@@ -72,6 +72,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        net loss incarceration and death is a net gain when valued in dollars
+        from bonds
         <h2>dealing durable public park deeds for my copyright-royalties</h2>
         Old people: "you know what you are getting into unless on-site, false
         pool bids are additive," closed-source-licensure with uspto-grunts does
