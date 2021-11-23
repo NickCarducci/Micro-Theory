@@ -89,7 +89,12 @@ export default class App extends React.Component {
         <br />
         &bull; war
         <br />
-        &bull; invoicing/down-payments 11/1 & somehow 40-50% debt
+        &bull;&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=C6m9">
+          invoicing/down-payments 11/1
+        </a>
+        &nbsp;& somehow&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=IHdV">40-50% debt</a>
         <br />
         <br />
         flopping on
