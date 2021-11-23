@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Parks/copyright/services; america first means we make things without
+          nationalism and with utility open source licensure
+        </h2>
         $2t bill signed, right?” “Yup!” Affirms the bailout laundering is the
         second phase of the trickle down bailout for less income inequality but
         kept down payment unamortized for that collateral correction if without
