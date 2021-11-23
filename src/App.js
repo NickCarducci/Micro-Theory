@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        admin only wants to go after income over $400k/yr, because
+        $300k/year/person is new debt
+        <h2>
+          abolish bond-index-funds, mental-illness without dent-in-head
+          disqualifier, implausible landlord use, credit cycle keep down
+          payments upon repo and value-correction, and false bid pooling
+        </h2>
         NJ calls you&nbsp;
         <a href="https://truncatedsalestax.com">mentally insane</a>, off-jury
         duty & lock up for 13 days take away rights to handle my own money if
