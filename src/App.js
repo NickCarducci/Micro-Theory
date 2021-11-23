@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “‘Reserves’ to a commodity trader is like a ‘savings account,’ if your
+        car breaks down, you’re in a lot of trouble. It will cost you and I.”
+        Carl Higbie
+        <br />
         <h2>
           Parks/copyright/services; america first means we make things without
           nationalism and with utility open source licensure
