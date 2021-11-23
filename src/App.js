@@ -72,8 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        why would you work against the $300k/year/person busy-work that is
-        lender-/landlord-work-deficit
+        why would you work against the&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=Jde9">
+          $300k/year/person
+        </a>
+        &nbsp;busy-work that is lender-/landlord-work-deficit
         <br />
         <br />
         rent-seeking and gentrification in
