@@ -212,6 +212,13 @@ export default class App extends React.Component {
         <br />
         admin only wants to go after income over $400k/yr, because
         $300k/year/person is new debt
+        <br />
+        <br />
+        The qualifier: “He is mentally unstable because he said, ‘I’m going to
+        run people over this Rittenhouse thing,’” not home sales in 11x
+        down-payments? Gerontocracy laundering loiterers to counterfeiters in
+        contract. wait for customers and investment bank towards concurrentable
+        equity, only.
         <h2>
           abolish bond-index-funds, mental-illness without dent-in-head
           disqualifier, implausible landlord use, credit cycle keep down
