@@ -188,6 +188,8 @@ export default class App extends React.Component {
         dollar-share split in contract, counterfeited
         <br />
         <br />
+        population begets labor-competition, not inflation, nearly constant
+        gdp/p 1800-1913
         <h2>
           Common sense are a bunch of followers&nbsp;
           <span
