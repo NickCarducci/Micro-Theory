@@ -89,8 +89,8 @@ export default class App extends React.Component {
         <br />
         &bull; war
         <br />
-        &bull;&nbsp;
-        <a href="https://fred.stlouisfed.org/graph/?g=C6m9">
+        &bull;&nbsp;{/*https://fred.stlouisfed.org/graph/?g=C6m9*/}
+        <a href="https://fred.stlouisfed.org/graph/?g=JdcJ">
           invoicing/down-payments 11/1
         </a>
         &nbsp;& somehow&nbsp;
