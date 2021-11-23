@@ -72,6 +72,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        NJ calls you&nbsp;
+        <a href="https://truncatedsalestax.com">mentally insane</a>, off-jury
+        duty & lock up for 13 days take away rights to handle my own money if
+        you agree with&nbsp;
+        <a href="https://youtu.be/aJEszZK54dw">Paul Krugman</a>, who plagerized
+        you, on some things
+        <br />
+        <br />
         A return on net loss is conflict of interest. The right isn't voluntary
         at all. Wait for customers
         <br />
@@ -92,6 +100,9 @@ export default class App extends React.Component {
         <h2>Anti-credit union</h2>
         <br />
         Malice=malignant heart
+        <br/>
+          options to buy on estimate is grandiose scope, let my home-contracting-parents 
+take the better bid, that is full
         <h2>
           Marxist communists would not oversell like market communists. We want
           to emulate infinite producers with regulations of duress in false bid
