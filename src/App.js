@@ -89,7 +89,7 @@ export default class App extends React.Component {
           float="left"
           title="'Wings for Victory' war bonds advertisement 'sky's the limit!"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 26]}
+          fwd={this["scrollImg" + 27]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -127,7 +127,14 @@ export default class App extends React.Component {
         customers & jobs), keep in equity concurrentable. Only way out is to
         amortize, not cancel nor keep down payment upon repo “business cycle”
         (bailout share-split). Dollars are 20% US lands, gdp/p before 1913 was
-        nearly constant micro-theory.com
+        nearly constant micro-theory.com&nbsp;
+        <span
+          style={{
+            fontWeight: "bolder"
+          }}
+        >
+          cap 5 units /30 days, non-voters keep winning
+        </span>
         <br />
         <br />
         1/3 try is owned by foreigners, $1t/$7t being China
@@ -190,7 +197,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        boycotting credit, gdp:down payment isn;t a job, and accrual/grandiose
+        boycotting credit, gdp:down payment isn't a job, and accrual/grandiose
         scope with estimate insurance isn't a customer but false bid pool
         <h2>third party bene, anti-rent-seeker-bona-fides</h2>
         You can be vaccinated and spread it, you can be unvaccinated and spread
