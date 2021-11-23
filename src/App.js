@@ -72,7 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        “That’s a big family!”
+        Duress doesn’t allow consumers to find the most efficient brands on the
+        quality/price skew
+        <br />
         <br />
         We need to hold counterfeiters and loitering-borrowers dealing in credit
         to the same standard, be them black drug users dealing in cash or white
