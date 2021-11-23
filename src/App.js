@@ -117,8 +117,8 @@ export default class App extends React.Component {
         <br />
         &bull; false bid pool, invoices & implausible use landlords denouncing
         <br />
-        &bull; timelesspaydayroyalty scoped for industry-type per
-        person-to-person
+        &bull; timelesspaydayroyalty with max profit (RCWMP) scoped for
+        industry-type per person-to-person
         <br />
         <br />
         Tranqulity means users need to be paid to be discriminated for quality
