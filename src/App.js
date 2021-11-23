@@ -72,6 +72,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        A return on net loss is conflict of interest. The right isn't voluntary
+        at all. Wait for customers
+        <br />
+        <h2>Common sense are a bunch of followers</h2>
+        Price-deflation over hours halves every 5 years while gdp/p was nearly
+        constant before 1913, debt and money double every 10, home prices every
+        20, non-durable goods every 40
+        <br />
+        <br />
         No reason for a qualified immunity for politicians means it is just a
         placard. Even the chief commander isn't literally, "under fire," statute
         of limitations has no reason either.
