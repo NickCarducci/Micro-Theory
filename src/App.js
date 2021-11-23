@@ -79,10 +79,9 @@ export default class App extends React.Component {
         <a href="https://youtu.be/aJEszZK54dw">Paul Krugman</a>, who plagerized
         you, on some things
         <br />
-        <br />
-        A return on net loss is conflict of interest. The right isn't voluntary
-        at all. Wait for customers
-        <br />
+        <br />A return on net loss is conflict of interest. The right isn't
+        voluntary at all. Wait for customers
+        <h2>Demand needs to be labor, exclusively</h2>
         You can desist plagiarism claims with spark of genius, unless the
         defending-accuser has their own to keep reasonable doubt I wasn’t the
         start. Regardless, see how I am treated with MORE detail into fraudulent
@@ -2678,4 +2677,3 @@ export default class App extends React.Component {
     );
   }
 }
-
