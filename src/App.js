@@ -72,6 +72,21 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “That’s a big family!”
+        <br />
+        We need to hold counterfeiters and loitering-borrowers dealing in credit
+        to the same standard, be them black drug users dealing in cash or white
+        pharmacy false bid pool sellers dealing in credit
+        <h2>GOP: blue collar incrimination, only</h2>
+        cases vs asymptomatic testing is the fallacy, no damage from covid, just
+        naivety.&nbsp;
+        <a href="https://humanharvest.info">Trust statisticians</a>, not
+        doctors' save-face
+        <br />
+        <h2>
+          Communist defined by Marx isn't a market communist, but one that
+          emulated infinite producers in jury, for business!
+        </h2>
         Biden is selling out oil reserves because I am calling dollars, 20% US
         lands, instead of target margin networks instead of
         rent-seeking-gov/wall st gentrification, gerontocrazy 20x/person
