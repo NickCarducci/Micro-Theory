@@ -72,6 +72,12 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        debt:cash*income thru history bid-to-ask inelasticity can be amortized
+        for past purchases as to respect third party beneficiary laws.
+        Canceling, bailing out/new dealing debt nor "credit-cycle" keeping down
+        payments upon repossession force majeure estimated option to buy
+        <br />
+        <br />
         net loss incarceration and death is a net gain when valued in dollars
         from bonds
         <h2>dealing durable public park deeds for my copyright-royalties</h2>
