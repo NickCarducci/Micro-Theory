@@ -149,6 +149,13 @@ export default class App extends React.Component {
         being my parents who spend before collecting and merely lose money
         <br />
         <br />
+        Fines instead of stateless-victimized-torts by consumers (including
+        corporations as are demand-surrogate) permits lying, evidently by my
+        experience at RiverviewMedCtr in Red Bank, NJ, whom say I “kicked and
+        punched,” trying to elope, with good reason, too. They won’t even show
+        authorities the footage
+        <br />
+        <br />
         Dear Mom,
         <br />
         You waste more money than I do, please do not spend my backpayments from
