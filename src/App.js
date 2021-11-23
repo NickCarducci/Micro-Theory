@@ -72,6 +72,36 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        rent-seeking and gentrification in
+        <br />
+        &bull; tolls and broadband
+        <br />
+        &bull; housing
+        <br />
+        &bull; healthcare
+        <br />
+        &bull; jury-permitting (jury for business)
+        <br />
+        <br />
+        making money on net loss bonds in
+        <br />
+        &bull; incarceration
+        <br />
+        &bull; war
+        <br />
+        &bull; invoicing/down-payments 11/1 & somehow 40-50% debt
+        <br />
+        <br />
+        flopping on
+        <br />
+        &bull; truncated sales tax 2025 against menendez
+        <br />
+        &bull; amortize cash:debt*income price-deflation without debt
+        inelasticity of bid-to-ask
+        <br />
+        &bull; false bid pool, invoices & implausible use landlords denouncing
+        <br />
+        <br />
         Tranqulity means users need to be paid to be discriminated for quality
         <br />
         <br />
