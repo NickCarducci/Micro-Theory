@@ -127,7 +127,8 @@ export default class App extends React.Component {
         duty & lock up for 13 days take away rights to handle my own money if
         you agree with&nbsp;
         <a href="https://youtu.be/aJEszZK54dw">Paul Krugman</a>, who plagerized
-        you, on some things
+        you, on some things. laundering the share-split to borrowing loiterers
+        being my parents who spend before collecting and merely lose money
         <br />
         <br />A return on net loss is conflict of interest. The right isn't
         voluntary at all. Wait for customers
