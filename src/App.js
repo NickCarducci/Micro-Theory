@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2 style={{ color: "darkgreen" }}>
+          “How can my mortgage work for me? Can it be better, always yes.
+          American home financings, greater overall savings shorter terms or
+          refinancing debt. Saving over $1k/mo. 10 minutes to save a fortune, at
+          least a small fortune,” Mark Levin
+        </h2>
+        <br />
         At least the cnn masterbaiter isn’t on the side of the gentrified
         manufacturing class, G-d's chosen people
         <br />
