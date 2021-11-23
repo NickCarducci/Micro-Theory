@@ -72,12 +72,26 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Malice=malignant heart
+        <h2>
+          Marxist communists would not oversell like market communists. We want
+          to emulate infinite producers with regulations of duress in false bid
+          pool expiring insurance, invoices with down payments kept upon
+          repossession purposeful-impossibilities and implausible landlord use
+        </h2>
+        No rent seeking for even free rider immutables
+        <br />
+        By gov nor wall st
+        <br />
+        Abolish corporate profits, outlay escrow immediately or investment
+        partnerships wait for customers over business-line
+        <br />
         <h2>
           aba racketeering class precedence malfeasance, interested in
           incarceration for net loss is profit when bonds instead of truncated
           sales tax for free rider immutable sewage police lawsuits
         </h2>
-        Bias or interest in the case, for or against. How can you now? Not?
+        Bias or interest in the case, for or against. How can you not?
         <br />
         Interest needs to be financial or industry, not merely consumer
         <br />
