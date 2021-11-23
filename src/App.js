@@ -83,6 +83,18 @@ export default class App extends React.Component {
         A return on net loss is conflict of interest. The right isn't voluntary
         at all. Wait for customers
         <br />
+        You can desist plagiarism claims with spark of genius, unless the
+        defending-accuser has their own to keep reasonable doubt I wasn’t the
+        start. Regardless, see how I am treated with MORE detail into fraudulent
+        collective bargaining on non-concurrentable outlay & hours schedules of
+        false bid pools of expiring-non-rollover insurance. Redraft every season
+        for non-compete emulation of infinite producers in microeconomic theory
+        of supply and demand, x-axis being output productivity per hour by
+        price-deflation, squandered by 60/40 gov/wall st, $821/day/person
+        pre-3/2020 new third party beneficiary illegal-precedence of
+        dollar-share split in contract, counterfeited
+        <br />
+        <br />
         <h2>Common sense are a bunch of followers</h2>
         Price-deflation over hours halves every 5 years while gdp/p was nearly
         constant before 1913, debt and money double every 10, home prices every
@@ -100,9 +112,9 @@ export default class App extends React.Component {
         <h2>Anti-credit union</h2>
         <br />
         Malice=malignant heart
-        <br/>
-          options to buy on estimate is grandiose scope, let my home-contracting-parents 
-take the better bid, that is full
+        <br />
+        options to buy on estimate is grandiose scope, let my
+        home-contracting-parents take the better bid, that is full
         <h2>
           Marxist communists would not oversell like market communists. We want
           to emulate infinite producers with regulations of duress in false bid
@@ -2666,3 +2678,4 @@ take the better bid, that is full
     );
   }
 }
+
