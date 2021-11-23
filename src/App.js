@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Tranqulity means users need to be paid to be discriminated for quality
+        <br />
+        <br />
         Duress doesn’t allow consumers to find the most efficient brands on the
         quality/price skew
         <br />
