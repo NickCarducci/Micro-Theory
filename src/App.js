@@ -72,6 +72,54 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Is the victimized state, lender or landlord a conflict of interest?
+        </h2>
+        if people want to fight, they will
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1DQFNpt07XWPUCryIKxwusnR98KaPLWV3/preview"
+          }
+          float="right"
+          title="'Wings for Victory' war bonds advertisement 'sky's the limit!"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 26]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1ljlBl_QHs-PKO4-iFbzlIAgUdBbv4nuo/preview"
+          }
+          float="right"
+          title="Bernie and Sid (77WABC) - Nov 23 2021, alternative gov truncated sales tax after amortization of options to buy estimates"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 26]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        lender-work-deficit is the greatest cause of inflation, wrapped up into
+        a three-word-chant
+        <br />
+        <br />
+        most gdp is mortgages
+        <br />
+        <br />
+        raised bonds allows those guys not to work for the same intermediate
+        goods. Colonizer - not exactly output-productivity per hour by
+        price-deflation
+        <br />
+        <br />
         Such a dramatist cannot wait for profits by accrual and false bid pools.
         Banks keep out of max-profit-royalties & insurance keep out of claims
         outlays non-concurrent schedule upon 1/11 down-payments/gdp (actual
@@ -93,6 +141,54 @@ export default class App extends React.Component {
         spending, 10-40% debt service bond laundering
         <br />
         <br />
+        <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/OqgUxnqc3AM"
+          }
+          float="left"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 25]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/1D6n2om9I6A"
+          }
+          float="left"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 24]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/AJWkVjK7u48"
+          }
+          float="left"
+          title="https://fb.watch/9ruq5dxR9r/"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 23]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         boycotting credit, gdp:down payment isn;t a job, and accrual/grandiose
         scope with estimate insurance isn't a customer but false bid pool
         <h2>third party bene, anti-rent-seeker-bona-fides</h2>
@@ -115,56 +211,8 @@ export default class App extends React.Component {
         )
         <br />
         <br />
-        <Cable
-          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
-          onError={handleScollImgError}
-          //img={true}
-          src={
-            this.state.noyoutube
-              ? ""
-              : "https://www.youtube.com/embed/OqgUxnqc3AM"
-          }
-          float="right"
-          title="https://fb.watch/9ruq5dxR9r/"
-          scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 25]}
-          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-          scrollTop={this.state.scrollTop}
-        />
-        <Cable
-          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
-          onError={handleScollImgError}
-          //img={true}
-          src={
-            this.state.noyoutube
-              ? ""
-              : "https://www.youtube.com/embed/1D6n2om9I6A"
-          }
-          float="right"
-          title="https://fb.watch/9ruq5dxR9r/"
-          scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 24]}
-          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-          scrollTop={this.state.scrollTop}
-        />
-        <Cable
-          style={{ width: "100%", minWidth: "30vw", maxWidth: "30%" }}
-          onError={handleScollImgError}
-          //img={true}
-          src={
-            this.state.noyoutube
-              ? ""
-              : "https://www.youtube.com/embed/AJWkVjK7u48"
-          }
-          float="right"
-          title="https://fb.watch/9ruq5dxR9r/"
-          scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 23]}
-          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-          scrollTop={this.state.scrollTop}
-        />
         <TwitterTweetEmbed
-          style={{ float: "left", width: "300px" }}
+          style={{ float: "right", width: "300px" }}
           key="1429182687588278276"
           tweetId="1429182687588278276"
         />
@@ -188,7 +236,7 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1nQ3nEEiA8HnytQM_jg0KZ3PYs7lInnYx/preview"
           }
-          float="right"
+          float="left"
           title="https://fb.watch/9ruq5dxR9r/"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 22]}
@@ -202,6 +250,9 @@ export default class App extends React.Component {
         laborequity.org&nbsp;<a href="https://saverparty.xyz">savings</a>
         <br />
         <br />
+        home equity loans places principal-risk from the lender into
+        purposefully-impossible intent to foreclose and keep down-payments
+        <h2>false bid pools and options to buy estimates, a hypocrisy</h2>
         Amortize
         <br />
         ​abolish bonds as private property
