@@ -72,6 +72,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        open-source-automatic-licensure (right to try & not compete with
+        consumers) can solve animal-testing and immigrant working age can solve
+        the lender-work deficit, or amortize the credit cycle so income and
+        purchases are reverse engineered for the
+        durable-concurrentable-collateral to be where it should have been
+        without debt-inelasticity of false bid-to-ask of counterfeiter,
+        fraudulent concurrentable collective bargainable units, and implausible
+        use rentier
+        <br />
+        <br />
         Non-voters won, and ideologically-duressed voters can split both major
         parties
         <div
@@ -101,7 +111,7 @@ export default class App extends React.Component {
         out about only 20% of regular spending at $4t/yr 1/4 pentagon, 1/4
         pensions, 1/4 premiums not becoming currencyComponentOfM1 checking, how?
         40-50% debt spending, 10-40% bond laundering debt servicing by
-        lender-work-deficit 20x/person 55+/millennial, half disability and
+        landlord-work-deficit 20x/person 55+/millennial, half disability and
         insurance to 65+ retirees, dead-weight inflation from price-deflation
         because of rentier over escrow
         <br />
