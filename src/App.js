@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        At least the cnn masterbaiter isn’t on the side of the gentrified
+        manufacturing class, G-d's chosen people
+        <br />
+        <br />
         “‘Reserves’ to a commodity trader is like a ‘savings account,’ if your
         car breaks down, you’re in a lot of trouble. It will cost you and I.”
         Carl Higbie
