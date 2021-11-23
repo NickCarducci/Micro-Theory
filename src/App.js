@@ -72,6 +72,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Biden is selling out oil reserves because I am calling dollars, 20% US
+        lands, instead of target margin networks instead of
+        rent-seeking-gov/wall st gentrification, gerontocrazy 20x/person
+        rental-income laundered to principal value, not utility.... then ran the
+        gamit of down payment upon reposession. Marx communist was first to
+        betroth market-communist credit cycle as improper property, utility in
+        finite producer reality too, keeping labor to exclusively demand, with
+        tranquility, not-surrendered by contracts-counterfeit mootable
         <h2>an option to buy on estimate</h2>
         <Cable
           onError={handleScollImgError}
@@ -84,7 +92,7 @@ export default class App extends React.Component {
           float="left"
           title="John Bachmann Now - Jill Simonian, Director of Outreach for PragerU.com/kids"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 28]}
+          fwd={this["scrollImg" + 29]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -160,7 +168,6 @@ export default class App extends React.Component {
         “That’s a big family!”
         <br />
         <Cable
-          style={{ height: "300px" }}
           onError={handleScollImgError}
           //img={true}
           src={
