@@ -72,6 +72,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          aba racketeering class precedence malfeasance, interested in
+          incarceration for net loss is profit when bonds instead of truncated
+          sales tax for free rider immutable sewage police lawsuits
+        </h2>
+        Bias or interest in the case, for or against. How can you now? Not?
+        <br />
+        Interest needs to be financial or industry, not merely consumer
+        <br />
+        No inference hurtful
+        <br />
+        For statement to be voluntary the statement must be given without
+        leniency nor reward, free will without compulsion nor necessity borne by
+        others
+        <br />
+        If not voluntary, don’t consider it for any purpose
+        <br />
+        Coercion Duress fear of violence threats of injury, or any suggestions
+        or promises of leniency nor reward. As in monthly savings of false bid
+        pools and higher deductibles, or for the borrower the ability to loiter
+        merely at greater principal price, under succh duress
+        <br />
+        <br />
         debt:cash*income thru history bid-to-ask inelasticity can be amortized
         for past purchases as to respect third party beneficiary laws.
         Canceling, bailing out/new dealing debt nor "credit-cycle" keeping down
