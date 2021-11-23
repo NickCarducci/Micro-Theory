@@ -142,6 +142,12 @@ export default class App extends React.Component {
         disability, and launder it to your crediting counterfeiters and options
         to buy upon estimates
         <br />
+        <br />
+        they are also giving me 1/3 of what I would have earned without the torn
+        vastus medialis dependent anatomy as a summer-bartender $45k/3-years,
+        backpaid SSA disability & insurance for assuming 5k applications would
+        fire me in my self-trained youtube-video dev work
+        <br />
         <br />A return on net loss is conflict of interest. The right isn't
         voluntary at all. Wait for customers
         <h2>Demand needs to be labor, exclusively</h2>
