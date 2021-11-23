@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        why would you work against the $300k/year/person busy-work that is
+        lender-/landlord-work-deficit
+        <br />
+        <br />
         rent-seeking and gentrification in
         <br />
         &bull; tolls and broadband
