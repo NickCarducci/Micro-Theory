@@ -157,6 +157,24 @@ export default class App extends React.Component {
         authorities the footage
         <br />
         <br />
+        “That’s a big family!”
+        <br />
+        <Cable
+          style={{ height: "300px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1bkuUkDe9iyAJGWytn-jtihhCjiCRkC1B/preview"
+          }
+          float="right"
+          title="American Agenda (Newsmax) - Bob sellers comments on the family debts, market-communism on the wall st update, nearly"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 28]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         Dear Mom,
         <br />
         You waste more money than I do, please do not spend my backpayments from
