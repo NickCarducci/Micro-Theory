@@ -76,8 +76,9 @@ export default class App extends React.Component {
           Is the victimized state, lender or landlord a conflict of interest?
         </h2>
         if people want to fight, they will
+        <br />
         <Cable
-          style={{ height: "440px" }}
+          style={{ height: "300px" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -85,7 +86,7 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1DQFNpt07XWPUCryIKxwusnR98KaPLWV3/preview"
           }
-          float="right"
+          float="left"
           title="'Wings for Victory' war bonds advertisement 'sky's the limit!"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 26]}
