@@ -130,6 +130,18 @@ export default class App extends React.Component {
         you, on some things. laundering the share-split to borrowing loiterers
         being my parents who spend before collecting and merely lose money
         <br />
+        <br />
+        Dear Mom,
+        <br />
+        You waste more money than I do, please do not spend my backpayments from
+        SSA on your debts, nor rent imagined by you. Borrowers loiter on savers’
+        resources, but I clean enough to earn my keep in the basement that is
+        implausibly-utilitarious by yourselves. I have a different strategy with
+        consumers debts that cannot touch my copyright-properties in
+        foreclosure. Apparently, you said I pushed you so that you can take my
+        disability, and launder it to your crediting counterfeiters and options
+        to buy upon estimates
+        <br />
         <br />A return on net loss is conflict of interest. The right isn't
         voluntary at all. Wait for customers
         <h2>Demand needs to be labor, exclusively</h2>
