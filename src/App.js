@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        existing business is complacency, ppp is trust building, new business
+        need support.
+        <br />
+        <br />
         why would you work against the&nbsp;
         <a href="https://fred.stlouisfed.org/graph/?g=Jde9">
           $300k/year/person
