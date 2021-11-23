@@ -83,7 +83,8 @@ export default class App extends React.Component {
         <h2>dealing durable public park deeds for my copyright-royalties</h2>
         Old people: "you know what you are getting into unless on-site, false
         pool bids are additive," closed-source-licensure with uspto-grunts does
-        that
+        that. utility patents are discoveries and copyright is sufficient.
+        Shapes and etymology too-broad aren't to be owned
         <h2>
           Is the victimized state, lender or landlord a conflict of interest?
         </h2>
