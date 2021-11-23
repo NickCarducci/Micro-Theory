@@ -188,7 +188,16 @@ export default class App extends React.Component {
         dollar-share split in contract, counterfeited
         <br />
         <br />
-        <h2>Common sense are a bunch of followers</h2>
+        <h2>
+          Common sense are a bunch of followers&nbsp;
+          <span
+            style={{
+              color: "grey"
+            }}
+          >
+            10x hours per median home since 1970 half-life ago
+          </span>
+        </h2>
         Price-deflation over hours halves every 5 years while gdp/p was nearly
         constant before 1913, debt and money double every 10, home prices every
         20, non-durable goods every 40
