@@ -72,6 +72,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        $2t bill signed, right?” “Yup!” Affirms the bailout laundering is the
+        second phase of the trickle down bailout for less income inequality but
+        kept down payment unamortized for that collateral correction if without
+        debt:cash third party beneficiary bid-to-ask & hung-jury-permit
+        inelasticity business-/credit-cycle for the national security perpetual
+        motion machine that is durable earth, not escrow for general account or
+        grandiose scope with an option to buy upon estimates
+        <br />
+        <br />
         existing business is complacency, ppp is trust building, new business
         need support.
         <br />
