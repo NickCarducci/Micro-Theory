@@ -138,8 +138,8 @@ export default class App extends React.Component {
         outlays non-concurrent schedule upon 1/11 down-payments/gdp (actual
         customers & jobs), keep in equity concurrentable. Only way out is to
         amortize, not cancel nor keep down payment upon repo “business cycle”
-        (bailout share-split). Dollars are 20% US lands, gdp/p before 1913 was
-        nearly constant micro-theory.com&nbsp;
+        (bailout fractional-reserve share-split). Dollars are 20% US lands,
+        gdp/p before 1913 was nearly constant micro-theory.com&nbsp;
         <span
           style={{
             fontWeight: "bolder"
@@ -147,6 +147,12 @@ export default class App extends React.Component {
         >
           cap 5 units /30 days, non-voters keep winning
         </span>
+        <br />
+        <br />
+        “Can you be a fair and objective person,” regardless of time-constraints
+        <br />
+        Need all people included, not detractors from favored countervailing
+        laws, precedence and comparative innocence
         <br />
         <br />
         1/3 try is owned by foreigners, $1t/$7t being China
