@@ -72,6 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>an option to buy on estimate</h2>
         <Cable
           onError={handleScollImgError}
           //img={true}
