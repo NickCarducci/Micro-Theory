@@ -164,6 +164,8 @@ export default class App extends React.Component {
         <a href="https://humanharvest.info">Trust statisticians</a>, not
         doctors' save-face
         <br />
+        Don’t betroth statistical assumptions to determinism
+        <br />
         <h2>
           Communist defined by Marx isn't a market communist, but one that
           emulated infinite producers in jury, for business!
