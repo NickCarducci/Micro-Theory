@@ -82,7 +82,13 @@ export default class App extends React.Component {
         We need to hold counterfeiters and loitering-borrowers dealing in credit
         to the same standard, be them black drug users dealing in cash or white
         pharmacy false bid pool sellers dealing in credit
-        <h2>GOP: blue collar incrimination, only</h2>
+        <h2>
+          GOP: blue collar incrimination, only &nbsp;
+          <span style={{ color: "red" }}>
+            Lidia Curanai is delusional, her income is from third party
+            beneficiary-countefeit
+          </span>
+        </h2>
         cases vs asymptomatic testing is the fallacy, no damage from covid, just
         naivety.&nbsp;
         <a href="https://humanharvest.info">Trust statisticians</a>, not
