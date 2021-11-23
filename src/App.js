@@ -72,6 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "Solicit" requites line-itemized, racketeering is false pool bid in
+        general account
+        <br />
+        <h2>Anti-credit union</h2>
+        <br />
         Malice=malignant heart
         <h2>
           Marxist communists would not oversell like market communists. We want
