@@ -72,6 +72,24 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1zyspe55pdTgbQlfsPbgWjVkTDX1QPLhv/preview"
+          }
+          float="left"
+          title="John Bachmann Now - Jill Simonian, Director of Outreach for PragerU.com/kids"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 28]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “We need our kids to know that America is an overarching ‘good’ place,”
+        <br />
+        <br />
         open-source-automatic-licensure (right to try & not compete with
         consumers) can solve animal-testing and immigrant working age can solve
         the lender-work deficit, or amortize the credit cycle so income and
