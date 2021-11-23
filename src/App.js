@@ -72,6 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        No reason for a qualified immunity for politicians means it is just a
+        placard. Even the chief commander isn't literally, "under fire," statute
+        of limitations has no reason either.
+        <br />
+        <br />
         "Solicit" requites line-itemized, racketeering is false pool bid in
         general account
         <br />
@@ -123,10 +128,11 @@ export default class App extends React.Component {
         net loss incarceration and death is a net gain when valued in dollars
         from bonds
         <h2>dealing durable public park deeds for my copyright-royalties</h2>
-        Old people: "you know what you are getting into unless on-site, false
-        pool bids are additive," closed-source-licensure with uspto-grunts does
-        that. utility patents are discoveries and copyright is sufficient.
-        Shapes and etymology too-broad aren't to be owned
+        Old people: "you know what you are getting into unless on-site
+        {/**unless guard-rail is next to tail-entry */}, false pool bids are
+        additive," closed-source-licensure with uspto-grunts does that. utility
+        patents are discoveries and copyright is sufficient. Shapes and
+        etymology too-broad aren't to be owned
         <h2>
           Is the victimized state, lender or landlord a conflict of interest?
         </h2>
@@ -582,7 +588,17 @@ export default class App extends React.Component {
         <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
           mRNA-sporing-grafts
         </a>
-        , net loss bonds profit, with standing to boot
+        , net loss bonds profit, with illegal but precedential standing, to boot
+        <br />
+        <br />
+        cases vs asymptomatic testing is the fallacy, speaking as an
+        econometrist, though Durr qualified himself as a truck driver
+        <br />
+        <br />
+        GOP and Dems are paranoid, still calling&nbsp;
+        <a href="https://humanharvest.info">-700k excess deaths expected</a>
+        &nbsp;a pandemic, thinks virus inseminates cell instead of comes out, by
+        cartoon vivo
         <br />
         <br />
         <Cable
