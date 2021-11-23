@@ -72,6 +72,39 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Non-voters won, and ideologically-duressed voters can split both major
+        parties
+        <div
+          style={{
+            width: "min-content",
+            transform: "translateX(50%)",
+            padding: "20px",
+            //backgroundColor: "white",
+            WebkitTextStroke: "1px black",
+            color: "white",
+            border: "3px solid black",
+            borderRadius: "30px",
+            textAlign: "center",
+            fontSize: "26px"
+          }}
+        >
+          SaverParty.xyz
+        </div>
+        <span style={{ backgroundColor: "red" }}>
+          Republicans aren't freedom, they have business mandates and ignore the
+          fact that infinite producers is merely a grave microeconomic
+          assumption
+        </span>
+        <br />
+        <br />
+        $600m revenue over the next decade $367m debt -heritage action freaks
+        out about only 20% of regular spending at $4t/yr 1/4 pentagon, 1/4
+        pensions, 1/4 premiums not becoming currencyComponentOfM1 checking, how?
+        40-50% debt spending, 10-40% bond laundering debt servicing by
+        lender-work-deficit 20x/person 55+/millennial, half disability and
+        insurance to 65+ retirees, dead-weight inflation from price-deflation
+        because of rentier over escrow
+        <br />
         admin only wants to go after income over $400k/yr, because
         $300k/year/person is new debt
         <h2>
@@ -96,7 +129,7 @@ export default class App extends React.Component {
         false bid pools of expiring-non-rollover insurance. Redraft every season
         for non-compete emulation of infinite producers in microeconomic theory
         of supply and demand, x-axis being output productivity per hour by
-        price-deflation, squandered by 60/40 gov/wall st, $821/day/person
+        price-deflation, squandered by 40/60 gov/wall st, $821/day/person
         pre-3/2020 new third party beneficiary illegal-precedence of
         dollar-share split in contract, counterfeited
         <br />
