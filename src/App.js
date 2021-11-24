@@ -89,6 +89,12 @@ export default class App extends React.Component {
           <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
             hypocrites
           </a>
+          ,&nbsp;<a href="https://saverparty.xyz">humanharvest.info</a>, excess
+          antibodies attacking your own cell-with-spore causes&nbsp;
+          <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2">
+            hot node leakage
+          </a>
+          , duh
         </h2>
         "People homeless is stupidity, a psychological problem," Rep Glenn
         Grothman, distributor of misinformation. see below for actual cause, not
@@ -3143,4 +3149,3 @@ export default class App extends React.Component {
     );
   }
 }
-
