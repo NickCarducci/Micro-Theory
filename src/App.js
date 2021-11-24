@@ -73,6 +73,21 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.youtube.com/embed/sbIoxEP41J8"
+          }
+          float="left"
+          title="Dr Henderson Review"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 34]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
           //img={true}
