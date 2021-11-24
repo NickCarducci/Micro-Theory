@@ -80,6 +80,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          oh,&nbsp;
+          <a href="https://www.healthline.com/health/shingles-vs-herpes">
+            the dread
+          </a>
+          &nbsp;
+          <a href="https://www.pfizer.com/news/hot-topics/viral_vs_bacterial_pneumonia_understanding_the_difference">
+            hypocrites
+          </a>
+        </h2>
         "People homeless is stupidity, a psychological problem," Rep Glenn
         Grothman, distributor of misinformation. see below for actual cause, not
         byproduct nor mental-opinion before brain malformity. The right are
@@ -107,7 +117,7 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.serviceCancelingImages
+            this.state.noyoutube
               ? ""
               : "https://www.youtube.com/embed/sbIoxEP41J8"
           }
@@ -234,6 +244,7 @@ export default class App extends React.Component {
           only $15k because their debt has collateral and mine doesn't, and they
           will let her set the rent instead of allow me to even move out with it
         </h2>
+        <br />
         <Cable
           style={{
             height: "440px"
@@ -3132,3 +3143,4 @@ export default class App extends React.Component {
     );
   }
 }
+
