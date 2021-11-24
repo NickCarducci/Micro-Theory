@@ -72,6 +72,21 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          <span style={{ color: "rgb(80,100,200)" }}>
+            Unvaccinated and other mobidity issues are more suceptible to&nbsp;
+            <a
+              style={{ color: "rgb(80,100,200)" }}
+              href="https://wyss.harvard.edu/news/the-secret-life-of-bacteria-revealed/"
+            >
+              deady diseases
+            </a>
+            <span style={{ color: "black" }}>
+              [, by asymptomatic-testing as opposed to cases]
+            </span>
+            ," Dr Leanna Wen
+          </span>
+        </h2>
         <h2 style={{ color: "darkgreen" }}>
           “How can my mortgage work for me? Can it be better, always yes.
           American home financings, greater overall savings shorter terms or
