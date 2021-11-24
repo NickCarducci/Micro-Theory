@@ -117,6 +117,12 @@ export default class App extends React.Component {
         I'm not crazy!
         <br />
         <br />
+        My mom is the designated payee on my disability because my hair is
+        messy, but she is the one with collateralized debt, my debt is just
+        consumer, they can’t touch it so the state wants to bail her out with my
+        money
+        <br />
+        <br />
         pig
         <br />
         <br />
