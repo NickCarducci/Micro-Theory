@@ -218,6 +218,16 @@ export default class App extends React.Component {
         race. 10x more hours than 1970 working-age, to own a home
         <br />
         <br />
+        “Turning their people into their chattel, it is their[ whole scheme],”
+        Jason Chaffitz
+        <br />
+        <br />
+        Zero privacy/security anarchy/China
+        <br />
+        Convict intranet for repeat offenders is NOT HARD 80k/yr missing
+        children forever is your fault, the dear reader
+        <br />
+        <br />
         the overwhelming evidence suggests the virus is merely a byproduct of
         bacterial-infection
         <br />
