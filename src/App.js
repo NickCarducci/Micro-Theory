@@ -72,6 +72,12 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "In order to receive disability, take the medication." One has nothing
+        to do with the other, the latter being an opinion rather than biological
+        fact, to boot. Mental illness isn't a disability nor is it affirmitively
+        solved by your medications. I have a hole in my leg. Isn't that enough?
+        <br />
+        <br />
         More people are oppressed than 1k years ago, as it was half at most, by
         race. 10x more hours than 1970 working-age, to own a home
         <br />
