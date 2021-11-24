@@ -80,6 +80,27 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        purposefully-impossible is a checkmate
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1f-aFDk8zXZI2V4EW7azfl2wR_zJV4Ka5/preview"
+          }
+          float="left"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 36]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        What is a treatment program? Just keep them in jail
+        <br />
+        <br />
         "taxes is the biggest problem," does not mean 40-50% debt spending,
         obviously without people voting. 1. outlay corporate profits, today! 2.
         cash:debt*income thru history 3. truncatedsalestax 2025 against menendez
