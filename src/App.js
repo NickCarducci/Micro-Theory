@@ -72,7 +72,27 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        I am called bizarre by orthopedic surgeons for a net loss profit by false bid pools
+        I'm not crazy!
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1YpWrPXXlhBHsLq06FXuhBnILH12Yk2NZ/preview"
+          }
+          float="left"
+          title="Steve Cortes - corporate work deficit"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 31]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        working against $300k/year/person instead of for your own portfolio, in
+        a market commune, withheld outlays, to boot, is retarded
+        <br />
+        <br />I am called bizarre by orthopedic surgeons for a net loss profit
+        by false bid pools
         <h2>
           SSA Disability is giving my mother my $45k award without my appeal for
           only $15k because their debt has collateral and mine doesn't, and they
@@ -89,7 +109,7 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1_8PTGz0yGAPZd1AMlq3o8V4BxH-TC_UX/preview"
           }
-          float="left"
+          float="right"
           title="Greg Kelly - Seb Gorka fill in with Rudy Giuliani, racketeering"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 30]}
