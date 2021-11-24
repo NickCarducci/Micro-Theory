@@ -75,6 +75,7 @@ export default class App extends React.Component {
         "fixed incomes that inflation will impact the most,"" but they make
         money on what causes inflation...
         <Cable
+          style={{ height: "440px" }}
           onError={handleScollImgError}
           //img={true}
           src={
