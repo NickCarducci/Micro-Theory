@@ -72,8 +72,12 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        "fixed incomes that inflation will impact the most,"" but they make
-        money on what causes inflation...
+        FUCK WORKING CLASS AMERICANS and existing small biz, what about the
+        open-source-contributors and new biz
+        <br />
+        <br />
+        "fixed incomes that inflation will impact the most," but they make money
+        on what causes inflation...
         <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
