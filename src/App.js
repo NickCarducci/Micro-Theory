@@ -967,11 +967,11 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
-              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=J88P&width=670&height=475`
+              : `https://fred.stlouisfed.org/graph/graph-landing.php?g=JdUH&width=670&height=475`
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
           }
           float="right"
-          title="https://fred.stlouisfed.org/graph/?g=J88P"
+          title="https://fred.stlouisfed.org/graph/?g=JdUH"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 16]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
