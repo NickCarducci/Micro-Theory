@@ -101,8 +101,10 @@ export default class App extends React.Component {
         What is a treatment program? Just keep them in jail
         <br />
         <br />
+        they still have my Giant nugg
+        <h2>Bail and malfeasance means you don’t have the evidence</h2>
         "taxes is the biggest problem," does not mean 40-50% debt spending (how
-        to make profit on net loss), obviously without people voting. 1. outlay
+        to make profit on net loss,), obviously without people voting. 1. outlay
         corporate profits, today! 2. cash:debt*income thru history 3.
         truncatedsalestax 2025 against menendez for free rider immutable sewage
         police lawsuits, no more animal-testing,
@@ -269,8 +271,9 @@ export default class App extends React.Component {
         pig
         <br />
         <br />
-        working against $300k/year/person instead of for your own portfolio, in
-        a market commune, withheld outlays, to boot, is retarded
+        working against $300k/year/person instead of for your own (not resume
+        buffing, but copyright), in a market commune, withheld outlays, to boot,
+        is retarded
         <br />
         <br />I am called bizarre by orthopedic surgeons for a net loss profit
         by false bid pools
