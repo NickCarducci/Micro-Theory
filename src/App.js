@@ -3,11 +3,19 @@ import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import Cable from "./Dropwire";
 import GDP from "./GDP";
+import { UAParser } from "ua-parser-js";
 
 export default class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { scrollTop: 0 };
+    var parser = new UAParser();
+    const name = parser.getBrowser().name;
+    console.log(name);
+    this.state = {
+      browser: name,
+      scrollTop: 0,
+      serviceCancelingImages: name.includes("Safari")
+    };
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
