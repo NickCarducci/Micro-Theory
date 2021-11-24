@@ -80,6 +80,26 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{ height: "350px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1B7L7XghMjQuiG80V7OBSX7c6FPoQCSQS/preview"
+          }
+          float="right"
+          title="Cronus Bill O'Reilly false bid pooling and implausible landlord use intent beyond 5 units or 30 days of auto or units"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 37]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Predictable income. Double digit bonus return,” Bill O’Reilly
+        counterfeiting bid and implausibly-able-to-use rental-units
+        <br />
+        <br />
         lawfully using their own words against countervailing laws and illegal
         precedence, racketeering licensing boards in furtherance than merely
         class resolution for trial like expiring premiums and false bid pool
@@ -1001,7 +1021,7 @@ export default class App extends React.Component {
         <br />
         <br />
         living-like an consumer-laborer without
-        competition-by-duress-nor-settlement, in a finite-producer world
+        competition-by-duress-nor-non-settlement, in a finite-producer world
         <h2>
           Not self defense when felony, except when the state (120% wall st) has
           a r&r monopsony
