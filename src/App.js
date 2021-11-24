@@ -114,8 +114,9 @@ export default class App extends React.Component {
         they still have my Giant nugg
         <h2>Bail and malfeasance means you don’t have the evidence</h2>
         "taxes is the biggest problem," does not mean 40-50% debt spending (how
-        to make profit on net loss,), obviously without people voting. 1. outlay
-        corporate profits, today! 2. cash:debt*income thru history 3.
+        to make profit on net loss; e.g. do bipartisans fixate on the last meal
+        idea, like a bunch of cucks?), obviously without people voting. 1.
+        outlay corporate profits, today! 2. cash:debt*income thru history 3.
         truncatedsalestax 2025 against menendez for free rider immutable sewage
         police lawsuits, no more animal-testing,
         closed-source-licensure-racketeering and
