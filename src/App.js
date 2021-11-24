@@ -83,7 +83,7 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1cP5V86FWOxqaOjI3wm5SkxylZZSPinKf/preview"
           }
-          float="right"
+          float="left"
           title="My Mother is taking a deal that isn't hers to make"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 32]}
@@ -91,11 +91,6 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <br />
-        <br />
-        I'm not crazy!
-        <br />
-        <br />
-        pig
         <Cable
           onError={handleScollImgError}
           //img={true}
@@ -104,13 +99,18 @@ export default class App extends React.Component {
               ? ""
               : "https://drive.google.com/file/d/1YpWrPXXlhBHsLq06FXuhBnILH12Yk2NZ/preview"
           }
-          float="left"
+          float="right"
           title="Steve Cortes - corporate work deficit"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 31]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        I'm not crazy!
+        <br />
+        <br />
+        pig
         <br />
         <br />
         working against $300k/year/person instead of for your own portfolio, in
