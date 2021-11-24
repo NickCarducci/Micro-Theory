@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        landlords implausible and borrowers loitering is menace of society
+        <br />
+        <br />
         FUCK WORKING CLASS AMERICANS and existing small biz, what about the
         open-source-contributors and new biz
         <br />
