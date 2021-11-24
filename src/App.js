@@ -72,6 +72,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Making it easier to adopt with more money is a fallacy since
+        <br />
+        More money for the same goods
+        <br />
+        I’m living without rents
+        <br />
+        <br />
         landlords implausible and borrowers loitering is menace of society
         <br />
         <br />
