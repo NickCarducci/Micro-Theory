@@ -354,10 +354,18 @@ export default class App extends React.Component {
             10x hours per median home since 1970 half-life ago
           </span>
         </h2>
-        Price-deflation over hours halves every 5 years while gdp/p was nearly
-        constant before 1913, debt and money double every 10, home prices every
-        20, non-durable goods every 40
-        <br />
+        inflation isn't expectation nor dollar-share-split, but debt
+        inelasticity bid-to-ask andlender-wrok-deficit
+        <span
+          style={{
+            backgroundColor: "rgb(197, 179, 88)",
+            color: "black"
+          }}
+        >
+          Price-deflation over hours halves every 5 years while gdp/p was nearly
+          constant before 1913, debt and money double every 10, home prices
+          every 20, non-durable goods every 40
+        </span>
         <br />
         No reason for a qualified immunity for politicians means it is just a
         placard. Even the chief commander isn't literally, "under fire," statute
