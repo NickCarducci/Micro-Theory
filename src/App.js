@@ -101,10 +101,11 @@ export default class App extends React.Component {
         What is a treatment program? Just keep them in jail
         <br />
         <br />
-        "taxes is the biggest problem," does not mean 40-50% debt spending,
-        obviously without people voting. 1. outlay corporate profits, today! 2.
-        cash:debt*income thru history 3. truncatedsalestax 2025 against menendez
-        for free rider immutable sewage police lawsuits, no more animal-testing,
+        "taxes is the biggest problem," does not mean 40-50% debt spending (how
+        to make profit on net loss), obviously without people voting. 1. outlay
+        corporate profits, today! 2. cash:debt*income thru history 3.
+        truncatedsalestax 2025 against menendez for free rider immutable sewage
+        police lawsuits, no more animal-testing,
         closed-source-licensure-racketeering and
         countervailing-law/illegal-precedence class precedence malfeasance and
         industry-expert-saveface or precedencial interest.
