@@ -72,7 +72,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "fixed incomes that inflation will impact the most,"" but they make
+        money on what causes inflation...
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1cP5V86FWOxqaOjI3wm5SkxylZZSPinKf/preview"
+          }
+          float="right"
+          title="My Mother is taking a deal that isn't hers to make"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 32]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <br />
+        <br />
         I'm not crazy!
+        <br />
+        <br />
+        pig
         <Cable
           onError={handleScollImgError}
           //img={true}
@@ -88,6 +110,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        <br />
         working against $300k/year/person instead of for your own portfolio, in
         a market commune, withheld outlays, to boot, is retarded
         <br />
