@@ -72,6 +72,22 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1g8x1S-kvf8xdXxTrMCmj_2hlEfwBbbBe/preview"
+          }
+          float="right"
+          title="My Stepfather walks into an amortization/worth contest"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 33]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         "In order to receive disability, take the medication." One has nothing
         to do with the other, the latter being an opinion rather than biological
         fact, to boot. Mental illness isn't a disability nor is it affirmitively
