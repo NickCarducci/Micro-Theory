@@ -72,9 +72,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        I am called bizarre by orthopedic surgeons for a net loss profit by false bid pools
         <h2>
           SSA Disability is giving my mother my $45k award without my appeal for
-          only $15k because their debt has collateral and mine doesn't
+          only $15k because their debt has collateral and mine doesn't, and they
+          will let her set the rent instead of allow me to even move out with it
         </h2>
         <Cable
           style={{
