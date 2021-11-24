@@ -5,7 +5,7 @@ class Cable extends React.Component {
     if (this.props.scrolling !== prevProps.scrolling) {
       const { scrollTopAndHeight, scrollTop } = this.props;
       var continuee = this.props.fwd.current;
-
+      if (!continuee) return;
       var between =
         scrollTopAndHeight - continuee.scrollTop > -100 &&
         continuee.scrollTop - scrollTop > -100;
@@ -24,7 +24,9 @@ class Cable extends React.Component {
     const { src, float, title, img } = this.props;
     return !continuee || between ? (
       src === "" ? (
-        <span style={{ border: "1px gray solid" }}>{title}</span>
+        <span ref={this.props.fwd} style={{ border: "1px gray solid" }}>
+          {title}
+        </span>
       ) : img ? (
         <img
           onError={this.props.onError}
