@@ -72,6 +72,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "supply and demand issues by a bridge," fucking tart
         <h2>
           <span style={{ color: "rgb(80,100,200)" }}>
             Unvaccinated and other mobidity issues are more suceptible to&nbsp;
