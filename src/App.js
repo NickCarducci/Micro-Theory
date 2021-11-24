@@ -72,7 +72,30 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "People homeless is stupidity, a psychological problem," Rep Glenn
+        Grothman, distributor of misinformation. see below for actual cause, not
+        byproduct nor mental-opinion before brain malformity. The right are
+        prejudicial all hell. Messy hair makes me disabled, Tom Basile? You just
+        want to prevent wall st blame and ignore 60/40 wall st/gov new debt at
+        $300k/year/person before 3/2020 population growth significant death
+        fraud and cases vs asymptomatic-tests fallacy
+        <br />
+        <br />
+        Indigent doesn't give right to rent-seek and gentrify housing nor add
+        money for same intermediate-material-labor, essentially making consumer
+        law on estimates force majeure on purpose, it is so obvious.
+        Incarceration is profit with such net loss operation with bonds & false
+        bid pools of expiring non-concurrentable insurance
+        <br />
+        <br />
+        Indigent because 10x hours per median home, half unemployed:working-age
+        cohort size, 20x/person 55+/millennial rental-income, not capping
+        implausible landlord use and lender-work-deficit to
+        consumer-awaited-outlays for collatteral loitered and down payments
+        laundered kept upon credit cycle forclosure reposession of transitory
+        supply chain prices
         <Cable
+          style={{ height: "440px" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -81,7 +104,23 @@ export default class App extends React.Component {
               : "https://www.youtube.com/embed/sbIoxEP41J8"
           }
           float="left"
-          title="Dr Henderson Review"
+          title="Dr Henderson Review Video Testimony & false mental-institution conviction, bizarre for non-rollover insurance whistleblower"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 35]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ width: "400px", maxWidth: "100vw", height: "400px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1NGR6kw3SJvf-L64eVhCK9QVgP2YovMqD/preview"
+          }
+          float="left"
+          title="Dr Henderson Review on Google, recinding of mental-illness claim online, apologizing for my 'knee appointment'"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 34]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
