@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        More people are oppressed than 1k years ago, as it was half at most, by
+        race. 10x more hours than 1970 working-age, to own a home
+        <br />
+        <br />
         the overwhelming evidence suggests the virus is merely a byproduct of
         bacterial-infection
         <br />
