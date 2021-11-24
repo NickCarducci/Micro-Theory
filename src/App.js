@@ -72,6 +72,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          SSA Disability is giving my mother my $45k award without my appeal for
+          only $15k because their debt has collateral and mine doesn't
+        </h2>
         <Cable
           style={{
             height: "440px"
