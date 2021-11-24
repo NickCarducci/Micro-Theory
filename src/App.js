@@ -219,15 +219,27 @@ export default class App extends React.Component {
         <br />
         <br />
         “Turning their people into their chattel, it is their[ whole scheme],”
-        Jason Chaffitz
+        Josh Dawsey
         <br />
         <br />
-        Zero privacy/security anarchy/China
+        "Zero privacy/security anarchy/China"
         <br />
-        Convict intranet for repeat offenders is NOT HARD 80k/yr missing
-        children forever is your fault, the dear reader
+        <a href="https://login.gov">Convict intranet</a>&nbsp;with tamper-proof
+        grid dns for repeat offenders is NOT HARD 80k/yr missing children
+        forever is your fault,&nbsp;
+        <a href="https://thumbprint.us/phone">the dear reader</a>
         <br />
         <br />
+        "It was called treason, now it is just called business[, article 3 is
+        bond-laundering 10-40% fed-state $1t/$7t/$28t China/foreign/domestic.
+        also, kidney harvesting!]"
+        <br />
+        <br />
+        <TwitterTweetEmbed
+          style={{ float: "left", width: "300px" }}
+          key="1411470492834439171"
+          tweetId="1411470492834439171"
+        />
         the overwhelming evidence suggests the virus is merely a byproduct of
         bacterial-infection
         <br />
