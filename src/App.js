@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        the overwhelming evidence suggests the virus is merely a byproduct of
+        bacterial-infection
+        <br />
         Making it easier to adopt with more money is a fallacy since
         <br />
         More money for the same goods
