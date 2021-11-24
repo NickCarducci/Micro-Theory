@@ -72,6 +72,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “Durable inflation” “no, inflation is change, need to spend on services
+        instead to level it out”
+        <br />
         "supply and demand issues by a bridge," fucking tart
         <h2>
           <span style={{ color: "rgb(80,100,200)" }}>
@@ -355,8 +358,9 @@ export default class App extends React.Component {
           </span>
         </h2>
         inflation isn't expectation nor dollar-share-split, but debt
-        inelasticity bid-to-ask andlender-wrok-deficit
-        <span
+        inelasticity bid-to-ask and lender-work-deficit
+        <br />
+        <h2
           style={{
             backgroundColor: "rgb(197, 179, 88)",
             color: "black"
@@ -365,7 +369,7 @@ export default class App extends React.Component {
           Price-deflation over hours halves every 5 years while gdp/p was nearly
           constant before 1913, debt and money double every 10, home prices
           every 20, non-durable goods every 40
-        </span>
+        </h2>
         <br />
         No reason for a qualified immunity for politicians means it is just a
         placard. Even the chief commander isn't literally, "under fire," statute
