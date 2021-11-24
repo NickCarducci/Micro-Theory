@@ -80,6 +80,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        lawfully using their own words against countervailing laws and illegal
+        precedence, racketeering licensing boards in furtherance than merely
+        class resolution for trial like expiring premiums and false bid pool
+        work deficit for monthly deductible & copay (
+        <a href="https://www.ftc.gov/sites/default/files/documents/statutes/credit-card-accountability-responsibility-and-disclosure-act-2009-credit-card-act/credit-card-pub-l-111-24_0.pdf#page=21">
+          but not amortized!
+        </a>
+        )
+        <br />
+        <br />
         purposefully-impossible is a checkmate
         <br />
         <br />
