@@ -80,6 +80,40 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        we (
+        <a href="https://thecollegeinvestor.com/14611/average-net-worth-millennials/">
+          young millennials
+        </a>
+        ) work 10x more for&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">homes</a>and have
+        half as many&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=H5XB">unemployed</a>
+        -to-population, with 20x/person less&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=FSwQ">rental</a>-income
+        than 55+ (controlled-recessions equalizes this)
+        <h2>
+          <a href="https://www.goldmansachs.com/insights/archive/millennials/">
+            Gerontocracy
+          </a>
+          &nbsp;of false bid pools on expiring premiums, 11x &nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=Jgn6">accrual</a>
+          -on-collateral kept upon reposession purposefully & impossibly,
+          implausible&nbsp;<a href="https://30under5.us">use</a>
+          &nbsp;rental-income beyond 5 units | 30 days, collectively-bargaining
+          on checking and escrow accounts without&nbsp;
+          <a href="https://3under2.us">reason</a>&nbp;to withhold&nbsp;
+          <a href="https://vaults.biz">outlay</a>& &nbsp;
+          <a href="https://squatcommune.com">claims</a>, progresses to place
+          homeless in institutions
+        </h2>
+        my very-real injury, regardless
+        <br />
+        <br />
+        Prisoners’ dilemma rollover insurance false bid pools… said non-rollover
+        before&nbsp;<a href="https://youtu.be/aJEszZK54dw">Krugman</a>&nbsp;(but
+        was after) because it was before&nbsp;
+        <a href="https://youtu.be/ny1HwqaFytg">Carrier</a>/RiverviewMedCtr 13
+        days falsely incarcerated
         <Cable
           onError={handleScollImgError}
           //img={true}
@@ -95,6 +129,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        <br />
         <h2>Why would you work against $300k/year/person new debt</h2>
         “The jury found not not guilty,” still presents necessary but not
         sufficient
