@@ -80,6 +80,21 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://www.youtube.com/embed/eH6XcnIlCuk"
+          }
+          float="right"
+          title="Disability taken by borrowing loiterer"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 39]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>Why would you work against $300k/year/person new debt</h2>
         “The jury found not not guilty,” still presents necessary but not
         sufficient
@@ -103,7 +118,7 @@ export default class App extends React.Component {
           float="left"
           title="Will Shatner on insurance false bid pools and collective bargaining fraud"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 37]}
+          fwd={this["scrollImg" + 38]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
