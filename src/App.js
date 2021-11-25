@@ -80,6 +80,17 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Pipeline for rent-seeking and contractor for without target-margin
+        consumer surrogate instead is nothing like a collective bargain in an
+        immediate (as-can-be) escrow written for and of without fraudulent
+        compounding and laundering with consumers in supply chain slighted
+        unbeknowst among finite producers but free to operate on the infinite
+        producer Pareto assumption, in jury-for-business of mvp duress and
+        pricing, generally
+        <br />
+        <br />
+        “Dollar is losing value” it is share split for 10-40% fed-state
+        bond-laundering and 40-50% fed-state debt-spending
         <h2>
           “Give you a job,” you aren’t giving a show, it is a trade. “Let me
           trade you a job.”
