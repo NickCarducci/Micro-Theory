@@ -98,7 +98,7 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : "https://fred.stlouisfed.org/graph/graph-landing.php?g=G8nU&width=670&height=475"
           }
@@ -115,7 +115,7 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : "https://fred.stlouisfed.org/graph/graph-landing.php?g=JgMC&width=670&height=475"
           }
@@ -1694,7 +1694,7 @@ export default class App extends React.Component {
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=JdUH&width=670&height=475`
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
@@ -1923,7 +1923,7 @@ export default class App extends React.Component {
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=HzlI&width=670&height=475`
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
@@ -1956,7 +1956,7 @@ export default class App extends React.Component {
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=Gkvt&width=670&height=475`
             //"https://fred.stlouisfed.org/graph/?g=Gkvt"
@@ -2096,7 +2096,7 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.settleDropboxFree
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=H5XB&width=670&height=475`
           }
@@ -2127,7 +2127,7 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.settleDropboxFree
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=FSwQ&width=670&height=475`
           }
@@ -3374,7 +3374,7 @@ export default class App extends React.Component {
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
           src={
-            this.state.serviceCancelingImages
+            this.state.nofred
               ? ""
               : `https://fred.stlouisfed.org/graph/graph-landing.php?g=J6zW&width=670&height=475`
           }
