@@ -145,6 +145,7 @@ export default class App extends React.Component {
         />
         <br />
         <br />
+        The racketeering state would rather trials instead of solve the class
         <h2>Why would you work against $300k/year/person new debt</h2>
         “The jury found not not guilty,” still presents necessary but not
         sufficient
