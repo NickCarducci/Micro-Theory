@@ -107,8 +107,10 @@ export default class App extends React.Component {
           <a href="https://">closed-source-licensure</a>,
           lender-/landlord-work-deficit and working-age-deficit, free rider
           mutable tax & 40% debt spending, and the fallacy that more money makes
-          working-age less ask-price-gain{/**Matthew Shay */}, progresses to
-          place homeless in institutions
+          working-age less ask-price-gain{/**Matthew Shay */}, police that make
+          profit by net loss thru bonds and psychologists that make profit by
+          net loss thru false bid pools, progresses to place homeless in
+          institutions
         </h2>
         my very-real injury, regardless
         <br />
