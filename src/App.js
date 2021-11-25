@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          “Give you a job,” you aren’t giving a show, it is a trade. “Let me
+          trade you a job.”
+        </h2>
         Slavery is cheap but the loss of comparative advantage really surmounts
         by complacency
         <h2>“Interests and values”</h2>
