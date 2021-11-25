@@ -205,7 +205,7 @@ export default class App extends React.Component {
         <br />
         <h2>bite your tongue off</h2>
         You really are a nigger, jo pinion, an afro-tool. Not mine. insurances’
-        false bid "coverage"
+        false bid "coverage" of non-concurrentables
         <br />
         <br />
         <Cable
