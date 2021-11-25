@@ -80,6 +80,60 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1krzfgwYZO5udSDRfLmdfFY_q00WMElAx/preview"
+          }
+          float="right"
+          title="Barney Frank on public insurance over private insurance, like third party beneficiary suspension of malfeasance isn't an option"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 43]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        like third party beneficiary suspension of malfeasance isn't an option?
+        <h2>poorness=(poverty/equality)</h2>
+        trillion of dollars lowers poverty by bailing out accrued-invoices
+        <br />
+        Amortize the cash:debt*income reversal of the credit-cycle of impossible
+        forclosures with down payments kept, and paid from 40% debt spending, is
+        public insurance instead of premiums expiring like private insurance,
+        not hidden
+        <br />
+        <br />
+        <Cable
+          style={{
+            height: "240px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1wBek-RLholsjwKQN4Z4aQX0ArvBd8LrV/preview"
+          }
+          float="left"
+          title="Social security threat - a century earlier"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 42]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “With social security, everything you were going to do someday, is on
+        the calendar.”
+        <br />
+        <br />
+        Jails (especially with net loss bond and false bid pool profit) are
+        the&nbsp;
+        <a href="https://youtu.be/10kjUOVqk7o">new Jim croe</a>, I don’t have my
+        guns! Nor the ability to be payee of my disability (actual laceration
+        unhealed, not opinion of non-physical&nbsp;
+        <a href="https://humanharvest.info">fact</a>)
+        <br />
         <h2>
           Can’t reverse per trial, which the state takes over class-solving
         </h2>
