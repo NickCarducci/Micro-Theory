@@ -81,6 +81,33 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1PlrEygGMs5WDyBE1gNhCDGYA09nYSou6/preview"
+          }
+          float="left"
+          title="American Agenda - Rep Alex Mooney"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 48]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        recessions and inflation is an oxymoron. accrual nor duress beyond mvp
+        isn't free market, the private is 60/40 debt to gov share
+        <br />
+        free-rider-mutable tax & 40$ debt-spending
+        <h2>
+          rent-seeking pipelines & broadband instead of consumer surrogate
+        </h2>
+        Push for socialism is terrible for my state, calling it infrastructure,
+        they are “clever” in naming of things. We don’t want socialism. Then
+        call it “market-communism."
+        <br />
+        <br />
+        <Cable
           style={{
             height: "240px"
           }}
