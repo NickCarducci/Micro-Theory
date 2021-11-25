@@ -89,13 +89,14 @@ export default class App extends React.Component {
         <br />
         <br />
         Tax payers are on vacation. Savers pay in price inelasticity of
-        bid-to-ask now 11x accrual, and 44x compounded, but since 3/2020 the
-        government are trying to bailout, the second phase of trickle down with
-        debt slavery by proxy collateral repossessed and down payments kept,
-        options to buy upon estimates of intermediate labor and material
-        unbought (settled) at all
-        <br/>
-        <br/>
+        bid-to-ask now 11x accrual, and 44x&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=JgKF">compounded</a>, but
+        since 3/2020 the government are trying to bailout, the second phase of
+        trickle down with debt slavery by proxy collateral repossessed and down
+        payments kept, options to buy upon estimates of intermediate labor and
+        material unbought (settled) at all
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           //img={true}
