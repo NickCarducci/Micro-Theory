@@ -80,6 +80,33 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        You really are a nigger, jo pinion, an afro-tool. Not mine. insurances’
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1FMro_t_iHrclYMk1Ui68VylNJ6K20QTy/preview"
+          }
+          float="left"
+          title="Reverse, don't bailout new deal nor cancel forbidden by past demand, because prices are by poll"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 44]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Central-planning socialist means emulating infinite producers, that’s
+        fine. You cannot have exorbitant margin nor duress discrepancy
+        <br />
+        <br />
+        Wall st/Gov debt spending 40% and free rider mutable tax (ex sewage
+        police lawsuits, truncated sales tax) is
+        market-communist/rent-seeking/outlay-withholding
+        <br />
+        <br />
         supreme court case disability insurance 2015 work ability: Can’t assume
         employers, I’ve applied to many remote, sit-down jobs. but I won't take
         credit as income (is counterfeit)
@@ -98,8 +125,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-            <br/>
-            <br/>
+        <br />
+        <br />
         like third party beneficiary suspension of malfeasance isn't an option?
         <h2>poorness=(poverty/equality)</h2>
         trillion of dollars lowers poverty by bailing out accrued-invoices
