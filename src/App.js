@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "they will continue voting democrat [and republican ]for the rest of
+        their lives because they are getting a check[ but do not realize it is
+        share split and capping rent at 5 units/30 days, reversing debt to what
+        would be priced without, banning invoives/expiring-premiums and
+        truncated sales tax for sewage police lawsuits]."
         <h2>
           at home disability care when mental health is considered a disabiliity
           and on the forefront of economic theory or victim of false bid pools
