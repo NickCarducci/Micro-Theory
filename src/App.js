@@ -80,6 +80,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Can’t reverse per trial, which the state takes over class-solving
+        </h2>
         <Cable
           style={{
             height: "240px"
@@ -98,6 +101,7 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
         Growth of money (certificate on the market without “money-market” in
         implausible use nor false bid pool form) is elastic, and the growth of
         jobs without utility by consumer-propensity of bid with demand
@@ -152,7 +156,7 @@ export default class App extends React.Component {
           young millennials
         </a>
         ) work 10x more for&nbsp;
-        <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">homes</a>and have
+        <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">homes</a> and have
         half as many&nbsp;
         <a href="https://fred.stlouisfed.org/graph/?g=H5XB">unemployed</a>
         -to-population, with 20x/person less&nbsp;
