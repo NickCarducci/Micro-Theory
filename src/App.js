@@ -80,7 +80,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        People are naturally good, the system causes use to nuclear dilemma and
+        <Cable
+          style={{
+            height: "240px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1DVQrJHoJkhRuxXsmoSokB5MNfjDPCxjp/preview"
+          }
+          float="right"
+          title="GBNews - William Clouston on social-wage and immigration"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 44]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "Women and children vs fit-young men." not only sacrificing working age
+        but capturing wives
+        <br />
+        <br />
+        People are naturally good, the system causes us to nuclear dilemma and
         compete with consumers
         <br />
         <h2>bite your tongue off</h2>
