@@ -103,7 +103,18 @@ export default class App extends React.Component {
         <br />
         <br />
         People are naturally good, the system causes us to nuclear dilemma and
-        compete with consumers
+        compete with consumers (jury-for-business, emulate Pareto-efficiency
+        with target-margin, nor corporate action except outlay profits
+        immediately (501c, but dissolution to universe rather than state)).
+        Charlie Kirk, "the worst thing a person can do is&nbsp;
+        <a href="https://monthlyreview.org/2020/07/01/marx-and-slavery/#:~:text=It%20is%20worth%20noting">
+          enslave
+        </a>
+        &nbsp;another human life. Literally own[, not just launder profits from
+        nor emit duress in finite producer reality, and infinite producer
+        reason, against third party beneficiary standing thru false bid pools
+        (commercial banks, insurance, and investment banks in max profit royalty
+        schedules (alt fin)) and accrual."
         <br />
         <h2>bite your tongue off</h2>
         You really are a nigger, jo pinion, an afro-tool. Not mine. insurances’
