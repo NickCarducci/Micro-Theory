@@ -272,7 +272,9 @@ export default class App extends React.Component {
         </h2>
         Slavery is cheap but the loss of comparative advantage really surmounts
         by complacency
-        <h2>“Interests and values”</h2>
+        <h2 style={{ backgroundColor: "rgb(150,200,255)", color: "black" }}>
+          “Interests and values”
+        </h2>
         <br />
         we (
         <a href="https://thecollegeinvestor.com/14611/average-net-worth-millennials/">
