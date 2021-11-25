@@ -81,7 +81,21 @@ export default class App extends React.Component {
         }}
       >
         hours worked would lower price, and tax payers can only be called that
-        when they pay 100% of monopsony. rot in hell&nbsp;<a href="https://foiegras.life">dominic carter</a>
+        when they pay 100% of monopsony. rot in hell&nbsp;
+        <a href="https://foiegras.life">dominic carter</a>
+        <br />
+        Can you not say tax payer because deficit is 40% normally uh $4t/yr, but
+        wall st is 60/40 gov
+        <br />
+        <br />
+        Tax payers are on vacation. Savers pay in price inelasticity of
+        bid-to-ask now 11x accrual, and 44x compounded, but since 3/2020 the
+        government are trying to bailout, the second phase of trickle down with
+        debt slavery by proxy collateral repossessed and down payments kept,
+        options to buy upon estimates of intermediate labor and material
+        unbought (settled) at all
+        <br/>
+        <br/>
         <Cable
           onError={handleScollImgError}
           //img={true}
