@@ -81,6 +81,24 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1cDO9mWzpIOzI_xwJaEDLUkIuB8nqMa27/preview"
+          }
+          float="left"
+          title="Will Shatner on insurance false bid pools and collective bargaining fraud"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 37]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Eliminate co-pays for no extra cost, for net loss
+        <br />
+        <br />
+        <Cable
           style={{ height: "350px" }}
           onError={handleScollImgError}
           //img={true}
@@ -268,6 +286,9 @@ export default class App extends React.Component {
         More money for the same goods
         <br />
         I’m living without rents
+        <br />
+        <br />
+        "To learn about our programs, and to donate."
         <br />
         <br />
         landlords implausible and borrowers loitering is menace of society
