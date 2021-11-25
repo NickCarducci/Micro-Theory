@@ -81,10 +81,35 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          style={{
+            height: "240px"
+          }}
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.noyoutube
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1ku0d_e0LBmS-1-qlqcQv4ya_Uh7fcQcr/preview"
+          }
+          float="right"
+          title="GBNews - Darren McCaffrey interviews a money/person growther"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 41]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Growth of money (certificate on the market without “money-market” in
+        implausible use nor false bid pool form) is elastic, and the growth of
+        jobs without utility by consumer-propensity of bid with demand
+        exclusively labor, is busy-work and useless bid-to-ask inelasticity in
+        the same way.
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
               ? ""
               : "https://drive.google.com/file/d/1CjFscmbKOshuCib8PUA53LEaMVIRJeMZ/preview"
           }
