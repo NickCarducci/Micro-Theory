@@ -98,8 +98,14 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        "Substantial discount to market rates," gdp/down =11x (44x by compound)
-        isn’t a market rate is it? When money market is given green credence
+        "Substantial discount to market rates," gdp/down =
+        <a href="https://youtu.be/OqgUxnqc3AM">11x</a>&nbsp;(44x by compound)
+        isn’t a market rate is it? When&nbsp;
+        <a href="https://fb.watch/9vBobshL3S/">money</a>&nbsp;market is given
+        green credence&nbsp;
+        <span role="img" aria-label="reverse (don't cancel) emoji">
+          🔄
+        </span>
         <br />
         <br />
         “Why should we be making money on things people need?” If it has
