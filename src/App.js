@@ -80,6 +80,30 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          at home disability care when mental health is considered a disabiliity
+          and on the forefront of economic theory or victim of false bid pools
+          and accrual means mentally-unhealthy
+        </h2>
+        giving to anyone with a kid isn't welfare it is parental trust buiding,
+        gerontocracy like they keep us out of work and in school while they
+        profit off the bonds 40% debt spending (50% in states)
+        <Cable
+          style={{ width: "100%", height: "570px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=G8nU&width=670&height=475"
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 53]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>quarterly pce to gdp</h2>
         <Cable
           style={{ width: "100%", height: "570px" }}
