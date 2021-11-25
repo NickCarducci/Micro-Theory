@@ -203,7 +203,12 @@ export default class App extends React.Component {
         unhealed, not opinion of non-physical&nbsp;
         <a href="https://humanharvest.info">fact</a>)
         <br />
-        <h2>
+        <h2
+          style={{
+            backgroundColor: "black",
+            color: "white"
+          }}
+        >
           Can’t reverse per trial, which the state takes over class-solving
         </h2>
         <Cable
