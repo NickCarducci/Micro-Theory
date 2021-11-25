@@ -80,6 +80,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        hours worked would lower price, and tax payers can only be called that
+        when they pay 100% of monopsony. rot in hell&nbsp;<a href="https://foiegras.life">dominic carter</a>
         <Cable
           onError={handleScollImgError}
           //img={true}
