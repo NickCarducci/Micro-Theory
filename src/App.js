@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        don't trade a collective bargain for a government rent-seeken deal,
+        instead of target-margin consumer-surrogate, and max profit royalty to
+        p2p investment (not bank for equity-concurrentable) only
+        <br />
+        <br />
         "they will continue voting democrat [and republican ]for the rest of
         their lives because they are getting a check[ but do not realize it is
         share split and capping rent at 5 units/30 days, reversing debt to what
