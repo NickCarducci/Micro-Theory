@@ -81,6 +81,9 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          style={{
+            height: "240px"
+          }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -95,6 +98,10 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        "Substantial discount to market rates," gdp/down =11x (44x by compound)
+        isn’t a market rate is it? When money market is given green credence
+        <br />
+        <br />
         “Why should we be making money on things people need?” If it has
         operational costs and not a perpetual motion machine, it is making
         profits outlaid immediately, or not. Target margin consumer surrogate
