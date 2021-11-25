@@ -842,6 +842,22 @@ export default class App extends React.Component {
           refinancing debt. Saving over $1k/mo. 10 minutes to save a fortune, at
           least a small fortune,” Mark Levin
         </h2>
+        <Cable
+          style={{ maxWidth: "450px", width: "100%" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1rfCRVDV_LPMY1d5zw-5CWTECTteM3Vd9/preview"
+          }
+          float="left"
+          title="Phychology today - Lee Jussim cultural marxism vs marxism co-opt graphic-table by issue"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 51]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <br />
         At least the cnn masterbaiter isn’t on the side of the gentrified
         manufacturing class, G-d's chosen people
