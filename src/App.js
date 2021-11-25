@@ -80,6 +80,27 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>quarterly pce to gdp</h2>
+        <Cable
+          style={{ width: "100%", height: "570px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=JgMC&width=670&height=475"
+          }
+          float="left"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 52]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Intermediate goods are counted twice even though it is the same product,
+        in the labor and the final sale, when going thru management
+        <br />
+        <br />
         hours worked would lower price, and tax payers can only be called that
         when they pay 100% of monopsony. rot in hell&nbsp;
         <a href="https://foiegras.life">dominic carter</a>
@@ -112,10 +133,11 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        a&nbsp;<a href="https://fred.stlouisfed.org/graph/?g=JgJ8">recession</a>
+        "a&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=JgJ8">recession</a>
         &nbsp;of production of output, and an increase of disposable income and
-        government stimulus. more, better, than any boom in the past. it will
-        happen again if we get this program thru
+        government stimulus. more-, better-than any boom in the past. it will
+        happen again if we get this program thru"
         <br />
         <br />
         “a lot of rhetoric coming out for sure, if wages double and prices
