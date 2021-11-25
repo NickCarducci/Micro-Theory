@@ -80,6 +80,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://drive.google.com/file/d/1CjFscmbKOshuCib8PUA53LEaMVIRJeMZ/preview"
+          }
+          float="left"
+          title="National Report Thanksgiving and Hanukkah with Bob Sellers - Rabbi Simon Jacobson"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 40]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Quality/quantity
+        <br />
+        Spirit/matter
+        <br />
+        <br />
+        How bizarre!
+        <br />
+        <br />
         Pipeline for rent-seeking and contractor for without target-margin
         consumer surrogate instead is nothing like a collective bargain in an
         immediate (as-can-be) escrow written for and of without fraudulent
