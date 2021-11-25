@@ -80,6 +80,29 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1govE6gKLA3ONVhWRpu5FEiLucuPVmIUT/preview"
+          }
+          float="left"
+          title="Spicer & co - David Kustoff 'social spending' share-split and 60% free rider mutable tax"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 54]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Tyranny by majority and minority, only jury suffice without subjective
+        stigma of the 1/12 detractor(s)
+        <br />
+        <br />
+        Stop calling it social spending. Even welfare is at best share split for
+        the same goods, 60% free rider mutable tax
+        <br />
+        <br />
         don't trade a collective bargain for a government rent-seeken deal,
         instead of target-margin consumer-surrogate, and max profit royalty to
         p2p investment (not bank for equity-concurrentable) only
