@@ -80,6 +80,27 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>please, crawl into a deep hole</h2>
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1OQ6xsdVvyd9kcWYTUs5TepIMHIBNNvFV/preview"
+          }
+          float="right"
+          title="Spicer & co - Pilgrim guy"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 55]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Socialism is to give every labor the means of production (exclusively
+        demand), not pay everyone not to work! (60% share-split, 40% free rider
+        mutable tax)
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           //img={true}
