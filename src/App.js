@@ -86,6 +86,32 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
+              : "https://drive.google.com/file/d/1-AEb73Y9aHnq2LcwUKE7dL0x5MbM7N8L/preview"
+          }
+          float="right"
+          title="American Agenda - Betsy Brantner Smith truncated sales tax and reverse"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 49]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          reverse don't cancel,&nbsp;
+          <a href="https://truncatedsalestax.com">then</a>...
+        </h2>
+        “Police are not the problem, criminals are the problem,” unless the laws
+        are criminal by contradicting for fence-sitting and trial malfeasance
+        over caste solutions, or comparatively discriminating innocence. she
+        literally makes profit on net loss bonds, false bid pools & closed
+        source licensure
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
               : "https://drive.google.com/file/d/1PlrEygGMs5WDyBE1gNhCDGYA09nYSou6/preview"
           }
           float="left"
