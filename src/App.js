@@ -98,10 +98,11 @@ export default class App extends React.Component {
         “Followed the law, did their job, and nothing was tainted.” Those can be
         oxymorons, law being precedence by comparative innocent or
         countervailing law. For instance, I have to boycott credit by making by
-        own paytech as a ticket-seller, and false imprisonment is imbued by poor
-        economic-policies of money chasing the same goods and exhasberating the
-        working-class from lender-/landlord-work-deficit. just max profit
-        royalty p2p and cap rent at 5 units / 30 days
+        own paytech as a ticket-seller, I've failed economics courses over
+        disagreeing and false imprisonment is imbued by poor economic-policies
+        of money chasing the same goods and exhasberating the working-class from
+        lender-/landlord-work-deficit. just max profit royalty p2p and cap rent
+        at 5 units / 30 days
         <br />
         <br />
         <Cable
@@ -3576,3 +3577,4 @@ export default class App extends React.Component {
     );
   }
 }
+
