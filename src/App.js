@@ -185,6 +185,13 @@ export default class App extends React.Component {
         fraud and cases vs asymptomatic-tests fallacy
         <br />
         <br />
+        Cognitive testing is nearly as subjective as mental health over actual,
+        literal, “brain malformity,” to cognitive test, being merely a measure
+        against the test-makers’ perspective, presentation & nomenclature. After
+        all, the right answer isn't always the common one, like the Earth around
+        the Sun or it mattering-not whether the chicken or shell, "came first"
+        <br />
+        <br />
         Indigent doesn't give right to rent-seek and gentrify housing nor add
         money for same intermediate-material-labor, essentially making consumer
         law on estimates force majeure on purpose, it is so obvious.
