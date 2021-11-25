@@ -86,6 +86,33 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
+              : "https://drive.google.com/file/d/1fkbmhkzsC9O_5SwDBOyE58yifRCqR9u0/preview"
+          }
+          float="left"
+          title="American Agenda - Thomas J Philipson essentially racketeering economics and money/population growth as productivity instead of price-deflation per hour over time"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 50]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        a&nbsp;<a href="https://fred.stlouisfed.org/graph/?g=JgJ8">recession</a>
+        &nbsp;of production of output, and an increase of disposable income and
+        government stimulus. more, better, than any boom in the past. it will
+        happen again if we get this program thru
+        <br />
+        <br />
+        “a lot of rhetoric coming out for sure, if wages double and prices
+        double you are pretty much[ as] well off” “business friendly expanding
+        supply is downward pressure of prices” only if supply is alchemy less
+        elastic money or accrual…
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
               : "https://drive.google.com/file/d/1-AEb73Y9aHnq2LcwUKE7dL0x5MbM7N8L/preview"
           }
           float="right"
