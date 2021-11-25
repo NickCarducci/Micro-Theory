@@ -86,6 +86,28 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
+              : "https://drive.google.com/file/d/1_DLj_PnDTGuRNt4LDyHnP0zmpzuHBCm3/preview"
+          }
+          float="right"
+          title="GBNews - Green Party Researcher Laurie Laybourn-Langton on nationalizing rent-seeking"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 47]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Why should we be making money on things people need?” If it has
+        operational costs and not a perpetual motion machine, it is making
+        profits outlaid immediately, or not. Target margin consumer surrogate
+        instead of free rider mutable tax nor 40% debt-spending, embossing the
+        lender-work-deficit
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
               : "https://drive.google.com/file/d/1nsoqkKhaaXFV9ncUNSvBqUZ060iD3ZZ4/preview"
           }
           float="left"
@@ -3577,4 +3599,3 @@ export default class App extends React.Component {
     );
   }
 }
-
