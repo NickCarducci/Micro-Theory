@@ -103,8 +103,12 @@ export default class App extends React.Component {
           on checking and escrow accounts without&nbsp;
           <a href="https://3under2.us">reason</a>&nbp;to withhold&nbsp;
           <a href="https://vaults.biz">outlay</a>& &nbsp;
-          <a href="https://squatcommune.com">claims</a>, progresses to place
-          homeless in institutions
+          <a href="https://squatcommune.com">claims</a>, &nbsp;
+          <a href="https://">closed-source-licensure</a>,
+          lender-/landlord-work-deficit and working-age-deficit, free rider
+          mutable tax & 40% debt spending, and the fallacy that more money makes
+          working-age less ask-price-gain{/**Matthew Shay */}, progresses to
+          place homeless in institutions
         </h2>
         my very-real injury, regardless
         <br />
