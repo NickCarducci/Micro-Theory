@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Slavery is cheap but the loss of comparative advantage really surmounts
+        by complacency
+        <h2>“Interests and values”</h2>
+        <br />
         we (
         <a href="https://thecollegeinvestor.com/14611/average-net-worth-millennials/">
           young millennials
@@ -101,15 +105,19 @@ export default class App extends React.Component {
           implausible&nbsp;<a href="https://30under5.us">use</a>
           &nbsp;rental-income beyond 5 units | 30 days, collectively-bargaining
           on checking and escrow accounts without&nbsp;
-          <a href="https://3under2.us">reason</a>&nbp;to withhold&nbsp;
-          <a href="https://vaults.biz">outlay</a>& &nbsp;
-          <a href="https://squatcommune.com">claims</a>, &nbsp;
-          <a href="https://">closed-source-licensure</a>,
+          <a href="https://3under2.us">reason</a>&nbsp;to withhold&nbsp;
+          <a href="https://vaults.biz">outlay</a>&&nbsp;
+          <a href="https://squatcommune.com">claims</a>,&nbsp;
+          <a href="https://teapharmacy.party">closed-source-licensure</a>,
           lender-/landlord-work-deficit and working-age-deficit, free rider
           mutable tax & 40% debt spending, and the fallacy that more money makes
-          working-age less ask-price-gain{/**Matthew Shay */}, police that make
+          working-age less ask-price-gain{/**Matthew Shay */},&nbsp;
+          <a href="https://truncatedsalestax.com">police</a>&nbsp;that make
           profit by net loss thru bonds and psychologists that make profit by
-          net loss thru false bid pools, progresses to place homeless in
+          net loss thru false bid pools, general-income investments by
+          investment banks and people for collective bargaining fraud of
+          non-concurrentable schedules of outlays (for insurance, claims or
+          hours of mechanics, doctors, etc.), progresses to place homeless in
           institutions
         </h2>
         my very-real injury, regardless
