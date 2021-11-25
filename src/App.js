@@ -253,6 +253,12 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        <br />
+        <h2>
+          I would rather SSA not share-split the dollars I do have instead of
+          give it to my mother's loan sharks
+        </h2>
         "In order to receive disability, take the medication." One has nothing
         to do with the other, the latter being an opinion rather than biological
         fact, to boot. Mental illness isn't a disability nor is it affirmitively
