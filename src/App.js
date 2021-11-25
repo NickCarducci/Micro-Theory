@@ -80,6 +80,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        People are naturally good, the system causes use to nuclear dilemma and
+        compete with consumers
+        <br />
         <h2>bite your tongue off</h2>
         You really are a nigger, jo pinion, an afro-tool. Not mine. insurances’
         <br />
