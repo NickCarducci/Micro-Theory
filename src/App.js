@@ -596,6 +596,13 @@ export default class App extends React.Component {
         buffing, but copyright), in a market commune, withheld outlays, to boot,
         is retarded
         <br />
+        <br />
+        backpayments on disability over appeal for no reason, you, SSA, are the
+        treasury. assigning to the indebted-collateral-mother instead of the
+        physically-injured-son because the latter is assumed to make poor
+        choices with money. I am a competitor of the SPX and thought my trades
+        were anonymous like 13d filers
+        <br />
         <br />I am called bizarre by orthopedic surgeons for a net loss profit
         by false bid pools
         <h2>
