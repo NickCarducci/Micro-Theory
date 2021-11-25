@@ -80,6 +80,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>Why would you work against $300k/year/person new debt</h2>
+        “The jury found not not guilty,” still presents necessary but not
+        sufficient
+        <br />
+        <br />
+        It’s impossible to work against debt, so they give disability to the
+        collateralized loan parent, ignoring the unhealed-, deep-laceration from
+        a guard rail near a trail and instead slandering without
+        biological-malformity but an opinion of people with a conflict of
+        interest, the very same fraudulent income that was cited as “bizarre,”
+        and Paul Krugman cites as a “net loss,” false bid pooling non-rollover
+        insurance (expiring premiums are collective bargaining fraud)
         <Cable
           onError={handleScollImgError}
           //img={true}
@@ -95,6 +107,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <br />
+        <br />
         Eliminate co-pays for no extra cost, for net loss
         <br />
         <br />
