@@ -89,12 +89,39 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
+              : "https://drive.google.com/file/d/1nsoqkKhaaXFV9ncUNSvBqUZ060iD3ZZ4/preview"
+          }
+          float="left"
+          title="Newsmax attorney speaks on Ahmaud Arbery jury"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 46]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Followed the law, did their job, and nothing was tainted.” Those can be
+        oxymorons, law being precedence by comparative innocent or
+        countervailing law. For instance, I have to boycott credit by making by
+        own paytech as a ticket-seller, and false imprisonment is imbued by poor
+        economic-policies of money chasing the same goods and exhasberating the
+        working-class from lender-/landlord-work-deficit. just max profit
+        royalty p2p and cap rent at 5 units / 30 days
+        <br />
+        <br />
+        <Cable
+          style={{
+            height: "240px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
               : "https://drive.google.com/file/d/1DVQrJHoJkhRuxXsmoSokB5MNfjDPCxjp/preview"
           }
           float="right"
           title="GBNews - William Clouston on social-wage and immigration"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 44]}
+          fwd={this["scrollImg" + 45]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
