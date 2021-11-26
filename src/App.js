@@ -80,9 +80,23 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        “Over on the democratic side of the party,” Burt Jones slips on the
-        bipartisans vs savers/socialists who want to keep finance out of
-        business and amortize instead of keep down payments upon repo-cycle
+        <h2>
+          Where is the&nbsp;
+          <a href="https://nj.gov/state/elections/election-information-ballots-cast.shtml">
+            2021-official-general-voter-turnout.pdf
+          </a>
+          ?
+        </h2>
+        “Over on the democratic side of&nbsp;
+        <a href="https://nj.gov/state/elections/assets/pdf/election-results/2021/2021-primary-election-voter-turnout.pdf">
+          the party
+        </a>
+        ,” Burt Jones slips on the &nbsp;
+        <a href="https://nj.gov/state/elections/assets/pdf/election-results/2020/2020-official-general-voter-turnout.pdf">
+          bipartisans
+        </a>
+        &nbsp;vs savers/socialists who want to keep finance out of business and
+        amortize instead of keep down payments upon repo-cycle
         <br />
         <h2>
           When supply is&nbsp;
@@ -3963,4 +3977,3 @@ export default class App extends React.Component {
     );
   }
 }
-
