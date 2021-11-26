@@ -80,11 +80,72 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/11kur33tU1ONrqyqb8ZwtI_oQl84lidT7/preview"
+          }
+          float="left"
+          title="Jenna Ellis on Communism, Socialism, Democracy and the market-communist policies of tha last century"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 60]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Their own communist agenda beyond what the American people want, and
+        what they mean by best is the Biden socialist, and …their own globalist
+        agenda. Until republicans come home to actual conservatives, they will
+        lose.” You need to realize that welfare is price-elastic and not social
+        at all. Communist is the method to use the jury over the
+        industry-interest 1/12 share
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1i1uA1WQOFb-9R1EXgpiaQQgjKNKfyG24/preview"
+          }
+          float="right"
+          title="Jessse Jane Duff on continuing claims as a measure of unemployment to population"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 59]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        We will not see pre-covid employment rate until 2024, 2m continuing
+        claims is half 65+! Lazy bitch
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1f2_4x3O16OCPQZQ7Gtnjtde0X83W9CTM/preview"
+          }
+          float="left"
+          title="National Report - Bobby Eberle, Ph.D. 13 Minute News Hour on cash flow and burn"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 58]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Day to day operating costs involved in having a family doesn’t mean free
+        rider mutable tax 60%, 40% share-split to bailout
+        <br />
+        <br />
         Is GDP mostly home "sales"? If you look at the largest expense over time
         as opposed to in gdp, since its&nbsp;
         <a href="https://fred.stlouisfed.org/graph/?g=JicW">growth</a>&nbsp;rate
         is so substantial, even gdp2% (nearly with population) can expound (see
-        &nbsp'<a href="https://fred.stlouisfed.org/graph/?g=G8nU">below</a>)
+        &nbsp;<a href="https://fred.stlouisfed.org/graph/?g=G8nU">below</a>)
         over a lifetime (of work), greater costs towards their propensity to
         spend/work
         <Cable
