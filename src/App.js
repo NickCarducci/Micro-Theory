@@ -80,6 +80,31 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/f0jgbxbd61U"
+          }
+          float="right"
+          title="Household duress beyond jury-permit, doctor opinions begotten by indebted with collateral SEC boomer"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 61]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Consumer surrogate & margin-target, the right wants to rent seek for
+        government bailout because they want to keep living in the unreality of
+        infinite producers
+        <br />
+        Truncated sales tax can close prisons whom make money on net loss by
+        bonds
+        <br />
+        I’m still appealing and I want to use it to another place
+        <br />
+        <br />
         Communist against invoices, false bid pools & hung-jury-permits
         <br />
         Paid family leave forced & ppp prohibits labor-competition, just to
