@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “When demand overwhelms supply, prices rise,” implies there are
+        suppliers that aren’t demand, which implies labor is not exclusively
+        demand (if demand is not retired by accrual and expring-premiums,
+        instead of work)
+        <br />
         <h2>
           we work 10x more per home, that is 5x more per person and 2x more
           workers per person, than 1970
