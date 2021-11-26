@@ -1,3 +1,6 @@
+
+4240 lines (4239 sloc)  178 KB
+   
 import React from "react";
 import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
@@ -80,10 +83,20 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Disability can't be claimed without assumption of new employment garnered 
+        (forced-enslaved-traded copyright/hours by implausible settlement schemes, gdp/down 11/1) 
+beyond physical ailment or can be with
+        mental-diagnosis. This is fraudulent without physical evidence of at
+        least a brain malformity!
+        <br />
+        <br />
         Hey Nantucket guy: Talking to the fed about inflation, whom don’t care
         about lender work deficit, is retarded
         <br />
         <br />
+        Natural schedule tendencies (law without law) does not a reason by infinite producers in a finite producer reality make
+        <br/>
+        <br/>
         <h2>To outlaw laws or to be an outlaw</h2>
         As a ticket-seller, I have to make my own paytech to boycott credit
         <br />
@@ -2952,7 +2965,7 @@ export default class App extends React.Component {
         a.k.a. “strings), 1/4 pentagon, 1/14 pension, 1/4 premiums for
         monthly-savings, accosting the supply chain. Why not immigration
         working-age to sold your delirious supply-chain problem when c1970
-        half-life .5x unemployed to population, 10x price/hours more hours for
+        half-life .5x unemployed to population, 10x price/hours more hours for
         median home
         <TwitterTweetEmbed
           key="1434606169516032012"
