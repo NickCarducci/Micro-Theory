@@ -80,10 +80,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        “When demand overwhelms supply, prices rise,” implies there are
-        suppliers that aren’t demand, which implies labor is not exclusively
-        demand (if demand is not retired by accrual and expring-premiums,
-        instead of work)
+        <h2>
+          When supply is&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=H5XB">working</a>
+          &nbsp;age and demand is money
+        </h2>
+        “When demand&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">overwhelms</a>
+        &nbsp;supply, prices rise,” implies there are suppliers that aren’t
+        demand, which implies labor is not exclusively demand (if demand is not
+        retired by&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=FSwQ">accrual</a>&nbsp;and
+        expring-premiums, instead of work)
         <br />
         <h2>
           we work 10x more per home, that is 5x more per person and 2x more
@@ -3951,3 +3959,4 @@ export default class App extends React.Component {
     );
   }
 }
+
