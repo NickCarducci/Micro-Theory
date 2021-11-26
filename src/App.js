@@ -80,6 +80,37 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        whores laughing when gdp/down is 11/1
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1S4hVWe_uOdc9o6ej134RSLs3nzx5bHKo/preview"
+          }
+          float="right"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 63]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          muh sewage police lawsuits can be solved with reverse don't cancel,
+          truncated sales tax, and login.gov.&nbsp;
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            consumer surrogate target margin (& jury for business) for public
+            utility all else in automatic tolls & pipe usage
+          </span>
+        </h2>
+        “You don’t have a ton of rights, working for the government, but,”
+        <br />
+        <br />
         "something smells that new cases from nothing, I don't want to be
         conspiratorial"
         <h2>Not all common sense detractors are idiots, sometimes pioneers</h2>
@@ -4246,4 +4277,3 @@ export default class App extends React.Component {
     );
   }
 }
-
