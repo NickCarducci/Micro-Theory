@@ -80,14 +80,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "something smells that new cases from nothing, I don't want to be
+        conspiratorial"
+        <h2>Not all common sense detractors are idiots, sometimes pioneers</h2>
+        <br />
         "ticketmaster and vividseats, under $50," but credit isn't a dollar.
         $4t/yr fed spend 40% credit doesn't become $2t checking
         (currencyComponentOfM1)
         <br />
         <br />
-        Disability can't be claimed without assumption of new employment garnered 
-        (forced-enslaved-traded copyright/hours by implausible settlement schemes, gdp/down 11/1) 
-beyond physical ailment or can be with
+        Disability can be claimed without assumption of new work or with
         mental-diagnosis. This is fraudulent without physical evidence of at
         least a brain malformity!
         <br />
@@ -96,9 +98,10 @@ beyond physical ailment or can be with
         about lender work deficit, is retarded
         <br />
         <br />
-        Natural schedule tendencies (law without law) does not a reason by infinite producers in a finite producer reality make
-        <br/>
-        <br/>
+        Natural schedule tendencies (law without law) does not a reason by
+        infinite producers in a finite producer reality make
+        <br />
+        <br />
         <h2>To outlaw laws or to be an outlaw</h2>
         As a ticket-seller, I have to make my own paytech to boycott credit
         <br />
@@ -2967,7 +2970,7 @@ beyond physical ailment or can be with
         a.k.a. “strings), 1/4 pentagon, 1/14 pension, 1/4 premiums for
         monthly-savings, accosting the supply chain. Why not immigration
         working-age to sold your delirious supply-chain problem when c1970
-        half-life .5x unemployed to population, 10x price/hours more hours for
+        half-life .5x unemployed to population, 10x price/hours more hours for
         median home
         <TwitterTweetEmbed
           key="1434606169516032012"
@@ -4243,3 +4246,4 @@ beyond physical ailment or can be with
     );
   }
 }
+
