@@ -80,6 +80,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Is GDP mostly home "sales"? If you look at the largest expense over time
+        as opposed to in gdp, since its&nbsp;
+        <a href="https://fred.stlouisfed.org/graph/?g=JicW">growth</a>&nbsp;rate
+        is so substantial, even gdp2% (nearly with population) can expound (see
+        &nbsp'<a href="https://fred.stlouisfed.org/graph/?g=G8nU">below</a>)
+        over a lifetime (of work), greater costs towards their propensity to
+        spend/work
+        <br />
         <h2>
           Where is the&nbsp;
           <a href="https://nj.gov/state/elections/election-information-ballots-cast.shtml">
