@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Corporate profits do not Trickle down as outlays, fixed income was
+        forced in 1937 and they act like our debts that compels such is
+        impossible to reverse, and corporate profits to be outlaid.
+        <br />
+        <br />
         <Cable
           onError={handleScollImgError}
           //img={true}
