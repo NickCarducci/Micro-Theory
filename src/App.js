@@ -206,6 +206,8 @@ export default class App extends React.Component {
         giving to anyone with a kid isn't welfare it is parental trust buiding,
         gerontocracy like they keep us out of work and in school while they
         profit off the bonds 40% debt spending (50% in states)
+        <br />
+        <h2>“We enjoy an incredible inheritance.” - Stephen Cortes</h2>
         <Cable
           style={{ width: "100%", height: "570px" }}
           onError={handleScollImgError}
