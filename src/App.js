@@ -836,6 +836,11 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        {this.state.serviceCancelingImages && (
+          <a href="https://www.google.com/maps/contrib/116647982166856941576/reviews/@40.289901,-74.0840547,12z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=en-US">
+            reviews
+          </a>
+        )}
         <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
