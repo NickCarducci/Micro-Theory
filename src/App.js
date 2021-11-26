@@ -80,6 +80,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>Radical market communists, marxist communists/socialists want:</h2>
         Corporate profits do not Trickle down as outlays, fixed income was
         forced in 1937 (war bond investment 1933 after years of ads) and they
         act like our debts that compels such is impossible to reverse, corporate
