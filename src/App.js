@@ -80,6 +80,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>To outlaw laws or to be an outlaw</h2>
         As a ticket-seller, I have to make my own paytech to boycott credit
         <br />
         <Cable
