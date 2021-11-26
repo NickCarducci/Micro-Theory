@@ -80,7 +80,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        <h2>please, crawl into a deep hole</h2>
+        real communism is enforcing-socialism, that is pareto-efficient and
+        &nbsp;
+        <a href="https://constitutioncenter.org/interactive-constitution/preamble">
+          tranquil
+        </a>
+        <h2>
+          please, crawl into a deep hole; there is nothing social about it
+        </h2>
         <Cable
           onError={handleScollImgError}
           //img={true}
