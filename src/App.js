@@ -80,8 +80,32 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1CtQw7G9g2Il7v-7A43gV9g-yGUCYBfNg/preview"
+          }
+          float="left"
+          title="SSA disability and insurance findings favorable for opinions on mental-accumen rather than physical ability without pain and malformity"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 62]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          The messy hair disability from social security; slander to bailout
+          lenders and borrowers, instead of amortizing and reverse
+          debt:cash*income thru hsitory
+        </h2>
         "how much is it going to cost tax payers to keep paying for these
-        boosters?" Curtis Sliwa asks
+        boosters?" Curtis Sliwa asks. Dick Morris says, "pay parents for taking
+        care of children," while charging 11x capacity, the share-split even
+        harms the new entrants to the economy, by allowing
+        landlord-lender-and-loitering-borrower-work-deficit to permeate, instead
+        of forcing settlement
         <br />
         <br />
         <h2>
