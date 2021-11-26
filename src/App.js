@@ -81,6 +81,28 @@ export default class App extends React.Component {
         }}
       >
         <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1mcLkl7-8JG19T8xZX51PlMSlUbemLqii/preview"
+          }
+          float="left"
+          title="Cortes & Pellegrino - Seb Gorka on Trumps' electorate-base, & his wealth"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 56]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        This "conservative" says valuation is qualifying as cash
+        <br />
+        “Trump is a billionaire from Manhattan.”
+        <br />
+        "The bulk of his fortune remains tied up in New York City real estate."
+        <br />
+        <br />
+        <Cable
           style={{
             height: "240px"
           }}
