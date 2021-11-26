@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        The reserve profit to the treasury is solidifying for the dollar, but
+        upon invoiced and false bid pool laundering, and&nbsp;
+        <a href="https://truncatedsalestax.com">
+          slandering upon those who say so
+        </a>
         {/**https://www.cdc.gov/flu/resource-center/freeresources/graphics/infographic-lab-work.htm */}
         <h2>
           Trust statisticians, not doctors;Cases vs asymptomatic testing and
