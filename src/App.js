@@ -84,7 +84,10 @@ export default class App extends React.Component {
         'savings,' Mark Zaney, rater of appraiser of bonds beyond third party
         beneficiary when compounded and laundered from your customers and
         employers unbeknownst and for useless price-inelasticity of bid-to-ask
-        to boot
+        to boot. it is a sure thing to keep down payments upon repo-cycle or
+        else share-split of park-dollar without consent & force by free rider
+        mutable and useless price-inelasticity of bid-to-ask reason, instead of
+        forcing labor in supply to lower our price/hours
         <br />
         <br />
         <h2>a net loss just like dancing over durable-good production</h2>
