@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Hey Nantucket guy: Talking to the fed about inflation, whom don’t care
+        about lender work deficit, is retarded
+        <br />
+        <br />
         <h2>To outlaw laws or to be an outlaw</h2>
         As a ticket-seller, I have to make my own paytech to boycott credit
         <br />
