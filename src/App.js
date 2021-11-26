@@ -80,6 +80,30 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1e8eu_FVDe-lm2ZX3iqihPiBiG4emKu5e/preview"
+          }
+          float="left"
+          title="GBNews - Nigel Farage best of on Thanksgiving 2021"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 56]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>brilliant!</h2>
+        “It’s not mental illness, it is laziness”
+        <br />
+        “Don’t surrender, take the opportunity, work for it.” That is a trade,
+        laundering-profits-under-duress is victimization, surrendering is
+        inherent in that, just as much as duress yourself can withstand the
+        trade
+        <br />
+        <br />
         real communism is enforcing-socialism, that is pareto-efficient and
         &nbsp;
         <a href="https://constitutioncenter.org/interactive-constitution/preamble">
