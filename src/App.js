@@ -83,6 +83,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "ticketmaster and vividseats, under $50," but credit isn't a dollar.
+        $4t/yr fed spend 40% credit doesn't become $2t checking
+        (currencyComponentOfM1)
+        <br />
+        <br />
         Disability can't be claimed without assumption of new employment garnered 
         (forced-enslaved-traded copyright/hours by implausible settlement schemes, gdp/down 11/1) 
 beyond physical ailment or can be with
