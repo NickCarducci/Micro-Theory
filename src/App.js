@@ -86,10 +86,66 @@ export default class App extends React.Component {
           src={
             this.state.serviceCancelingImages
               ? ""
+              : "https://drive.google.com/file/d/1Fllv6JQSJ6VwMOGVYA1Qgj3x28lVXnNu/preview"
+          }
+          float="left"
+          title="John Bachmann Now - Christian Whiton with Jo Pinion on stock prices and virus"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 60]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Activities but not accomplishments” Christian Whiton paraphrasing Carly
+        Fiorina, measured by accrual and false bid pools is ignorant of per hour
+        price-deflation tech-advancement as output
+        <br />
+        <br />
+        "exposed but not infected"
+        <br />
+        you have never actually infected with virus
+        <br />
+        <h2>
+          <a href="https://humanharvest.info">cases</a>&nbsp;vs
+          asymptomatic-testing
+        </h2>
+        Draining the swamp is not ppp trust-building and prohibiting
+        labor-competition in paid family leave, etc.
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/18i2_w7orlcepOuvQJNWNymhfmS8aQogH/preview"
+          }
+          float="right"
+          title="John Bachmann Now - Christian Whiton with Jo Pinion on cash we currently don't need"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 60]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Jo Pinion: "Flood with cash that we currently don't need," we never do
+        need it afro-tool, nor did we to&nbsp;
+        <a href="https://30under5.us">keep people in homes</a>. the only
+        free-rider-mutable operations beyond 10-40% fed-state debt-service and
+        compounded over work, is sewage police lawsuits. atuomatic tolls and
+        oil-pipes can have private-monetary-investors (consumer-surrogates)
+        target margined (& jury for business) for infinite producer reason in a
+        finite producer reality
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
               : "https://drive.google.com/file/d/11kur33tU1ONrqyqb8ZwtI_oQl84lidT7/preview"
           }
           float="left"
-          title="Jenna Ellis on Communism, Socialism, Democracy and the market-communist policies of tha last century"
+          title="National Report -Jenna Ellis on Communism, Socialism, Democracy and the market-communist policies of tha last century"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 60]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -112,7 +168,7 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1i1uA1WQOFb-9R1EXgpiaQQgjKNKfyG24/preview"
           }
           float="right"
-          title="Jessse Jane Duff on continuing claims as a measure of unemployment to population"
+          title="National Report -Jessse Jane Duff on continuing claims as a measure of unemployment to population"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 59]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
