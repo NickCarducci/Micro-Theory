@@ -80,6 +80,30 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{
+            height: "240px"
+          }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1E0017YZhpWFZtQA7ifaI7DoVNGK9P01R/preview"
+          }
+          float="right"
+          title="GBNews - comedian news on Thanksgiving 2021"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 56]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Fare-dodging is Libertarian,” to Brits because gov and corps are the
+        same or actually it is… why is port not consumer-surrogate with
+        target-margin (& jury for business) for infinite producer reason and
+        finite producer reality
+        <br />
+        <br />
         Candice Owens, not even cops can shoot a burgular. A knife in the car is
         a wide-line you don't even want to be on. If cops are malfeasant, reason
         can permit some open-carry-stepping, though I would prefer you use
