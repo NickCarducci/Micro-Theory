@@ -97,8 +97,9 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         Socialism is to give every labor the means of production (exclusively
-        demand), not pay everyone not to work! (60% share-split, 40% free rider
-        mutable tax)
+        demand), not pay everyone not to work! (40% share-split, 60% free rider
+        mutable tax, for the same goods of money from people that weren't
+        necessarily auctioning...)
         <br />
         <br />
         <Cable
