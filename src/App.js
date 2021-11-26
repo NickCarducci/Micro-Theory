@@ -80,6 +80,7 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>a net loss just like dancing over durable-good production</h2>
         whores laughing when gdp/down is 11/1
         <Cable
           onError={handleScollImgError}
@@ -90,9 +91,9 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1S4hVWe_uOdc9o6ej134RSLs3nzx5bHKo/preview"
           }
           float="right"
-          title=""
+          title="Chris Salcedo show on Newsmax with Carl Higbie on Thanksgiving-friday 2021 with tech lead vaxx detractor in 30% antivaxx cohort (with enough savings to retire, it seems)"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 63]}
+          fwd={this["scrollImg" + 64]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -139,7 +140,7 @@ export default class App extends React.Component {
         <br />
         <br />
         “Desantis has [golf ]balls, and he is willing to sell it to you, he is
-        doing it right”
+        doing it right” - Brian Mudd
         <Cable
           style={{ width: "100%", height: "400px", maxHeight: "30vw" }}
           onError={handleScollImgError}
