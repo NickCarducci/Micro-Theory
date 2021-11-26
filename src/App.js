@@ -111,6 +111,11 @@ export default class App extends React.Component {
         of forcing settlement
         <br />
         <br />
+        Curtis Sliwa: “Unfortunately, the shot was not lethal,” after a gun
+        fight erupted from asking for the guy to take his hands out of his
+        pockets
+        <br />
+        <br />
         <h2>
           I have a fucking hole in my leg, "doctors" racketeering with
           "opinions" and malintent
