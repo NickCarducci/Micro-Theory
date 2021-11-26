@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “Over on the democratic side of the party,” Burt Jones slips on the
+        bipartisans vs savers/socialists who want to keep finance out of
+        business and amortize instead of keep down payments upon repo-cycle
+        <br />
         <h2>
           When supply is&nbsp;
           <a href="https://fred.stlouisfed.org/graph/?g=H5XB">working</a>
