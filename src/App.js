@@ -80,6 +80,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          it's your honor, your honor&nbsp;
+          <a
+            href="https://carducci.us"
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            stay in business, without business
+          </a>
+          !
+        </h2>
         The reserve profit to the treasury is solidifying for the dollar, but
         upon invoiced and false bid pool laundering, and&nbsp;
         <a href="https://truncatedsalestax.com">
