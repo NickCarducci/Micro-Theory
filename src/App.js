@@ -135,7 +135,11 @@ export default class App extends React.Component {
         <br />
         <h2>To outlaw laws or to be an outlaw</h2>
         As a ticket-seller, I have to make my own paytech to boycott credit
+        (useless price inelasticity of bid-to-ask beyond natural-capacity)
         <br />
+        <br />
+        “Desantis has [golf ]balls, and he is willing to sell it to you, he is
+        doing it right”
         <Cable
           style={{ width: "100%", height: "400px", maxHeight: "30vw" }}
           onError={handleScollImgError}
