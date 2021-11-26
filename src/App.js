@@ -80,6 +80,14 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "how much is it going to cost tax payers to keep paying for these
+        boosters?" Curtis Sliwa asks
+        <br />
+        <br />
+        <h2>
+          I have a fucking hole in my leg, "doctors" racketeering with
+          "opinions" and malintent
+        </h2>
         <Cable
           onError={handleScollImgError}
           //img={true}
