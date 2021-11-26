@@ -80,7 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        As a ticket-seller, I have to make my own paytech to boycott credit
+        <br />
         <Cable
+          style={{ width: "100%", height: "400px", maxHeight: "30vw" }}
           onError={handleScollImgError}
           //img={true}
           src={
