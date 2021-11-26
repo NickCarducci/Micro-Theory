@@ -80,6 +80,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          we work 10x more per home, that is 5x more per person and 2x more
+          workers per person, than 1970
+        </h2>
+        It’s all going to come down to now that money builds the bridge nor the
+        road; Need consumer surrogate with target margins (& jury for business),
+        not rent-seeking operational costs, free rider mutable 60% tax nor 40%
+        debt-spending 10-40% debt-service
+        <br />
         <h2>Radical market communists, marxist communists/socialists want:</h2>
         Corporate profits do not Trickle down as outlays, fixed income was
         forced in 1937 (war bond investment 1933 after years of ads) and they
