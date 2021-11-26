@@ -81,8 +81,10 @@ export default class App extends React.Component {
         }}
       >
         Corporate profits do not Trickle down as outlays, fixed income was
-        forced in 1937 and they act like our debts that compels such is
-        impossible to reverse, and corporate profits to be outlaid.
+        forced in 1937 (war bond investment 1933 after years of ads) and they
+        act like our debts that compels such is impossible to reverse, corporate
+        profits to be outlaid and cap rent 5 units or 30 days for force market
+        liquidity and encapulate labor as demand
         <br />
         <br />
         <Cable
