@@ -80,7 +80,24 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        <h2>Trust statisticians, not doctors</h2>
+        {/**https://www.cdc.gov/flu/resource-center/freeresources/graphics/infographic-lab-work.htm */}
+        <h2>
+          Trust statisticians, not doctors;Cases vs asymptomatic testing and
+          2k/yr&nbsp;
+          <a href="https://www.cdc.gov/flu/about/professionals/antigenic.htm">
+            discovered
+          </a>
+          &nbsp;
+          <span style={{ fontSize: "9px" }}>
+            <a
+              style={{ fontSize: "9px" }}
+              href="https://www.cdc.gov/flu/swineflu/keyfacts-variant.htm"
+            >
+              All cartoons
+            </a>
+            , testing 1 at a time
+          </span>
+        </h2>
         <Cable
           onError={handleScollImgError}
           //img={true}
