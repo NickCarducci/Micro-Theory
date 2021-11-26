@@ -2233,6 +2233,9 @@ export default class App extends React.Component {
           stop saying tax payer funded
         </a>
         , bitch, that is my money, drop dead
+        <br />
+        <br />
+        Brian Kilmeade says that kids don't want to work after school anymore:
         <Cable
           style={{ width: "100%", height: "560px" }}
           onError={handleScollImgError}
