@@ -80,6 +80,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "Consumers feeling good, a lot of 'employment available,' a lot of
+        'savings,' Mark Zaney, rater of appraiser of bonds beyond third party
+        beneficiary when compounded and laundered from your customers and
+        employers unbeknownst and for useless price-inelasticity of bid-to-ask
+        to boot
+        <br />
+        <br />
         <h2>a net loss just like dancing over durable-good production</h2>
         whores laughing when gdp/down is 11/1
         <Cable
