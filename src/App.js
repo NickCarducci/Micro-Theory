@@ -92,7 +92,7 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1E0017YZhpWFZtQA7ifaI7DoVNGK9P01R/preview"
           }
           float="right"
-          title="GBNews - comedian news on Thanksgiving 2021"
+          title="GBNews - tomorrow's news tonight on Thanksgiving 2021 (Nick Dixon, Leon Kuberman, Dominic Frisby)"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 56]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
