@@ -87,6 +87,22 @@ export default class App extends React.Component {
         &nbsp'<a href="https://fred.stlouisfed.org/graph/?g=G8nU">below</a>)
         over a lifetime (of work), greater costs towards their propensity to
         spend/work
+        <Cable
+          style={{ width: "100%", height: "570px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=Jidp&width=670&height=475"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=Jidp"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 57]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <br />
         <h2>
           Where is the&nbsp;
