@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Communist against invoices, false bid pools & hung-jury-permits
+        <br />
+        Paid family leave forced & ppp prohibits labor-competition, just to
+        bailout landlord-work-deficit
+        <br />
         <h2>
           it's your honor, your honor&nbsp;
           <a
