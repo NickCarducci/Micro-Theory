@@ -81,8 +81,10 @@ export default class App extends React.Component {
         }}
       >
         <h2>
-          Young people are sadder because we are workign twice as much as you, 5
-          times per worker, psychologist agenda saveface isn't
+          Young people are sadder because we are workign twice as much as
+          you,&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">5 times</a>
+          &nbsp;per worker, psychologist agenda saveface isn't
           biological-malformity and shouldn't be healed by anything but the
           source being exogenous in the economy
         </h2>
