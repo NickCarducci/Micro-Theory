@@ -80,7 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        it is not better to be&nbsp;<a href="https://humanharvest.info">vaccinated</a>&nbsp;than not, cases vs asymptomatic-testing is the fallacy doctors' save-face, and ms matches paralytic polio
+        it is not better to be&nbsp;
+        <a href="https://humanharvest.info">vaccinated</a>&nbsp;than not, cases
+        vs asymptomatic-testing is the fallacy doctors' save-face, and ms
+        matches paralytic polio, excess antibodies or fetal cell lines are
+        dysregulative and gross
         <br />
         Access to medicine isn't granted by free rider mutable tax 60%,
         debt-spending, and closed-source-licensure, more demand by money or
