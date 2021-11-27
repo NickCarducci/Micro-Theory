@@ -80,6 +80,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        The oil pipeline wouldn’t have helped unless it was a collective bargain
+        by having no operating costs payable to contractors, but it has them.
+        Such a free rider mutable operation (not sewage police lawsuits which
+        cannot be stopped a la carte, immediately) is like bridge-tolls target
+        marginable because it has operating costs and allowing government to
+        free rider mutable tax 60%, 10-40% debt service and 40-50% debt spend.
+        The left and right wing media wish for the government to rent-seek under
+        the auspices of potentially-fortuitous consumer-surrogate operation
+        <br />
+        <br />
         <h2>
           verdicts from capacity of false bid pools is very much of third party
           beneficiary standing to forbid, reverse and sit on jury (now
