@@ -82,7 +82,26 @@ export default class App extends React.Component {
       >
         if you put profits (unsettled rents, collective bargaining escrow) over
         labor, you aren't conservative. stop saying, "marx teaches about men
-        having sex with boys" and just boycott credit as income
+        having sex with boys" {/**cheryl chumley */} and just boycott credit as
+        income
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1ZVrPziSu1QaGD3rfR830gIY9nc28h8hp/preview"
+          }
+          float="left"
+          title="The Count (Newsmax) - Logan Raddick on socialism and conservativism, profits and microeconomic theory"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 66]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “How socialists are infiltrating and conservatives come to the rescue”
         <br />
         <br />
         The oil pipeline wouldn’t have helped unless it was a collective bargain
@@ -4558,3 +4577,4 @@ export default class App extends React.Component {
     );
   }
 }
+
