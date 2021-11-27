@@ -2227,7 +2227,11 @@ export default class App extends React.Component {
         <h2>
           free portrayed by free rider mutable tax from consumers of other
           markets inflation, lender-work-deficit & 40-50% fed-state debt
-          spending, 40/60 gov/wall st new debt $821/day/person (pre-3/2020)
+          spending,&nbsp;
+          <h1 style={{ fontSize: "24px" }}>
+            40/60 gov/wall st new debt $821/day/person
+          </h1>
+          (pre-3/2020)
         </h2>
         hung-jury-permits, in mvp-duress, are unconstitutional
         <Cable
