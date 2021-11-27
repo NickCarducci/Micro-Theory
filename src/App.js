@@ -80,6 +80,11 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        if you put profits (unsettled rents, collective bargaining escrow) over
+        labor, you aren't conservative. stop saying, "marx teaches about men
+        having sex with boys" and just boycott credit as income
+        <br />
+        <br />
         The oil pipeline wouldn’t have helped unless it was a collective bargain
         by having no operating costs payable to contractors, but it has them.
         Such a free rider mutable operation (not sewage police lawsuits which
@@ -244,7 +249,7 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1Ztv54V2RQrgijxfdY38S7bqP0cdFwiHZ/preview"
           }
           float="left"
-          title="The Count (Newsmax) - Logan Raddick and radio facc on young looters"
+          title="The Count (Newsmax) - Logan Raddick and radio facc Mike Savage on young looters"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 65]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
