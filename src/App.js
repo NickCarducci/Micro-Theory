@@ -118,6 +118,10 @@ export default class App extends React.Component {
         revenue
         <br />
         We surely cannot pay back the debts
+        <br />
+        relying on&nbsp;<a href="https://billbiden.org">"key investments"</a>
+        &nbsp;by more money for the same intermediate-goods-material-and-labor
+        is useless price-inelasticity from bid-to-ask
         <Cable
           style={{ width: "100%", height: "570px" }}
           onError={handleScollImgError}
