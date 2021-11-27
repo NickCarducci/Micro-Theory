@@ -98,7 +98,8 @@ export default class App extends React.Component {
         time-based-debt or pay-day loans, especially when outlays aren't
         concurrentable in a bank that which should remain in equity, - false bid
         pools by hours of labor beyond p2p && industry-type, -
-        closed-source-licensure], the greater the wealth”
+        closed-source-licensure, - landlord-/lender-work-deficit, -
+        working-age-deficit], the greater the wealth”
         <br />
         <br />
         “Guns adds to violence” but it is also the only way to defend ourselves
