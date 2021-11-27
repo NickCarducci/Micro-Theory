@@ -80,6 +80,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "you tax gm you're gonna pay for it when you buy a truck," phil _;
+        unless we outlay profits today, traditional tax is merely money for same
+        intermediate good labor and material in supply chain without laundered
+        brought forward demand backfilled by saver money 40-50% (97% amortized)
+        <br />
+        <br />
+        “Capital income penalties small biz,” sounds like gov is just getting in
+        on the deal. Only sewage police lawsuits is free rider immutable, all
+        else is gentrification by wall st or gov, mostly wall st is new debt by
+        60/40
+        <br />
+        <br />
         "donating" free rider mutable when you can ban invoices, implausible
         landlord use and false bid pools, is merely r&d monopsony and
         grentrification like colonization by slave by proxy-collateral kept in
