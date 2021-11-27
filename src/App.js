@@ -80,7 +80,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        "Future is affordable"
+        "Future is affordable," alt fin like max profit royalties and recurring
+        revenue
         <br />
         We surely cannot pay back the debts
         <Cable
