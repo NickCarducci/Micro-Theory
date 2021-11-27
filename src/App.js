@@ -200,9 +200,9 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1lckqzSZheK66Si1TASlHL-qSUB8NaNBd/preview"
           }
           float="right"
-          title="Saturday Report "
+          title="Saturday Report (Newsmax) - Scott Walker and Mark Halpern on collective bargaining with escrow"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 65]}
+          fwd={this["scrollImg" + 66]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -225,6 +225,43 @@ export default class App extends React.Component {
         life
         <br />
         <br />
+        <h2>
+          "liberalism is in fact a mental disorder, whenever you see something
+          mad in society, just plug it in, and you have your answer."
+        </h2>
+        <br />
+        "Where is the money going?" get off tv
+        <br />
+        you might be rich and dumb, but you're criminal and deserve to be in
+        jail for advocating invoices and false bid pools impossible and net loss
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://drive.google.com/file/d/1Ztv54V2RQrgijxfdY38S7bqP0cdFwiHZ/preview"
+          }
+          float="left"
+          title="The Count (Newsmax) - Logan Raddick and radio facc on young looters"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 65]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <h2>
+          Unfair, or cheating and impossible? useless price inelasticity to
+          boot, for same intermediate-durables-material-and-labor-on-ask, half
+          as many unemployed per person and 5x hours per worker since when you
+          were a kid, and 65+ are half continuing claims. get back to work old
+          man
+          <span style={{ fontSize: "9px" }}>
+            , 20x/person&nbsp;
+            <a href="https://fred.stlouisfed.org/graph/?g=FSwQ">55+</a>
+            /millennial rental-unit-income, 73% 50+ pro-AARP false bid pool
+          </span>
+        </h2>
         “The greater the freedom[ - corporate profits withheld, - repo-cycle, -
         60/40 free rider mutable tax/ debt spending useless price-inelasticity
         of bid-to-ask non-target-margin networks finite producer public utility
