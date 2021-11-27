@@ -80,10 +80,44 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          Young people are sadder because we are workign twice as much as you, 5
+          times per worker, psychologist agenda saveface isn't
+          biological-malformity and shouldn't be healed by anything but the
+          source being exogenous in the economy
+        </h2>
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1lckqzSZheK66Si1TASlHL-qSUB8NaNBd/preview"
+          }
+          float="right"
+          title="Saturday Report "
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 65]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Private banking or public banking is as insignificant as private
+        insurance is to public, except for the 40-50% debt-spending and free
+        rider mutable tax for lender-work-deficit retardation by public, still
+        false bid pools & net loss for not being concurrentable in outlays,
+        compounded penalties laundered from your consumers unbeknownst to them
+        starting when you forge the counterfeiters’ lien. Max profit royalty can
+        literally ‘replace’ compounding as a measure of equity, “without
+        dilution” or share-split
+        <br />
+        <br />
         $88t debt $2t cash, Kilmeade clicked me, is bad,” “you cannot have,” bo
         Snerdley, by what grounds other than the law, or natural and comparative
         law, as to at least prevent nuclear dilemma but at best comparative
-        advantage lubed
+        advantage lubed. “Are we killing the durable symbiotic earth by
+        killing?” Not evidently. ”In order to maintain life, life must be
+        taken.” In trade, that is not true. Life doesn’t require the taking of
+        life
         <br />
         <br />
         “The greater the freedom[ - corporate profits withheld, - repo-cycle, -
