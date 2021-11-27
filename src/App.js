@@ -80,9 +80,19 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <a href="https://www.latimes.com/politics/la-pol-ca-wrongful-convicted-restitution-victims-compensation-20190523-story.html">
+          120000
+        </a>
+        &nbsp;compensated by further than capacity without state as victim nor
+        incriminating until you license for no other productive reason than
+        craft beer hegemony for false imprisonment but everyone in&nbsp;
+        <a href="https://www.prisonpolicy.org/reports/pie2020.html">jail</a>
+        &nbsp;is moot when findings pay in net loss bonds rather than truncated
+        sales tax
         <h2>
-          Young people are sadder because we are workign twice as much as
-          you,&nbsp;
+          Young people are&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=FSwQ">sadder</a>
+          &nbsp;because we are workign twice as much as you,&nbsp;
           <a href="https://fred.stlouisfed.org/graph/?g=Gkvt">5 times</a>
           &nbsp;per worker, psychologist agenda saveface isn't
           biological-malformity and shouldn't be healed by anything but the
