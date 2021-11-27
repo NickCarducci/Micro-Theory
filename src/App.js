@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        the far right is anti-labor, pro-corporate profit. the far left is
+        government gentrification
+        <br />
+        <br />
         it is not better to be&nbsp;
         <a href="https://humanharvest.info">vaccinated</a>&nbsp;than not, cases
         vs asymptomatic-testing is the fallacy doctors' save-face, and ms
