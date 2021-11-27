@@ -81,16 +81,18 @@ export default class App extends React.Component {
         }}
       >
         “The greater the freedom[ - corporate profits withheld, - repo-cycle, -
-        free rider mutable non-target-margin networks finite producer public
-        utility with operating costs, and therefore, opportunity for profit,
-        outlaid right away, or collective bargaining a checking account... where
+        60/40 free rider mutable tax/ debt spending useless price-inelasticity
+        of bid-to-ask non-target-margin networks finite producer public utility
+        with operating costs, and therefore, opportunity for profit, outlaid
+        right away, or collective bargaining a checking account... where
         collective bargaining loses it's boost, but non-integral partial
         derivative momentum, - hung-jury-permits for business, - competing with
         consumer intent deduced compelling us to cap rents at 5 units or
         30&nbsp;<a href="https://30under5.us">days</a>&nbsp; to prohibit, -
         time-based-debt or pay-day loans, especially when outlays aren't
-        concurrentable in a bank that which should remain in equity], the
-        greater the wealth”
+        concurrentable in a bank that which should remain in equity, - false bid
+        pools by hours of labor beyond p2p && industry-type, -
+        closed-source-licensure], the greater the wealth”
         <br />
         <br />
         “Guns adds to violence” but it is also the only way to defend ourselves
