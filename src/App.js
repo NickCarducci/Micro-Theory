@@ -80,6 +80,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "Future is affordable"
+        <br />
         We surely cannot pay back the debts
         <Cable
           style={{ width: "100%", height: "570px" }}
