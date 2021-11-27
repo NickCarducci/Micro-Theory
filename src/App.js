@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        “Guns adds to violence” but it is also the only way to defend ourselves
+        from incarceration net loss bond profit
+        <br />
+        <br />
         the far right is anti-labor, pro-corporate profit. the far left is
         government gentrification
         <br />
