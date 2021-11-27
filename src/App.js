@@ -122,6 +122,14 @@ export default class App extends React.Component {
         relying on&nbsp;<a href="https://billbiden.org">"key investments"</a>
         &nbsp;by more money for the same intermediate-goods-material-and-labor
         is useless price-inelasticity from bid-to-ask
+        <br />
+        <br />
+        <h2>what about new business? child tax credit enslaves children</h2>
+        "sba and disaster programs," are just prohibiting this price-change by
+        expiring premiums, or non-rollover insurance, the definition of
+        embezzling with the stated intent to expire, but abetting invoices that
+        are impossible but instilled by prisoners' dilemma or more accurately,
+        nuclear dilemma
         <Cable
           style={{ width: "100%", height: "570px" }}
           onError={handleScollImgError}
