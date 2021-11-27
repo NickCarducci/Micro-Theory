@@ -80,6 +80,34 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        you're a fucking market communist larry, by corporate, collective
+        bargaining a business account for what? to prohibit shareholders from
+        splitting off and competing?
+        <h2>
+          "it's an inflationary boom in consumer spending, wages and salaries,
+          and unfortunately inflation. inflation is the problem, not recession.
+          Profgressives love employment, but not the employers and profitable
+          businesses with wages higher earned by productivity, plants to make
+          the worker better[ saved up], you cant gave capitalism, without
+          capital ... [blah blah blah ]long term growth"
+        </h2>
+        "No evidence of price gouging," Larry Kudlow says, “to replace demand of
+        more money with more supply,” what the fuck does that mean. you can
+        reverse the money to checking without accrual $88t (debt, counterfeit
+        laundered third party beneficiary) to $2t cash
+        <br />
+        Is false bid pools, implausible landlord use lender work deficit
+        invoices and repo-cycle of down payments kept purposefully-impossible
+        force majeure of options to buy on estimates or expiring claims and
+        calling the monthly deductible a savings or business, much less
+        competing with consumers intent of non-compete drafts of
+        intermediate-materials-and-labor of grandiose scope everchanging until
+        excrow outlaid and happiness the onus of the employer, that is price
+        gouging
+        <br />
+        Don’t fucking speak about microeconomics you bastard fucking die
+        <br />
+        <br />
         <a href="https://www.latimes.com/politics/la-pol-ca-wrongful-convicted-restitution-victims-compensation-20190523-story.html">
           120000
         </a>
