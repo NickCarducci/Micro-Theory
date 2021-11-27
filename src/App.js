@@ -80,6 +80,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        it is not better to be&nbsp;<a href="https://humanharvest.info">vaccinated</a>&nbsp;than not, cases vs asymptomatic-testing is the fallacy doctors' save-face, and ms matches paralytic polio
+        <br />
+        Access to medicine isn't granted by free rider mutable tax 60%,
+        debt-spending, and closed-source-licensure, more demand by money or
+        government r&d monopsony is only ever harmful. more demand by working
+        age cohort size is efficient per hour of work
+        <br />
         "Future is affordable," alt fin like max profit royalties and recurring
         revenue
         <br />
