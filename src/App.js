@@ -80,6 +80,24 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        We surely cannot pay back the debts
+        <Cable
+          style={{ width: "100%", height: "570px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.nofred
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=JiC5&width=670&height=475"
+          }
+          float="right"
+          title="https://fred.stlouisfed.org/graph/?g=JiC5"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 65]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <br />
         “180% more likely to prematurely die if depressed,” a.k.a. "I can't wait
         for my Haitian wife! Stop the working age from taking our durable-good
         jobs! It is a bipartisan, non-controversial issue!"
