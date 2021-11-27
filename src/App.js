@@ -80,6 +80,18 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        isolate your IP and buying power unless concurrentable units, then is
+        collective bargaining (rollover-insurance)
+        <br />
+        Believe me, I want you to be prejudice, for argument’s sake
+        <br />
+        <h2>
+          <a href="https://carducci.us">Duress</a>&nbsp;
+          <a href="https://login.gov">to dance</a>&nbsp;
+          <a href="https://www.fbi.gov/file-repository/2015-ncic-missing-person-and-unidentified-person-statistics.pdf/view">
+            and alimony
+          </a>
+        </h2>
         if you put profits (unsettled rents, collective bargaining escrow) over
         labor, you aren't conservative. stop saying, "marx teaches about men
         having sex with boys" {/**cheryl chumley */} and just boycott credit as
@@ -101,7 +113,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        “How socialists are infiltrating and conservatives come to the rescue”
+        “How socialists are infiltrating and conservatives&nbsp;
+        <a href="https://2052.live">come to the rescue</a>”
         <br />
         <br />
         The oil pipeline wouldn’t have helped unless it was a collective bargain
@@ -4577,4 +4590,3 @@ export default class App extends React.Component {
     );
   }
 }
-
