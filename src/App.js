@@ -80,6 +80,27 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "donating" free rider mutable when you can ban invoices, implausible
+        landlord use and false bid pools, is merely r&d monopsony and
+        grentrification like colonization by slave by proxy-collateral kept in
+        repo-cycle purposefully and not for trade without duress beyond
+        jury-for-business permitting minimal viable product, or else illegal, at
+        least not efficient toward microeconomic reasoning of infinite producers
+        in a finite producer reality. Actually like pick up a shovel
+        <br />
+        <br />
+        300/day, business to conduct drilling is usually bankrupt and keep down
+        payments or operating and kept down payments of useless bid-to-ask
+        brought forward demand for the same good, but without waiting for
+        consumer in p2p, equity in investment bank, or consumer-surrogate
+        target-margin in government regulation, as a perpetual motion machine
+        without operational cost can never a free rider mutable tax nor 40-50%
+        saver-money (amortized 97%) make
+        <br />
+        <br />
+        Don’t fucking speak about microeconomics you bastard, fucking die
+        <br />
+        <br />
         "corporations provide the wages, as long as the profits are doing well."
         <br />
         "workfare," but I was a bartender, now injured, and you assume so much
