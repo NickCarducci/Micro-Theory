@@ -80,16 +80,23 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        "corporations provide the wages, as long as the profits are doing well."
+        <br />
+        "workfare," but I was a bartender, now injured, and you assume so much
+        of employers to put up with me and my needs
+        <br />
+        <br />
         you're a fucking market communist larry, by corporate, collective
         bargaining a business account for what? to prohibit shareholders from
         splitting off and competing?
         <h2>
           "it's an inflationary boom in consumer spending, wages and salaries,
           and unfortunately inflation. inflation is the problem, not recession.
-          Profgressives love employment, but not the employers and profitable
+          Progressives love employment, but not the employers and profitable
           businesses with wages higher earned by productivity, plants to make
           the worker better[ saved up], you cant gave capitalism, without
-          capital ... [blah blah blah ]long term growth"
+          capital ... [blah blah blah ]long term growth. Short run inflation
+          leads to great happiness, long term great recessions”
         </h2>
         "No evidence of price gouging," Larry Kudlow says, “to replace demand of
         more money with more supply,” what the fuck does that mean. you can
