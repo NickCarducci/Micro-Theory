@@ -80,6 +80,10 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Utility open source copyright, consulting isn’t an own-able trade until
+        wireframe
+        <br />
+        <br />
         Not emergency if delayed, not bona fide if impossibly-foreseeable
         <br />
         <h2>
@@ -164,8 +168,8 @@ export default class App extends React.Component {
         <br />
         <br />
         “I’ll tell you my plan for a little money, do your job,” solicits free
-        rider<a href="https://truncatedsalestax.com">immutable</a>&nbsp;sewage
-        police lawsuits
+        rider&nbsp;<a href="https://truncatedsalestax.com">immutable</a>
+        &nbsp;sewage police lawsuits
         <br />
         <br />
         <h2>
@@ -4631,4 +4635,3 @@ export default class App extends React.Component {
     );
   }
 }
-
