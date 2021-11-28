@@ -80,7 +80,16 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        Don’t invest in small shiz (pre)
+        Don’t invest in small shiz (
+        <a
+          href="https://saverparty.xyz"
+          style={{
+            backgroundColor: "rgba(200,100,150,.5)"
+          }}
+        >
+          pre
+        </a>
+        )
         <br />
         fuck it, going to counterfeit this bentley
         <br />
