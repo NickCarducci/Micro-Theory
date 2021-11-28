@@ -80,6 +80,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          <span style={{ fontSize: "24px" }}>gdp is price to hours</span>, the
+          better of output productivity is the very opposite (price-deflation
+          per hour), let alone an amalgamation of apples and oranges: to count
+          this spends is as to count withdrawals and deposits by certificates on
+          the market
+        </h2>
         Who is responsible for the high tuitions we face? If Dick Morris says
         anything other than debt emitting capacity beyond settled supply and
         demand of capital, not accrual (counterfeit-contracts, compounding
@@ -107,8 +114,8 @@ export default class App extends React.Component {
         and industry-precedence-interest and save-face is just an assumption
         <br />
         <br />
-        isolate your IP and buying power unless concurrentable units, then is
-        collective bargaining (rollover-insurance)
+        <h2>isolate your IP and buying power</h2>unless concurrentable units,
+        then is collective bargaining (rollover-insurance)
         <br />
         Believe me, I want you to be prejudice, for argument’s sake
         <br />
