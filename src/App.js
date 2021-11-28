@@ -120,8 +120,17 @@ export default class App extends React.Component {
         and industry-precedence-interest and save-face is just an assumption
         <br />
         <br />
-        <h2>isolate your IP and buying power</h2>unless concurrentable units,
-        then is collective bargaining (rollover-insurance)
+        <h2>
+          isolate your IP and buying power&nbsp;
+          <span style={{ fontWeight: "normal" }}>
+            (good for consumers by comparative advantage is business by labor,
+            as opposed to gov/"commercial"-banks/credit-"unions" colective and
+            non-concurrentable (in settlement or amortization), unless the
+            utility of design and discovery broadness is free rider mutable)
+          </span>
+        </h2>
+        unless concurrentable units, then is collective bargaining
+        (rollover-insurance)
         <br />
         Believe me, I want you to be prejudice, for argument’s sake
         <br />
