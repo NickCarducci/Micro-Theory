@@ -80,6 +80,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Not emergency if delayed, not bona fide if impossibly-foreseeable
+        <br />
         <h2>
           <span style={{ fontSize: "24px" }}>gdp is price to hours</span>, the
           better of output productivity is the very opposite (price-deflation
