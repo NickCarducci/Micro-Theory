@@ -80,7 +80,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-        Don’t invest in small shiz
+        Don’t invest in small shiz (pre)
+        <br />
+        fuck it, going to counterfeit this bentley
         <br />
         <br />
         isolate your IP and buying power unless concurrentable units, then is
