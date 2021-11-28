@@ -94,6 +94,10 @@ export default class App extends React.Component {
         fuck it, going to counterfeit this bentley
         <br />
         <br />
+        You need to mandate freedom, infinite producers working out oligopolies
+        and industry-precedence-interest and save-face is just an assumption
+        <br />
+        <br />
         isolate your IP and buying power unless concurrentable units, then is
         collective bargaining (rollover-insurance)
         <br />
