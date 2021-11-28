@@ -80,6 +80,15 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Who is responsible for the high tuitions we face? If Dick Morris says
+        anything other than debt emitting capacity beyond settled supply and
+        demand of capital, not accrual (counterfeit-contracts, compounding
+        before consumer or as medium, collective bargain fallacy outlays max
+        profit royalty false bid pool)
+        <br />
+        More administration to students at Yale, just dumping content (JDC)
+        <br />
+        <br />
         Don’t invest in small shiz (
         <a
           href="https://saverparty.xyz"
