@@ -80,6 +80,9 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Don’t invest in small shiz
+        <br />
+        <br />
         isolate your IP and buying power unless concurrentable units, then is
         collective bargaining (rollover-insurance)
         <br />
@@ -304,7 +307,7 @@ export default class App extends React.Component {
         of bid-to-ask non-target-margin networks finite producer public utility
         with operating costs, and therefore, opportunity for profit, outlaid
         right away, or collective bargaining a checking account... where
-        collective bargaining loses it's boost, but non-integral partial
+        collective bargaining loses its boost, but non-integral partial
         derivative momentum, - hung-jury-permits for business, - competing with
         consumer intent deduced compelling us to cap rents at 5 units or
         30&nbsp;<a href="https://30under5.us">days</a>&nbsp; to prohibit, -
