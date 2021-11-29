@@ -80,6 +80,13 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h2>
+          gdp/down 11/1 is not consumers nor purchases, rent seekers to the left
+          and right, the latter if private&nbsp;
+          <span role="img" aria-label="squirrel bottom-left white-circle">
+            🐿↙️⚪️
+          </span>
+        </h2>
         <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
