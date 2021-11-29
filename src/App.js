@@ -80,6 +80,8 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        friends and family discount should be illegal like&nbsp;
+        <a href="https://humanharvest.info">hung</a>-jury-business-permits
         <h1 style={{ fontSize: "24px" }}>
           $300k/year/person, $821/day/person -3/2020
         </h1>
