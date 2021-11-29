@@ -80,6 +80,34 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <h1 style={{ fontSize: "24px" }}>
+          $300k/year/person, $821/day/person -3/2020
+        </h1>
+        <br />
+        To boycott credit, or even provide the option in what is assumed to be
+        infinite for pareto efficiency equillibrium of labor-based-demand, and
+        tag transactioned for accounting software and congress for
+        jury-based-free-rider-immutable and
+        jury-conviction/-business-permit-duress-beyond-mvp designation, by
+        $75/mo to mastercard api and&nbsp;
+        <a href="https://github.com/NickCarducci/mastercard-backbank/blob/main/src/index.mjs">
+          $30/mo
+        </a>
+        &nbsp;serverless node.js (making AST ={">"} esm for webworker $5/mo)
+        <br />
+        <br />
+        presenting options to buy sold on down payments and estimates on&nbsp;
+        <a href="https://scopes.cc">intermediate materials and labor</a>,
+        durable goods being public parks
+        <br />
+        <br />
+        Rent-seeking operating costable is susceptible to market communism vs
+        free market communism or Marxist Communism
+        <br />
+        <br />
+        “Major economic downturn,” Rudy, every number you cite is a good thing
+        to go down
+        <br />
         <h2>
           gdp/down 11/1 is not consumers nor purchases, rent seekers to the left
           and right, the latter if private&nbsp;
