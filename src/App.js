@@ -80,6 +80,22 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        <Cable
+          style={{ height: "440px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1n77U9ifqOLDhXsy1styK3l6VyEjWix4f/preview"
+          }
+          float="right"
+          title="Daily Wire - Biden and Walmart Ceo on credit as income"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 67]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         Utility open source copyright, consulting isn’t an own-able trade until
         wireframe
         <br />
