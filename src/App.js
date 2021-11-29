@@ -85,6 +85,10 @@ export default class App extends React.Component {
         <h1 style={{ fontSize: "24px" }}>
           $300k/year/person, $821/day/person -3/2020
         </h1>
+        80k/yr 216/day missing children,&nbsp;
+        <a href="https://login.gov">forever</a>
+        {/**https://nationalsecuritycasino.com */}
+        <br />
         <br />
         To boycott credit, or even provide the option in what is assumed to be
         infinite for pareto efficiency equillibrium of labor-based-demand, and
@@ -4719,3 +4723,4 @@ export default class App extends React.Component {
     );
   }
 }
+
