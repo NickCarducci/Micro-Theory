@@ -93,7 +93,7 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1o8ocuvUejP59ZUOo322DbqV-zDw6fm_W/preview"
           }
           float="right"
-          title="Wake Up America (Newsmax) - GOP elder on inflation by lender/landlord work deficit only"
+          title="National Report (Newsmax) - GOP elder on inflation by lender/landlord work deficit only"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 68]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -207,8 +207,15 @@ export default class App extends React.Component {
         and industry-precedence-interest and save-face is just an assumption
         <br />
         <br />
-        <h2>
-          isolate your IP and buying power&nbsp;
+        Opposition to the following is the plural majority, in presidential
+        elections, and simple, in gubernatorial
+        <br />
+        Human Resources and management is for Democrats/Republicans to share
+        corporate profits
+        <br />
+        <h2 style={{ fontSize: "24px" }}>
+          isolate your IP and buying power&nbsp;outlay corporate profit,
+          today!&nbsp;╲⎝⧹ ( ͡° ͜ʖ ͡°) ⎠╱
           <span style={{ fontWeight: "normal" }}>
             (good for consumers by comparative advantage is business by labor,
             as opposed to gov/"commercial"-banks/credit-"unions" colective and
