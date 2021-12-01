@@ -80,6 +80,36 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Janet Yellen: "Childcare and eldercare increases hours worked," because
+        you are watching another person's kid
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1o8ocuvUejP59ZUOo322DbqV-zDw6fm_W/preview"
+          }
+          float="right"
+          title="Wake Up America (Newsmax) - GOP elder on inflation by lender/landlord work deficit only"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 68]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Jerome Powell: "Brisk pace of wage inflation," is inflation, as is home
+        and bond prices, but gini nor Powell counts it as as intermediate labor
+        <br />
+        <br />
+        “Let the private sector grow the economy, not government.” While
+        supporting broadband and bridge toll rent-seeking instead of
+        target-margin and jury-permitting upon microeconomic perfect equilibrium
+        (infinite producers) emulated & private accrual (invoices) & false bid
+        pools (expiring claims non-concurrentable nor rollover insurance)
+        <br />
+        <br />
         friends and family discount should be illegal like&nbsp;
         <a href="https://humanharvest.info">hung</a>-jury-business-permits
         <h1 style={{ fontSize: "24px" }}>
@@ -4723,4 +4753,3 @@ export default class App extends React.Component {
     );
   }
 }
-
