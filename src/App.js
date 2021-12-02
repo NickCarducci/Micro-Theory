@@ -80,6 +80,19 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+        Force majeure is the right to abortion, finance (invoices & expiring
+        premiums of duress by the former,&nbsp;
+        <a href="https://30under5.us">implausible landlord use</a>) makes living
+        without income impossible
+        <br />
+        <br />
+        Doubling employment to population ratio by watching eachothers’ kids,
+        notwithstanding
+        <br />
+        <br />
+        Liberty doesn’t allow for liberty to fail, but force majeure does
+        <br />
+        <br />
         Janet Yellen: "Childcare and eldercare increases hours worked," because
         you are watching another person's kid
         <br />
