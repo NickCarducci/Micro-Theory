@@ -101,6 +101,17 @@ export default class App extends React.Component {
             carducci.us
           </a>
           assumes in perfect equilibrium
+          <br />
+          Micro-theory.com competing with consumers
+          <br />
+          Subsidizes free rider mutable monopsony
+          <br />
+          Options to buy sold on intermediate labor and material estimates
+          <br />
+          “They want to make money, they don’t want to make war,” Chris Hahn on
+          Taiwan
+          <br />
+          It’s just business
           {/* market history and propoganda: The Great Leap Forward expected 15m
         35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
        &nbsp;deaths*/}
