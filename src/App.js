@@ -80,6 +80,40 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
+      <div
+        style={{
+          width: "100%"
+        }}
+      >
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://carducci.us"
+        >
+          carducci.us
+        </a>
+        assumes in perfect equilibrium
+       {/* market history and propoganda: The Great Leap Forward expected 15m
+        35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
+       &nbsp;deaths*/}
+      </div>
+      <br/>
+        Should be illegal to compile labor to sign for longer than a month a la
+        carte except for sport drafts…
+        <br />
+        “Money may not be the key to happiness, but it is evidently key to
+        mental health,” Dick Morris talking about Gallup poll finding
+        self-described non-excellence in mental health from left to right
+        <br />
+        <br />
         Force majeure is the right to abortion, finance (invoices & expiring
         premiums of duress by the former,&nbsp;
         <a href="https://30under5.us">implausible landlord use</a>) makes living
