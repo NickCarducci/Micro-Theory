@@ -80,32 +80,32 @@ export default class App extends React.Component {
           padding: "20px"
         }}
       >
-      <div
-        style={{
-          width: "100%"
-        }}
-      >
-        <a
+        <div
           style={{
-            shapeOutside: "rect()",
-            float: "right",
-            width: "max-content",
-            padding: "0px 10px",
-            fontSize: "20px",
-            fontFamily: "'Pacifico', sans-serif",
-            color: "rgb(230,230,255)",
-            backgroundColor: "rgb(32, 22, 11)"
+            width: "100%"
           }}
-          href="https://carducci.us"
         >
-          carducci.us
-        </a>
-        assumes in perfect equilibrium
-       {/* market history and propoganda: The Great Leap Forward expected 15m
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://carducci.us"
+          >
+            carducci.us
+          </a>
+          assumes in perfect equilibrium
+          {/* market history and propoganda: The Great Leap Forward expected 15m
         35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
        &nbsp;deaths*/}
-      </div>
-      <br/>
+        </div>
+        <br />
         Should be illegal to compile labor to sign for longer than a month a la
         carte except for sport drafts…
         <br />
@@ -638,6 +638,12 @@ export default class App extends React.Component {
         <br />
         “Desantis has [golf ]balls, and he is willing to sell it to you, he is
         doing it right” - Brian Mudd
+        <br />
+        <h2>
+          bailing out my mothers' collateralized and&nbsp;
+          <a href="https://nationalsecuritycasino.com">state-victimized</a>
+          &nbsp;debts
+        </h2>
         <Cable
           style={{ width: "100%", height: "400px", maxHeight: "30vw" }}
           onError={handleScollImgError}
@@ -651,6 +657,22 @@ export default class App extends React.Component {
           title="SSA disability and insurance findings favorable for opinions on mental-accumen rather than physical ability without pain and malformity"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 62]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <Cable
+          style={{ width: "100%", height: "400px", maxHeight: "30vw" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1-JP5ChdST5Gq6JO1urDm8M3UWjATP87u/preview"
+          }
+          float="right"
+          title="'When I hear some colored folks say they wish the old slavery times back, I just knows they is lazy. They don't want any responsibility.' - https://www.yumpu.com/en/document/read/18596138/slave-narratives-library-of-congress/41"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 69]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
