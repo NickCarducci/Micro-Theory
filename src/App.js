@@ -129,6 +129,11 @@ export default class App extends React.Component {
           It’s just business
           <br />
           <br />
+          <h2 style={{fontSize:"24px"}}>
+            transmission is an assumption of prevalance as cause instead of
+            byproduct
+          </h2>
+          <br />
           Before trade by depositary, public-parks are generically overvalued to
           labor equity.org propensity to appreciate beyond obvious utility by
           produce or improvement, not rental-intent deduced.
