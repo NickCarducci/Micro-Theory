@@ -115,6 +115,9 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          can't even say worse off when describing poverty alleviation in lieu
+          of lower wealth inequality, meaning not measured by inflation, income nor gini alone
+          <br />
           assumes in perfect equilibrium
           <br />
           Micro-theory.com competing with consumers
