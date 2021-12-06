@@ -129,7 +129,7 @@ export default class App extends React.Component {
           It’s just business
           <br />
           <br />
-          <h2 style={{fontSize:"24px"}}>
+          <h2 style={{ fontSize: "24px" }}>
             transmission is an assumption of prevalance as cause instead of
             byproduct
           </h2>
@@ -188,7 +188,8 @@ export default class App extends React.Component {
           node.js competition with consumers
         </a>
         &nbsp;busy-work without consumers ready willing and able or free rider
-        immutable sewage police lawsuits and others by jury-permittable as would
+        immutable sewage police lawsuits and others by jury(Cause for removal
+        never for view of law but industry-variance)-permittable as would
         desistation before paying lest not discriminating users, duress beyond
         mvp in minimal viable product or conviction (any multiple of 11/12).
         <br />
