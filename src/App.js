@@ -163,6 +163,28 @@ export default class App extends React.Component {
        &nbsp;deaths*/}
         </div>
         <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1uhex0QL6SJbdXIsOjlNjbum3VKkUltWP/preview"
+          }
+          float="right"
+          title="John Bachmann Now (Newsmax) - Rumble serverless node.js anti-quality-cudgel going public with Cantor Fitzgerald front-run public-fee, double income/outlay tax"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 70]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “The money is going to be continue to be printed,” and&nbsp;
+        <a href="https://thumbprint.us/payments">
+          node.js competition with consumers
+        </a>
+        .
+        <br />
+        <br />
         Should be illegal to compile labor to sign for longer than a month a la
         carte except for sport drafts…
         <br />
