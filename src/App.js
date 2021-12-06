@@ -182,7 +182,10 @@ export default class App extends React.Component {
         <a href="https://thumbprint.us/payments">
           node.js competition with consumers
         </a>
-        .
+        &nbsp;busy-work without consumers ready willing and able or free rider
+        immutable sewage police lawsuits and others by jury-permittable as would
+        desistation before paying lest not discriminating users, duress beyond
+        mvp in minimal viable product or conviction (any multiple of 11/12).
         <br />
         <br />
         Should be illegal to compile labor to sign for longer than a month a la
