@@ -179,7 +179,7 @@ export default class App extends React.Component {
           float="right"
           title="John Bachmann Now (Newsmax) - Rumble serverless node.js anti-quality-cudgel going public with Cantor Fitzgerald front-run public-fee, double income/outlay tax"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 70]}
+          fwd={this["scrollImg" + 71]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -192,6 +192,25 @@ export default class App extends React.Component {
         never for view of law but industry-variance)-permittable as would
         desistation before paying lest not discriminating users, duress beyond
         mvp in minimal viable product or conviction (any multiple of 11/12).
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1Wy9wkm57Do3GGHmJUPk2nKgRH577lIKI/preview"
+          }
+          float="left"
+          title="American Agenda (Newsmax) - Fred Keller on unfettered business discretion of duress in trade (minimal viable) product"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 70]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “We need to trust that businesses can, ‘do the right things,’ to keep
+        businesses safe at their jobs,”
         <br />
         <br />
         Should be illegal to compile labor to sign for longer than a month a la
