@@ -100,6 +100,21 @@ export default class App extends React.Component {
           >
             carducci.us
           </a>
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://saverparty.xyz"
+          >
+            saverparty.xyz
+          </a>
           assumes in perfect equilibrium
           <br />
           Micro-theory.com competing with consumers
@@ -114,11 +129,27 @@ export default class App extends React.Component {
           It’s just business
           <br />
           <br />
+          Before trade by depositary, public-parks are generically overvalued to
+          labor equity.org propensity to appreciate beyond obvious utility by
+          produce or improvement, not rental-intent deduced.
+          <br />
+          <br />
+          Loans are third party beneficiary donee claimable. We (bottom-left
+          politics) will amortize reversal of repo-cycle kept-down-payments by
+          cash:debt*income thru history and move exclusively to alternative
+          finance! Max profit royalty and recurring revenue. But since outlays
+          schedules aren’t concurrentable, maintain per withdrawal or sale by
+          the account-holders, of a business, not a investing-corporation in
+          another alternative finance
+          level/derivative/fract.reserve/counterfeit-compound, anything other
+          than equity.
+          <br />
+          <br />
           Net loss exports? depends on if Investment is (+)
           <br />
           IP-isolated comparative advantage projects over corporate profits,
           prices and hours is the very opposite of productivity, retards (you
-          know, tech advancement).&nbs;
+          know, tech advancement).&nbsp;
           <h2 style={{ fontSize: "24px" }}>
             New/net exports of durable goods, being perfectly in public parks,
             and such as a depositary of maintainence-less public parks
