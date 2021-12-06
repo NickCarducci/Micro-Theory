@@ -112,6 +112,21 @@ export default class App extends React.Component {
           Taiwan
           <br />
           It’s just business
+          <br />
+          <br />
+          Net loss exports? depends on if Investment is (+)
+          <br />
+          IP-isolated comparative advantage projects over corporate profits,
+          prices and hours is the very opposite of productivity, retards (you
+          know, tech advancement).&nbs;
+          <h2 style={{ fontSize: "24px" }}>
+            New/net exports of durable goods, being perfectly in public parks,
+            and such as a depositary of maintainence-less public parks
+          </h2>
+          , makes all service and material exporting over dollars a gain, except
+          for copy- or non-consumer-surrogate-utility-discovery business-rights
+          counted as "investment," but when corporate outlays first,
+          <h2 style={{ fontSize: "24px" }}>in my book, is "gentrification"</h2>
           {/* market history and propoganda: The Great Leap Forward expected 15m
         35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
        &nbsp;deaths*/}
