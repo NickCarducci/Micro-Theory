@@ -116,7 +116,8 @@ export default class App extends React.Component {
             saverparty.xyz
           </a>
           can't even say worse off when describing poverty alleviation in lieu
-          of lower wealth inequality, meaning not measured by inflation, income nor gini alone
+          of lower wealth inequality, meaning not measured by inflation, income
+          nor gini alone
           <br />
           assumes in perfect equilibrium
           <br />
@@ -130,6 +131,12 @@ export default class App extends React.Component {
           Taiwan
           <br />
           It’s just business
+          <br />
+          Supply and demand is the exchange of propensities to which demand is
+          labor outlaid immediately without estimates of labor and material
+          appreciated as a stand up option to buy
+          <br />
+          simple majority by plural minorities is not consent
           <br />
           <br />
           <h2 style={{ fontSize: "24px" }}>
