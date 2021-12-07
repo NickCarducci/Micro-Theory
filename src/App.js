@@ -117,26 +117,28 @@ export default class App extends React.Component {
           </a>
           can't even say worse off when describing poverty alleviation in lieu
           of lower wealth inequality, meaning not measured by inflation, income
-          nor gini alone
+          nor gini alone.
           <br />
-          assumes in perfect equilibrium
+          assumes in perfect equilibrium.
           <br />
-          Micro-theory.com competing with consumers
+          Micro-theory.com competing with consumers.
           <br />
-          Subsidizes free rider mutable monopsony
+          Subsidizes free rider mutable monopsony.
           <br />
-          Options to buy sold on intermediate labor and material estimates
+          Options to buy sold on intermediate labor and material estimates.
           <br />
           “They want to make money, they don’t want to make war,” Chris Hahn on
-          Taiwan
+          Taiwan.
           <br />
-          It’s just business
+          It’s just business.
           <br />
           Supply and demand is the exchange of propensities to which demand is
           labor outlaid immediately without estimates of labor and material
-          appreciated as a stand up option to buy
+          appreciated as a stand up option to buy.
           <br />
-          simple majority by plural minorities is not consent
+          simple majority by plural minorities is not consent, nor is unpaid
+          user discrimination free market before jury-desistation of various
+          industry multiple of 11/12 or non-production, tax.
           <br />
           <br />
           <h2 style={{ fontSize: "24px" }}>
