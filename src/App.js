@@ -136,9 +136,19 @@ export default class App extends React.Component {
           labor outlaid immediately without estimates of labor and material
           appreciated as a stand up option to buy.
           <br />
-          simple majority by plural minorities is not consent, nor is unpaid
+          Simple majority by plural minorities is not consent, nor is unpaid
           user discrimination free market before jury-desistation of various
           industry multiple of 11/12 or non-production, tax.
+          <br />
+          Beyond precedence is sometimes the law, and the law is not always
+          legal nor prevailing.
+          <br />
+          Intent to third party beneficiary donee claimable tranching certain
+          compounds still laundered is manipulating prices for one consumer
+          versus the other.
+          <br />
+          repo-cycle kept-down-payments, expiring claims, invoices, implausible
+          landlord use: third party beneficiary donee claimable
           <br />
           <br />
           <h2 style={{ fontSize: "24px" }}>
