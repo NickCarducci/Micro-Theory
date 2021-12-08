@@ -115,13 +115,83 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          <Cable
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1PlLFO5ReePUfXWuM3rvTYQvLP_TAB0uL/preview"
+            }
+            float="left"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 74]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          "Set government wages food, ags bancruopt energy companies,"
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1kA9n4UgRQYW6xWL1yHVkOVjtJdMrWKEt/preview"
+            }
+            float="right"
+            title={`Roger. Biden is a national security risk of not sending in troops so
+            Putin stays back. and covid`}
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 73]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <a href="https://nationalsecuritycasino.com">tread on copy</a>&nbsp;-
+          greenhouse&nbsp;<a href="https://magnate.company">gases</a>, WWII and
+          Marxist anti-rentier, repo-cycle, and profit by estimates of labor and
+          material, rather than depository so labor is exclusively demand.
+          <br />
+          <br />
           can't even say worse off when describing poverty alleviation in lieu
-          of lower wealth inequality, meaning not measured by inflation, income
-          nor gini alone.
+          of
+          <h2 style={{ fontSize: "20px" }}>
+            lower wealth inequality; meaning, not measured by inflation, income
+            nor gini alone, homes nor bonds court-backed, like such is, lest
+            third party beneficiary donee trial lawyer malfeasant class
+            resolution grows a heart.
+          </h2>
+          <Cable
+            style={{ width: "100px", height: "80px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://drive.google.com/file/d/1VOAbX10hoM4vksG6QYqMFKn4FFjojVmf/preview"
+            }
+            float="left"
+            title="grinch grows a heart"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 72]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          To boot, tech adv comparative advantage loss by enslaving or tariffs
+          for USPTO racket is retarded trumpers
+          <br />
+          <br />
+          <h2>
+            tort reform expiring claimable, open source licensure save the&nbsp;
+            <a href="https://teapharmacy.party">animals</a>
+          </h2>
+          design and discovery equity is all you get, utility too broad
+          <br />
           <br />
           assumes in perfect equilibrium.
           <br />
-          Micro-theory.com competing with consumers.
+          competing with consumers.
           <br />
           Subsidizes free rider mutable monopsony.
           <br />
