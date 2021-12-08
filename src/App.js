@@ -158,10 +158,12 @@ export default class App extends React.Component {
           of
           <h2 style={{ fontSize: "20px" }}>
             lower wealth inequality; meaning, not measured by inflation, income
-            nor gini alone, homes nor bonds court-backed, like such is, lest
-            third party beneficiary donee trial lawyer malfeasant class
-            resolution grows a heart.
+            nor gini alone,
           </h2>
+          homes nor bonds court-backed, like such is, lest third party
+          beneficiary donee trial lawyer malfeasant class resolution grows a
+          heart.
+          <br />
           <Cable
             style={{ width: "100px", height: "80px" }}
             onError={handleScollImgError}
