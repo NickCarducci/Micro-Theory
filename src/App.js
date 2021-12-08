@@ -178,14 +178,16 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          Bank depositables
+          Bank depositables - not rent seekable expiry nor&nbsp;
+          <a href="https://scopes.cc">estimated</a>&nbsp;labor & material claims
           <br />
           To boot, tech adv comparative advantage loss by enslaving or tariffs
           for USPTO racket is retarded,&nbsp;
           <a href="https://www.wsj.com/articles/trump-eyes-a-new-real-estate-purchase-greenland-11565904223">
             trumpers
           </a>
-          . share split park deeds
+          . share split park&nbsp;
+          <a href="https://truncatedsalestax.com">deeds</a>
           <br />
           <br />
           <h2>
