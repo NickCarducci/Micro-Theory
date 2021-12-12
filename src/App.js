@@ -130,7 +130,7 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          "Set government wages food, ags bankrupt energy companies,"
+          "Set government wages, food, gas - bankrupt energy companies,"
           <a
             style={{
               shapeOutside: "rect()",
@@ -148,48 +148,100 @@ export default class App extends React.Component {
           </a>
           <br />
           <br />
-          <br />
-          <a
-            style={{
-              shapeOutside: "rect()",
-              float: "right",
-              width: "max-content",
-              padding: "0px 10px",
-              fontSize: "20px",
-              fontFamily: "'Pacifico', sans-serif",
-              color: "rgb(230,230,255)",
-              backgroundColor: "rgb(32, 22, 11)"
-            }}
-            href="https://froth.app/debt"
-          >
-            froth.app/debt
-          </a>
-          "Rand Paul was the 'first person' to ask Gov for money Kentucky
-          tornado damage."
-          <br />
-          "Ted cruz in TX, too after Hurricane Sandy."
-          <br />
-          “Dems last to say, ‘Oh let’s not give money to Kentucky,’” Sliwa
-          replies, “well they want to use the federal reserve.”
-          <br />
-          “We need to come together whenever there is a national common
-          defense,” Chris Hahn and Curtis Sliwa says in unison.
-          <br />
+          <h2>
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              "Rand Paul was the 'first person' to ask Gov for money Kentucky
+              tornado damage."
+              <br />
+              <a
+                style={{
+                  shapeOutside: "rect()",
+                  float: "right",
+                  width: "max-content",
+                  padding: "0px 10px",
+                  fontSize: "20px",
+                  fontFamily: "'Pacifico', sans-serif",
+                  color: "rgb(230,230,255)",
+                  backgroundColor: "rgb(32, 22, 11)"
+                }}
+                href="https://froth.app/debt"
+              >
+                froth.app/debt
+              </a>
+              <br />
+              "Ted cruz in TX, too after Hurricane Sandy."
+            </span>
+            <br />
+            “Dems last to say, ‘Oh let’s not give money to Kentucky,’” Sliwa
+            replies, “well they want to use the federal reserve.”
+            <br />
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              “We need to come together whenever there is a national common
+              defense,” Chris Hahn and Curtis Sliwa says in unison.
+            </span>
+          </h2>
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/ZmUozfOPquk"
+            }
+            float="left"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 7374]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           “Vaccine mandate whoever comes into the country, just shoot them in
           the arm, and here is a location where it seems a lot of people don’t
           want to do these minimum wage jobs, why not? Supply-chain problem by a
           shortage of workers!”
-          <br />
-          Against $3k/day/p debt principal $821/day/p bonds, $120/day/p checking
-          currencyComponentOfM1? Why would anyone do that voluntarily?
-          <br />
-          Retard, tread on your own copy without long-term contracts except
-          sports.
-          <br />
-          <br />
+          <h3 style={{ fontSize: "24px" }}>
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              Against $3k/day/p debt principal $821/day/p bonds, $120/day/p
+              checking currencyComponentOfM1? Why would anyone do that
+              voluntarily?
+            </span>
+            <br />
+            Retard, tread on your own copy without long-term contracts except
+            sports.
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              “Order to compel, contempt, try abstentia takes property,” as
+              state victimization not a tort? Only if there is damages, not just
+              breaking state victimization law
+            </span>
+          </h3>
           "Whatever needs to get done to make tornado places whole." You are
           going to price that into investing there now, the expiring claims
           false bid pools. YOU NEED TO CUT THE UMBILLICAL CORD
+          <br />
+          <br />
+          “The only president to pay down the debt while in office.” So stupid
+          to do that when velocity of m2 minus gdp divided by m2 minus
+          currencyComponentOfM1. “Chris, what about the average wage of the
+          worker,” “Trump left office at 11% unemployment, now it is 4%.” 2.8m
+          continuing claims half 65+, 20x/millennial rental-income, most
+          disability.
           <br />
           <br />
           <a href="https://nationalsecuritycasino.com">tread on copy</a>&nbsp;-
