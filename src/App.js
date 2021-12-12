@@ -126,7 +126,7 @@ export default class App extends React.Component {
             float="left"
             title=""
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 74]}
+            fwd={this["scrollImg" + 76]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -200,7 +200,7 @@ export default class App extends React.Component {
             float="left"
             title=""
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 7374]}
+            fwd={this["scrollImg" + 75]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
