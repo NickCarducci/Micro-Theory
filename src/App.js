@@ -130,7 +130,68 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          "Set government wages food, ags bancruopt energy companies,"
+          "Set government wages food, ags bankrupt energy companies,"
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://humanharvest.info/polio"
+          >
+            humanharvest.info/polio
+          </a>
+          <br />
+          <br />
+          <br />
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://froth.app/debt"
+          >
+            froth.app/debt
+          </a>
+          "Rand Paul was the 'first person' to ask Gov for money Kentucky
+          tornado damage."
+          <br />
+          "Ted cruz in TX, too after Hurricane Sandy."
+          <br />
+          “Dems last to say, ‘Oh let’s not give money to Kentucky,’” Sliwa
+          replies, “well they want to use the federal reserve.”
+          <br />
+          “We need to come together whenever there is a national common
+          defense,” Chris Hahn and Curtis Sliwa says in unison.
+          <br />
+          “Vaccine mandate whoever comes into the country, just shoot them in
+          the arm, and here is a location where it seems a lot of people don’t
+          want to do these minimum wage jobs, why not? Supply-chain problem by a
+          shortage of workers!”
+          <br />
+          Against $3k/day/p debt principal $821/day/p bonds, $120/day/p checking
+          currencyComponentOfM1? Why would anyone do that voluntarily?
+          <br />
+          Retard, tread on your own copy without long-term contracts except
+          sports.
+          <br />
+          <br />
+          <a href="https://nationalsecuritycasino.com">tread on copy</a>&nbsp;-
+          greenhouse&nbsp;<a href="https://magnate.company">gases</a>, WWII and
+          Marxist anti-rentier, repo-cycle, and profit by estimates of labor and
+          material, rather than depository so labor is exclusively demand.
+          <br />
           <Cable
             style={{ height: "440px" }}
             onError={handleScollImgError}
@@ -148,12 +209,6 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          <a href="https://nationalsecuritycasino.com">tread on copy</a>&nbsp;-
-          greenhouse&nbsp;<a href="https://magnate.company">gases</a>, WWII and
-          Marxist anti-rentier, repo-cycle, and profit by estimates of labor and
-          material, rather than depository so labor is exclusively demand.
-          <br />
-          <br />
           can't even say worse off when describing poverty alleviation in lieu
           of
           <h2 style={{ fontSize: "20px" }}>
