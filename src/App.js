@@ -187,10 +187,9 @@ export default class App extends React.Component {
           sports.
           <br />
           <br />
-          Retard, tread on your own copy without long-term contracts except
-          sports Whatever needs to get done to make tornado places whole. You
+          "Whatever needs to get done to make tornado places whole." You
           are going to price that into investing there now, the expiring claims
-          false bid pools
+          false bid pools. YOU NEED TO CUT THE UMBILLICAL CORD
           <br />
           <br />
           <a href="https://nationalsecuritycasino.com">tread on copy</a>&nbsp;-
