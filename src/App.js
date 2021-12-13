@@ -115,6 +115,13 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          $3k/day/p debt, $821/day/p bonds, $120/day/p checking
+          CurrencyComponentOfM1;
+          <br />
+          $6k/yr/p and $6k/p total;
+          <br />
+          Makes 5% homes, 7.5% bonds decisions;
+          <br />
           <Cable
             onError={handleScollImgError}
             //img={true}
