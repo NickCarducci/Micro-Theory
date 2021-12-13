@@ -115,6 +115,12 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          “Every healthcare people need,” we don’t need insurer work deficit
+          <br />
+          <br />
+          $1.1m/year/p debt, $300k/year/p bond m2, $44k/year/p checking
+          currencyComponentOfM1
+          <br />
           $3k/day/p debt, $821/day/p bonds, $120/day/p checking
           CurrencyComponentOfM1;
           <br />
@@ -245,10 +251,10 @@ export default class App extends React.Component {
               implausible-deniability.
             </span>
             <br />
-            showing different principal&nbsp;&bull;&nbsp;1-level-board max-profit-royalty,
-            cash:debt*income thru history then multiple of 11/12
-            industry-various-jury designation of sewage police lawsuits free
-            rider immutable collective bargain without flaccidity of escrow
+            showing different principal&nbsp;&bull;&nbsp;1-level-board
+            max-profit-royalty, cash:debt*income thru history then multiple of
+            11/12 industry-various-jury designation of sewage police lawsuits
+            free rider immutable collective bargain without flaccidity of escrow
             immediacy or sprint-basing to settlements wothout any pro-rates for
             same material & labor, otherwise.
             <br />
