@@ -115,6 +115,41 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          Statistical analysis (variance, insignificant presentation in a
+          wide-range) of the time-series basis
+          <br />
+          <br />
+          Fiat = commodities (goods, material & intermediate-labor) on market +
+          parks depositary
+          <br />
+          <br />
+          Expiring claims nor estimate options to buy is help, except for
+          ask-producter
+          <br />
+          <br />
+          Not really a paytech exclusively for non-production-taxable charities
+          measured by income nor actual light tech
+          <br />
+          <br />
+          Purchasing a house in NJ Supreme Court means estimates on labor and
+          materials wrapped up in a broad scope of requirements enumerated.
+          <br />
+          <br />
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "left",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://teapharmacy.party/drugs"
+          >
+            teapharmacy.party/drugs
+          </a>
           “Every healthcare people need,” we don’t need insurer work deficit
           <h2>
             <span style={{ fontSize: "9px" }}>
@@ -129,11 +164,12 @@ export default class App extends React.Component {
               <br />
               Pain in the short term, recovery in the long term; inflation,
               wages: but they are the same! "Certainly on bended-knee, but still
-              standing. 
-              <br/>"Pain and destruction, lifted out, and maybe something
-              new. a simple insurance claim is NOT whole-making. Greif, _, &
-              trauma. Thanks for unprecedented [price-elastic]resources. How do
-              you obliterate a full-town?"
+              standing.
+              <br />
+              "Pain and destruction, lifted out, and maybe something new. a
+              simple insurance claim is NOT whole-making. Greif, _, & trauma.
+              Thanks for unprecedented [price-elastic]resources. How do you
+              obliterate a full-town?"
             </span>
             <br />
             “Just give them a hand, they will rebuild,” Bob Sellers
