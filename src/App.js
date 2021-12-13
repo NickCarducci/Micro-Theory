@@ -117,6 +117,7 @@ export default class App extends React.Component {
           </a>
           Free rider mutable trade secrets!
           <br />
+          gdp/p is counterproductive - price deflation per hour
           <br />
           <Cable
             style={{ height: "440px" }}
@@ -130,7 +131,7 @@ export default class App extends React.Component {
             float="left"
             title="Chris Salcedo (Newsmax) - citations of Fox Jessica Chasmar Polis Co Dem '...their own darn fault,' and Daily Wire Dillon Burroughs, '800k covid-related-deaths'"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 80]}
+            fwd={this["scrollImg" + 82]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -221,7 +222,7 @@ export default class App extends React.Component {
               float="right"
               title=""
               scrolling={this.state.scrolling}
-              fwd={this["scrollImg" + 79]}
+              fwd={this["scrollImg" + 81]}
               scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
               scrollTop={this.state.scrollTop}
             />
@@ -255,7 +256,7 @@ export default class App extends React.Component {
             float="left"
             title=""
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 78]}
+            fwd={this["scrollImg" + 80]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -321,22 +322,52 @@ export default class App extends React.Component {
               “Businesses have been taken out,” ppp trust building existing
               business, not most people. labor shortage caused first by boomer
               cohort size and second by racist immigration
-              <br />
-              <Cable
-                onError={handleScollImgError}
-                //img={true}
-                src={
-                  this.state.serviceCancelingImages
-                    ? ""
-                    : "https://drive.google.com/file/d/1XQpvhJvh2xpajuaBaiDZs1bUwkxsdlMn/preview"
-                }
-                float="left"
-                title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
-                scrolling={this.state.scrolling}
-                fwd={this["scrollImg" + 78]}
-                scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-                scrollTop={this.state.scrollTop}
-              />
+            </span>
+            <br />
+            <Cable
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://drive.google.com/file/d/1petIgP37pvwbjApeqPmO-8QJxDqZzhDB/preview"
+              }
+              float="right"
+              title="Chris Salcedo (Newsmax) - immigration death-rate"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 79]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            “Trump had the strongest border, they are importing hundreds of
+            thousands of immigrants above 1.1m/yr ‘legally.’”
+            <br />
+            “Inviting death and destruction, not a victimless-crime’ and
+            lawlessness.”
+            <br />
+            “Viruses mutate or they Peter out. Every one of the deaths from
+            crossing was preventable by border security, not vaccination.”
+            <br />
+            <Cable
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://drive.google.com/file/d/1XQpvhJvh2xpajuaBaiDZs1bUwkxsdlMn/preview"
+              }
+              float="left"
+              title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 78]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
               “We don’t need manpower nor technology, we need policy to control
               the border, secure, and go after criminal business. Without proper
               policy, this is going to continue. We know what needs to be done
