@@ -118,8 +118,41 @@ export default class App extends React.Component {
           Free rider mutable trade secrets!
           <br />
           <br />
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1qqLJGBKH6-JbeofVyP4540zr2OVC1M1k/preview"
+            }
+            float="left"
+            title="Chris Salcedo (Newsmax) - citations of Fox Jessica Chasmar Polis Co Dem '...their own darn fault,' and Daily Wire Dillon Burroughs, '800k covid-related-deaths'"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 80]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          But the virus, of unknown taxonomy, is still caused by someone.
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif",
+              color: "rgb(230,230,255)",
+              backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://moldmask.co"
+          >
+            moldmask.co
+          </a>
           Statistical analysis (variance, insignificant presentation in a
-          wide-range) of the time-series basis
+          wide-range) of the time-series basis. 60 average age flu, 74 covid, 75
+          normal, 78 life expectancy, 75+ 2015- 1.2m/yr+ expected
           <br />
           <br />
           Fiat = commodities (goods, material & intermediate-labor) on market +
