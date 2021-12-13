@@ -117,6 +117,25 @@ export default class App extends React.Component {
           </a>
           “Every healthcare people need,” we don’t need insurer work deficit
           <h2>
+            <span style={{ fontSize: "9px" }}>
+              "
+              <a href="https://secure.kentucky.gov/formservices/Finance/WKYRelief">
+                wkyrelieffund.ky.com
+              </a>
+              &nbsp;0% admin fees until every family has 4 walls up, families
+              are made, and kids still have a Christmas at these state parks.
+              December is really tough for a lot of families, we are going to do
+              our best to lift THEM up." Andy Bershier
+              <br />
+              Pain in the short term, recovery in the long term; inflation,
+              wages: but they are the same! "Certainly on bended-knee, but still
+              standing. 
+              <br/>"Pain and destruction, lifted out, and maybe something
+              new. a simple insurance claim is NOT whole-making. Greif, _, &
+              trauma. Thanks for unprecedented [price-elastic]resources. How do
+              you obliterate a full-town?"
+            </span>
+            <br />
             “Just give them a hand, they will rebuild,” Bob Sellers
             <br />
             <Cable
