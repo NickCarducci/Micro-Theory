@@ -322,7 +322,7 @@ export default class App extends React.Component {
                 scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
                 scrollTop={this.state.scrollTop}
               />
-              “Childrens’ Public Hospital: 'We never turn down,'” Goya Cares
+              “Childrens’ Public Hospital: 'We never turn down kids for treatment,'” Goya Cares
               with Cousin Brucie.
               <br />
               Doctors follow more than any industry, plants have one beat one
@@ -5373,3 +5373,4 @@ export default class App extends React.Component {
     );
   }
 }
+
