@@ -120,8 +120,6 @@ export default class App extends React.Component {
           <br />
           $6k/yr/p and $6k/p total;
           <br />
-          Makes 5% homes, 7.5% bonds decisions;
-          <br />
           <Cable
             onError={handleScollImgError}
             //img={true}
@@ -137,6 +135,8 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
+          Makes 5% homes, 7.5% bonds decisions;
+          <br />
           "Set government wages, food, gas - bankrupt energy companies,"
           <a
             style={{
@@ -194,6 +194,31 @@ export default class App extends React.Component {
               “We need to come together whenever there is a national common
               defense,” Chris Hahn and Curtis Sliwa says in unison.
               <br />
+              “Businesses have been taken out,” ppp trust building existing
+              business, not most people. labor shortage caused first by boomer
+              cohort size and second by racist immigration
+              <br />
+              <Cable
+                onError={handleScollImgError}
+                //img={true}
+                src={
+                  this.state.serviceCancelingImages
+                    ? ""
+                    : "https://drive.google.com/file/d/1XQpvhJvh2xpajuaBaiDZs1bUwkxsdlMn/preview"
+                }
+                float="left"
+                title="John Bachmann (Newsmax) - Brandon Judd National Border Patrol Council, 'Desantis fights to protect FL from Biden's border crisis'"
+                scrolling={this.state.scrolling}
+                fwd={this["scrollImg" + 78]}
+                scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+                scrollTop={this.state.scrollTop}
+              />
+              “We don’t need manpower nor technology, we need policy to control
+              the border, secure, and go after criminal business. Without proper
+              policy, this is going to continue. We know what needs to be done
+              to solve the problem and we know what to do to do that, close
+              border policies.” I don’t see any crime in immigration.
+              <br />
               <Cable
                 onError={handleScollImgError}
                 //img={true}
@@ -209,6 +234,52 @@ export default class App extends React.Component {
                 scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
                 scrollTop={this.state.scrollTop}
               />
+              “Childrens’ Public Hospital: 'We never turn down,'” Goya Cares
+              with Cousin Brucie.
+              <br />
+              Doctors follow more than any industry, plants have one beat one
+              mission, yet multiple of 11/12 industry-variant jury is relevant
+              for science, but not a false imprisonment-defensive against stat-
+              victimization or torts beyond a tranquil and voluntary-bid,
+              settled without expiry, estimate nor force-majeure
+              implausible-deniability.
+            </span>
+            <br />
+            showing different principal&nbsp;&bull;&nbsp;1-level-board max-profit-royalty,
+            cash:debt*income thru history then multiple of 11/12
+            industry-various-jury designation of sewage police lawsuits free
+            rider immutable collective bargain without flaccidity of escrow
+            immediacy or sprint-basing to settlements wothout any pro-rates for
+            same material & labor, otherwise.
+            <br />
+            $1.1m/year/p debt, $300k/year/p bond m2, $44k/year/p checking
+            currencyComponentOfM1
+            <br />
+            Third party donee beneficiaries:
+            <br />
+            NJ consumer law - estimated labor & materials community bid
+            <br />
+            Insurance/WarrantyByBond - expiring claim signatories’ bid-source
+            <br />
+            Charity - community bid
+            <br />
+            Volunteer - volunteers
+            <br />
+            Company - consumers
+            <br />
+            <br />
+            “Non-profit” - 501c3
+            <br />
+            Non-profit - lightte.ch - not exclusively margin target, but no
+            outlays withheld, expiring nor
+            estimated-depositary-materials-nor-labor, rentable-income without
+            plausible use as vacation home or 30 days, or multi-level-board.
+            <br />
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
               “Make sure they get registered with FEMA for assistance,”
               <br />
               “What does FEMA do to help,”asks one CNN-anchor to another
