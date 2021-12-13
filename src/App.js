@@ -115,6 +115,9 @@ export default class App extends React.Component {
           >
             saverparty.xyz
           </a>
+          Free rider mutable trade secrets!
+          <br />
+          <br />
           Statistical analysis (variance, insignificant presentation in a
           wide-range) of the time-series basis
           <br />
@@ -322,8 +325,8 @@ export default class App extends React.Component {
                 scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
                 scrollTop={this.state.scrollTop}
               />
-              “Childrens’ Public Hospital: 'We never turn down kids for treatment,'” Goya Cares
-              with Cousin Brucie.
+              “Childrens’ Public Hospital: 'We never turn down kids for
+              treatment,'” Goya Cares with Cousin Brucie.
               <br />
               Doctors follow more than any industry, plants have one beat one
               mission, yet multiple of 11/12 industry-variant jury is relevant
@@ -5373,4 +5376,3 @@ export default class App extends React.Component {
     );
   }
 }
-
