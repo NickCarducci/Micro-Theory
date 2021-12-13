@@ -126,7 +126,7 @@ export default class App extends React.Component {
             float="left"
             title=""
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 76]}
+            fwd={this["scrollImg" + 78]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -185,16 +185,39 @@ export default class App extends React.Component {
               }}
             >
               “We need to come together whenever there is a national common
-              defense,” Chris Hahn and Curtis Sliwa says in unison. “What does
-              FEMA do to help,”asks one CNN-anchor to another CNN-journalist.
+              defense,” Chris Hahn and Curtis Sliwa says in unison.
+              <br />
+              <Cable
+                onError={handleScollImgError}
+                //img={true}
+                src={
+                  this.state.serviceCancelingImages
+                    ? ""
+                    : "https://drive.google.com/file/d/1hyuB2ahWFG6TnAV6ZKVQg2Lt85AuKKBR/preview"
+                }
+                float="right"
+                title="National Report (Newsmax) - Kenosha guy in Mayfield, KY on tornado, literally"
+                scrolling={this.state.scrolling}
+                fwd={this["scrollImg" + 77]}
+                scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+                scrollTop={this.state.scrollTop}
+              />
+              “Make sure they get registered with FEMA for assistance,”
+              <br />
+              “What does FEMA do to help,”asks one CNN-anchor to another
+              CNN-journalist.
+              <br />
               “FEMA goes door to door, to clear out what is left of these homes.
-              You talk about these volunteers, from the local community." You
-              don’t need monetary contributions if it is virtuous, free rider
-              mutable monies front running products like food and water with
-              their money or even tax is pure inflation, price-inelasticity of
-              bid-to-ask by finance (lender/landlord/insurer work deficit from
-              invoices, expiring or estimated with labor and material claims,
-              implausible landlord use or kept down payments upon repo.
+              You talk about these volunteers, from the local community."
+              <br />
+              You don’t need monetary contributions if it is virtuous, free
+              rider mutable monies front running products like food and water
+              with their money or even tax is pure inflation, price-inelasticity
+              of bid-to-ask by finance
+              <hr />
+              (lender/landlord/insurer work deficit from invoices, expiring or
+              estimated with labor and material claims, implausible landlord use
+              or kept down payments upon repo.
             </span>
           </h2>
           <Cable
