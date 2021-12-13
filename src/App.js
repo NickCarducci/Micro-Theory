@@ -116,6 +116,33 @@ export default class App extends React.Component {
             saverparty.xyz
           </a>
           “Every healthcare people need,” we don’t need insurer work deficit
+          <h2>
+            “Just give them a hand, they will rebuild,” Bob Sellers
+            <br />
+            <Cable
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://drive.google.com/file/d/1ksai39JBNcFVxD2xEWVCnI_UuUGoN9YX/preview"
+              }
+              float="right"
+              title=""
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 79]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <span style={{ fontSize: "9px" }}>
+              "who are we going to ask about this? A doctor"
+            </span>
+          </h2>
+          Doctors follow more than any industry, plants have one beat one
+          mission, yet multiple of 11/12 industry-variant jury is relevant for
+          science, but not a false imprisonment-defensive against stat-
+          victimization or torts beyond a tranquil and voluntary-bid, settled
+          without expiry, estimate nor force-majeure implausible-deniability
           <br />
           <br />
           $1.1m/year/p debt, $300k/year/p bond m2, $44k/year/p checking
