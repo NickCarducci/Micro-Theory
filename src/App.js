@@ -236,11 +236,11 @@ export default class App extends React.Component {
           victimization or torts beyond a tranquil and voluntary-bid, settled
           without expiry, estimate nor force-majeure implausible-deniability
           <br />
-          <br />
-          $1.1m/year/p debt, $300k/year/p bond m2, $44k/year/p checking
+          <br /> 
+          $12k/year/p debt, $3k/year/p bond m2, $64/year/p checking
           currencyComponentOfM1
           <br />
-          $3k/day/p debt, $821/day/p bonds, $120/day/p checking
+          $32/day/p debt, $8/day/p bonds, $.18/day/p checking
           CurrencyComponentOfM1;
           <br />
           $6k/yr/p and $6k/p total;
@@ -340,7 +340,7 @@ export default class App extends React.Component {
               scrollTop={this.state.scrollTop}
             />
             “Trump had the strongest border, they are importing hundreds of
-            thousands of immigrants above 1.1m/yr ‘legally.’”
+            thousands of immigrants above 12k/yr ‘legally.’”
             <br />
             “Inviting death and destruction, not a victimless-crime’ and
             lawlessness.”
@@ -390,7 +390,7 @@ export default class App extends React.Component {
                 scrollTop={this.state.scrollTop}
               />
               “Childrens’ Public Hospital: 'We never turn down kids for
-              treatment,'” Goya Cares with Cousin Brucie.
+              treatment,'” 'former public agency'&nbsp;<a href="https://goya.com/cares">Goya Cares</a>&nbsp;with Cousin Brucie.
               <br />
               Doctors follow more than any industry, plants have one beat one
               mission, yet multiple of 11/12 industry-variant jury is relevant
@@ -407,7 +407,7 @@ export default class App extends React.Component {
             immediacy or sprint-basing to settlements wothout any pro-rates for
             same material & labor, otherwise.
             <br />
-            $1.1m/year/p debt, $300k/year/p bond m2, $44k/year/p checking
+            $12k/year/p debt, $3k/year/p bond m2, $64/year/p checking
             currencyComponentOfM1
             <br />
             Third party donee beneficiaries:
@@ -495,7 +495,7 @@ export default class App extends React.Component {
                 fontSize: "9px"
               }}
             >
-              Against $3k/day/p debt principal $821/day/p bonds, $120/day/p
+              Against $32/day/p debt principal $8/day/p bonds, $.18/day/p
               checking currencyComponentOfM1? Why would anyone do that
               voluntarily?
             </span>
@@ -771,7 +771,7 @@ export default class App extends React.Component {
         friends and family discount should be illegal like&nbsp;
         <a href="https://humanharvest.info">hung</a>-jury-business-permits
         <h1 style={{ fontSize: "24px" }}>
-          $300k/year/person, $821/day/person -3/2020
+          $3k/year/person, $8/day/person -3/2020
         </h1>
         80k/yr 216/day missing children,&nbsp;
         <a href="https://login.gov">forever</a>
@@ -2181,7 +2181,7 @@ export default class App extends React.Component {
         <br />
         <br />
         The racketeering state would rather trials instead of solve the class
-        <h2>Why would you work against $300k/year/person new debt</h2>
+        <h2>Why would you work against $3k/year/person new debt</h2>
         “The jury found not not guilty,” still presents necessary but not
         sufficient
         <br />
@@ -2296,7 +2296,7 @@ export default class App extends React.Component {
         byproduct nor mental-opinion before brain malformity. The right are
         prejudicial all hell. Messy hair makes me disabled, Tom Basile? You just
         want to prevent wall st blame and ignore 60/40 wall st/gov new debt at
-        $300k/year/person before 3/2020 population growth significant death
+        $3k/year/person before 3/2020 population growth significant death
         fraud and cases vs asymptomatic-tests fallacy
         <br />
         <br />
@@ -2478,7 +2478,7 @@ export default class App extends React.Component {
         pig
         <br />
         <br />
-        working against $300k/year/person instead of for your own (not resume
+        working against $3k/year/person instead of for your own (not resume
         buffing, but copyright), in a market commune, withheld outlays, to boot,
         is retarded
         <br />
@@ -2588,7 +2588,7 @@ export default class App extends React.Component {
         <br />
         why would you work against the&nbsp;
         <a href="https://fred.stlouisfed.org/graph/?g=Jde9">
-          $300k/year/person
+          $3k/year/person
         </a>
         &nbsp;busy-work that is lender-/landlord-work-deficit
         <br />
@@ -2749,7 +2749,7 @@ export default class App extends React.Component {
         because of rentier over escrow
         <br />
         admin only wants to go after income over $400k/yr, because
-        $300k/year/person is new debt
+        $3k/year/person is new debt
         <br />
         <br />
         The qualifier: “He is mentally unstable because he said, ‘I’m going to
@@ -2822,7 +2822,7 @@ export default class App extends React.Component {
         false bid pools of expiring-non-rollover insurance. Redraft every season
         for non-compete emulation of infinite producers in microeconomic theory
         of supply and demand, x-axis being output productivity per hour by
-        price-deflation, squandered by 40/60 gov/wall st, $821/day/person
+        price-deflation, squandered by 40/60 gov/wall st, $8/day/person
         pre-3/2020 new third party beneficiary illegal-precedence of
         dollar-share split in contract, counterfeited
         <br />
@@ -3187,7 +3187,7 @@ export default class App extends React.Component {
           markets inflation, lender-work-deficit & 40-50% fed-state debt
           spending,&nbsp;
           <h1 style={{ fontSize: "24px" }}>
-            40/60 gov/wall st new debt $821/day/person
+            40/60 gov/wall st new debt $8/day/person
           </h1>
           (pre-3/2020)
         </h2>
@@ -3276,7 +3276,7 @@ export default class App extends React.Component {
           law, between that and academic/political and comparative, is reason.
         </h2>
         Dr. Maria Ryan: “Your tax-payer money,” 40-50% debt-spending… “The
-        wealthy keep the country going,” with $300k/year/person new debt ({">"}
+        wealthy keep the country going,” with $3k/year/person new debt ({">"}
         $400k income-taxes) whom own those bond-index-funds valued and keep down
         payments upon collateralization repossession
         <br />
@@ -3336,7 +3336,7 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         wall st is a central planner 60/40 gov new debt 40-50% fed-state
-        debt-spending new debt $821/day/person, repossession after
+        debt-spending new debt $8/day/person, repossession after
         laundering-loitering-borrower's consumers/employers bid
         <br />
         <br />
@@ -4077,7 +4077,7 @@ export default class App extends React.Component {
         craft-beer malintent reasons to close-source trade secrets in
         trust-building and competing with consumer educational institutions,
         public or private, in labor-dead-weight without exclusive demand
-        autonomy, 60/40 being wall st/gov 40% debt spending $300k/year/person,
+        autonomy, 60/40 being wall st/gov 40% debt spending $3k/year/person,
         10-40% bond laundering, debt-service, in fed-state, respectively
         <br />
         <br />
@@ -4119,7 +4119,7 @@ export default class App extends React.Component {
         bid of expiring-insurance, while Paul Krugman runs free. Ask a murderer
         why they did it, it is never insanity. only 1/12 jury conviction is
         legally-crazy, until you have brainscan.info malformity-correlations. I
-        own copyright, you retards are working against $821/day/person new debt.
+        own copyright, you retards are working against $8/day/person new debt.
         Cocaine and Weed is a performance enhancer, but pain-medication and
         antibiotics are currency-competition to the public-park dilution that is
         dollar-park-shares of 20% us fed lands
@@ -4310,7 +4310,7 @@ export default class App extends React.Component {
         <br />
         <br />
         The government could have given $70k/yr to people every year with the
-        amount of money they printed (red) and $300k promised (blue) but instead
+        amount of money they printed (red) and $3k promised (blue) but instead
         operated their trust-built monopsony
         https://fred.stlouisfed.org/graph/?g=D2jW
         <br />
@@ -4494,7 +4494,7 @@ export default class App extends React.Component {
             is Nicholas Carducci, I had drafted a longer message but must have
             swiped it off and am now too tired to rewrite my whole argument. I
             would surely like to get your intentions with there being $70k/yr
-            new cash per person and $300k/yr new promises on that cash, per
+            new cash per person and $3k/yr new promises on that cash, per
             person. You obviously do not intend to get the return you take from
             the lot. (1) Is that not colonialism and therefore slavery,
             promising other peoples’ money to yourselves and therefore
