@@ -236,7 +236,7 @@ export default class App extends React.Component {
           victimization or torts beyond a tranquil and voluntary-bid, settled
           without expiry, estimate nor force-majeure implausible-deniability
           <br />
-          <br /> 
+          <br />
           $12k/year/p debt, $3k/year/p bond m2, $64/year/p checking
           currencyComponentOfM1
           <br />
@@ -325,6 +325,9 @@ export default class App extends React.Component {
             </span>
             <br />
             <Cable
+              style={{
+                height: "300px"
+              }}
               onError={handleScollImgError}
               //img={true}
               src={
@@ -390,7 +393,9 @@ export default class App extends React.Component {
                 scrollTop={this.state.scrollTop}
               />
               “Childrens’ Public Hospital: 'We never turn down kids for
-              treatment,'” 'former public agency'&nbsp;<a href="https://goya.com/cares">Goya Cares</a>&nbsp;with Cousin Brucie.
+              treatment,'” 'former public agency'&nbsp;
+              <a href="https://goya.com/cares">Goya Cares</a>&nbsp;with Cousin
+              Brucie.
               <br />
               Doctors follow more than any industry, plants have one beat one
               mission, yet multiple of 11/12 industry-variant jury is relevant
@@ -2296,8 +2301,8 @@ export default class App extends React.Component {
         byproduct nor mental-opinion before brain malformity. The right are
         prejudicial all hell. Messy hair makes me disabled, Tom Basile? You just
         want to prevent wall st blame and ignore 60/40 wall st/gov new debt at
-        $3k/year/person before 3/2020 population growth significant death
-        fraud and cases vs asymptomatic-tests fallacy
+        $3k/year/person before 3/2020 population growth significant death fraud
+        and cases vs asymptomatic-tests fallacy
         <br />
         <br />
         Cognitive testing is nearly as subjective as mental health over actual,
@@ -2587,9 +2592,7 @@ export default class App extends React.Component {
         <br />
         <br />
         why would you work against the&nbsp;
-        <a href="https://fred.stlouisfed.org/graph/?g=Jde9">
-          $3k/year/person
-        </a>
+        <a href="https://fred.stlouisfed.org/graph/?g=Jde9">$3k/year/person</a>
         &nbsp;busy-work that is lender-/landlord-work-deficit
         <br />
         <br />
