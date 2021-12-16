@@ -16,6 +16,7 @@ export default class App extends React.Component {
       scrollTop: 0,
       serviceCancelingImages: name.includes("Safari")
     };
+    this.fema = React.createRef();
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
@@ -63,6 +64,14 @@ export default class App extends React.Component {
             : window.innerHeight
         });
       }, 600);
+    }
+  };
+  componentDidUpdate = (prevProps) => {
+    if (this.props.pathname !== prevProps.pathname) {
+      if (this.props.pathname === "/") {
+      } else if (this.props.pathname === "/fema") {
+        window.scroll(0, this.fema.current.offsetTop);
+      }
     }
   };
   render() {
@@ -324,6 +333,23 @@ export default class App extends React.Component {
               cohort size and second by racist immigration
             </span>
             <br />
+            “Rural don’t have the tax base that urban and suburban communities
+            have, happy governor would pay for the, gulp, cleanup,” electricity
+            back, water utility all over U.S. coming in working through the cold
+            Red Cross supply organizations are coming in from outside the
+            community, we ran out of food and people can’t drive to us, so
+            taxation from outside our market is retarded. Let's make sure
+            partisan stays out of it, for the sake of Kentucky's useless lender
+            landlord insurer work deficit. We will keep the people of the state
+            of Kentucky in our heads, and our hearts."
+            <br />
+            "Thank you congressman."
+            <br />
+            "And I..."
+            <br />
+            Nick Carducci lowers the volume, while the other guy lowers the
+            temp.
+            <br />
             <Cable
               style={{
                 height: "300px"
@@ -435,6 +461,7 @@ export default class App extends React.Component {
             estimated-depositary-materials-nor-labor, rentable-income without
             plausible use as vacation home or 30 days, or multi-level-board.
             <br />
+            <hr ref={this.fema} />
             <span
               style={{
                 fontSize: "9px"
