@@ -403,6 +403,11 @@ export default class App extends React.Component {
               to solve the problem and we know what to do to do that, close
               border policies.” I don’t see any crime in immigration.
               <br />
+              “Childrens’ Public Hospital: 'We never turn down kids for
+              treatment,'” 'former public agency'&nbsp;
+              <a href="https://goya.com/cares">Goya Cares</a>&nbsp;with Cousin
+              Brucie.
+              <br />
               <Cable
                 onError={handleScollImgError}
                 //img={true}
@@ -418,11 +423,6 @@ export default class App extends React.Component {
                 scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
                 scrollTop={this.state.scrollTop}
               />
-              “Childrens’ Public Hospital: 'We never turn down kids for
-              treatment,'” 'former public agency'&nbsp;
-              <a href="https://goya.com/cares">Goya Cares</a>&nbsp;with Cousin
-              Brucie.
-              <br />
               Doctors follow more than any industry, plants have one beat one
               mission, yet multiple of 11/12 industry-variant jury is relevant
               for science, but not a false imprisonment-defensive against stat-
@@ -431,6 +431,12 @@ export default class App extends React.Component {
               implausible-deniability.
             </span>
             <br />
+            Curtis Sliwa: “Oxy is the best pain-killer. Have to take it as
+            prescribed. Or just act like you are in pain and fool the doctor”
+            <br />
+            Chris Hahn: “They want a better high and a better life.”
+            <br />
+            <br />
             showing different principal&nbsp;&bull;&nbsp;1-level-board
             max-profit-royalty, cash:debt*income thru history then multiple of
             11/12 industry-various-jury designation of sewage police lawsuits
@@ -438,6 +444,22 @@ export default class App extends React.Component {
             immediacy or sprint-basing to settlements wothout any pro-rates for
             same material & labor, otherwise.
             <br />
+            <Cable
+              style={{ height: "440px" }}
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.noyoutube
+                  ? ""
+                  : "https://www.youtube.com/embed/RRHVYEvvm_o"
+              }
+              float="right"
+              title="The Left vs The Right (77WABC) - Chris Hahn and Curtis Sliwa"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 83]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
             $12k/year/p debt, $3k/year/p bond m2, $64/year/p checking
             currencyComponentOfM1
             <br />
@@ -511,7 +533,7 @@ export default class App extends React.Component {
                 : "https://www.youtube.com/embed/ZmUozfOPquk"
             }
             float="left"
-            title=""
+            title="The Left vs The Right (77WABC) - Chris Hahn and Curtis Sliwa"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 75]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
