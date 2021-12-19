@@ -128,6 +128,145 @@ export default class App extends React.Component {
           <br />
           gdp/p is counterproductive - price deflation per hour
           <br />
+          <br />
+          <a href="https://www.marxists.org/archive/marx/works/1837-pre/verse/verse24.htm">
+            ...
+            <br />
+            Then came a noble knight,
+            <br />
+            A grand charger he rode;
+            <br />
+            ...
+            <br />
+            <br />
+            Love smote deep in her breast,
+            <br />
+            But he galloped away,
+            <br />
+            For battle-triumph athirst;
+            <br />
+            Naught made him stay.
+            <br />
+            <br />
+            All peace of mind is flown,
+            <br />
+            The Heavens have sunk.
+            <br />
+            <br />
+            ...
+            <br />
+            She kneels on the floor,
+            <br />
+            Before the holy Christ
+            <br />
+            A-praying once more.
+            <br />
+            <br />
+            But then upon that form
+            <br />
+            Another encroaches,
+            <br />
+            To take her heart by storm,
+            <br />
+            'Gainst her self reproaches.
+            <br />
+            <br />
+            "To me your love is given
+            <br />
+            For Time unending.
+            <br />
+            To show your soul to Heaven
+            <br />
+            Is merely pretending."
+            <br />
+            <br />
+            <b>
+              ...
+              <br />
+              She wrings her lily-white hands,
+              <br />
+              The tear-drops start.
+              <br />
+              "Thus fire the bosom brands
+              <br />
+              And longing, the heart."
+              <br />
+              <br />
+              "Thus Heaven I've forfeited,
+              <br />
+              I know it full well.
+              <br />
+              My soul, once true to God,
+              <br />
+              Is chosen for Hell."
+            </b>
+            <br />
+            <br />
+            He was so tall, alas,
+            <br />
+            Of stature divine.
+            <br />
+            His eyes so fathomless,
+            <br />
+            So noble, so fine.
+            <br />
+            <br />
+            "He never bestowed on me
+            <br />
+            His glances at all;
+            <br />
+            Lets me pine hopelessly
+            <br />
+            Till the end of the Soul.
+            <br />
+            <br />
+            "Another his arm may press,
+            <br />
+            May share his pleasure;
+            <br />
+            Unwitting, he gives me distress
+            <br />
+            Beyond all measure.
+            <br />
+            <br />
+            "With my soul willingly,
+            <br />
+            With my hopes I'd part,
+            <br />
+            Would he but look towards me
+            <br />
+            And open his heart.
+            <br />
+            <br />
+            "How cold must the Heavens be
+            <br />
+            Where he doesn't shine,
+            <br />
+            A land full of misery
+            <br />
+            And burning with pain.
+            <br />
+            <br />
+            "But here the surging flood
+            <br />
+            May deliver me, cooling
+            <br />
+            The hot fire of heart's blood,
+            <br />
+            The bosom's feeling."
+            <br />
+            <br />
+            She leaps with all her might
+            <br />
+            Into the spray.
+            <br />
+            Into the cold dark night
+            <br />
+            She's carried away.
+            <br />
+            ...
+          </a>
+          <br />
           <Cable
             style={{ height: "440px" }}
             onError={handleScollImgError}
