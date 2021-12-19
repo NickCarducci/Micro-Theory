@@ -129,6 +129,16 @@ export default class App extends React.Component {
           gdp/p is counterproductive - price deflation per hour
           <br />
           <br />
+          Curtis Sliwa: “Wife beater, using all kinds of drugs, the worst person
+          ever!” What does that have to do with eachother? Population/scarcity
+          is elastic labor-elasticity, and you fucking call mental institutions
+          a place for homeless people even when we work ten times as much as you
+          did, for lender landlord insurer work deficit, all because you’re
+          gluttonous. That is WORSE. Cap rent at units or days not prices,
+          (cash/debt)*income every year back, truncated sales tax to week cops
+          off net loss bonds and paid by the people they arrest
+          <br />
+          <br />
           <a href="https://www.marxists.org/archive/marx/works/1837-pre/verse/verse24.htm">
             ...
             <br />
