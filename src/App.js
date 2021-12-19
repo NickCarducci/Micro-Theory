@@ -298,6 +298,7 @@ export default class App extends React.Component {
             scrollTop={this.state.scrollTop}
           />
           But the virus, of unknown taxonomy, is still caused by someone.
+          <br />
           <a
             style={{
               shapeOutside: "rect()",
@@ -314,12 +315,45 @@ export default class App extends React.Component {
             moldmask.co
           </a>
           Statistical analysis (variance, insignificant presentation in a
-          wide-range) of the time-series basis. 60 average age flu, 74 covid, 75
-          normal, 78 life expectancy, 75+ 2015- 1.2m/yr+ expected; ms matches
-          paralytic polio you didn't so anything. sewage positively correlates
-          with lifetime mortality. try to put it in front of an industry variant
-          multiple of 11/12 jury, RETARD. I'll force duress upon my copyright
-          based on my abscure medical whims.
+          wide-range) of the time-series basis.
+          <br />
+          60 average age flu, 74&nbsp;<a href="https://qr.ae/pGzp1w">covid</a>,
+          75 normal, 78 life expectancy, 75+ 2015- 1.2m/yr+ expected, 55m/yr+
+          worldwide;
+          <br />
+          <div
+            style={{
+              border: "1px solid black",
+              borderRadius: "15px",
+              padding: "10px",
+              margin: "10px"
+            }}
+          >
+            "5m-250k, 3m peasant farmers starve to death.
+            ...USSR-free-enterprise was and what Putin wants to be." If that is
+            what happened in excess, population growth calls for 1m/yr, and 3m
+            is 150% that estimate of excess, year to year BASIS. Just as
+            expected, first with 1.2m/yr+ covid in U.S., 505m/yr+ in worldwide,
+            and 15m/5yr+ in Great Leap Forward., and&nbsp;
+            <a href="https://www.christopherreeve.org/living-with-paralysis/stats-about-paralysis">
+              2.5m
+            </a>
+            /2/38 accute flaccid paralysis in&nbsp;
+            <a href="https://www.chop.edu/news/feature-article-flashback-parenting-and-summer-1950s#%3A~%3Atext%3DFor%20parents%20of%20children">
+              paralytic polio
+            </a>
+            <h2>- saver party</h2>
+          </div>
+          <br />
+          “They are getting covid, doesn’t necessarily mean you’ll be getting
+          sick. What is he supposed to clock my in the head?" No, you are
+          supposed to clock YOURSELF in the head.
+          <br />
+          <br />
+          ms matches paralytic polio you didn't so anything. sewage positively
+          correlates with lifetime mortality. try to put it in front of an
+          industry variant multiple of 11/12 jury, RETARD. I'll force duress
+          upon my copyright based on my abscure medical whims.
           <br />
           <br />
           "If someone comes into your house with bad intention," you can’t
