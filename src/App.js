@@ -136,7 +136,11 @@ export default class App extends React.Component {
           did, for lender landlord insurer work deficit, all because you’re
           gluttonous. That is WORSE. Cap rent at units or days not prices,
           (cash/debt)*income every year back, truncated sales tax to week cops
-          off net loss bonds and paid by the people they arrest
+          off net loss bonds and paid by the people they arrest.
+          <br />
+          <br />
+          I was locked up for saying rollover insurance, then when I eloped from
+          the syringe, they lied and said I kicked and punched them.
           <br />
           <br />
           <a href="https://www.marxists.org/archive/marx/works/1837-pre/verse/verse24.htm">
