@@ -162,7 +162,29 @@ export default class App extends React.Component {
           </a>
           Statistical analysis (variance, insignificant presentation in a
           wide-range) of the time-series basis. 60 average age flu, 74 covid, 75
-          normal, 78 life expectancy, 75+ 2015- 1.2m/yr+ expected
+          normal, 78 life expectancy, 75+ 2015- 1.2m/yr+ expected; ms matches
+          paralytic polio you didn't so anything. sewage positively correlates
+          with lifetime mortality. try to put it in front of an industry variant
+          multiple of 11/12 jury, RETARD. I'll force duress upon my copyright
+          based on my abscure medical whims.
+          <br />
+          <br />
+          "If someone comes into your house with bad intention," you can’t
+          "defend yourself" blindly, only from benefit of doubt.
+          <br />
+          Then as he always does obfuscates by narrowing his claim from the
+          actual definition of what he said earlier. “Try to hurt me, I can kill
+          you. Evil intentions, violent, penalties subject in reverse. My store,
+          is not the state, do not conflate, tort without expiring claim
+          non-rollover-insurance. License registration and&nbsp;
+          <a href="https://qr.ae/pGzpwb">insurance on guns</a>, if everyone
+          should have a gun, NRA pays for the expiring claims. If you don’t
+          qualify for a gun, you misused a gun.” Kill yourself Chris Hahn.
+          <br />
+          "Guns like cars, license them teach them how to use them, insure them.
+          Idiots shouldn't have guns. Former felon." those are not the same
+          retard. Insurance is a&nbsp;
+          <a href="https://www.youtube.com/watch?v=aJEszZK54dw">net loss</a>.
           <br />
           <br />
           Fiat = commodities (goods, material & intermediate-labor) on market +
