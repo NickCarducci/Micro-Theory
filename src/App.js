@@ -1,5 +1,4 @@
 import React from "react";
-import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import Cable from "./Dropwire";
 import GDP from "./GDP";
@@ -84,6 +83,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          fontFamily: "'Muli', sans-serif",
           width: "calc(100% - 40px)",
           maxWidth: "600px",
           padding: "20px"
@@ -138,11 +138,31 @@ export default class App extends React.Component {
           (cash/debt)*income every year back, truncated sales tax to week cops
           off net loss bonds and paid by the people they arrest.
           <br />
-          <br />
-          I was locked up for saying rollover insurance, then when I eloped from
-          the syringe, they lied and said I kicked and punched them.
-          <br />
-          <br />
+          <br />I was locked up for saying rollover insurance, then when I
+          eloped from the syringe, they lied and said I kicked and punched them.
+          <a href="https://thechurchoftruth.org/jesus-did-not-die-for-your-sins/">
+            <h2>“Our lord and savior,”</h2>
+          </a>
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1dVgx70Ytl8TeHR5BVgafArtimo7xLvgM/preview"
+            }
+            float="right"
+            title="Gorka Reality Check (Newsmax) - YTY virus guys, right and top left vaxxers"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 84]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          Karl Marx's destruction, Creeping-fascism is here! …of the virus that,
+          “requires cell to reproduce!” 60m WWII, 6m holocaust, 100m, "workers
+          paradise, equality and socialism, 100m dead. brave states men and
+          women"
           <a href="https://www.marxists.org/archive/marx/works/1837-pre/verse/verse24.htm">
             ...
             <br />
