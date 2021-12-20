@@ -168,8 +168,12 @@ export default class App extends React.Component {
           Real threat of socialism in america praised Psaki, "inflation is
           caused by greed. America means freedom, without government
           interference in every step in your life, want to continue power turn
-          it into something I fled.”
+          it into something I fled.
           <br />
+          <br />
+          Communism always leads to murder, torture labor camps. Socialism to
+          all free peoples Aus, US, UK, greatest hope for a free world, shining
+          city on a hill."
           <br />
           <a href="https://thechurchoftruth.org/jesus-did-not-die-for-your-sins/">
             <h2>“Our lord and savior,”</h2>
