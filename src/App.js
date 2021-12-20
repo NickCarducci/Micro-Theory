@@ -129,6 +129,51 @@ export default class App extends React.Component {
           gdp/p is counterproductive - price deflation per hour
           <br />
           <br />
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/1uV9aS6C8R5z5zemvwl-1ZnU3unieTIFF/preview"
+            }
+            float="right"
+            title="Katie Halper (Youtube) - David Dayen & Leslie Li III - 'Government is ok only for free rider immutable and emulate perfect equillibrium infinite producer price, quality and duress, is non-profit outlaid fully to non-laborless-demand. Pure inflation elsewhere'"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 86]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          "people don't understand Debt is money," Cash v bonds over parks, cash
+          WINS. All debt "investment" will be replaced by 1-level-baoard
+          max-profit-royalty-contracts. (cash/debt)*income every year back force
+          majeur implausible deniability repo cycle kept down payments third
+          party donee beneficiary claimables. They want to bailout
+          uncolateralized and service collateralized to Yang appraise. Reverse
+          the debt, poverty only includes materials lamo, forever serfs, oh,
+          it's so funny. No surrender anothers' freedom. We want less work! OMG.
+          Go watch eachothers' kids. No candidate invoices are theft, non-voters
+          win, default, "no." Poverty/equality=poorness. 40% debt spending, 50%
+          nj, 10% debt service, 40% njta. Public insurance isn't better, just
+          ban insurance. Used to be invoices are theft and no more scripts.
+          Benefits is pure price inflation. Don't you believe in price
+          elasticity. Lender landlord insurer work deficit, bbb ppp ccc all
+          trust building contractors, parents, existing biz. Prevalence does not
+          cause, make. I mean, it, "requires cell to reproduce," so it only
+          comes out and is a byproduct then. We saw the pandemic coming by
+          population size changes. Multiple sclerosis matches paralytic polio, I
+          am a statistician. Dr Saveface. It only comes out, lmao. Put all
+          business permits in front of an industry various multiple of 11/12
+          jury, like desistation by jury truths and conviction with arresting
+          officer evidence, or no jail nor bail. Truncated sales tax to ween
+          jailors off net loss profit bonds to get paid by those they arrest. No
+          more sales on good will last trade value, for is third party donee
+          beneficiary claimable. I used malarkey in a disability case for
+          assuming employers would hire me for a non-bartending job with this
+          hole in my leg.
+          <br />
+          <br />
           Curtis Sliwa: “Wife beater, using all kinds of drugs, the worst person
           ever!” What does that have to do with eachother? Population/scarcity
           is elastic labor-elasticity, and you fucking call mental institutions
