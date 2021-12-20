@@ -140,6 +140,36 @@ export default class App extends React.Component {
           <br />
           <br />I was locked up for saying rollover insurance, then when I
           eloped from the syringe, they lied and said I kicked and punched them.
+          <br />
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/13gC8NL8DBBY9x2i5d19sdGOqbnPG-gud/preview"
+            }
+            float="left"
+            title="Gorka Reality Check (Newsmax) - Socialism is Venezuela propoganda"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 85]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          “Become socialist through elections,” what is socialist about
+          reappropriating labor. That is market-communist. Stop confusing people
+          that it is either market-communism or&nbsp;
+          <a href="https://qr.ae/pGzIGh">lender</a>&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=FSwQ">landlord</a>&nbsp;
+          <a href="https://qr.ae/pGzpwb">insurer</a>&nbsp;work deficit.
+          <br />
+          Real threat of socialism in america praised Psaki, "inflation is
+          caused by greed. America means freedom, without government
+          interference in every step in your life, want to continue power turn
+          it into something I fled.”
+          <br />
+          <br />
           <a href="https://thechurchoftruth.org/jesus-did-not-die-for-your-sins/">
             <h2>“Our lord and savior,”</h2>
           </a>
