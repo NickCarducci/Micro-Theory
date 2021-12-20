@@ -185,6 +185,14 @@ export default class App extends React.Component {
           <br />
           <br />I was locked up for saying rollover insurance, then when I
           eloped from the syringe, they lied and said I kicked and punched them.
+          Estimates and prevalence of weed smoker does not make motor nor IQ
+          deficiency!
+          <br />
+          <br />
+          NJ Consumer Fraud Act permits you to claim the property in estimates.
+          This is insane. Pay for subcontractors in advance, like everyone else.
+          Know that they can only sell their services on estimates of material
+          and labor.
           <br />
           <br />
           <Cable
