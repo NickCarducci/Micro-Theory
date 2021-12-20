@@ -143,6 +143,7 @@ export default class App extends React.Component {
           <br />
           <br />
           <Cable
+            style={{ height: "230px" }}
             onError={handleScollImgError}
             //img={true}
             src={
