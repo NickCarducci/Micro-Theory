@@ -148,7 +148,7 @@ export default class App extends React.Component {
             src={
               this.state.serviceCancelingImages
                 ? ""
-                : "https://drive.google.com/file/d/13gC8NL8DBBY9x2i5d19sdGOqbnPG-gud/preview"
+                : "https://drive.google.com/file/d/1HYeBGkFf5mXM_ek0ukaqdVeBtFgdHGzT/preview"
             }
             float="left"
             title="Gorka Reality Check (Newsmax) - Socialism is Venezuela propoganda"
