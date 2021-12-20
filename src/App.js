@@ -129,6 +129,12 @@ export default class App extends React.Component {
           gdp/p is counterproductive - price deflation per hour
           <br />
           <br />
+          "'Cannot expect a man to&nbsp;
+          <a href="https://Streetsblog.org">break the law</a>&nbsp;that their
+          very living is dependent upon breaking it,'” state victimication
+          always forboden.
+          <br />
+          <br />
           <Cable
             style={{ height: "440px" }}
             onError={handleScollImgError}
@@ -152,26 +158,29 @@ export default class App extends React.Component {
           party donee beneficiary claimables. They want to bailout
           uncolateralized and service collateralized to Yang appraise. Reverse
           the debt, poverty only includes materials lamo, forever serfs, oh,
-          it's so funny. No surrender anothers' freedom. We want less work! OMG.
-          Go watch eachothers' kids. No candidate invoices are theft, non-voters
-          win, default, "no." Poverty/equality=poorness. 40% debt spending, 50%
-          nj, 10% debt service, 40% njta. Public insurance isn't better, just
-          ban insurance. Used to be invoices are theft and no more scripts.
-          Benefits is pure price inflation. Don't you believe in price
-          elasticity. Lender landlord insurer work deficit, bbb ppp ccc all
-          trust building contractors, parents, existing biz. Prevalence does not
-          cause, make. I mean, it, "requires cell to reproduce," so it only
-          comes out and is a byproduct then. We saw the pandemic coming by
-          population size changes. Multiple sclerosis matches paralytic polio, I
-          am a statistician. Dr Saveface. It only comes out, lmao. Put all
-          business permits in front of an industry various multiple of 11/12
-          jury, like desistation by jury truths and conviction with arresting
-          officer evidence, or no jail nor bail. Truncated sales tax to ween
-          jailors off net loss profit bonds to get paid by those they arrest. No
-          more sales on good will last trade value, for is third party donee
-          beneficiary claimable. I used malarkey in a disability case for
-          assuming employers would hire me for a non-bartending job with this
-          hole in my leg.
+          it's so funny.&nbsp;
+          <a href="https://www.lawinsider.com/clause/no-surrender-of-others-freedom">
+            No surrender anothers' freedom
+          </a>
+          . We want less work! OMG. Go watch eachothers' kids. No candidate
+          invoices are theft, non-voters win, default, "no."
+          Poverty/equality=poorness. 40% debt spending, 50% nj, 10% debt
+          service, 40% njta. Public insurance isn't better, just ban insurance.
+          Used to be invoices are theft and no more scripts. Benefits is pure
+          price inflation. Don't you believe in price elasticity. Lender
+          landlord insurer work deficit, bbb ppp ccc all trust building
+          contractors, parents, existing biz. Prevalence does not cause, make. I
+          mean, it, "requires cell to reproduce," so it only comes out and is a
+          byproduct then. We saw the pandemic coming by population size changes.
+          Multiple sclerosis matches paralytic polio, I am a statistician. Dr
+          Saveface. It only comes out, lmao. Put all business permits in front
+          of an industry various multiple of 11/12 jury, like desistation by
+          jury truths and conviction with arresting officer evidence, or no jail
+          nor bail. Truncated sales tax to ween jailors off net loss profit
+          bonds to get paid by those they arrest. No more sales on good will
+          last trade value, for is third party donee beneficiary claimable. I
+          used malarkey in a disability case for assuming employers would hire
+          me for a non-bartending job with this hole in my leg.
           <br />
           <br />
           Curtis Sliwa: “Wife beater, using all kinds of drugs, the worst person
