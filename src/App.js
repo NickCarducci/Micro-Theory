@@ -87,7 +87,7 @@ export default class App extends React.Component {
       arrayOfnumbers.push(num);
       return num;
     };
-    //const space = " ";
+    const space = " ";
     return (
       <div
         style={{
@@ -132,10 +132,49 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          Nick Carducci - Econometrist at Occupy Wall St (2008–present)
+          <br />
+          In order to gain more popular support, the government is rebranding
+          {space}
+          <a href="https://qr.ae/pGLlAZ">inflation</a>. What do they call it?
+          <br />
+          <br />
+          The former National Economic Council Director on the right calls
+          employer-benefit standardized guarantee scheme (PCE, BEA), or
+          out-of-pocket cheaper (CPI, BLS), inflation, prosperity, before
+          <div style={{ borderLeft: "3px solid", paddingLeft: "5px" }}>
+            income-expenses in a time-period gain
+          </div>
+          is known to supply-siders to raise bid by ask, who have more
+          laborless-demand of input costs, I guess, and yet thereby generate a
+          loss of economic welfare in Supply and Demand (Microeconomics), 1y/-1x
+          1/hour-GDP/p, for labor is always supply, lest for dead-weight, for
+          vertical industry lines, or maybe to some propensity despondency by
+          total, and horizontal, living costs, between markets being the only
+          time labor in one market out-profits/-saves another. There are about
+          12 mutually exclusive lines of business by NAICS code, I gather.
+          <br />
+          <br />
           Inventory is not Supply, that includes{" "}
           <a href="https://qr.ae/pGLlsf">variable-part labor</a>
           <br />
           <br />
+          <Cable
+            style={{ height: "590px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+            }
+            float="right"
+            title=""
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           1y/0x price by inflation, attribution of laborless-demand of
           share-split notwithstanding (global ubi currency share-split, nor
           propensity of indifference of land-deeds/vault-share or
@@ -166,22 +205,6 @@ export default class App extends React.Component {
           mean: how do you do that? You just remove the front-running,
           free-rider-mutable, laborless-demand programme. You just, don’t do it.
           <br />
-          <Cable
-            style={{ height: "590px" }}
-            onError={handleScollImgError}
-            //img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
-            }
-            float="right"
-            title=""
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
         </div>
         <div
           style={{
@@ -5997,3 +6020,4 @@ export default class App extends React.Component {
     );
   }
 }
+
