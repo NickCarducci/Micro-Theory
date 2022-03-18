@@ -132,6 +132,18 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          1y/0x price by inflation, attribution of laborless-demand of
+          share-split notwithstanding (global ubi currency share-split, nor
+          propensity of indifference of land-deeds/vault-share or
+          treasury-inventory)
+          <br />
+          <br />
+          0y/1x 1/hour-GDP/p efficiency
+          <br />
+          <br />
+          easy peasy. 1y/-1x laborless-demand
+          <br />
+          <br />
           "Should all artists boycott Spotify until they sack Joe Rogan? #MOATS"
           <br />
           I'm antivaxx and cannot respond to this poll. Only on non-compete
