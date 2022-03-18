@@ -132,6 +132,10 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          Inventory is not Supply, that includes{" "}
+          <a href="https://qr.ae/pGLlsf">variable-part labor</a>
+          <br />
+          <br />
           1y/0x price by inflation, attribution of laborless-demand of
           share-split notwithstanding (global ubi currency share-split, nor
           propensity of indifference of land-deeds/vault-share or
@@ -226,6 +230,17 @@ export default class App extends React.Component {
             >
               saverparty.xyz
             </a>
+            How can you say you afford that which you launder unpaid contracts
+            of third party donee beneficiaries of labor-borne-demand? let alone
+            expected impossible with implausible deniability of repo-cycle kept
+            down payments, you{" "}
+            <a href="https://qr.ae/pGLl8V">flammable tools on the right</a>
+            <br />
+            <br />
+            The <a href="https://2024nj.com/plandemic">global pandemic</a>{" "}
+            caused checking to be{" "}
+            <a href="https://commie.dev">non-fungible for currency</a>
+            <br />
             Free rider mutable trade secrets!
             <br />
             gdp/p is counterproductive - price deflation per hour
