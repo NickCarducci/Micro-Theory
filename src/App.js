@@ -10,7 +10,6 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
-    document.cookie = "";
     this.state = {
       browser: name,
       scrollTop: 0,
@@ -3856,7 +3855,7 @@ export default class App extends React.Component {
             src={
               this.state.serviceCancelingImages
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/hatfsd34100ky5t/phil%20murphy.jpeg?dl=0"
+                : "https://www.dropbox.com/s/hatfsd34100ky5t/phil%20murphy.jpeg?raw=1"
               //"https://fred.stlouisfed.org/graph/?g=Gkvt"
             }
             float="left"
@@ -4231,7 +4230,7 @@ export default class App extends React.Component {
             src={
               this.state.settleDropboxFree
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/5jmlz813kivmxc3/Rogan%20better%20angels%20finite%20producers.MP4?dl=0"
+                : "https://www.dropbox.com/s/5jmlz813kivmxc3/Rogan%20better%20angels%20finite%20producers.MP4?raw=1"
             }
             float="right"
             title=""
@@ -5228,7 +5227,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/9un3448wjl1dnip/IMG_3563.png?dl=0"
+                src="https://www.dropbox.com/s/9un3448wjl1dnip/IMG_3563.png?raw=1"
               />
             </div>
             <div
@@ -5244,7 +5243,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/h03iyt7e8hxa19w/IMG_3562.png?dl=0"
+                src="https://www.dropbox.com/s/h03iyt7e8hxa19w/IMG_3562.png?raw=1"
               />
             </div>
             <div
@@ -5260,7 +5259,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/esz6ke2xn7fs716/Markey1.png?dl=0"
+                src="https://www.dropbox.com/s/esz6ke2xn7fs716/Markey1.png?raw=1"
               />
             </div>
             <div
@@ -5276,7 +5275,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/xjhg8b1kcmwxpxz/Markey2.png?dl=0"
+                src="https://www.dropbox.com/s/xjhg8b1kcmwxpxz/Markey2.png?raw=1"
               />
             </div>
           </div>{" "}
@@ -5525,7 +5524,7 @@ export default class App extends React.Component {
                     width: "100%",
                     height: "auto"
                   }}
-                  src="https://www.dl.dropboxusercontent.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?dl=0"
+                  src="https://www.dropbox.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?raw=1"
                 />
               </div>{" "}
               <div
@@ -5540,7 +5539,7 @@ export default class App extends React.Component {
                     width: "100%",
                     height: "auto"
                   }}
-                  src="https://www.dl.dropboxusercontent.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?dl=0"
+                  src="https://www.dropbox.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?raw=1"
                 />
               </div>
             </div>
@@ -5597,7 +5596,7 @@ export default class App extends React.Component {
                   width: "100%",
                   height: "auto"
                 }}
-                src="https://www.dl.dropboxusercontent.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?dl=0"
+                src="https://www.dropbox.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?raw=1"
               />
             </div>{" "}
             <br />
@@ -5634,7 +5633,7 @@ export default class App extends React.Component {
           >
             <img
               style={{ width: "90%", maxWidth: "800px" }}
-              src="https://www.dl.dropboxusercontent.com/s/ohyyc9wensqjmar/interest%20dead%20weight%20%282%29.png?dl=0"
+              src="https://www.dropbox.com/s/ohyyc9wensqjmar/interest%20dead%20weight%20%282%29.png?raw=1"
               alt="interest dead-weight by equity-bid supply and demand"
             />
           </a>
@@ -6021,4 +6020,3 @@ export default class App extends React.Component {
     );
   }
 }
-
