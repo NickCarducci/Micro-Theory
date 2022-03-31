@@ -132,7 +132,14 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
-          Nick Carducci - Econometrist at Occupy Wall St (2008–present)
+          substitute supply for labor demand of another market to beat crowding
+          out
+          <br />
+          Nick Carducci -{space}
+          <a href="https://occupywallst.quora.com">
+            Econometrist at Occupy Wall St
+          </a>
+          {space}(2008–present)
           <br />
           In order to gain more popular support, the government is rebranding
           {space}
