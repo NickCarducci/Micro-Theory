@@ -132,6 +132,95 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <a href="https://www.quora.com/What-is-the-difference-between-productivity-and-efficiency/answer/Nick-Carducci">
+            What is the difference between productivity and efficiency?
+          </a>
+          {space}•{space}
+          <a href="https://www.quora.com/How-do-you-evaluate-supply-and-demand/answer/Nick-Carducci">
+            How do you evaluate supply and demand?
+          </a>
+          {space}•{space}
+          <a href="https://www.quora.com/Did-Marx-support-Mao-and-Stalin">
+            Did Marx support Mao and Stalin?
+          </a>
+          <br />
+          <br />
+          The question is, in other words, “if debt is the cause of inflation,
+          why do we have it?” You said, “we cannot put on the breaks.”{space}
+          <a href="https://adailyimpeachment.quora.com/A-little-bit-of-a-bad-thing-is-a-good-thing-https-www-quora-com-If-raising-rates-is-to-prevent-borrowing-to-prevent">
+            Nick Carducci's post in adailyimpeachment
+          </a>
+          . Now you are talking about it like a tool, but there are verily
+          alternatives to compounding loans or general-income debentures, like
+          pipe .io.*{space}
+          <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-why-do-we-have-it">
+            If inflation is caused by debt before corrections, why do we have
+            it?
+          </a>
+          <br />
+          <br />
+          I’m more of a microeconomist, than a macroeconomist who would
+          bizarrely attribute expenses per hour as definitionally good, on a
+          zero-sum individual level and an economic welfare, 1/hour-GDP/p level.
+          {space}
+          <a href="https://www.quora.com/Why-is-some-inflation-good/answer/Nick-Carducci">
+            Why is some inflation good?
+          </a>
+          <br />
+          <br />
+          *or my own legal creation, vertical-industry-line, max-royalty
+          contracts, -tortious for revenue skimping upon withdrawal or abscond
+          self-employment tax-altogether and disburse immediately upon sale, the
+          needs of entrepreneurs are sufficed without **surrendered freedom to
+          bid of third party{space}
+          <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
+            donee
+          </a>
+          {space}
+          beneficiaries.{space}
+          <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-and-max-royalty-contracts-are-available-why-do-we-have-it">
+            If inflation is caused by debt before corrections, and max-royalty
+            contracts are available, why do we have it?
+          </a>
+          <br />
+          <br />
+          **Debt is a tool for laborless-demand to raise price beyond budget
+          constraints, making the entire demand curve subservient to
+          non-substitutive-supply instead of equilibrium ask-bid of outright
+          sales.**
+          <br />
+          <br />
+          Uses metaphors and says, “it would crush the economy.” What does that
+          mean? Jobs and prices? Isn’t that inflation?
+          <br />
+          <div>
+            Absolving student debt is how creditors KEEP their undue profits,
+            reverse amortization (cash/debt)*income.
+          </div>
+          <br />
+          <a href="https://www.quora.com/Is-debt-worth-the-inflation">
+            Is debt worth the inflation?
+          </a>
+          {space}“Debt is worth the inflation caused by debt,” is what you’re
+          saying, but I’m saying there is alternative contracts that aren’t
+          technically surrendered freedom to bid of third party donee
+          beneficiary, nor inflationary by laborless-demand capacity (producers
+          starve and lower prices in microeconomics).
+          <br />
+          <br />
+          Compared with: annual taxes at $2.2t/yr and $1.8t/yr debt
+          spending/borrowing -3/2020, $2t checking at the time (inside and
+          outside fed banks), government contractors effectively lend themselves
+          money.
+          <br />
+          <div>
+            Self-sustainability is from **substitutive-supply**, and drives us
+            out of poverty, for laborless-demand doesn’t hold back**
+            labor-demand**. Neil Oliver, “Government getting people out by
+            buying their farmland for free rider mutable profits for the
+            treasury.”
+          </div>
+          <br />
           substitute supply for labor demand of another market to beat crowding
           out
           <br />
