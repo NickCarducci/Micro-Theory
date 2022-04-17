@@ -132,6 +132,23 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <h4>
+            trust building hypocrisy -{space}
+            <a href="https://crowdfundingfortaxes.quora.com">
+              Crowdfunding For Taxes
+            </a>
+          </h4>
+          <a href="https://www.quora.com/Was-actual-Marxism-never-implemented/answer/Nick-Carducci">
+            Marx
+          </a>
+          {space}would tax to retribute (cash/debt)*income beyond{space}
+          <a href="https://truncatedproductiontax.quora.com">
+            free rider immutable
+          </a>
+          , sure. He would first and foremost end hysterical charge pools and
+          invoices’ surrendered freedom to bid of third party donee
+          beneficiaries, however.
+          <br />
           <a href="https://www.quora.com/What-is-the-difference-between-productivity-and-efficiency/answer/Nick-Carducci">
             What is the difference between productivity and efficiency?
           </a>
@@ -6116,3 +6133,4 @@ export default class App extends React.Component {
     );
   }
 }
+
