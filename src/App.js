@@ -149,6 +149,25 @@ export default class App extends React.Component {
           invoices’ surrendered freedom to bid of third party donee
           beneficiaries, however.
           <br />
+          Capitalism supports **surrendered freedom to bid of third party
+          {space}
+          <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
+            donee
+          </a>
+          {space}
+          beneficiaries, by
+          <br />
+          1. implausible use leases beyond 5 stores and condos and
+          <br />
+          2. invoices, warranties, and hysterical pool charges,
+          <br />
+          and accounts for **productivity by real{space}
+          <a href="https://data.oecd.org/lprdty/gdp-per-hour-worked.htm)">
+            expenses
+          </a>
+          {space}per hour.
+          <br />
+          <br />
           <a href="https://www.quora.com/What-is-the-difference-between-productivity-and-efficiency/answer/Nick-Carducci">
             What is the difference between productivity and efficiency?
           </a>
@@ -6133,4 +6152,3 @@ export default class App extends React.Component {
     );
   }
 }
-
