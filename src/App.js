@@ -132,6 +132,22 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <Cable
+            style={{ width: "100%", maxWidth: "400px" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://www.dropbox.com/s/9r7cpzr5zz0qbv5/Price%20of%20Marginal%20Product%20Wholesale%20Size.png?raw=1"
+            }
+            float="right"
+            title="Price of Marginal Product Wholesale Size Curve"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <h4>
             trust building hypocrisy -{space}
             <a href="https://crowdfundingfortaxes.quora.com">
