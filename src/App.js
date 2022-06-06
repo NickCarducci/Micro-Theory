@@ -132,6 +132,19 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <a href="https://www.quora.com/unanswered/Can-leisure-utilization-economics-be-defined-as-marginal-utility-or-economic-welfare-per-capita-by-less-hours-and-less-price-as-it-happens">
+            Can leisure utilization (economics) be defined as marginal utility
+            or economic welfare per capita by less hours, and less price, as it
+            happens
+          </a>
+          ?
+          <br />
+          <a href="https://www.quora.com/unanswered/Is-Corpus-Linguistics-division-of-labors-efficiency-the-reason-for-all-laws">
+            Is Corpus Linguistics' division of labor's efficiency the reason for
+            all laws
+          </a>
+          ?
+          <br />
           <Cable
             style={{ width: "100%", maxWidth: "400px" }}
             onError={handleScollImgError}
@@ -6168,3 +6181,4 @@ export default class App extends React.Component {
     );
   }
 }
+
