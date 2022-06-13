@@ -73,11 +73,17 @@ export default class App extends React.Component {
       } else if (this.props.pathname === "/fema") {
         window.scroll(0, this.fema.current.offsetTop);
       } else if (this.props.pathname.startsWith("/p/")) {
-        if (this.props.pathname === "/p/the-reason-for-microeconomics") {
+        /*if (this.props.pathname === "/p/the-reason-for-microeconomics") {
           window.scroll(0, this.podcast.current.offsetTop);
         } else if (this.props.pathname === "/p/intro") {
           window.scroll(0, this.podcast.current.offsetTop);
-        }
+        } else if (
+          ["trump", "reason", "insurrection"].includes(this.props.pathname)
+        ) {
+          window.scroll(0, this.podcast.current.offsetTop);
+        } else {*/
+        window.scroll(0, this.podcast.current.offsetTop);
+        //}
       }
     }
   };
@@ -6218,7 +6224,7 @@ export default class App extends React.Component {
           </a>
         </h3>
         <h3>
-          <a href="https://micro-theory.com/p/the-reason-for-microeconomics.mp3">
+          <a href="https://micro-theory.com/p/trump_s-reason-for-insurrection.mp3">
             Trump's Reason for Insurrection
             <br />
             <span style={{ fontSize: "12px" }}>
