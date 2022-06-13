@@ -74,6 +74,8 @@ export default class App extends React.Component {
       } else if (this.props.pathname.startsWith("/p/")) {
         if (this.props.pathname === "/p/the-reason-for-microeconomics") {
           window.scroll(0, this.podcast.current.offsetTop);
+        } else if (this.props.pathname === "/p/intro") {
+          window.scroll(0, this.podcast.current.offsetTop);
         }
       }
     }
