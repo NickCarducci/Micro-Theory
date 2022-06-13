@@ -15,6 +15,7 @@ export default class App extends React.Component {
       scrollTop: 0,
       serviceCancelingImages: name.includes("Safari")
     };
+    this.podcast = React.createRef();
     this.fema = React.createRef();
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
@@ -6183,16 +6184,70 @@ export default class App extends React.Component {
             <br />
           </span>
         </div>
-        <hr ref={this.podcast} />
-        <a href="https://micro-theory.com/p/intro.mp3">
-          <h3>Intro</h3>
-          What is microeconomics?
-        </a>
-        <a href="https://micro-theory.com/p/the-reason-for-microeconomics.mp3">
-          <h3>The Reason for Microeconomics,</h3>a saving grace of bleeding
-          heart Americans
+        <h1 ref={this.podcast}>
+          <iframe
+            title="Advanced Microeconomics: The Micro-Theory.com Podcast"
+            src="https://embed.podcasts.apple.com/us/podcast/advanced-microeconomics-the-micro-theory-com-podcast/id1629354788?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto"
+            height="450px"
+            frameborder="0"
+            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+            allow="autoplay *; encrypted-media *; clipboard-write"
+            style={{
+              width: "100%",
+              maxWidth: "660px",
+              overflow: "hidden",
+              borderRadius: "10px",
+              background: "transparent"
+            }}
+          ></iframe>
+        </h1>
+        <h3>
+          <a href="https://micro-theory.com/p/intro.mp3">
+            Intro
+            <br />
+            <span style={{ fontSize: "12px" }}>What is microeconomics?</span>
+          </a>
+        </h3>
+        <h3>
+          <a href="https://micro-theory.com/p/the-reason-for-microeconomics.mp3">
+            The Reason for Microeconomics,
+            <br />
+            <span style={{ fontSize: "12px" }}>
+              a saving grace of bleeding heart Americans
+            </span>
+          </a>
+        </h3>
+        <h2>
+          <a href="https://podcasts.apple.com/us/podcast/advanced-microeconomics-the-micro-theory-com-podcast-microeconomics-for-macroeconomists-and-laymen/id1629354788">
+            Advanced Microeconomics: The Micro-Theory.com Podcast,
+            Microeconomics for Macroeconomists and Laymen
+          </a>
+        </h2>
+        <iframe
+          title="Advanced Microeconomics: The Micro-Theory.com Podcast,
+        Microeconomics for Macroeconomists and Laymen"
+          src="https://anchor.fm/micro-theory/embed"
+          height="102px"
+          width="400px"
+          frameborder="0"
+          scrolling="no"
+        ></iframe>
+        <br />
+        <a href="https://micro-theory.podbean.com/">podbean</a>
+        {space + space}
+        <a
+          style={{
+            padding: "0px 5px",
+            borderRadius: "10px",
+            border: "1px solid",
+            textDecoration: "none"
+          }}
+          href="https://www.quora.com/What-is-the-most-effective-way-to-promote-a-podcast/answer/Nick-Carducci"
+        >
+          ?
         </a>
       </div>
     );
   }
 }
+
