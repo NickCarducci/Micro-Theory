@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>Micro-Theory.com - Microeconomics for macroeconomists and laymen</title>
+    <description>Micro-Theory.com, the calculus of econometrics. @nickcarducci on venmo. Micro-Theory.com is a show about the unforsought utilities of the marginal utility plane of entrants between markets and skews complementary and substitutive supply and demand.</description>
+    <link>http://micro-theory.com</link>
+    <language>en-us</language>
+    <copyright>Copyright 2022</copyright>
+    <lastBuildDate>Sun, 12 Jun 2022 00:15:00 Z</lastBuildDate>
+    <pubDate>Sun, 12 Jun 2022 00:15:00 Z</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>nmcarducci@gmail.com (@nickcarducci venmo)</webMaster>
+    <ttl>60</ttl>
+    <itunes:author>nick@thumbprint.us</itunes:author>
+    <itunes:subtitle>Micro-Theory.com is a show about marginal utility, substitutive market-skews and complementary supply and demand. We also do some accounting unworking and anti-money laundering in regards to a 'uniform' fiscal policy.</itunes:subtitle>
+    <itunes:summary>Micro-Theory.com, the calculus of econometrics. Micro-Theory.com is a show about the unforsaught utilities of the marginal utility plane of entrants between markets and skews complementary and substitutive supply and demand, enumerating both this very field, old school socialism and today's communist libertarianism, from the cult of reason to Islamic banking (and transaction fees), prepare for reconciliation (and Truncated Wholesale Tax), swingers.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Nick Carducci</itunes:name>
+        <itunes:email>nmcarducci@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://www.dropbox.com/s/we5lvgp49pbt1xg/micro-theory%20portrait.png?raw=1"/>
+    <itunes:category text="News">
+        <itunes:category text="Politics"/>
+    </itunes:category>
+    <itunes:category text="Science">
+        <itunes:category text="Social Sciences"/>
+    </itunes:category>
+    <item>
+        <title>Intro</title>
+        <link>http://micro-theory.com/p/intro</link>
+        <guid>https://www.dropbox.com/s/lg385mxe3u1enkr/intro.m4a?raw=1</guid>
+        <description>welcome to the first addition of the micro-theory.com podcast. If you donate $90 I'll be able to get a microphone. I talk about the reason for microeconomics, some statistics and contract law.</description>
+        <enclosure url="https://www.dropbox.com/s/9r7cpzr5zz0qbv5/Price%20of%20Marginal%20Product%20Wholesale%20Size.png?raw=1" length="101440" type="image/png"/>
+        <category>Economics</category>
+        <pubDate>Sun, 12 Jun 2022 00:15:00 Z</pubDate>
+        <itunes:author>nick@thumbprint.us</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle> Utility, value, inventory, cost of goods sold, tax exemption policy, substitutive supply and labor-demand. </itunes:subtitle>
+        <itunes:summary> Utility, value, inventory, cost of goods sold, tax exemption policy, substitutive supply and labor-demand requires outright sales. </itunes:summary>
+        <itunes:duration>00:21:18</itunes:duration>
+        <itunes:keywords>Microeconomics, Social Science, Government, Economics, Efficiency, Utilitarianism </itunes:keywords>
+    </item>
+    <item>
+        <title>The Reason for Microeconomics, a saving grace of bleeding heart Americans</title>
+        <link>http://micro-theory.com/p/the-reason-for-microeconomics</link>
+        <guid>https://www.dropbox.com/s/d81s8aak6hjpo4b/the-reason-for-microeconomics.m4a?raw=1</guid>
+        <description>welcome to the second addition of the micro-theory.com podcast. If you donate $90 I'll be able to get a microphone. I talk about the reason for microeconomics, some statistics and contract law.</description>
+        <enclosure url="https://www.dropbox.com/s/6kxlls6rnpsjy04/homicide%20offending%20age%20weed.jpeg?raw=1" length="46690" type="image/png"/>
+        <category>Economics</category>
+        <pubDate>Sun, 12 Jun 2022 00:15:00 Z</pubDate>
+        <itunes:author>nick@thumbprint.us</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle> Utility, value, inventory, cost of goods sold, tax exemption policy, substitutive supply and labor-demand. </itunes:subtitle>
+        <itunes:summary> Utility, value, inventory, cost of goods sold, tax exemption policy, substitutive supply and labor-demand requires outright sales. </itunes:summary>
+        <itunes:duration>00:21:18</itunes:duration>
+        <itunes:keywords>Microeconomics, Social Science, Government, Economics, Efficiency, Utilitarianism </itunes:keywords>
+    </item>
+</channel>
+</rss>
