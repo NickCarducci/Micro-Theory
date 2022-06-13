@@ -6217,6 +6217,15 @@ export default class App extends React.Component {
             </span>
           </a>
         </h3>
+        <h3>
+          <a href="https://micro-theory.com/p/the-reason-for-microeconomics.mp3">
+            Trump's Reason for Insurrection
+            <br />
+            <span style={{ fontSize: "12px" }}>
+              why do we certify non-distributed/centralized databases?
+            </span>
+          </a>
+        </h3>
         <h2>
           <a href="https://podcasts.apple.com/us/podcast/advanced-microeconomics-the-micro-theory-com-podcast-microeconomics-for-macroeconomists-and-laymen/id1629354788">
             Advanced Microeconomics: The Micro-Theory.com Podcast,
@@ -6224,8 +6233,7 @@ export default class App extends React.Component {
           </a>
         </h2>
         <iframe
-          title="Advanced Microeconomics: The Micro-Theory.com Podcast,
-        Microeconomics for Macroeconomists and Laymen"
+          title="Advanced Microeconomics: The Micro-Theory.com Podcast, Microeconomics for Macroeconomists and Laymen"
           src="https://anchor.fm/micro-theory/embed"
           height="102px"
           width="400px"
@@ -6246,6 +6254,11 @@ export default class App extends React.Component {
         >
           ?
         </a>
+        {/*space + space}
+        <a href="https://www.quora.com/unanswered/Does-the-non-portability-of-Node-js-compel-the-organization-to-open-source-the-code">
+          Does the non-portability of Node.js compel the organization to open
+          source the code?
+        </a>*/}
       </div>
     );
   }
