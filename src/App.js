@@ -71,6 +71,10 @@ export default class App extends React.Component {
         this.setState({ journal: true });
       } else if (this.props.pathname === "/fema") {
         window.scroll(0, this.fema.current.offsetTop);
+      } else if (this.props.pathname.startsWith("/p/")) {
+        if (this.props.pathname === "/p/the-reason-for-microeconomics") {
+          window.scroll(0, this.podcast.current.offsetTop);
+        }
       }
     }
   };
@@ -6177,8 +6181,16 @@ export default class App extends React.Component {
             <br />
           </span>
         </div>
+        <hr ref={this.podcast} />
+        <a href="https://micro-theory.com/p/intro.mp3">
+          <h3>Intro</h3>
+          What is microeconomics?
+        </a>
+        <a href="https://micro-theory.com/p/the-reason-for-microeconomics.mp3">
+          <h3>The Reason for Microeconomics,</h3>a saving grace of bleeding
+          heart Americans
+        </a>
       </div>
     );
   }
 }
-
