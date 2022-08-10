@@ -299,8 +299,26 @@ export default class App extends React.Component {
             treasury.”
           </div>
           <br />
-          substitute supply for labor demand of another market to beat crowding
-          out
+          <Cable
+            style={{ width: "100%", maxWidth: "400px" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://www.dropbox.com/s/qmhi6rvgu3xnv4n/Matrix%20gradient%20by%20marginal%20as%20first%20order.png?raw=1"
+            }
+            float="left"
+            title="First order utility affects price"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <br />
+          substitute supply for labor demand of another market to beat
+          (malthusian) crowding out. Value would equate barrier to entry in
+          perfect comp.
           <br />
           Nick Carducci -{space}
           <a href="https://occupywallst.quora.com">
