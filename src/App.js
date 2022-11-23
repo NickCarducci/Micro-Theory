@@ -145,6 +145,16 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <h4 style={{ float: "right", margin: "0px 4px" }}>
+            <a href="https://marginalism.uk">marginalism.uk</a>
+          </h4>
+          When are costs profits except individually? Are there any economists
+          that advocate for{space}
+          <a href="https://goprovider.us">t0</a>
+          {space}transaction times? Isn’t debt the only reason that a stock of
+          capital accounts is short of funds?
+          <br />
+          <br />
           <a href="https://www.quora.com/unanswered/Can-leisure-utilization-economics-be-defined-as-marginal-utility-or-economic-welfare-per-capita-by-less-hours-and-less-price-as-it-happens">
             Can leisure utilization (economics) be defined as marginal utility
             or economic welfare per capita by less hours, and less price, as it
@@ -6287,4 +6297,3 @@ export default class App extends React.Component {
     );
   }
 }
-
