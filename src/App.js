@@ -151,13 +151,26 @@ export default class App extends React.Component {
             </a>
           </h2>
           Investment that is useful would deflate or equalize
+          <h3>
+            If a housing labor recession shortage is bad, is any other industry
+            recession good? Isn’t labor transitory amongst industry including
+            leisure utilization?
+          </h3>
+          crowding
+          <br />
+          We want constant labor with deflation and equalization by tech and no
+          more
           <br />
           <br />
           <h4 style={{ float: "right", margin: "0px 4px" }}>
             <a href="https://marginalism.uk">marginalism.uk</a>
           </h4>
-          When are costs profits except individually? Are there any economists
-          that advocate for{space}
+          When are costs,{space}
+          <a href="https://www.quora.com/unanswered/Is-overhead-profit-Is-marginal-benefit-from-escrow-or-in-real-time">
+            profits
+          </a>
+          , except individually? Are there any economists that advocate for
+          {space}
           <a href="https://goprovider.us">t0</a>
           {space}transaction times? Isn’t debt the only reason that a stock of
           capital accounts is short of funds?
