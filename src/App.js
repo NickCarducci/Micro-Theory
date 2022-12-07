@@ -150,6 +150,9 @@ export default class App extends React.Component {
               How would the demand curve shift if the level of income increases?
             </a>
           </h2>
+          Investment that is useful would deflate or equalize
+          <br />
+          <br />
           <h4 style={{ float: "right", margin: "0px 4px" }}>
             <a href="https://marginalism.uk">marginalism.uk</a>
           </h4>
