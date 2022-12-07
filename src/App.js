@@ -145,6 +145,11 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <h2>
+            <a href="https://www.quora.com/How-would-the-demand-curve-shift-if-the-level-of-income-increases/answer/Nick-Carducci">
+              How would the demand curve shift if the level of income increases?
+            </a>
+          </h2>
           <h4 style={{ float: "right", margin: "0px 4px" }}>
             <a href="https://marginalism.uk">marginalism.uk</a>
           </h4>
