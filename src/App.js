@@ -145,6 +145,9 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          Is inflation discriminatory? Is inflation measured either by a survey
+          of packaged goods and/or new monetarily-measured uses for the same
+          life?
           <h2>
             <a href="https://www.quora.com/How-would-the-demand-curve-shift-if-the-level-of-income-increases/answer/Nick-Carducci">
               How would the demand curve shift if the level of income increases?
