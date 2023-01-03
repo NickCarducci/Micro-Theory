@@ -145,6 +145,17 @@ export default class App extends React.Component {
             textAlign: "center" //parallel occurance
           }}
         >
+          ​money doesn't make heat and food (
+          <a href="https://magnate.company">electrons</a>
+          {space}and{space}
+          <a href="https://bankingisnot.biz">labor</a>)
+          <br />
+          <br />
+          ​unemployment is always marginal. so many customers. get another
+          payday proprietorship. cover loss and contract labor then (indemnity
+          siempre{space}
+          <a href="https://scopes.cc">creep</a>)
+          <br />
           Why would there be tariffs on imported goods if you hired the foreign
           producer?{space}
           <i>
@@ -549,7 +560,13 @@ export default class App extends React.Component {
               scrolling={this.state.scrolling}
               fwd={this["scrollImg" + scrollnum()]}
               scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-              scrollTop={this.state.scrollTop}
+              scrollTop={this.state.scrollTop} //I always get fooled by the issue of short selling,
+              //it differs from outright trade only because one borrows it to sell it.
+              //Isn't short selling without borrowing just selling on the basis of a
+              //time-based fee rather than a transaction fee based by a market makers' ordinary book spread?
+
+              //maybe the good thing is differen - differ ren, "psy ops planned continuing"
+              //continuing hazard fraud
             />
             How can you say you afford that which you launder unpaid contracts
             of third party donee beneficiaries of labor-borne-demand? let alone
