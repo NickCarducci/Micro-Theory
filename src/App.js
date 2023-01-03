@@ -145,6 +145,13 @@ export default class App extends React.Component {
             textAlign: "center" //parallel occurance
           }}
         >
+          Why would there be tariffs on imported goods if you hired the foreign
+          producer?{space}
+          <i>
+            Thanks Trump (sponsor me{space}
+            <a href="https://vau.money">12.1.5 platform processing</a>)
+          </i>
+          <br />
           Material resource productivity is either time to outcome or waste
           <hr />
           <i style={{ color: "cadetblue" }}>
