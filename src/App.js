@@ -145,18 +145,29 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          <i style={{ color: "cadetblue" }}>
+            Doesn't marginal consumtion better with less time to outcome and
+            shrinkflation?
+          </i>
+          <br />
           Are Internal Revenue Service agents worth the trouble to the U.S.
           House of Representatives' Ways and Means Committee to collect bartered
           scale and mark-to-market endeavors outside of the electronic funds
           transfer system?
           <br />
           <br />
-          If economists do not think marginal utility is a sorted propensity by
-          potential opportunity benefit to enter, why do they think the supply
-          and demand curves are sloped rationally? Don't they merely need to
-          read{space}
+          <span style={{ color: "cornflowerblue" }}>
+            If economists do not think marginal utility is a sorted propensity
+            by potential opportunity benefit to enter, why do they think the
+            supply and demand curves are sloped rationally?
+          </span>
+          {space}Don't they merely need to read{space}
           <a href="https://marginalism.uk">Alfred Marshall</a>
-          {space}again?
+          {space}again?{space}
+          <i>
+            [Nietzsche the communist{/*commie.dev/police */}: "Have you licked a boot today?"]
+            {/**you've made it about yourself and muddied the topic */}
+          </i>
           <br />
           <br />
           <Cable
@@ -173,8 +184,11 @@ export default class App extends React.Component {
           />
           When is real GDP growth and resource productivity not shrinkflation
           and time to outcome with a constant material consumption but
-          deflation? Isn’t technology deflationary while competition is so
-          marginally? Shouldn't growth come from a substitute in an efficient
+          deflation?{space}
+          <span style={{ color: "orange" }}>
+            Isn’t technology deflationary while competition is so marginally?
+          </span>
+          {space}Shouldn't growth come from a substitute in an efficient
           economy?
           <hr />
           Is inflation discriminatory? Is inflation measured either by a survey
