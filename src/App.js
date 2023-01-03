@@ -148,7 +148,9 @@ export default class App extends React.Component {
           ​money doesn't make heat and food (
           <a href="https://magnate.company">electrons</a>
           {space}and{space}
-          <a href="https://bankingisnot.biz">labor</a>)
+          <a href="https://bankingisnot.biz">labor</a>) physical resource
+          productivity is just time to outcome and real gdp that isn't
+          shrinkflation is just deflation
           <br />
           <br />
           ​unemployment is always marginal. so many customers. get another
