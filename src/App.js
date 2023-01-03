@@ -159,6 +159,18 @@ export default class App extends React.Component {
           {space}again?
           <br />
           <br />
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={this.state.serviceCancelingImages ? "" : "https://vaults.biz"}
+            float="right"
+            title="please sponsor me vau.money 12.1.5 CFR Shahada bank"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           When is real GDP growth and resource productivity not shrinkflation
           and time to outcome with a constant material consumption but
           deflation? Isn’t technology deflationary while competition is so
