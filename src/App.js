@@ -560,11 +560,16 @@ export default class App extends React.Component {
             <br />
             The <a href="https://2024nj.com/plandemic">global pandemic</a>{" "}
             caused checking to be{" "}
-            <a href="https://commie.dev">non-fungible for currency</a>
+            <a href="https://commie.dev/banks">non-fungible for currency</a>
             <br />
-            Free rider mutable trade secrets!
+            Free rider mutable trade{space}
+            <a href="https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/book01/ch10b.htm">
+              secrets
+            </a>
+            /<a href="https://reddit.com/r/sayists">expiry</a>!
             <br />
             gdp/p is counterproductive - price deflation per hour
+            (competitive:marginal, technical:whole)
             <br />
             <br />
             "'Cannot expect a man to&nbsp;
@@ -586,7 +591,24 @@ export default class App extends React.Component {
               market making
             </a>
             &nbsp;for a new item in a depositary && location’s shipping
-            <h2>yeah free for lender work deficit</h2>
+            <h2>
+              yeah free for lender work deficit{space}
+              <i style={{ color: "grey" }}>
+                (Is cutting the deficit(s) the first step towards
+                bipartisanship?)
+              </i>
+              {space}
+              <span>
+                Health insurance only either covers invoices or general charges
+                to tax escrow, both of which are stolen purchases - it doesn’t
+                prevent loss. (How is{space}
+                <a href="https://www.quora.com/Do-you-not-think-marginal-demand-is-the-next-market-entrant-by-sorted-propensity/answer/William-Simpson-327">
+                  consumer fraud insurance
+                </a>
+                {space}possible/{space}
+                <a href="https://saverparty.xyz">plausible</a>?)
+              </span>
+            </h2>
             <Cable
               style={{ height: "440px" }}
               onError={handleScollImgError}
