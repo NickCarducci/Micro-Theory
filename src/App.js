@@ -145,6 +145,14 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          If economists do not think marginal utility is a sorted propensity by
+          potential opportunity benefit to enter, why do they think the supply
+          and demand curves are sloped rationally? Don't they merely need to
+          read{space}
+          <a href="https://marginalism.uk">Alfred Marshall</a>
+          {space}again?
+          <br />
+          <br />
           When is real GDP growth and resource productivity not shrinkflation
           and time to outcome with a constant material consumption but
           deflation? Isn’t technology deflationary while competition is so
