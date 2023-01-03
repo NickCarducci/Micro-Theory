@@ -145,6 +145,8 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          Material resource productivity is either time to outcome or waste
+          <hr />
           <i style={{ color: "cadetblue" }}>
             Doesn't marginal consumtion better with less time to outcome and
             shrinkflation?
@@ -165,7 +167,8 @@ export default class App extends React.Component {
           <a href="https://marginalism.uk">Alfred Marshall</a>
           {space}again?{space}
           <i>
-            [Nietzsche the communist{/*commie.dev/police */}: "Have you licked a boot today?"]
+            [Nietzsche the communist{/*commie.dev/police */}: "Have you licked a
+            boot today?"]
             {/**you've made it about yourself and muddied the topic */}
           </i>
           <br />
