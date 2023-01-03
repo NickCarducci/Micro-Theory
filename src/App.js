@@ -142,14 +142,15 @@ export default class App extends React.Component {
             position: !this.state.journal ? "fixed" : "relative",
             width: "100%",
             maxWidth: "600px",
-            textAlign: "center"
+            textAlign: "center" //parallel occurance
           }}
         >
           Material resource productivity is either time to outcome or waste
           <hr />
           <i style={{ color: "cadetblue" }}>
             Doesn't marginal consumtion better with less time to outcome and
-            shrinkflation?
+            shrinkflation? (Shouldn't growth come from a substitute in an
+            efficient economy?)
           </i>
           <br />
           Are Internal Revenue Service agents worth the trouble to the U.S.
