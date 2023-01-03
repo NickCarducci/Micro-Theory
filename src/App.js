@@ -145,6 +145,12 @@ export default class App extends React.Component {
             textAlign: "center"
           }}
         >
+          When is real GDP growth and resource productivity not shrinkflation
+          and time to outcome with a constant material consumption but
+          deflation? Isn’t technology deflationary while competition is so
+          marginally? Shouldn't growth come from a substitute in an efficient
+          economy?
+          <hr />
           Is inflation discriminatory? Is inflation measured either by a survey
           of packaged goods and/or new monetarily-measured uses for the same
           life?
