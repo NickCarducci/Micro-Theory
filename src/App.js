@@ -3,7 +3,8 @@ import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import Cable from "./Dropwire";
 import GDP from "./GDP";
 import { UAParser } from "ua-parser-js";
-
+//DOES ANYONE WANT TO BE MY PAC BUDDY
+//great now that song "anything you can do I can do better" women can play (soccer? boy club or unisex)
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -145,17 +146,53 @@ export default class App extends React.Component {
             textAlign: "center" //parallel occurance
           }}
         >
+          At first, marginally sinking fixed costs, then diminishing propensity
+          of the intermediate cost supplier to let go, either both in the short
+          term and{space}
+          <a href="https://bankingisnotabusiness.quora.com/Can-a-personal-loan-grab-unitemized-assets-upon-personal-either-bankruptcy-or-death">
+            long term
+          </a>
+          , and/or by the firm and industry investment taxable value of the farm
+          to the table final good payable{space}
+          <a href="https://www.quora.com/Why-are-both-the-short-run-and-the-long-run-average-cost-curves-u-shaped/answer/Nick-Carducci">
+            consumption
+          </a>
+          . Isn’t a{space}
+          <a href="https://froth.quora.com/What-are-your-thoughts-on-rising-inequality-in-our-society-1">
+            technical outcome either a totally deflationary and/or
+            layoff-centric
+          </a>
+          {space}utility while a marginal outcome utility is both either/or
+          deflationary and beneficial and/or outright still yet perhaps{space}
+          <a href="https://thetaxparty.com">off exchange</a>
+          {space}but{space}
+          <a href="https://scopebook.quora.com/How-can-a-self-employed-person-use-Stripe-Connect-to-either-defer-compensation-457-b-taxes-and-or-take-a-life-insurance-1">
+            like
+          </a>
+          {space}in-kind{space}
+          <a href="https://truncatedproductiontax.quora.com">product</a>
+          {space}usage ? (Aren't they both human action without{space}
+          <a href="https://maxroyalties.quora.com/In-what-ways-could-government-subsidies-directly-benefit-the-purchase-of-private-affordable-health-insurance-plans-1">
+            contract
+          </a>
+          ?)
+          <br />
+          <br />
           ​money doesn't make heat and food (
           <a href="https://magnate.company">electrons</a>
           {space}and{space}
           <a href="https://bankingisnot.biz">labor</a>) physical resource
-          productivity is just time to outcome and real gdp that isn't
-          shrinkflation is just deflation
+          productivity is just time tos{space}
+          <a href="https://saverparty.quora.com/If-publicly-funded-healthcare-is-always-more-costly-why-does-the-US-have-the-highest-healthcare-costs-worldwide-compare-1">
+            outcome
+          </a>
+          {space}and real gdp that isn't shrinkflation is just deflation
           <br />
           <br />
-          ​unemployment is always marginal. so many customers. get another
-          payday proprietorship. cover loss and contract labor then (indemnity
-          siempre{space}
+          ​unemployment is always marginal. so many{space}
+          <a href="https://truncatedwholesaletax.quora.com">customers</a>. get
+          another payday proprietorship. cover loss and contract labor then
+          (indemnity siempre{space}
           <a href="https://scopes.cc">creep</a>)
           <br />
           Why would there be tariffs on imported goods if you hired the foreign
