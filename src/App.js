@@ -144,6 +144,9 @@ export default class App extends React.Component {
             width: "100%",
             maxWidth: "600px",
             textAlign: "center" //parallel occurance
+            //​i'll see to it but it's not looking good (political promises and advice)
+            //Are Bondholders Owed a Fiduciary Duty? lmfao to whom donee
+            //​point of income fiduciary public payable to sales
           }}
         >
           NSF BROKE ENTREPRENEURS kuznets is sane keynes
@@ -152,7 +155,13 @@ export default class App extends React.Component {
           <br />
           they want some of my ghoul
           <br />
-          competition usually substitutes unless you're making Fez
+          competition usually substitutes unless you're making Fez (9x buy to
+          build resource maerial and labor producitivy consumption 2:4)
+          <br />
+          <br />
+          Because management is bound to a fiduciary duty of care to
+          shareholders alone, 9 bondholders must rely on other protective
+          mechanisms to safeguard their interests.
           <br />
           <br />
           At first, marginally sinking fixed costs, then diminishing propensity
