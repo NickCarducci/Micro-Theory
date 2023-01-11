@@ -147,16 +147,21 @@ export default class App extends React.Component {
             //​i'll see to it but it's not looking good (political promises and advice)
             //Are Bondholders Owed a Fiduciary Duty? lmfao to whom donee
             //​point of income fiduciary public payable to sales
+            //they only hold your dress to wipe they hands smh
           }}
         >
+          <a href="https://vau.money">539 deference</a>
+          {space}for all exempt associations
+          <br />
           NSF BROKE ENTREPRENEURS kuznets is sane keynes
           <br />
           ​you can build anything at the USPTO
           <br />
           they want some of my ghoul
           <br />
-          competition usually substitutes unless you're making Fez (9x buy to
-          build resource maerial and labor producitivy consumption 2:4)
+          competition usually substitutes unless you're making Fez (
+          <a href="https://scopebook.quora.com">9x buy to build</a>
+          {space}resource maerial and labor producitivy consumption 2:4)
           <br />
           <br />
           Because management is bound to a fiduciary duty of care to
@@ -6489,3 +6494,4 @@ export default class App extends React.Component {
     );
   }
 }
+
