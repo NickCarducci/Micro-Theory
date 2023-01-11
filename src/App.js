@@ -146,6 +146,15 @@ export default class App extends React.Component {
             textAlign: "center" //parallel occurance
           }}
         >
+          NSF BROKE ENTREPRENEURS kuznets is sane keynes
+          <br />
+          ​you can build anything at the USPTO
+          <br />
+          they want some of my ghoul
+          <br />
+          competition usually substitutes unless you're making Fez
+          <br />
+          <br />
           At first, marginally sinking fixed costs, then diminishing propensity
           of the intermediate cost supplier to let go, either both in the short
           term and{space}
