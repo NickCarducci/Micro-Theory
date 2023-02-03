@@ -212,6 +212,13 @@ export default class App extends React.Component {
           fixed as well in T+ advanced payments.
           <br />
           <br />
+          Escrow is not intertemporally Giffen without advanced payments. A
+          Substitution is not a Giffen good at all where either an incremental
+          good is pricier or the next price is less material by literally
+          diminishing inventory or otherwise requires more by shrinkflation,
+          usually captured by whole life product less complements and luxuries.
+          <br />
+          <br />
           <a href="https://vau.money">539 deference</a>
           {space}for all exempt associations
           <br />
@@ -6556,4 +6563,3 @@ export default class App extends React.Component {
     );
   }
 }
-
