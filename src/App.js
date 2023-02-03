@@ -156,7 +156,8 @@ export default class App extends React.Component {
               margin: "4px 0px"
             }}
           >
-            Materiality withstanding never-Giffen yet always inelastic escrow
+            Incrementally pricier (xy) or Materiality withstanding (x, units)
+            never-Giffen yet always inelastic (y) escrow
           </h2>
           1 sweet(x) nothing(xy), please.
           <br />
