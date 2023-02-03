@@ -192,6 +192,17 @@ export default class App extends React.Component {
           to their degree after Biden v. Nebraska?
           <br />
           <br />
+          "When we talk about demand being downward sloped (or upward for Giffen
+          good) we mean at a point in a time." is not "In time demand simply
+          shifts in response to various factors. ...A correct story would be
+          something like this. Now suppose rice gets more expensive so family
+          cannot afford chicken anymore. The family might buy little bit more
+          rice to replace the calories that it would normally get in the chicken
+          so demand for rice would increase despite higher price." Then
+          intertemporal consumption patterns are Giffen when materiality isn't
+          fixed as well in T+ advanced payments.
+          <br />
+          <br />
           <a href="https://vau.money">539 deference</a>
           {space}for all exempt associations
           <br />
