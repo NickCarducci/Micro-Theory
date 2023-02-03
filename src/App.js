@@ -148,8 +148,14 @@ export default class App extends React.Component {
             //Are Bondholders Owed a Fiduciary Duty? lmfao to whom donee
             //​point of income fiduciary public payable to sales
             //they only hold your dress to wipe they hands smh
+            //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Immediate wholesale (Hak Choi) to escrow Giffen
+          <br />
+          Only the mean of things (AI/boredom)
+          <br />
+          <br />
           <a href="https://vau.money">539 deference</a>
           {space}for all exempt associations
           <br />
@@ -6494,4 +6500,3 @@ export default class App extends React.Component {
     );
   }
 }
-
