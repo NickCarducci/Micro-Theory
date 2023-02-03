@@ -225,13 +225,16 @@ export default class App extends React.Component {
           returns part of a scope of work requirements advanced payment? Is a
           loan's intertemporal supply liable for consumer fraud materiality or
           does it return either interest or royalty?
-          <br />
-          <br />
+          <h3>
+            Trust, advanced payment, value card for material purpose may reduce
+            either materiality (use to benefit) or therefore secondary
+            benefactorial (resale), or the price inelastically.
+          </h3>
           <iframe
             title="ponzi multilevelcapital.com"
             style={{
               width: "100%",
-              height:"300px"
+              height: "300px"
             }}
             src="https://multilevelcapital.com"
           />
