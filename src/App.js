@@ -217,6 +217,8 @@ export default class App extends React.Component {
           good is pricier or the next price is less material by literally
           diminishing inventory or otherwise requires more by shrinkflation,
           usually captured by whole life product less complements and luxuries.
+          Does a loaned or advanced purchase increase price the more it is used?
+          Does utility ever diminish by time preference of escrow to inventory?
           <br />
           <br />
           <a href="https://vau.money">539 deference</a>
