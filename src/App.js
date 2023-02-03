@@ -151,6 +151,7 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Isn't escrow at the beck and call of supply making price and quality?
           <h2
             style={{
               margin: "4px 0px"
