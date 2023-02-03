@@ -221,6 +221,20 @@ export default class App extends React.Component {
           Does utility ever diminish by time preference of escrow to inventory?
           <br />
           <br />
+          Doesn't a regular loan return interest while a payday loan rather
+          returns part of a scope of work requirements advanced payment? Is a
+          loan's intertemporal supply liable for consumer fraud materiality or
+          does it return either interest or royalty?
+          <br />
+          <br />
+          <iframe
+            title="ponzi multilevelcapital.com"
+            style={{
+              width: "100%",
+              height:"300px"
+            }}
+            src="https://multilevelcapital.com"
+          />
           <a href="https://vau.money">539 deference</a>
           {space}for all exempt associations
           <br />
