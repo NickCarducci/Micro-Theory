@@ -188,7 +188,8 @@ export default class App extends React.Component {
               Supreme Court Question 22-506 BIDEN V. NEBRASKA
             </a>
           </i>
-          , February 21, 2023)
+          , February 21, 2023) Will the government debt be owed by the student
+          to their degree after Biden v. Nebraska?
           <br />
           <br />
           <a href="https://vau.money">539 deference</a>
