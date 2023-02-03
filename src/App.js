@@ -156,9 +156,9 @@ export default class App extends React.Component {
               margin: "4px 0px"
             }}
           >
-            Materiality
+            Materiality withstanding never-Giffen yet always inelastic escrow
           </h2>
-          1 sweet nothing, please.
+          1 sweet(x) nothing(xy), please.
           <br />
           Immediate wholesale (Hak Choi) to escrow Giffen
           <br />
