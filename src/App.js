@@ -218,7 +218,8 @@ export default class App extends React.Component {
           diminishing inventory or otherwise requires more by shrinkflation,
           usually captured by whole life product less complements and luxuries.
           Does a loaned or advanced purchase increase price the more it is used?
-          Does utility ever diminish by time preference of escrow to inventory?
+          Does utility ever diminish by time preference of escrow to present
+          inventory interest?
           <br />
           <br />
           Doesn't a regular loan return interest while a payday loan rather
