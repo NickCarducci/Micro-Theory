@@ -156,6 +156,22 @@ export default class App extends React.Component {
           Is escrow intertemporal or Giffen?
           <br />
           Is a gift intertemporal?{/* Does a market have multiple purposes?*/}
+          <Cable
+            style={{ width: "100%" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://www.dropbox.com/s/z3ajk5opsg5v13b/Giffen%20curve.png?raw=1"
+            }
+            float="right"
+            title="Giffen curve"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <h3>Jealous piece of shit</h3>
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
