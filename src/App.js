@@ -154,6 +154,9 @@ export default class App extends React.Component {
           <h4>
             Why would a business be able to deduct business rental expenses but
             not saving into a first time home buyer account in any state?
+            {/*just let final goods resell for cash nor advanced  payment 1031
+            and any future savings for renovations
+            */}
           </h4>
           <i>Isn't escrow always an advanced estimate in one time and space?</i>
           <br />
@@ -176,7 +179,11 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          <h3>Jealous piece of shit</h3>
+          <h3>
+            <a href="https://valueeconomics.quora.com/What-are-some-examples-of-how-demand-affects-price-and-quantity-of-goods-sold-1">
+              Jealous piece of shit
+            </a>
+          </h3>
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
@@ -205,6 +212,7 @@ export default class App extends React.Component {
           Immediate wholesale (Hak Choi) to escrow Giffen
           <br />
           Only the mean of things (AI/boredom)
+          {/*Hell is death and concept ("babies don't have thoughts") */}
           <br />
           <br />
           "the debtor does not get to walk off with all of the creditor's
@@ -259,15 +267,30 @@ export default class App extends React.Component {
           good is pricier or the next price is less material by literally
           diminishing inventory or otherwise requires more by shrinkflation,
           usually captured by whole life product less complements and luxuries.
-          Does a loaned or advanced purchase increase price the more it is used?
-          Does utility ever diminish by time preference of escrow to present
+          {space}
+          <span
+            style={{
+              textDecoration: "line-through"
+            }}
+          >
+            Does a loaned or advanced purchase increase price the more it is
+            used? Does utility ever diminish by time preference of escrow to
+            present inventory interest?
+          </span>
+          {space}Doesn't either a loaned or advanced purchase increase price the
+          more it is used? Does intertemporal marginal benefit utility ever
+          diminish the benefactor's time preference to escrow over present
           inventory interest?
           <br />
           <br />
           Doesn't a regular loan return interest while a payday loan rather
           returns part of a scope of work requirements advanced payment? Is a
           loan's intertemporal supply liable for consumer fraud materiality or
-          does it return either interest or royalty?
+          does it return either interest or royalty?{space}
+          <i>
+            Is a payday loan in default or fiduciary irresponsibility and
+            consumer fraud after contract garnishable before probate?
+          </i>
           <h3>
             Trust, advanced payment, value card for material purpose may reduce
             either materiality (use to benefit) or therefore secondary
