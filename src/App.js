@@ -151,6 +151,8 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Is escrow intertemporal or Giffen?
+          <h3>Jealous piece of shit</h3>
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
