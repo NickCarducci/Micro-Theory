@@ -151,7 +151,11 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <i>Isn't escrow always an advanced estimate in one time and space?</i>
+          <br />
           Is escrow intertemporal or Giffen?
+          <br />
+          Is a gift intertemporal?{/* Does a market have multiple purposes?*/}
           <h3>Jealous piece of shit</h3>
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
