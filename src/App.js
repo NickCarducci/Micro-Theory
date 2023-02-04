@@ -151,6 +151,10 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h4>
+            Why would a business be able to deduct business rental expenses but
+            not saving into a first time home buyer account in any state?
+          </h4>
           <i>Isn't escrow always an advanced estimate in one time and space?</i>
           <br />
           Is escrow intertemporal or Giffen?
