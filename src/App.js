@@ -151,7 +151,14 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
-          Isn't escrow at the beck and call of supply making price and quality?
+          <h3>
+            Material purpose is usually already deducted or then taxable if not
+            {space}
+            <a href="https://vau.money/login">2503(e)/280a</a>
+          </h3>
+          Isn't escrow at the beck and call of supply making price and quality
+          (as if it were scarce)
+          {/**and without diminishing supply inventory utility */}?
           <h2
             style={{
               margin: "4px 0px"
