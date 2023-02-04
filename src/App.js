@@ -152,8 +152,9 @@ export default class App extends React.Component {
           }}
         >
           Why do economists think intertemporal choice is to the exclusion of
-          escrow making giffen goods by requiring more units later? Are they
-          bots?
+          escrow making giffen goods by requiring more units later?{space}
+          <i>Exports of good for foreign land currency stock?</i>
+          {space}Are they bots?
           <h2>Benefactor disposal</h2>
           Is a competitive investment complementarily productive or materially
           substitutive?
