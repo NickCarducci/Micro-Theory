@@ -188,39 +188,67 @@ export default class App extends React.Component {
           escrow making giffen goods by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
           {space}Are they bots?
-          <h2>Benefactor disposal</h2>
-          Is a competitive investment complementarily productive or materially
-          substitutive?
-          <h3>
+          <br />
+          <h2 style={{ margin: "4px 0px" }}>Benefactor (user or) disposal;</h2>
+          <h3 style={{ margin: "4px 0px" }}>advanced taxable inflation.</h3>
+          <h4 style={{ margin: "4px 0px" }}>
+            “Luxuries like FOOD” only video games are complementary!
+          </h4>
+          <i>
+            Is a competitive investment complementarily productive or materially
+            substitutive?
+          </i>
+          .{space}
+          <b>
             Material purpose is usually already deducted or then taxable if not
             {space}
             <a href="https://vau.money/login">2503(e)/280a</a>
-          </h3>
+          </b>
+          {space}
           Isn't escrow at the beck and call of supply making price and quality
           (as if it were scarce)
-          {/**and without diminishing supply inventory utility */}?
-          <h2
+          {/**and without diminishing supply inventory utility */}?{space}
+          <b
             style={{
               margin: "4px 0px"
             }}
           >
             Incrementally pricier (xy) or Materiality withstanding (x, units)
-            never-Giffen yet always inelastic (y) escrow
-          </h2>
+            never-Giffen yet always inelastic (y) escrow.
+          </b>
+          {space}
           1 sweet(x) nothing(xy), please.
           <br />
           Immediate wholesale (Hak Choi) to escrow Giffen
           <br />
-          Only the mean of things (AI/boredom)
+          Only the mean of things (AI/boredom).
           {/*Hell is death and concept ("babies don't have thoughts") */}
           <br />
           <br />
-          "the debtor does not get to walk off with all of the creditor's
+          Network effect abuse for liberalization right.
+          <br />
+          <div style={{ borderLeft: "3px solid" }}>
+            Hunter Biden{space}
+            <a href="https://generalmaintenanceunit.quora.com">
+              withheld money
+            </a>
+            {space}for{space}
+            <a href="https://courttechnology.quora.com">sex</a>? Escrow needs to
+            {space}
+            <a href="https://scopes.cc">dissolve</a>
+            {space}at any time no court fee. The{space}
+            <a href="https://paydayt.com">spot</a>
+          </div>
+          <br />
+          "[T]he debtor does not get to walk off with all of the creditor's
           money." They will have to wait for probate to even harass the
-          individual without an inclusionary vertical final service/good
-          industry context against payday loans or at least within living costs,
-          so practically you are wrong at the end there as per non-usury
-          spending.
+          individual{space}
+          <span style={{ textDecoration: "line-through" }}>
+            without an inclusionary-vertical
+          </span>
+          {space}with an exclusionary-horizontal final service/good industry
+          context against payday loans or at least within living costs, so
+          practically you are wrong at the end there as per non-usury spending.
           <br />
           <br />
           A certain industry payday loan may be implied by things like the
