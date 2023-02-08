@@ -151,6 +151,8 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Are monthly hundreds of thousands of jobs faster than population
+          growth in the U.S.?
           <h4>
             Why would a business be able to deduct business rental expenses but
             not saving into a first time home buyer account in any state?
@@ -163,22 +165,24 @@ export default class App extends React.Component {
           Is escrow intertemporal or Giffen?
           <br />
           Is a gift intertemporal?{/* Does a market have multiple purposes?*/}
-          <a href="https://www.quora.com/What-is-a-negative-supply-curve-in-economics/answer/Nick-Carducci"><Cable
-            style={{ width: "100%" }}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.dropbox.com/s/z3ajk5opsg5v13b/Giffen%20curve.png?raw=1"
-            }
-            float="right"
-            title="Giffen curve"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          /></a>
+          <a href="https://www.quora.com/What-is-a-negative-supply-curve-in-economics/answer/Nick-Carducci">
+            <Cable
+              style={{ width: "100%" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.dropbox.com/s/z3ajk5opsg5v13b/Giffen%20curve.png?raw=1"
+              }
+              float="right"
+              title="Giffen curve"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+          </a>
           <h3>
             <a href="https://valueeconomics.quora.com/What-are-some-examples-of-how-demand-affects-price-and-quantity-of-goods-sold-1">
               Jealous piece of shit
