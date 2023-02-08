@@ -163,7 +163,7 @@ export default class App extends React.Component {
           Is escrow intertemporal or Giffen?
           <br />
           Is a gift intertemporal?{/* Does a market have multiple purposes?*/}
-          <Cable
+          <a href="https://www.quora.com/What-is-a-negative-supply-curve-in-economics/answer/Nick-Carducci"><Cable
             style={{ width: "100%" }}
             onError={handleScollImgError}
             img={true}
@@ -178,7 +178,7 @@ export default class App extends React.Component {
             fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
-          />
+          /></a>
           <h3>
             <a href="https://valueeconomics.quora.com/What-are-some-examples-of-how-demand-affects-price-and-quantity-of-goods-sold-1">
               Jealous piece of shit
