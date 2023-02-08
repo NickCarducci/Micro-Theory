@@ -151,6 +151,41 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h2
+            style={{
+              margin: "4px 0px"
+            }}
+          >
+            I am electiontechnology.quora.com
+          </h2>
+          <h3
+            style={{
+              margin: "4px 0px"
+            }}
+          >
+            2024nj.com/Carducci
+          </h3>
+          [The Oversight Cops] admit debt and insurance causes inflation by way
+          of out-of-pocket 2503(e);
+          {space}
+          <i>
+            I'll appropriate anything if you can tax it; either everyone in chat
+            likes deficits, don't want to give me their address, or don't live
+            in nj.
+          </i>
+          {space}"Tax Security, First!"; Isn't clear that my mandate is just
+          that?
+          <br />
+          <br />
+          <h2
+            style={{
+              margin: "4px 0px"
+            }}
+          >
+            Trump didn't show - from rally to riot; all white collar crime comes
+            down to bad capital,{space}
+            <i>multi-leveled advice</i>.
+          </h2>
           Are monthly hundreds of thousands of jobs faster than population
           growth in the U.S.?{space}
           <i>
