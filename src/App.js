@@ -152,7 +152,12 @@ export default class App extends React.Component {
           }}
         >
           Are monthly hundreds of thousands of jobs faster than population
-          growth in the U.S.?
+          growth in the U.S.?{space}
+          <i>
+            Isn't real materiality to capital as real productivity is to labor
+            resources?
+          </i>
+          {space}TheTax.Party
           <h4>
             Why would a business be able to deduct business rental expenses but
             not saving into a first time home buyer account in any state?
@@ -191,7 +196,11 @@ export default class App extends React.Component {
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
-          {space}Are they bots?
+          {space}Are they bots?{space}
+          <i>
+            ​if you don't want war{space}
+            <a href="https://saverparty.xyz">bar safe assets</a>
+          </i>
           <br />
           reverse the debt then make student loans industry specific payday by
           degree
