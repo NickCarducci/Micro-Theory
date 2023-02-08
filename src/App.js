@@ -193,6 +193,7 @@ export default class App extends React.Component {
             resources?
           </i>
           {space}TheTax.Party
+          <h2>If you don't want war</h2>
           <h4>
             Why would a business be able to deduct business rental expenses but
             not saving into a first time home buyer account in any state?
@@ -200,6 +201,7 @@ export default class App extends React.Component {
             and any future savings for renovations
             */}
           </h4>
+          <h1>bar safe assets!</h1>
           <i>Isn't escrow always an advanced estimate in one time and space?</i>
           <br />
           Is escrow intertemporal or Giffen?
