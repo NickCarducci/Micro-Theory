@@ -279,8 +279,9 @@ export default class App extends React.Component {
           Only the mean of things (AI/boredom).
           {/*Hell is death and concept ("babies don't have thoughts") */}
           <h2>
-            non-deflationary layoffs or employment is a problem: Why isn't a
-            whole lot of people out of work considered materiality?
+            Either non-deflationary or accelerating(ly)-inflation(ary) layoffs
+            and employment is a problem: Why isn't a whole lot of people out of
+            work considered materiality?
           </h2>
           Network effect abuse for liberalization right.
           <br />
