@@ -230,6 +230,8 @@ export default class App extends React.Component {
             <a href="https://valueeconomics.quora.com/What-are-some-examples-of-how-demand-affects-price-and-quantity-of-goods-sold-1">
               Jealous piece of shit
             </a>
+            ; Are net foreign direct exports appropriate to teach in university
+            macroeconomics as a good?
           </h3>
           Why do economists think intertemporal choice is to the exclusion of
           escrow making giffen goods by requiring more units later?{space}
