@@ -278,8 +278,10 @@ export default class App extends React.Component {
           <br />
           Only the mean of things (AI/boredom).
           {/*Hell is death and concept ("babies don't have thoughts") */}
-          <br />
-          <br />
+          <h2>
+            non-deflationary layoffs or employment is a problem: Why isn't a
+            whole lot of people out of work considered materiality?
+          </h2>
           Network effect abuse for liberalization right.
           <br />
           <div style={{ borderLeft: "3px solid" }}>
