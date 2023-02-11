@@ -1,4 +1,5 @@
 import React from "react";
+//import { renderToString } from 'react-dom/server';
 //import ReactDOM from "react-dom";
 //import ReactHtmlParser from "react-html-parser";
 //import reactElementToJSXString from "react-element-to-jsx-string";
@@ -15,6 +16,7 @@ import React from "react";
   }
 }*/
 
+const DivFunc = (x) => x;
 class Cable extends React.Component {
   constructor(props) {
     super(props);
@@ -87,7 +89,7 @@ class Cable extends React.Component {
                 2) /*+ window.innerHeight / 2 - page.offsetTop*
         ) < girt; //Number(`-${girt}`);*/
       //console.log(page.offsetTop);
-      if (!this.state.mount) {
+      if (!this.state.mount || this.props.img) {
         /*console.log(
           Math.abs(scrollTop + page.offsetTop - window.scrollY),
           scrollTop,
@@ -96,30 +98,30 @@ class Cable extends React.Component {
           girt
         );*/
         //console.log(between, page.offsetTop, scrollTop);
-        /*between && */ this.setState({ mount: between }, () => {});
-      } else {
-        var continuee = this.props.fwd && this.props.fwd.current;
-        //between && console.log(between, continuee.outerHTML);
-        if (!continuee && !cache) return;
-        /*const cacheStyle = JSON.parse(
+        /*between && */
+
+        this.setState({ mount: between });
+      }
+      if (
+        !this.props.img
+        //renderToString(this.props.fwd.current).includes("iframe")
+      )
+        return null;
+
+      var continuee = this.props.fwd && this.props.fwd.current;
+      //between && console.log(between, continuee.outerHTML);
+      if (!continuee && !cache) return;
+      /*const cacheStyle = JSON.parse(
           (cache ? cache : continuee.outerHTML)
             .split(`style="`)[1]
             .split(`"`)[0]
             .replaceAll(";", `",`)
             .replaceAll(": ", `: "`)
         );*/
-        //console.log(cache, continuee.offsetHeight, continuee.offsetWidth);
-        if (!cache && (this.state.loaded || this.props.img)) {
-          //if (continuee.offsetHeight !== 0)
-          this.setState({
-            cache: continuee.outerHTML,
-            //cacheStyle,
-            frameheight: continuee.offsetHeight,
-            framewidth: continuee.offsetWidth
-          });
-        } else if (!between) {
-          //console.log("!between", continuee.outerHTML);
-          /* if (continuee) {
+      //console.log(cache, continuee.offsetHeight, continuee.offsetWidth);
+      if (!between) {
+        //console.log("!between", continuee.outerHTML);
+        /* if (continuee) {
                 const children = [...continuee.children];
                 console.log(children);
                 if (children.length > 0) {
@@ -135,31 +137,37 @@ class Cable extends React.Component {
                   gl.getExtension("WEBGL_lose_context").loseContext();
                 }
               }*/
-          //continuee.remove();
-          //if (scrollTop !== 0) return;
-          //continuee && continuee.remove();
-          if (continuee) {
-            while (continuee.children.length > 0) {
-              continuee.remove(
-                continuee.children[continuee.children.length - 1]
-              );
-            }
+        //continuee.remove();
+        //if (scrollTop !== 0) return;
+        //continuee && continuee.remove();
+        if (continuee) {
+          while (continuee.children.length > 0) {
+            continuee.remove(continuee.children[continuee.children.length - 1]);
           }
-          // console.log(girt);
-          //if (Object.keys(page.children).length !== 0 /*page.innerHTML !== ""*/)
-          //return (page.innerHTML = "");
-          // this.setState({ mount: false });
-        } /*if (page.innerHTML === "") */ else {
-          const children = [...page.children];
-          if (
-            //frusterated the second, paniced the first" ca
-            cache &&
-            (children.length === 0 || !children.find((x) => x === cache))
-          ) {
-            console.log("reloading");
-            //console.log("replenishing, new scroll", cache);
-            return (page.innerHTML = this.state.cache);
-          }
+        }
+        // console.log(girt);
+        //if (Object.keys(page.children).length !== 0 /*page.innerHTML !== ""*/)
+        //return (page.innerHTML = "");
+        // this.setState({ mount: false });
+      } /*if (page.innerHTML === "") */ else {
+        if (!cache && (this.state.loaded || this.props.img)) {
+          //if (continuee.offsetHeight !== 0)
+          return this.setState({
+            cache: continuee.outerHTML,
+            //cacheStyle,
+            frameheight: continuee.offsetHeight,
+            framewidth: continuee.offsetWidth
+          });
+        }
+        const children = [...page.children];
+        if (
+          //frusterated the second, paniced the first" ca
+          cache &&
+          (children.length === 0 || !children.find((x) => x === cache))
+        ) {
+          console.log("reloading");
+          //console.log("replenishing, new scroll", cache);
+          return (page.innerHTML = this.state.cache);
         }
       }
     }, timeou);
