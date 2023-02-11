@@ -204,7 +204,10 @@ export default class App extends React.Component {
             resources?
           </i>
           {space}TheTax.Party
-          <h2>If you don't want war</h2>
+          <h2>
+            If you don't want{space}
+            <a href="https://thetaxparty.com">war</a>
+          </h2>
           <h4>
             Why would a business be able to deduct business rental expenses but
             not saving into a first time home buyer account in any state?
@@ -212,7 +215,9 @@ export default class App extends React.Component {
             and any future savings for renovations
             */}
           </h4>
-          <h1>bar safe assets!</h1>
+          <h1>
+            <a href="https://bankingisnot.biz">bar safe assets</a>!
+          </h1>
           <i>Isn't escrow always an advanced estimate in one time and space?</i>
           <br />
           Is escrow intertemporal or Giffen?
@@ -444,11 +449,13 @@ export default class App extends React.Component {
           </a>
           {space}utility while a marginal outcome utility is both either/or
           deflationary and beneficial and/or outright still yet perhaps{space}
-          <a href="https://thetaxparty.com">off exchange</a>
-          {space}but{space}
-          <a href="https://scopebook.quora.com/How-can-a-self-employed-person-use-Stripe-Connect-to-either-defer-compensation-457-b-taxes-and-or-take-a-life-insurance-1">
-            like
-          </a>
+          <i>
+            off exchange
+            {space}but{space}
+            <a href="https://scopebook.quora.com/How-can-a-self-employed-person-use-Stripe-Connect-to-either-defer-compensation-457-b-taxes-and-or-take-a-life-insurance-1">
+              like
+            </a>
+          </i>
           {space}in-kind{space}
           <a href="https://truncatedproductiontax.quora.com">product</a>
           {space}usage ? (Aren't they both human action without{space}
