@@ -1,4 +1,5 @@
 import React from "react";
+
 //import { renderToString } from 'react-dom/server';
 //import ReactDOM from "react-dom";
 //import ReactHtmlParser from "react-html-parser";
@@ -49,6 +50,7 @@ class Cable extends React.Component {
     }
   };
   componentWillUnmount = () => {
+    clearTimeout(this.unmount);
     clearTimeout(this.setset);
   };
   checkIfBetween = () => {
@@ -99,18 +101,96 @@ class Cable extends React.Component {
         );*/
         //console.log(between, page.offsetTop, scrollTop);
         /*between && */
+        return this.setState({ mount: between }, () => {
+          if (between) {
+            const children = [...page.children];
+            if (
+              //frusterated the second, paniced the first" ca
+              cache //&&
+              //children.length === 0 //|| !children.find((x) => x === cache))
+            ) {
+              /*const nodanger = React.createElement(
+                //page.appendChild(
+                this.props.img ? "img" : "iframe",
+                cache
+              );
+              console.log("reloading", nodanger);
+              const cla = class Image extends React.Component {
+                render() {
+                  return nodanger;
+                }
+              };
+              console.log("cla", cla);
+              //console.log("replenishing, new scroll", cache);
+              //page.appendChild(
+              return this.setState({
+                nodanger: cla
+                //createReactClass({ render: nodanger  })
+              });*/
+              var iframe = document.createElement(
+                this.props.img ? "img" : "iframe"
+              );
+              Object.keys(this.state.cache).forEach((x) => {
+                iframe[x] = this.state.cache[x];
+              });
+              //return (page.innerHTML = iframe);
+              return this.setState({
+                dangerouslySetInnerHTML: iframe
+              });
 
-        this.setState({ mount: between });
+              /*return this.setState({
+                dangerouslySetInnerHTML: this.state.cache
+              });*/
+              // return (page.innerHTML = `<div dangerouslySetInnerHTML={{ __html: ${this.state.cache} }} />`);
+            }
+
+            var continuee = this.props.fwd && this.props.fwd.current;
+            //between && console.log(between, continuee.outerHTML);
+            if (continuee) {
+              // && this.state.loaded) {
+              //console.log(Object.assign({}, continuee)); //continuee.props); //;outerHTML);
+              //if (continuee.offsetHeight !== 0)
+              const capture = Object.assign({}, continuee);
+              let capp = {};
+              Object.values(capture).forEach((x) => {
+                Object.keys(x).forEach((p) => {
+                  if (
+                    [
+                      "style",
+                      "src",
+                      "key",
+                      "iframe",
+                      "title",
+                      "alt",
+                      "onLoad",
+                      "onError"
+                    ].includes(p)
+                  )
+                    capp[p] = x[p];
+                  if (p === "ref") capp.ref = this.props.fwd;
+                  capp.key = x.src;
+                  capp.type = this.props.img ? "img" : "iframe";
+                });
+              });
+              //const cache = React.cloneElement(continuee, capp);
+              //console.log(cache);
+              return this.setState({
+                cache: capp,
+                //cacheStyle,
+                frameheight: continuee.offsetHeight,
+                framewidth: continuee.offsetWidth
+              });
+            }
+          }
+        });
       }
+      if (between) return;
       if (
+        false &&
         !this.props.img
         //renderToString(this.props.fwd.current).includes("iframe")
       )
         return null;
-
-      var continuee = this.props.fwd && this.props.fwd.current;
-      //between && console.log(between, continuee.outerHTML);
-      if (!continuee && !cache) return;
       /*const cacheStyle = JSON.parse(
           (cache ? cache : continuee.outerHTML)
             .split(`style="`)[1]
@@ -119,9 +199,8 @@ class Cable extends React.Component {
             .replaceAll(": ", `: "`)
         );*/
       //console.log(cache, continuee.offsetHeight, continuee.offsetWidth);
-      if (!between) {
-        //console.log("!between", continuee.outerHTML);
-        /* if (continuee) {
+      //console.log("!between", continuee.outerHTML);
+      /* if (continuee) {
                 const children = [...continuee.children];
                 console.log(children);
                 if (children.length > 0) {
@@ -137,53 +216,37 @@ class Cable extends React.Component {
                   gl.getExtension("WEBGL_lose_context").loseContext();
                 }
               }*/
-        //continuee.remove();
-        //if (scrollTop !== 0) return;
-        //continuee && continuee.remove();
-        if (continuee) {
-          while (continuee.children.length > 0) {
-            continuee.remove(continuee.children[continuee.children.length - 1]);
-          }
+      //continuee.remove();
+      //if (scrollTop !== 0) return;
+      //continuee && continuee.remove();
+      return null;
+      if (this.page.current.children.length > 0)
+        [...this.page.current.children].forEach((x) =>
+          this.page.current.remove(
+            x //continuee.children[continuee.children.length - 1]
+          )
+        );
 
-          if (!this.state.mount || this.props.img) {
-            /*console.log(
+      /*console.log(
           Math.abs(scrollTop + page.offsetTop - window.scrollY),
           scrollTop,
           page.offsetTop,
           window.scrollY ,
           girt
         );*/
-            //console.log(between, page.offsetTop, scrollTop);
-            /*between && */
+      //console.log(between, page.offsetTop, scrollTop);
+      /*between && */
+      clearTimeout(this.unmount);
+      this.unmount = setTimeout(
+        () => this.setState({ mount: between, dangerouslySetInnerHTML: null }),
+        500
+      );
 
-            this.setState({ mount: between });
-          }
-        }
-        // console.log(girt);
-        //if (Object.keys(page.children).length !== 0 /*page.innerHTML !== ""*/)
-        //return (page.innerHTML = "");
-        // this.setState({ mount: false });
-      } /*if (page.innerHTML === "") */ else {
-        if (!cache && (this.state.loaded || this.props.img)) {
-          //if (continuee.offsetHeight !== 0)
-          return this.setState({
-            cache: continuee.outerHTML,
-            //cacheStyle,
-            frameheight: continuee.offsetHeight,
-            framewidth: continuee.offsetWidth
-          });
-        }
-        const children = [...page.children];
-        if (
-          //frusterated the second, paniced the first" ca
-          cache &&
-          (children.length === 0 || !children.find((x) => x === cache))
-        ) {
-          console.log("reloading");
-          //console.log("replenishing, new scroll", cache);
-          return (page.innerHTML = this.state.cache);
-        }
-      }
+      // console.log(girt);
+      //if (Object.keys(page.children).length !== 0 /*page.innerHTML !== ""*/)
+      //return (page.innerHTML = "");
+      // this.setState({ mount: false });
+      /*if (page.innerHTML === "") */
     }, timeou);
   };
   render() {
@@ -230,6 +293,10 @@ class Cable extends React.Component {
           width: optionalwidth
         }}
       >
+        {this.state.dangerouslySetInnerHTML && (
+          <div dangerouslySetInnerHTML={{ __html: this.state.cache }} />
+        )}
+        {this.state.nodanger}
         {src === "" || (img && !mount) /*|| (!img && !mount)*/ ? (
           <span style={{ border: "2px gray solid" }}>{title}</span>
         ) : img ? (
