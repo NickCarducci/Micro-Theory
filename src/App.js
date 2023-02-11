@@ -811,22 +811,24 @@ export default class App extends React.Component {
             <a href="https://qr.ae/pGLlsf">variable-part labor</a>
             <br />
             <br />
-            <Cable
-              style={{ height: "590px" }}
-              onError={handleScollImgError}
-              //img={true}
-              src={
-                this.state.serviceCancelingImages
-                  ? ""
-                  : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
-              }
-              float="right"
-              title=""
-              scrolling={this.state.scrolling}
-              fwd={this["scrollImg" + scrollnum()]}
-              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-              scrollTop={this.state.openMost && this.state.scrollTop}
-            />
+            {this.state.openMost && (
+              <Cable
+                style={{ height: "590px" }}
+                onError={handleScollImgError}
+                //img={true}
+                src={
+                  this.state.serviceCancelingImages
+                    ? ""
+                    : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+                }
+                float="right"
+                title=""
+                scrolling={this.state.scrolling}
+                fwd={this["scrollImg" + scrollnum()]}
+                scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+                scrollTop={this.state.scrollTop}
+              />
+            )}
             1y/0x price by inflation, attribution of laborless-demand of
             share-split notwithstanding (global ubi currency share-split, nor
             propensity of indifference of land-deeds/vault-share or
@@ -4452,24 +4454,26 @@ export default class App extends React.Component {
             (pre-3/2020)
           </h2>
           hung-jury-permits, in mvp-duress, are unconstitutional
-          <Cable
-            style={{
-              height: "440px"
-            }}
-            onError={handleScollImgError}
-            //img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100064690506088%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
-            }
-            float="left"
-            title="https://fb.watch/9ruq5dxR9r/"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.openMost && this.state.scrollTop}
-          />
+          {this.state.openMost && (
+            <Cable
+              style={{
+                height: "440px"
+              }}
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100064690506088%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+              }
+              float="left"
+              title="https://fb.watch/9ruq5dxR9r/"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+          )}
           <h2>
             Pipeline nor the border will Biden push back,” toensing against
             working-age-recovery
