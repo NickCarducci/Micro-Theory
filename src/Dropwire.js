@@ -89,7 +89,7 @@ class Cable extends React.Component {
                 2) /*+ window.innerHeight / 2 - page.offsetTop*
         ) < girt; //Number(`-${girt}`);*/
       //console.log(page.offsetTop);
-      if (!this.state.mount || this.props.img) {
+      if (!this.state.mount) {
         /*console.log(
           Math.abs(scrollTop + page.offsetTop - window.scrollY),
           scrollTop,
@@ -143,6 +143,20 @@ class Cable extends React.Component {
         if (continuee) {
           while (continuee.children.length > 0) {
             continuee.remove(continuee.children[continuee.children.length - 1]);
+          }
+
+          if (!this.state.mount || this.props.img) {
+            /*console.log(
+          Math.abs(scrollTop + page.offsetTop - window.scrollY),
+          scrollTop,
+          page.offsetTop,
+          window.scrollY ,
+          girt
+        );*/
+            //console.log(between, page.offsetTop, scrollTop);
+            /*between && */
+
+            this.setState({ mount: between });
           }
         }
         // console.log(girt);
