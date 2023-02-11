@@ -231,10 +231,14 @@ export default class App extends React.Component {
               Jealous piece of shit
             </a>
             ; Are net foreign direct exports appropriate to teach in university
-            macroeconomics as a good?
+            macroeconomics as a good? How does a degradation of materiality help
+            competitiveness internationally?{space}
+            <i>If growth comes from debt, how does debt get grown out of?</i>
           </h3>
-          Why do economists think intertemporal choice is to the exclusion of
-          escrow making giffen goods by requiring more units later?{space}
+          Why are economists so resistant to the idea that most goods are
+          substitutes, even cookie variations? Why do economists think
+          intertemporal choice is to the exclusion of escrow making giffen goods
+          by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
           {space}Are they bots?{space}
           <i>
