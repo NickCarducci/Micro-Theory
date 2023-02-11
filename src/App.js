@@ -223,6 +223,7 @@ export default class App extends React.Component {
           Is escrow intertemporal or Giffen?
           <br />
           Is a gift intertemporal?{/* Does a market have multiple purposes?*/}
+          <br />
           <a href="https://www.quora.com/What-is-a-negative-supply-curve-in-economics/answer/Nick-Carducci">
             <Cable
               style={{ width: "100%" }}
@@ -255,576 +256,610 @@ export default class App extends React.Component {
           intertemporal choice is to the exclusion of escrow making giffen goods
           by requiring more units later?{space}
           <i>Exports of good for foreign land currency stock?</i>
-          {space}Are they bots?{space}
-          <i>
-            ​if you don't want war{space}
-            <a href="https://saverparty.xyz">bar safe assets</a>
-          </i>
-          <br />
-          reverse the debt then make student loans industry specific payday by
-          degree
-          <br />
-          Third party donee beneficiary stolen purchase for deflation of
-          government contractor living costs.
-          <h2 style={{ margin: "4px 0px" }}>Benefactor (user or) disposal;</h2>
-          <h3 style={{ margin: "4px 0px" }}>advanced taxable inflation.</h3>
-          <h4 style={{ margin: "4px 0px" }}>
-            “Luxuries like FOOD” only video games are complementary!
-          </h4>
-          <i>
-            Is a competitive investment complementarily productive or materially
-            substitutive?
-          </i>
-          .{space}
-          <b>
-            Material purpose is usually already deducted or then taxable if not
-            {space}
-            <a href="https://vau.money/login">2503(e)/280a</a>
-          </b>
-          {space}
-          Isn't escrow at the beck and call of supply making price and quality
-          (as if it were scarce)
-          {/**and without diminishing supply inventory utility */}?{space}
-          <b
-            style={{
-              margin: "4px 0px"
-            }}
-          >
-            Incrementally pricier (xy) or Materiality withstanding (x, units)
-            never-Giffen yet always inelastic (y) escrow.
-          </b>
-          {space}
-          1 sweet(x) nothing(xy), please.
-          <br />
-          Immediate wholesale (Hak Choi) to escrow Giffen
-          <br />
-          Only the mean of things (AI/boredom).
-          {/*Hell is death and concept ("babies don't have thoughts") */}
-          <h2>
-            Either non-deflationary or accelerating(ly)-inflation(ary) layoffs
-            and employment is a problem: Why isn't a whole lot of people out of
-            work considered materiality?
-          </h2>
-          Network effect abuse for liberalization right.
-          <br />
-          <div style={{ borderLeft: "3px solid" }}>
-            Hunter Biden{space}
-            <a href="https://generalmaintenanceunit.quora.com">
-              withheld money
-            </a>
-            {space}for{space}
-            <a href="https://courttechnology.quora.com">sex</a>? Escrow needs to
-            {space}
-            <a href="https://scopes.cc">dissolve</a>
-            {space}at any time no court fee. The{space}
-            <a href="https://paydayt.com">spot</a>
-          </div>
-          <br />
-          "[T]he debtor does not get to walk off with all of the creditor's
-          money." They will have to wait for probate to even harass the
-          individual{space}
-          <span style={{ textDecoration: "line-through" }}>
-            without an inclusionary-vertical
-          </span>
-          {space}with an exclusionary-horizontal final service/good industry
-          context against payday loans or at least within living costs, so
-          practically you are wrong at the end there as per non-usury spending.
-          <br />
-          <br />
-          A certain industry payday loan may be implied by things like the
-          context or degree to obligate the borrower in a interest-found
-          estimate principal maximum royalty contract non-compounding payday
-          loan. For example, Pipe.io FWIU orchestrates royalty contracts with a
-          truncated payday, only estimated by some linear interest perhaps, but
-          the bettor owns their appropriate risk.
-          <br />
-          <br />
-          Generally, there is no federal law that limits the interest rate that
-          a credit card company can charge. (Consumer Finance Protection Bureau,
-          {space}
-          <i>
-            Ask CFPB: Is there a law that limits credit card interest rates?
-          </i>
-          , July 7th, 2017) In its brief, the lawyers argue that two plaintiffs,
-          Myra Brown and Alexander Taylor, were deprived of their “procedural
-          rights” by the Biden administration because it didn’t allow the public
-          to formally weigh in on the shape of its student loan forgiveness plan
-          before it rolled it out. (Job Creators Network Foundation,{space}
-          <i>
-            <a href="https://www.supremecourt.gov/oral_arguments/calendars/MonthlyArgumentCalFebruary2023.html">
-              Supreme Court Question 22-506 BIDEN V. NEBRASKA
-            </a>
-          </i>
-          , February 21, 2023) Will the government debt be owed by the student
-          to their degree after Biden v. Nebraska?
-          <br />
-          <br />
-          "When we talk about demand being downward sloped (or upward for Giffen
-          good) we mean at a point in a time." is not "In time demand simply
-          shifts in response to various factors. ...A correct story would be
-          something like this. Now suppose rice gets more expensive so family
-          cannot afford chicken anymore. The family might buy little bit more
-          rice to replace the calories that it would normally get in the chicken
-          so demand for rice would increase despite higher price." Then
-          intertemporal consumption patterns are Giffen when materiality isn't
-          fixed as well in T+ advanced payments.
-          <br />
-          <br />
-          Escrow is not intertemporally Giffen without advanced payments. A
-          Substitution is not a Giffen good at all where either an incremental
-          good is pricier or the next price is less material by literally
-          diminishing inventory or otherwise requires more by shrinkflation,
-          usually captured by whole life product less complements and luxuries.
           {space}
           <span
+            onClick={() => this.setState({ openMost: !this.state.openMost })}
+            style={{ textDecoration: "underline", cursor: "pointer" }}
+          >
+            Are they bots?
+          </span>
+          <br />
+          Is a technology transfer confidential computing for pre-revenue
+          businesses or clearly labeled trade? Aren't forced technology
+          transfers clearly labeled things?
+          <div
             style={{
-              textDecoration: "line-through"
+              transition: ".3s ease-in",
+              fontSize: this.state.openMost ? "" : "0px"
             }}
           >
-            Does a loaned or advanced purchase increase price the more it is
-            used? Does utility ever diminish by time preference of escrow to
+            <i>
+              ​if you don't want war{space}
+              <a href="https://saverparty.xyz">bar safe assets</a>
+            </i>
+            <br />
+            reverse the debt then make student loans industry specific payday by
+            degree
+            <br />
+            Third party donee beneficiary stolen purchase for deflation of
+            government contractor living costs.
+            <h2 style={{ margin: "4px 0px" }}>
+              Benefactor (user or) disposal;
+            </h2>
+            <h3 style={{ margin: "4px 0px" }}>advanced taxable inflation.</h3>
+            <h4 style={{ margin: "4px 0px" }}>
+              “Luxuries like FOOD” only video games are complementary!
+            </h4>
+            <i>
+              Is a competitive investment complementarily productive or
+              materially substitutive?
+            </i>
+            .{space}
+            <b>
+              Material purpose is usually already deducted or then taxable if
+              not
+              {space}
+              <a href="https://vau.money/login">2503(e)/280a</a>
+            </b>
+            {space}
+            Isn't escrow at the beck and call of supply making price and quality
+            (as if it were scarce)
+            {/**and without diminishing supply inventory utility */}?{space}
+            <b
+              style={{
+                margin: "4px 0px"
+              }}
+            >
+              Incrementally pricier (xy) or Materiality withstanding (x, units)
+              never-Giffen yet always inelastic (y) escrow.
+            </b>
+            {space}
+            1 sweet(x) nothing(xy), please.
+            <br />
+            Immediate wholesale (Hak Choi) to escrow Giffen
+            <br />
+            Only the mean of things (AI/boredom).
+            {/*Hell is death and concept ("babies don't have thoughts") */}
+            <h2>
+              Either non-deflationary or accelerating(ly)-inflation(ary) layoffs
+              and employment is a problem: Why isn't a whole lot of people out
+              of work considered materiality?
+            </h2>
+            Network effect abuse for liberalization right.
+            <br />
+            <div style={{ borderLeft: "3px solid" }}>
+              Hunter Biden{space}
+              <a href="https://generalmaintenanceunit.quora.com">
+                withheld money
+              </a>
+              {space}for{space}
+              <a href="https://courttechnology.quora.com">sex</a>? Escrow needs
+              to
+              {space}
+              <a href="https://scopes.cc">dissolve</a>
+              {space}at any time no court fee. The{space}
+              <a href="https://paydayt.com">spot</a>
+            </div>
+            <br />
+            "[T]he debtor does not get to walk off with all of the creditor's
+            money." They will have to wait for probate to even harass the
+            individual{space}
+            <span style={{ textDecoration: "line-through" }}>
+              without an inclusionary-vertical
+            </span>
+            {space}with an exclusionary-horizontal final service/good industry
+            context against payday loans or at least within living costs, so
+            practically you are wrong at the end there as per non-usury
+            spending.
+            <br />
+            <br />
+            A certain industry payday loan may be implied by things like the
+            context or degree to obligate the borrower in a interest-found
+            estimate principal maximum royalty contract non-compounding payday
+            loan. For example, Pipe.io FWIU orchestrates royalty contracts with
+            a truncated payday, only estimated by some linear interest perhaps,
+            but the bettor owns their appropriate risk.
+            <br />
+            <br />
+            Generally, there is no federal law that limits the interest rate
+            that a credit card company can charge. (Consumer Finance Protection
+            Bureau,
+            {space}
+            <i>
+              Ask CFPB: Is there a law that limits credit card interest rates?
+            </i>
+            , July 7th, 2017) In its brief, the lawyers argue that two
+            plaintiffs, Myra Brown and Alexander Taylor, were deprived of their
+            “procedural rights” by the Biden administration because it didn’t
+            allow the public to formally weigh in on the shape of its student
+            loan forgiveness plan before it rolled it out. (Job Creators Network
+            Foundation,{space}
+            <i>
+              <a href="https://www.supremecourt.gov/oral_arguments/calendars/MonthlyArgumentCalFebruary2023.html">
+                Supreme Court Question 22-506 BIDEN V. NEBRASKA
+              </a>
+            </i>
+            , February 21, 2023) Will the government debt be owed by the student
+            to their degree after Biden v. Nebraska?
+            <br />
+            <br />
+            "When we talk about demand being downward sloped (or upward for
+            Giffen good) we mean at a point in a time." is not "In time demand
+            simply shifts in response to various factors. ...A correct story
+            would be something like this. Now suppose rice gets more expensive
+            so family cannot afford chicken anymore. The family might buy little
+            bit more rice to replace the calories that it would normally get in
+            the chicken so demand for rice would increase despite higher price."
+            Then intertemporal consumption patterns are Giffen when materiality
+            isn't fixed as well in T+ advanced payments.
+            <br />
+            <br />
+            Escrow is not intertemporally Giffen without advanced payments. A
+            Substitution is not a Giffen good at all where either an incremental
+            good is pricier or the next price is less material by literally
+            diminishing inventory or otherwise requires more by shrinkflation,
+            usually captured by whole life product less complements and
+            luxuries.
+            {space}
+            <span
+              style={{
+                textDecoration: "line-through"
+              }}
+            >
+              Does a loaned or advanced purchase increase price the more it is
+              used? Does utility ever diminish by time preference of escrow to
+              present inventory interest?
+            </span>
+            {space}Doesn't either a loaned or advanced purchase increase price
+            the more it is used? Does intertemporal marginal benefit utility
+            ever diminish the benefactor's time preference to escrow over
             present inventory interest?
-          </span>
-          {space}Doesn't either a loaned or advanced purchase increase price the
-          more it is used? Does intertemporal marginal benefit utility ever
-          diminish the benefactor's time preference to escrow over present
-          inventory interest?
-          <br />
-          <br />
-          Doesn't a regular loan return interest while a payday loan rather
-          returns part of a scope of work requirements advanced payment? Is a
-          loan's intertemporal supply liable for consumer fraud materiality or
-          does it return either interest or royalty?{space}
-          <i>
-            Is a payday loan in default or fiduciary irresponsibility and
-            consumer fraud after contract garnishable before probate?
-          </i>
-          <h3>
-            Trust, advanced payment, value card for material purpose may reduce
-            either materiality (use to benefit) or therefore secondary
-            benefactorial (resale), or the price inelastically.
-          </h3>
-          <iframe
-            title="ponzi multilevelcapital.com"
-            style={{
-              width: "100%",
-              height: "300px"
-            }}
-            src="https://multilevelcapital.com"
-          />
-          <a href="https://vau.money">539 deference</a>
-          {space}for all exempt associations
-          <br />
-          NSF BROKE ENTREPRENEURS kuznets is sane keynes
-          <br />
-          ​you can build anything at the USPTO
-          <br />
-          they want some of my ghoul
-          <br />
-          competition usually substitutes unless you're making Fez (
-          <a href="https://scopebook.quora.com">9x buy to build</a>
-          {space}resource maerial and labor producitivy consumption 2:4)
-          <br />
-          <br />
-          Because management is bound to a fiduciary duty of care to
-          shareholders alone, 9 bondholders must rely on other protective
-          mechanisms to safeguard their interests.
-          <br />
-          <br />
-          At first, marginally sinking fixed costs, then diminishing propensity
-          of the intermediate cost supplier to let go, either both in the short
-          term and{space}
-          <a href="https://bankingisnotabusiness.quora.com/Can-a-personal-loan-grab-unitemized-assets-upon-personal-either-bankruptcy-or-death">
-            long term
-          </a>
-          , and/or by the firm and industry investment taxable value of the farm
-          to the table final good payable{space}
-          <a href="https://www.quora.com/Why-are-both-the-short-run-and-the-long-run-average-cost-curves-u-shaped/answer/Nick-Carducci">
-            consumption
-          </a>
-          . Isn’t a{space}
-          <a href="https://froth.quora.com/What-are-your-thoughts-on-rising-inequality-in-our-society-1">
-            technical outcome either a totally deflationary and/or
-            layoff-centric
-          </a>
-          {space}utility while a marginal outcome utility is both either/or
-          deflationary and beneficial and/or outright still yet perhaps{space}
-          <i>
-            off exchange
-            {space}but{space}
-            <a href="https://scopebook.quora.com/How-can-a-self-employed-person-use-Stripe-Connect-to-either-defer-compensation-457-b-taxes-and-or-take-a-life-insurance-1">
-              like
+            <br />
+            <br />
+            Doesn't a regular loan return interest while a payday loan rather
+            returns part of a scope of work requirements advanced payment? Is a
+            loan's intertemporal supply liable for consumer fraud materiality or
+            does it return either interest or royalty?{space}
+            <i>
+              Is a payday loan in default or fiduciary irresponsibility and
+              consumer fraud after contract garnishable before probate?
+            </i>
+            <h3>
+              Trust, advanced payment, value card for material purpose may
+              reduce either materiality (use to benefit) or therefore secondary
+              benefactorial (resale), or the price inelastically.
+            </h3>
+            <iframe
+              title="ponzi multilevelcapital.com"
+              style={{
+                width: "100%",
+                height: "300px"
+              }}
+              src="https://multilevelcapital.com"
+            />
+            <a href="https://vau.money">539 deference</a>
+            {space}for all exempt associations
+            <br />
+            NSF BROKE ENTREPRENEURS kuznets is sane keynes
+            <br />
+            ​you can build anything at the USPTO
+            <br />
+            they want some of my ghoul
+            <br />
+            competition usually substitutes unless you're making Fez (
+            <a href="https://scopebook.quora.com">9x buy to build</a>
+            {space}resource maerial and labor producitivy consumption 2:4)
+            <br />
+            <br />
+            Because management is bound to a fiduciary duty of care to
+            shareholders alone, 9 bondholders must rely on other protective
+            mechanisms to safeguard their interests.
+            <br />
+            <br />
+            At first, marginally sinking fixed costs, then diminishing
+            propensity of the intermediate cost supplier to let go, either both
+            in the short term and{space}
+            <a href="https://bankingisnotabusiness.quora.com/Can-a-personal-loan-grab-unitemized-assets-upon-personal-either-bankruptcy-or-death">
+              long term
             </a>
-          </i>
-          {space}in-kind{space}
-          <a href="https://truncatedproductiontax.quora.com">product</a>
-          {space}usage ? (Aren't they both human action without{space}
-          <a href="https://maxroyalties.quora.com/In-what-ways-could-government-subsidies-directly-benefit-the-purchase-of-private-affordable-health-insurance-plans-1">
-            contract
-          </a>
-          ?)
-          <br />
-          <br />
-          ​money doesn't make heat and food (
-          <a href="https://magnate.company">electrons</a>
-          {space}and{space}
-          <a href="https://bankingisnot.biz">labor</a>) physical resource
-          productivity is just time tos{space}
-          <a href="https://saverparty.quora.com/If-publicly-funded-healthcare-is-always-more-costly-why-does-the-US-have-the-highest-healthcare-costs-worldwide-compare-1">
-            outcome
-          </a>
-          {space}and real gdp that isn't shrinkflation is just deflation
-          <br />
-          <br />
-          ​unemployment is always marginal. so many{space}
-          <a href="https://truncatedwholesaletax.quora.com">customers</a>. get
-          another payday proprietorship. cover loss and contract labor then
-          (indemnity siempre{space}
-          <a href="https://scopes.cc">creep</a>)
-          <br />
-          Why would there be tariffs on imported goods if you hired the foreign
-          producer?{space}
-          <i>
-            Thanks Trump (sponsor me{space}
-            <a href="https://vau.money">12.1.5 platform processing</a>)
-          </i>
-          <br />
-          Material resource productivity is either time to outcome or waste
-          <hr />
-          <i style={{ color: "cadetblue" }}>
-            Doesn't marginal consumtion better with less time to outcome and
-            shrinkflation? (Shouldn't growth come from a substitute in an
-            efficient economy?)
-          </i>
-          <br />
-          Are Internal Revenue Service agents worth the trouble to the U.S.
-          House of Representatives' Ways and Means Committee to collect bartered
-          scale and mark-to-market endeavors outside of the electronic funds
-          transfer system?
-          <br />
-          <br />
-          <span style={{ color: "cornflowerblue" }}>
-            If economists do not think marginal utility is a sorted propensity
-            by potential opportunity benefit to enter, why do they think the
-            supply and demand curves are sloped rationally?
-          </span>
-          {space}Don't they merely need to read{space}
-          <a href="https://marginalism.uk">Alfred Marshall</a>
-          {space}again?{space}
-          <i>
-            [Nietzsche the communist{/*commie.dev/police */}: "Have you licked a
-            boot today?"]
-            {/**you've made it about yourself and muddied the topic */}
-          </i>
-          <br />
-          <br />
-          <Cable
-            style={{ height: "440px" }}
-            onError={handleScollImgError}
-            //img={true}
-            src={this.state.serviceCancelingImages ? "" : "https://vaults.biz"}
-            float="right"
-            title="please sponsor me vau.money 12.1.5 CFR Shahada bank"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-          When is real GDP growth and resource productivity not shrinkflation
-          and time to outcome with a constant material consumption but
-          deflation?{space}
-          <span style={{ color: "orange" }}>
-            Isn’t technology deflationary while competition is so marginally?
-          </span>
-          {space}Shouldn't growth come from a substitute in an efficient
-          economy?
-          <hr />
-          Is inflation discriminatory? Is inflation measured either by a survey
-          of packaged goods and/or new monetarily-measured uses for the same
-          life?
-          <h2>
-            <a href="https://www.quora.com/How-would-the-demand-curve-shift-if-the-level-of-income-increases/answer/Nick-Carducci">
-              How would the demand curve shift if the level of income increases?
+            , and/or by the firm and industry investment taxable value of the
+            farm to the table final good payable{space}
+            <a href="https://www.quora.com/Why-are-both-the-short-run-and-the-long-run-average-cost-curves-u-shaped/answer/Nick-Carducci">
+              consumption
             </a>
-          </h2>
-          Investment that is useful would deflate or equalize
-          <h3>
-            If a housing labor recession shortage is bad, is any other industry
-            recession good? Isn’t labor transitory amongst industry including
-            leisure utilization?
-          </h3>
-          crowding
-          <br />
-          We want constant labor with deflation and equalization by tech and no
-          more
-          <br />
-          <br />
-          <h4 style={{ float: "right", margin: "0px 4px" }}>
-            <a href="https://marginalism.uk">marginalism.uk</a>
-          </h4>
-          When are costs,{space}
-          <a href="https://www.quora.com/unanswered/Is-overhead-profit-Is-marginal-benefit-from-escrow-or-in-real-time">
-            profits
-          </a>
-          , except individually? Are there any economists that advocate for
-          {space}
-          <a href="https://goprovider.us">t0</a>
-          {space}transaction times? Isn’t debt the only reason that a stock of
-          capital accounts is short of funds?
-          <br />
-          <br />
-          <a href="https://www.quora.com/unanswered/Can-leisure-utilization-economics-be-defined-as-marginal-utility-or-economic-welfare-per-capita-by-less-hours-and-less-price-as-it-happens">
-            Can leisure utilization (economics) be defined as marginal utility
-            or economic welfare per capita by less hours, and less price, as it
-            happens
-          </a>
-          ?
-          <br />
-          <a href="https://www.quora.com/unanswered/Is-Corpus-Linguistics-division-of-labors-efficiency-the-reason-for-all-laws">
-            Is Corpus Linguistics' division of labor's efficiency the reason for
-            all laws
-          </a>
-          ?
-          <br />
-          <Cable
-            style={{ width: "100%", maxWidth: "400px" }}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.dropbox.com/s/9r7cpzr5zz0qbv5/Price%20of%20Marginal%20Product%20Wholesale%20Size.png?raw=1"
-            }
-            float="right"
-            title="Price of Marginal Product Wholesale Size Curve"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-          <h4>
-            trust building hypocrisy -{space}
-            <a href="https://crowdfundingfortaxes.quora.com">
-              Crowdfunding For Taxes
+            . Isn’t a{space}
+            <a href="https://froth.quora.com/What-are-your-thoughts-on-rising-inequality-in-our-society-1">
+              technical outcome either a totally deflationary and/or
+              layoff-centric
             </a>
-          </h4>
-          <a href="https://www.quora.com/Was-actual-Marxism-never-implemented/answer/Nick-Carducci">
-            Marx
-          </a>
-          {space}would tax to retribute (cash/debt)*income beyond{space}
-          <a href="https://truncatedproductiontax.quora.com">
-            free rider immutable
-          </a>
-          , sure. He would first and foremost end hysterical charge pools and
-          invoices’ surrendered freedom to bid of third party donee
-          beneficiaries, however.
-          <br />
-          Capitalism supports **surrendered freedom to bid of third party
-          {space}
-          <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
-            donee
-          </a>
-          {space}
-          beneficiaries, by
-          <br />
-          1. implausible use leases beyond 5 stores and condos and
-          <br />
-          2. invoices, warranties, and hysterical pool charges,
-          <br />
-          and accounts for **productivity by real{space}
-          <a href="https://data.oecd.org/lprdty/gdp-per-hour-worked.htm)">
-            expenses
-          </a>
-          {space}per hour.
-          <br />
-          <br />
-          <a href="https://www.quora.com/What-is-the-difference-between-productivity-and-efficiency/answer/Nick-Carducci">
-            What is the difference between productivity and efficiency?
-          </a>
-          {space}•{space}
-          <a href="https://www.quora.com/How-do-you-evaluate-supply-and-demand/answer/Nick-Carducci">
-            How do you evaluate supply and demand?
-          </a>
-          {space}•{space}
-          <a href="https://www.quora.com/Did-Marx-support-Mao-and-Stalin">
-            Did Marx support Mao and Stalin?
-          </a>
-          <br />
-          <br />
-          The question is, in other words, “if debt is the cause of inflation,
-          why do we have it?” You said, “we cannot put on the breaks.”{space}
-          <a href="https://adailyimpeachment.quora.com/A-little-bit-of-a-bad-thing-is-a-good-thing-https-www-quora-com-If-raising-rates-is-to-prevent-borrowing-to-prevent">
-            Nick Carducci's post in adailyimpeachment
-          </a>
-          . Now you are talking about it like a tool, but there are verily
-          alternatives to compounding loans or general-income debentures, like
-          pipe .io.*{space}
-          <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-why-do-we-have-it">
-            If inflation is caused by debt before corrections, why do we have
-            it?
-          </a>
-          <br />
-          <br />
-          I’m more of a microeconomist, than a macroeconomist who would
-          bizarrely attribute expenses per hour as definitionally good, on a
-          zero-sum individual level and an economic welfare, 1/hour-GDP/p level.
-          {space}
-          <a href="https://www.quora.com/Why-is-some-inflation-good/answer/Nick-Carducci">
-            Why is some inflation good?
-          </a>
-          <br />
-          <br />
-          *or my own legal creation, vertical-industry-line, max-royalty
-          contracts, -tortious for revenue skimping upon withdrawal or abscond
-          self-employment tax-altogether and disburse immediately upon sale, the
-          needs of entrepreneurs are sufficed without **surrendered freedom to
-          bid of third party{space}
-          <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
-            donee
-          </a>
-          {space}
-          beneficiaries.{space}
-          <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-and-max-royalty-contracts-are-available-why-do-we-have-it">
-            If inflation is caused by debt before corrections, and max-royalty
-            contracts are available, why do we have it?
-          </a>
-          <br />
-          <br />
-          **Debt is a tool for laborless-demand to raise price beyond budget
-          constraints, making the entire demand curve subservient to
-          non-substitutive-supply instead of equilibrium ask-bid of outright
-          sales.**
-          <br />
-          <br />
-          Uses metaphors and says, “it would crush the economy.” What does that
-          mean? Jobs and prices? Isn’t that inflation?
-          <br />
-          <div>
-            Absolving student debt is how creditors KEEP their undue profits,
-            reverse amortization (cash/debt)*income.
+            {space}utility while a marginal outcome utility is both either/or
+            deflationary and beneficial and/or outright still yet perhaps{space}
+            <i>
+              off exchange
+              {space}but{space}
+              <a href="https://scopebook.quora.com/How-can-a-self-employed-person-use-Stripe-Connect-to-either-defer-compensation-457-b-taxes-and-or-take-a-life-insurance-1">
+                like
+              </a>
+            </i>
+            {space}in-kind{space}
+            <a href="https://truncatedproductiontax.quora.com">product</a>
+            {space}usage ? (Aren't they both human action without{space}
+            <a href="https://maxroyalties.quora.com/In-what-ways-could-government-subsidies-directly-benefit-the-purchase-of-private-affordable-health-insurance-plans-1">
+              contract
+            </a>
+            ?)
+            <br />
+            <br />
+            ​money doesn't make heat and food (
+            <a href="https://magnate.company">electrons</a>
+            {space}and{space}
+            <a href="https://bankingisnot.biz">labor</a>) physical resource
+            productivity is just time tos{space}
+            <a href="https://saverparty.quora.com/If-publicly-funded-healthcare-is-always-more-costly-why-does-the-US-have-the-highest-healthcare-costs-worldwide-compare-1">
+              outcome
+            </a>
+            {space}and real gdp that isn't shrinkflation is just deflation
+            <br />
+            <br />
+            ​unemployment is always marginal. so many{space}
+            <a href="https://truncatedwholesaletax.quora.com">customers</a>. get
+            another payday proprietorship. cover loss and contract labor then
+            (indemnity siempre{space}
+            <a href="https://scopes.cc">creep</a>)
+            <br />
+            Why would there be tariffs on imported goods if you hired the
+            foreign producer?{space}
+            <i>
+              Thanks Trump (sponsor me{space}
+              <a href="https://vau.money">12.1.5 platform processing</a>)
+            </i>
+            <br />
+            Material resource productivity is either time to outcome or waste
+            <hr />
+            <i style={{ color: "cadetblue" }}>
+              Doesn't marginal consumtion better with less time to outcome and
+              shrinkflation? (Shouldn't growth come from a substitute in an
+              efficient economy?)
+            </i>
+            <br />
+            Are Internal Revenue Service agents worth the trouble to the U.S.
+            House of Representatives' Ways and Means Committee to collect
+            bartered scale and mark-to-market endeavors outside of the
+            electronic funds transfer system?
+            <br />
+            <br />
+            <span style={{ color: "cornflowerblue" }}>
+              If economists do not think marginal utility is a sorted propensity
+              by potential opportunity benefit to enter, why do they think the
+              supply and demand curves are sloped rationally?
+            </span>
+            {space}Don't they merely need to read{space}
+            <a href="https://marginalism.uk">Alfred Marshall</a>
+            {space}again?{space}
+            <i>
+              [Nietzsche the communist{/*commie.dev/police */}: "Have you licked
+              a boot today?"]
+              {/**you've made it about yourself and muddied the topic */}
+            </i>
+            <br />
+            <br />
+            <Cable
+              style={{ height: "440px" }}
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages || !this.state.openMost
+                  ? ""
+                  : "https://vaults.biz"
+              }
+              float="right"
+              title="please sponsor me vau.money 12.1.5 CFR Shahada bank"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            When is real GDP growth and resource productivity not shrinkflation
+            and time to outcome with a constant material consumption but
+            deflation?{space}
+            <span style={{ color: "orange" }}>
+              Isn’t technology deflationary while competition is so marginally?
+            </span>
+            {space}Shouldn't growth come from a substitute in an efficient
+            economy?
+            <hr />
+            Is inflation discriminatory? Is inflation measured either by a
+            survey of packaged goods and/or new monetarily-measured uses for the
+            same life?
+            <h2>
+              <a href="https://www.quora.com/How-would-the-demand-curve-shift-if-the-level-of-income-increases/answer/Nick-Carducci">
+                How would the demand curve shift if the level of income
+                increases?
+              </a>
+            </h2>
+            Investment that is useful would deflate or equalize
+            <h3>
+              If a housing labor recession shortage is bad, is any other
+              industry recession good? Isn’t labor transitory amongst industry
+              including leisure utilization?
+            </h3>
+            crowding
+            <br />
+            We want constant labor with deflation and equalization by tech and
+            no more
+            <br />
+            <br />
+            <h4 style={{ float: "right", margin: "0px 4px" }}>
+              <a href="https://marginalism.uk">marginalism.uk</a>
+            </h4>
+            When are costs,{space}
+            <a href="https://www.quora.com/unanswered/Is-overhead-profit-Is-marginal-benefit-from-escrow-or-in-real-time">
+              profits
+            </a>
+            , except individually? Are there any economists that advocate for
+            {space}
+            <a href="https://goprovider.us">t0</a>
+            {space}transaction times? Isn’t debt the only reason that a stock of
+            capital accounts is short of funds?
+            <br />
+            <br />
+            <a href="https://www.quora.com/unanswered/Can-leisure-utilization-economics-be-defined-as-marginal-utility-or-economic-welfare-per-capita-by-less-hours-and-less-price-as-it-happens">
+              Can leisure utilization (economics) be defined as marginal utility
+              or economic welfare per capita by less hours, and less price, as
+              it happens
+            </a>
+            ?
+            <br />
+            <a href="https://www.quora.com/unanswered/Is-Corpus-Linguistics-division-of-labors-efficiency-the-reason-for-all-laws">
+              Is Corpus Linguistics' division of labor's efficiency the reason
+              for all laws
+            </a>
+            ?
+            <br />
+            <Cable
+              style={{ width: "100%", maxWidth: "400px" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.dropbox.com/s/9r7cpzr5zz0qbv5/Price%20of%20Marginal%20Product%20Wholesale%20Size.png?raw=1"
+              }
+              float="right"
+              title="Price of Marginal Product Wholesale Size Curve"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <h4>
+              trust building hypocrisy -{space}
+              <a href="https://crowdfundingfortaxes.quora.com">
+                Crowdfunding For Taxes
+              </a>
+            </h4>
+            <a href="https://www.quora.com/Was-actual-Marxism-never-implemented/answer/Nick-Carducci">
+              Marx
+            </a>
+            {space}would tax to retribute (cash/debt)*income beyond{space}
+            <a href="https://truncatedproductiontax.quora.com">
+              free rider immutable
+            </a>
+            , sure. He would first and foremost end hysterical charge pools and
+            invoices’ surrendered freedom to bid of third party donee
+            beneficiaries, however.
+            <br />
+            Capitalism supports **surrendered freedom to bid of third party
+            {space}
+            <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
+              donee
+            </a>
+            {space}
+            beneficiaries, by
+            <br />
+            1. implausible use leases beyond 5 stores and condos and
+            <br />
+            2. invoices, warranties, and hysterical pool charges,
+            <br />
+            and accounts for **productivity by real{space}
+            <a href="https://data.oecd.org/lprdty/gdp-per-hour-worked.htm)">
+              expenses
+            </a>
+            {space}per hour.
+            <br />
+            <br />
+            <a href="https://www.quora.com/What-is-the-difference-between-productivity-and-efficiency/answer/Nick-Carducci">
+              What is the difference between productivity and efficiency?
+            </a>
+            {space}•{space}
+            <a href="https://www.quora.com/How-do-you-evaluate-supply-and-demand/answer/Nick-Carducci">
+              How do you evaluate supply and demand?
+            </a>
+            {space}•{space}
+            <a href="https://www.quora.com/Did-Marx-support-Mao-and-Stalin">
+              Did Marx support Mao and Stalin?
+            </a>
+            <br />
+            <br />
+            The question is, in other words, “if debt is the cause of inflation,
+            why do we have it?” You said, “we cannot put on the breaks.”{space}
+            <a href="https://adailyimpeachment.quora.com/A-little-bit-of-a-bad-thing-is-a-good-thing-https-www-quora-com-If-raising-rates-is-to-prevent-borrowing-to-prevent">
+              Nick Carducci's post in adailyimpeachment
+            </a>
+            . Now you are talking about it like a tool, but there are verily
+            alternatives to compounding loans or general-income debentures, like
+            pipe .io.*{space}
+            <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-why-do-we-have-it">
+              If inflation is caused by debt before corrections, why do we have
+              it?
+            </a>
+            <br />
+            <br />
+            I’m more of a microeconomist, than a macroeconomist who would
+            bizarrely attribute expenses per hour as definitionally good, on a
+            zero-sum individual level and an economic welfare, 1/hour-GDP/p
+            level.
+            {space}
+            <a href="https://www.quora.com/Why-is-some-inflation-good/answer/Nick-Carducci">
+              Why is some inflation good?
+            </a>
+            <br />
+            <br />
+            *or my own legal creation, vertical-industry-line, max-royalty
+            contracts, -tortious for revenue skimping upon withdrawal or abscond
+            self-employment tax-altogether and disburse immediately upon sale,
+            the needs of entrepreneurs are sufficed without **surrendered
+            freedom to bid of third party{space}
+            <a href="https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1260&context=wlr">
+              donee
+            </a>
+            {space}
+            beneficiaries.{space}
+            <a href="https://www.quora.com/unanswered/If-inflation-is-caused-by-debt-before-corrections-and-max-royalty-contracts-are-available-why-do-we-have-it">
+              If inflation is caused by debt before corrections, and max-royalty
+              contracts are available, why do we have it?
+            </a>
+            <br />
+            <br />
+            **Debt is a tool for laborless-demand to raise price beyond budget
+            constraints, making the entire demand curve subservient to
+            non-substitutive-supply instead of equilibrium ask-bid of outright
+            sales.**
+            <br />
+            <br />
+            Uses metaphors and says, “it would crush the economy.” What does
+            that mean? Jobs and prices? Isn’t that inflation?
+            <br />
+            <div>
+              Absolving student debt is how creditors KEEP their undue profits,
+              reverse amortization (cash/debt)*income.
+            </div>
+            <br />
+            <a href="https://www.quora.com/Is-debt-worth-the-inflation">
+              Is debt worth the inflation?
+            </a>
+            {space}“Debt is worth the inflation caused by debt,” is what you’re
+            saying, but I’m saying there is alternative contracts that aren’t
+            technically surrendered freedom to bid of third party donee
+            beneficiary, nor inflationary by laborless-demand capacity
+            (producers starve and lower prices in microeconomics).
+            <br />
+            <br />
+            Compared with: annual taxes at $2.2t/yr and $1.8t/yr debt
+            spending/borrowing -3/2020, $2t checking at the time (inside and
+            outside fed banks), government contractors effectively lend
+            themselves money.
+            <br />
+            <div>
+              Self-sustainability is from **substitutive-supply**, and drives us
+              out of poverty, for laborless-demand doesn’t hold back**
+              labor-demand**. Neil Oliver, “Government getting people out by
+              buying their farmland for free rider mutable profits for the
+              treasury.”
+            </div>
+            <br />
+            <Cable
+              style={{ width: "100%", maxWidth: "400px" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.dropbox.com/s/qmhi6rvgu3xnv4n/Matrix%20gradient%20by%20marginal%20as%20first%20order.png?raw=1"
+              }
+              float="left"
+              title="First order utility affects price"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <br />
+            substitute supply for labor demand of another market to beat
+            (malthusian) crowding out. Value would equate barrier to entry in
+            perfect comp.
+            <br />
+            Nick Carducci -{space}
+            <a href="https://occupywallst.quora.com">
+              Econometrist at Occupy Wall St
+            </a>
+            {space}(2008–present)
+            <br />
+            In order to gain more popular support, the government is rebranding
+            {space}
+            <a href="https://qr.ae/pGLlAZ">inflation</a>. What do they call it?
+            <br />
+            <br />
+            The former National Economic Council Director on the right calls
+            employer-benefit standardized guarantee scheme (PCE, BEA), or
+            out-of-pocket cheaper (CPI, BLS), inflation, prosperity, before
+            <div style={{ borderLeft: "3px solid", paddingLeft: "5px" }}>
+              income-expenses in a time-period gain
+            </div>
+            is known to supply-siders to raise bid by ask, who have more
+            laborless-demand of input costs, I guess, and yet thereby generate a
+            loss of economic welfare in Supply and Demand (Microeconomics),
+            1y/-1x 1/hour-GDP/p, for labor is always supply, lest for
+            dead-weight, for vertical industry lines, or maybe to some
+            propensity despondency by total, and horizontal, living costs,
+            between markets being the only time labor in one market
+            out-profits/-saves another. There are about 12 mutually exclusive
+            lines of business by NAICS code, I gather.
+            <br />
+            <br />
+            Inventory is not Supply, that includes{" "}
+            <a href="https://qr.ae/pGLlsf">variable-part labor</a>
+            <br />
+            <br />
+            <Cable
+              style={{ height: "590px" }}
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
+              }
+              float="right"
+              title=""
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.openMost && this.state.scrollTop}
+            />
+            1y/0x price by inflation, attribution of laborless-demand of
+            share-split notwithstanding (global ubi currency share-split, nor
+            propensity of indifference of land-deeds/vault-share or
+            treasury-inventory)
+            <br />
+            <br />
+            0y/1x 1/hour-GDP/p efficiency
+            <br />
+            <br />
+            easy peasy. 1y/-1x laborless-demand
+            <br />
+            <br />
+            "Should all artists boycott Spotify until they sack Joe Rogan?
+            #MOATS"
+            <br />
+            I'm antivaxx and cannot respond to this poll. Only on non-compete
+            grounds. Free Britney! Cornering the market with labor cost skew.
+            Target margin operational monopsony non-compete. Geohash/month
+            truncated production tax. The Ruble is a land deed.
+            <br />
+            <br />
+            "How does making somebody dependent on government handouts, like
+            basic income programs, improve their lives over teaching them a
+            trade that will allow them to earn a living and be independent?"
+            <br />
+            Nick Carducci - Chairperson at Saver Party (2020–present)
+            <br />
+            How does making somebody dependent, earn a living, do what? Or, do
+            you mean: how do you do that? You just remove the front-running,
+            free-rider-mutable, laborless-demand programme. You just, don’t do
+            it.
+            <br />
           </div>
-          <br />
-          <a href="https://www.quora.com/Is-debt-worth-the-inflation">
-            Is debt worth the inflation?
-          </a>
-          {space}“Debt is worth the inflation caused by debt,” is what you’re
-          saying, but I’m saying there is alternative contracts that aren’t
-          technically surrendered freedom to bid of third party donee
-          beneficiary, nor inflationary by laborless-demand capacity (producers
-          starve and lower prices in microeconomics).
-          <br />
-          <br />
-          Compared with: annual taxes at $2.2t/yr and $1.8t/yr debt
-          spending/borrowing -3/2020, $2t checking at the time (inside and
-          outside fed banks), government contractors effectively lend themselves
-          money.
-          <br />
-          <div>
-            Self-sustainability is from **substitutive-supply**, and drives us
-            out of poverty, for laborless-demand doesn’t hold back**
-            labor-demand**. Neil Oliver, “Government getting people out by
-            buying their farmland for free rider mutable profits for the
-            treasury.”
-          </div>
-          <br />
-          <Cable
-            style={{ width: "100%", maxWidth: "400px" }}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.dropbox.com/s/qmhi6rvgu3xnv4n/Matrix%20gradient%20by%20marginal%20as%20first%20order.png?raw=1"
-            }
-            float="left"
-            title="First order utility affects price"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-          <br />
-          substitute supply for labor demand of another market to beat
-          (malthusian) crowding out. Value would equate barrier to entry in
-          perfect comp.
-          <br />
-          Nick Carducci -{space}
-          <a href="https://occupywallst.quora.com">
-            Econometrist at Occupy Wall St
-          </a>
-          {space}(2008–present)
-          <br />
-          In order to gain more popular support, the government is rebranding
-          {space}
-          <a href="https://qr.ae/pGLlAZ">inflation</a>. What do they call it?
-          <br />
-          <br />
-          The former National Economic Council Director on the right calls
-          employer-benefit standardized guarantee scheme (PCE, BEA), or
-          out-of-pocket cheaper (CPI, BLS), inflation, prosperity, before
-          <div style={{ borderLeft: "3px solid", paddingLeft: "5px" }}>
-            income-expenses in a time-period gain
-          </div>
-          is known to supply-siders to raise bid by ask, who have more
-          laborless-demand of input costs, I guess, and yet thereby generate a
-          loss of economic welfare in Supply and Demand (Microeconomics), 1y/-1x
-          1/hour-GDP/p, for labor is always supply, lest for dead-weight, for
-          vertical industry lines, or maybe to some propensity despondency by
-          total, and horizontal, living costs, between markets being the only
-          time labor in one market out-profits/-saves another. There are about
-          12 mutually exclusive lines of business by NAICS code, I gather.
-          <br />
-          <br />
-          Inventory is not Supply, that includes{" "}
-          <a href="https://qr.ae/pGLlsf">variable-part labor</a>
-          <br />
-          <br />
-          <Cable
-            style={{ height: "590px" }}
-            onError={handleScollImgError}
-            //img={true}
-            src={
-              this.state.serviceCancelingImages
-                ? ""
-                : "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaverparty%2Fvideos%2F4404002109665977%2F&show_text=true&width=220&t=0"
-            }
-            float="right"
-            title=""
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-          1y/0x price by inflation, attribution of laborless-demand of
-          share-split notwithstanding (global ubi currency share-split, nor
-          propensity of indifference of land-deeds/vault-share or
-          treasury-inventory)
-          <br />
-          <br />
-          0y/1x 1/hour-GDP/p efficiency
-          <br />
-          <br />
-          easy peasy. 1y/-1x laborless-demand
-          <br />
-          <br />
-          "Should all artists boycott Spotify until they sack Joe Rogan? #MOATS"
-          <br />
-          I'm antivaxx and cannot respond to this poll. Only on non-compete
-          grounds. Free Britney! Cornering the market with labor cost skew.
-          Target margin operational monopsony non-compete. Geohash/month
-          truncated production tax. The Ruble is a land deed.
-          <br />
-          <br />
-          "How does making somebody dependent on government handouts, like basic
-          income programs, improve their lives over teaching them a trade that
-          will allow them to earn a living and be independent?"
-          <br />
-          Nick Carducci - Chairperson at Saver Party (2020–present)
-          <br />
-          How does making somebody dependent, earn a living, do what? Or, do you
-          mean: how do you do that? You just remove the front-running,
-          free-rider-mutable, laborless-demand programme. You just, don’t do it.
-          <br />
         </div>
         <div
           style={{
@@ -1338,9 +1373,9 @@ export default class App extends React.Component {
                 color: "rgb(230,230,255)",
                 backgroundColor: "rgb(32, 22, 11)"
               }}
-              href="https://teapharmacy.party/drugs"
+              href="https://2024nj.com/drugs"
             >
-              teapharmacy.party/drugs
+              2024nj.com/drugs
             </a>
             “Every healthcare people need,” we don’t need insurer work deficit
             <h2>
@@ -1676,7 +1711,7 @@ export default class App extends React.Component {
               onError={handleScollImgError}
               //img={true}
               src={
-                this.state.noyoutube
+                this.state.noyoutube || !this.state.openMost
                   ? ""
                   : "https://www.youtube.com/embed/ZmUozfOPquk"
               }
@@ -1877,8 +1912,8 @@ export default class App extends React.Component {
               in my book, is "gentrification"
             </h2>
             {/* market history and propoganda: The Great Leap Forward expected 15m
-        35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
-       &nbsp;deaths*/}
+            35 age&nbsp;<a href="https://froth.app/stats">lifetime</a>
+          &nbsp;deaths*/}
           </div>
           <br />
           <Cable
@@ -2374,7 +2409,7 @@ export default class App extends React.Component {
           embezzling with the stated intent to expire, but abetting invoices
           that are impossible but instilled by prisoners' dilemma or more
           accurately, nuclear dilemma
-          <Cable
+          {/*<Cable
             style={{ width: "100%", height: "570px" }}
             onError={handleScollImgError}
             //img={true}
@@ -2389,7 +2424,7 @@ export default class App extends React.Component {
             fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
-          />
+          />*/}
           <br />
           “180% more likely to prematurely die if depressed,” a.k.a. "I can't
           wait for my Haitian wife! Stop the working age from taking our
@@ -2533,7 +2568,7 @@ export default class App extends React.Component {
             onError={handleScollImgError}
             //img={true}
             src={
-              this.state.noyoutube
+              this.state.noyoutube || !this.state.openMost
                 ? ""
                 : "https://www.youtube.com/embed/f0jgbxbd61U"
             }
@@ -4433,7 +4468,7 @@ export default class App extends React.Component {
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
+            scrollTop={this.state.openMost && this.state.scrollTop}
           />
           <h2>
             Pipeline nor the border will Biden push back,” toensing against
