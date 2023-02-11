@@ -208,7 +208,7 @@ class Cable extends React.Component {
           width: optionalwidth
         }}
       >
-        {src === "" || !mount /*|| (!img && !mount)*/ ? (
+        {src === "" || (img && !mount) /*|| (!img && !mount)*/ ? (
           <span style={{ border: "2px gray solid" }}>{title}</span>
         ) : img ? (
           <img
