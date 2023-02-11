@@ -158,6 +158,9 @@ export default class App extends React.Component {
           <br />
           Why can't retirement be from a primary residence? Are limited capital
           gains tax accounts worth the annual contribution limitations?
+          <br />
+          Isn't a primary residence implied to be convenient to client based
+          income?
           <h2
             style={{
               margin: "4px 0px"
