@@ -152,6 +152,12 @@ export default class App extends React.Component {
           }}
         >
           <h4>Reverse liability by reducing at cash to debt</h4>
+          They should be in the context of the degree. Wall street likes fixed
+          games of foreclosure-sale debt service and/or horizontal payday. We
+          shouldn't.
+          <br />
+          Why can't retirement be from a primary residence? Are limited capital
+          gains tax accounts worth the annual contribution limitations?
           <h2
             style={{
               margin: "4px 0px"
