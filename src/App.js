@@ -156,8 +156,9 @@ export default class App extends React.Component {
           games of foreclosure-sale debt service and/or horizontal payday. We
           shouldn't.
           <br />
-          Why can't retirement be from a primary residence? Are limited capital
-          gains tax accounts worth the annual contribution limitations?
+          Why can't retirement be from a primary residence? Are either limited
+          capital gains or ex-Medicare and Social Security deferred tax accounts
+          worth the annual contribution limitations?
           <br />
           Isn't a primary residence implied to be convenient to client based
           income?
