@@ -54,7 +54,7 @@ class Cable extends React.Component {
     const { /*scrollTopAndHeight,*/ scrollTop, girth, timeout } = this.props;
     var girt =
       girth && !isNaN(girth)
-        ? girth + 500
+        ? girth + 100
         : window.innerHeight; /*frameheight
         ? frameheight
         : Style &&
@@ -208,7 +208,7 @@ class Cable extends React.Component {
           width: optionalwidth
         }}
       >
-        {src === "" || (!img && !mount) ? (
+        {src === "" || !mount /*|| (!img && !mount)*/ ? (
           <span style={{ border: "2px gray solid" }}>{title}</span>
         ) : img ? (
           <img
