@@ -151,14 +151,73 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h3>Questionable questions</h3>
+          <h4>
+            How do array arrays work?{space}&bull;{space}How do counterfeit pens
+            work?
+          </h4>
+          Medical nexus requires indemnity. Not reverse, reduce! That’s{space}
+          <i
+            style={{
+              color: "darkgreen"
+            }}
+          >
+            reversing to total cash liability to cash future and past, and
+            contextualize industry by degree
+          </i>
+          .
+          <br />
+          <br />
+          Is there commerce that doesn't fit into neither costs of goods sold,
+          entertainment, nor advanced payments?{space}
+          <i
+            style={{
+              color: "firebrick"
+            }}
+          >
+            Is a salary used on inventory to be sold later a speculation or
+            marketing costs of goods sold?
+          </i>
+          {space}
+          <b>If you are a monopoly, are you dangerous being political?</b>
+          {space}
+          Do you prefer degrading productivity or technical layoffs?{space}
+          <i>
+            Does everyone enjoy material productivity and leisure recovery
+            degradation over time?{space}
+            <span
+              style={{
+                color: "grey"
+              }}
+            >
+              How is this natural and/or without indemnity of some criminal?
+            </span>
+          </i>
+          {space}
+          <b>Are extractable labor contracts or stock full measure?</b>
+          {space}
+          Does either a foreseeable or apparent fixed game invalidate a debt
+          contract?
+          {space}
+          <i style={{ color: "cadetblue" }}>
+            Should profit-seeking economists be in charge of public health
+            decisions?
+          </i>
           <h4>Reverse liability by reducing at cash to debt</h4>
           They should be in the context of the degree. Wall street likes fixed
           games of foreclosure-sale debt service and/or horizontal payday. We
           shouldn't.
           <br />
-          Why can't retirement be from a primary residence? Are either limited
-          capital gains or ex-Medicare and Social Security deferred tax accounts
-          worth the annual contribution limitations?
+          <i
+            style={{
+              color: "cornflowerblue"
+            }}
+          >
+            Why can't retirement be from a primary residence?
+          </i>
+          {space}Are either limited capital gains or ex-Medicare and Social
+          Security deferred tax accounts worth the annual contribution
+          limitations?
           <br />
           Isn't a primary residence implied to be convenient to client based
           income?
@@ -4448,9 +4507,9 @@ export default class App extends React.Component {
             free portrayed by free rider mutable tax from consumers of other
             markets inflation, lender-work-deficit & 40-50% fed-state debt
             spending,&nbsp;
-            <h1 style={{ fontSize: "24px" }}>
+            <i style={{ fontSize: "24px" }}>
               40/60 gov/wall st new debt $8/day/person
-            </h1>
+            </i>
             (pre-3/2020)
           </h2>
           hung-jury-permits, in mvp-duress, are unconstitutional
