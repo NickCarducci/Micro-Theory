@@ -150,7 +150,21 @@ export default class App extends React.Component {
             //they only hold your dress to wipe they hands smh
             //comedic gas: Scopes and areas for the win pete rose
           }}
-        >Do larger values added as a share of GDP contribute to or degrade society?
+        >
+          <h3>real cop income deficits only! Medics for all…</h3>
+          Although Social Security Disability insurance is assuredly not
+          soliciting services, once you are deemed mentally ill for your
+          politics do they not advertise their services to your parents? Aren't
+          psychiatric disorder claims Supplemental Security?
+          <h2>latches can be absconded by strawpeople</h2>
+          <h3>My income is kondratiev</h3>
+          Do larger values added as a share of GDP contribute to or degrade
+          society?{space}Does everyone enjoy material productivity and leisure
+          recovery degradation over time? How is this natural and/or without
+          indemnity of some criminal?{space}
+          <a href="https://2024nj.com/carducci">
+            <i>Student loan and dollar vote revenuedata.doi.gov.</i>
+          </a>
           <h2>Financial people shouldn't be able to vote.</h2>
           <h3>
             polytheists can{space}
@@ -161,17 +175,23 @@ export default class App extends React.Component {
           shareholder loans intractable
           <br />
           Unitary extractable guarantee. Never surrender! <br /> (real wages)
-          material and productivity recovery degradation
+          {space}
+          <a
+            style={{ color: "orange" }}
+            href="https://markethistory.quora.com/How-are-React-developers-supposed-to-create-tokenized-Stripe-Standard-accounts-if-the-tos_shown_and_accepted-field-is-re-1"
+          >
+            material
+          </a>
+          {space}and productivity recovery degradation
           <br />
           Tea bag in my ice cube. “Politicians are egomaniacs” says the
           pollster. Curated, not generated
           <br />
-          real cop income deficits only! Medics for all…
-          <br />
+          {/*<br />
           “The most preposterous thing, [showing my gums]”
           <br />
           all at once everything? Concurrently parallel; nullify endogeneity,
-          "just layman.exchange".
+          "just layman.exchange".*/}
           <br />
           <h2 style={{ margin: "4px 0px" }}>
             Is economic growth not depletion when it degrades or deflates?
