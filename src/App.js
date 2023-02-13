@@ -163,7 +163,8 @@ export default class App extends React.Component {
           <br />
           “The most preposterous thing, [showing my gums]”
           <br />
-          all at once everything? Concurrently parallel; nullify endogeneity.
+          all at once everything? Concurrently parallel; nullify endogeneity,
+          "just layman.exchange".
           <br />
           <br />
           i will finance real cop income
