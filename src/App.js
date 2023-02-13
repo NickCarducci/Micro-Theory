@@ -150,7 +150,14 @@ export default class App extends React.Component {
             //they only hold your dress to wipe they hands smh
             //comedic gas: Scopes and areas for the win pete rose
           }}
-        >
+        >Do larger values added as a share of GDP contribute to or degrade society?
+          <h2>Financial people shouldn't be able to vote.</h2>
+          <h3>
+            polytheists can{space}
+            <a href="https://scopes.cc" style={{ color: "tan" }}>
+              question what is made
+            </a>
+          </h3>
           shareholder loans intractable
           <br />
           Unitary extractable guarantee. Never surrender! <br /> (real wages)
@@ -208,8 +215,12 @@ export default class App extends React.Component {
           <br />
           Remember, zombies aren't real humanharvest.info, frugality is
           material/technical-deflaton and productivity is micro-theory.com
-          depletion, and tokenize your payment credentials while using
-          vau.money/login vendors.
+          depletion, and{space}
+          <a href="https://wavv.art" style={{ color: "darkviolet" }}>
+            tokenize your payment credentials while using vau.money/login
+            vendors
+          </a>
+          .
           <br />
           politicians break the law to do anythng taxes for consumer fraud non
           props.
