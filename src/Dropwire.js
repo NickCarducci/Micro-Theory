@@ -17,7 +17,7 @@ import React from "react";
   }
 }*/
 
-const DivFunc = (x) => x;
+//const DivFunc = (x) => x;
 class Cable extends React.Component {
   constructor(props) {
     super(props);
@@ -103,7 +103,7 @@ class Cable extends React.Component {
         /*between && */
         return this.setState({ mount: between }, () => {
           if (between) {
-            const children = [...page.children];
+            //const children = [...page.children];
             if (
               //frusterated the second, paniced the first" ca
               cache //&&
@@ -220,7 +220,7 @@ class Cable extends React.Component {
       //if (scrollTop !== 0) return;
       //continuee && continuee.remove();
       return null;
-      if (this.page.current.children.length > 0)
+      /*if (this.page.current.children.length > 0)
         [...this.page.current.children].forEach((x) =>
           this.page.current.remove(
             x //continuee.children[continuee.children.length - 1]
@@ -235,12 +235,12 @@ class Cable extends React.Component {
           girt
         );*/
       //console.log(between, page.offsetTop, scrollTop);
-      /*between && */
+      /*between && * / 
       clearTimeout(this.unmount);
       this.unmount = setTimeout(
         () => this.setState({ mount: between, dangerouslySetInnerHTML: null }),
         500
-      );
+      );*/
 
       // console.log(girt);
       //if (Object.keys(page.children).length !== 0 /*page.innerHTML !== ""*/)
