@@ -166,6 +166,33 @@ export default class App extends React.Component {
           all at once everything? Concurrently parallel; nullify endogeneity,
           "just layman.exchange".
           <br />
+          <h2 style={{ margin: "4px 0px" }}>
+            Is economic growth not depletion when it degrades or deflates?
+          </h2>
+          <h3 style={{ margin: "4px 0px" }}>
+            Does either a foreseeable or apparent fixed game invalidate a debt
+            contract?{space}
+            <i
+              style={{
+                color: "pink"
+              }}
+            >
+              Should{space}
+              <a href="https://humanharvest.info">
+                profit-seeking economists be in charge
+              </a>
+              {space}of public health decisions?
+            </i>
+            {space}
+            Don't universal polls always include conflicts of industry
+            interests?
+            {space}
+            <i>
+              Can they even be entrusted to{space}
+              <a href="https://hibit.cc">credential</a>
+              {space}us?
+            </i>
+          </h3>
           <br />
           i will finance real cop income
           <br />
