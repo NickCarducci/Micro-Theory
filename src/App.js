@@ -158,6 +158,12 @@ export default class App extends React.Component {
           <br />
           Tea bag in my ice cube. “Politicians are egomaniacs” says the
           pollster. Curated, not generated
+          <br />
+          real cop income deficits only! Medics for all…
+          <br />
+          “The most preposterous thing, [showing my gums]”
+          <br />
+          all at once everything? Concurrently parallel; nullify endogeneity
           <h3>
             Questionable{space}
             <a href="https://jester.com.co">questions</a>
