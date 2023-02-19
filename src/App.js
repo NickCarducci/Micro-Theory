@@ -151,7 +151,33 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Does a recurring temporal, standardized claim, or transactional
+          complementary and extractable partnership fee benefit material
+          recoverability? Covered guarantee. Real grade cover; plaintiff tax
+          first. realcoverage
           <h3>real cop income deficits only! Medics for all…</h3>
+          <h2>Is growth or a recession material?</h2>
+          <i>
+            Why do economists think real GDP and hours worked should change but
+            the non-accelerating inflation rate of unemployment stay the same?
+          </i>
+          {space}
+          A recession from real productivity (a.k.a. real gdp and hours worked
+          productivity) is either material-base deflation, leisure and/or
+          evidentiary of inflation - conflating inflation with innovation as two
+          losses like people prefer working more over time as much as they
+          prefer stable prices.
+          <br />
+          <br />
+          Is a recession from real productivity deflation (technical/marginal
+          benefit/cardinal), material (material-based deflation), or either
+          inflation and/or materiality (labor-base deflation)?
+          <br />
+          <br />
+          Isn't either material or labor resource deflation evidentiary of a
+          rather competitive marginal technical monetary return while
+          materiality is efficient material and resource recovery? Is real
+          production, production, or materiality material?
           <h2>what in determinate tarnation?</h2>
           Although Social Security Disability insurance is assuredly not
           soliciting services, once you are deemed mentally ill for your
