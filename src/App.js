@@ -177,7 +177,11 @@ export default class App extends React.Component {
           Isn't either material or labor resource deflation evidentiary of a
           rather competitive marginal technical monetary return while
           materiality is efficient material and resource recovery? Is real
-          production, production, or materiality material?
+          production, production, or materiality material?{space}
+          <i>
+            Are economists forever to be unsure of themselves or should real
+            productivity in GDP and hours worked be steady like NAIRU?
+          </i>
           <h2>what in determinate tarnation?</h2>
           Although Social Security Disability insurance is assuredly not
           soliciting services, once you are deemed mentally ill for your
