@@ -151,6 +151,10 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h3>
+            Does recessionary inflation or material layoffs lessen stock market
+            concentration?
+          </h3>
           Does a recurring temporal, standardized claim, or transactional
           complementary and extractable partnership fee benefit material
           recoverability? Covered guarantee. Real grade cover; plaintiff tax
