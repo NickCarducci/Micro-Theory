@@ -151,6 +151,7 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Production == shrinkflation
           <h3>
             Does recessionary inflation or material layoffs lessen stock market
             concentration?
