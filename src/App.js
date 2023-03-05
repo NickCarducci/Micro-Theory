@@ -151,6 +151,10 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h2>
+            Is multi-level marketing or insurance intractable in that their
+            claims are intertemporal games? (vau.money/docs, brainscan.info)
+          </h2>
           Production == shrinkflation
           <h3>
             Does recessionary inflation or material layoffs lessen stock market
