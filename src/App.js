@@ -151,6 +151,8 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Shouldn't fremium pricing models complement diminishing material
+          benefit?
           <h2>
             Is multi-level marketing or insurance intractable in that their
             claims are intertemporal games? (vau.money/docs, brainscan.info)
