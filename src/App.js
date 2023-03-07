@@ -151,6 +151,8 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <b>Recession and NAIRU at odds</b>
+          <br />
           Degree context industry merchantry
           <div style={{ fontSize: "12px" }}>
             <i>
@@ -7041,3 +7043,4 @@ export default class App extends React.Component {
     );
   }
 }
+
