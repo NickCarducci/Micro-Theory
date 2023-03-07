@@ -155,8 +155,35 @@ export default class App extends React.Component {
             Giffen is intertemporal curve and not complementary game 2:282
             democracy
           </h3>
-          Shouldn't fremium pricing models complement diminishing material
-          benefit?
+          <div style={{ margin: "10px", padding: "10px", border: "1px solid" }}>
+            Inter-jurisdictional tax competition for business expenses raises
+            interesting questions for payroll withholding and tax remittance
+            software platform processing development entrepreneurs, including
+            but not limited to the measurement of tax competition and its impact
+            on tax rates (Does crowding out or government contracting generally
+            make real income?, a.k.a. “How large is Laffer’s lag?”), the effect
+            of tax rates on the location of the production activities of firms
+            (geospatial physical resource productivity), on employment, and on
+            sales (cross reference by value added industry), the tax treatment
+            of sole proprietorships and pass-through businesses (Publication
+            15-B and Publication 587, a.k.a. by “convenient to client”; Is new
+            ground or real income growth without persistent equalization a
+            substitute?), business development incentives of various forms,
+            property taxation, and the interaction between business-level and
+            individual-level taxes (Can deflationary real productivity be made
+            with an electronic funds tax? Why would commercial trade be more
+            competitive to allow natural frictions such as this?).
+          </div>
+          <div style={{ margin: "10px", padding: "10px", border: "1px solid" }}>
+            TaxSecurityFirst.com - Should debt remain annually or the government
+            always pay last year’s tax falls at 0% interest by fiscal rate
+            temporarily until a commensurate percentage annual change deflation?
+          </div>
+          Should an additional savings, consumption, or investment result in a
+          percentile-unitary modicum material ease? Does competition as a Giffen
+          utility prosper the productive use or as a complementary utility ease
+          the material use? Shouldn't fremium pricing models complement
+          diminishing material benefit?
           <h2>
             Is multi-level marketing or insurance intractable in that their
             claims are intertemporal games? (vau.money/docs, brainscan.info)
