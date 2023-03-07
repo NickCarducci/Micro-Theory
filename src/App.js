@@ -151,6 +151,10 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <h3>
+            Giffen is intertemporal curve and not complementary game 2:282
+            democracy
+          </h3>
           Shouldn't fremium pricing models complement diminishing material
           benefit?
           <h2>
