@@ -151,6 +151,16 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          <div style={{ fontSize: "12px" }}>
+            <i>
+              Would be prudent to reduce liabilities instead of curving up the
+              place.
+            </i>
+            <br />
+            Save the short term and let the long run ride, why do we 2-10
+            <br />
+            Limited testamentary already or value added sales?
+          </div>
           <h3>
             Giffen is intertemporal curve and not complementary game 2:282
             democracy
