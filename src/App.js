@@ -151,6 +151,7 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Degree context industry merchantry
           <div style={{ fontSize: "12px" }}>
             <i>
               Would be prudent to reduce liabilities instead of curving up the
