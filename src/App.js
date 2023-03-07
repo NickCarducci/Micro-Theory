@@ -151,10 +151,15 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
-          <b>Recession and NAIRU at odds</b>
-          <br />
-          Degree context industry merchantry
           <div style={{ fontSize: "12px" }}>
+            inflation without unemployment?
+            <br />
+            <b>Recession and NAIRU at odds</b>
+            <br />
+            <span style={{ fontSize: "19px" }}>
+              Degree context industry merchantry
+            </span>
+            <br />
             <i>
               Would be prudent to reduce liabilities instead of curving up the
               place.
@@ -7043,4 +7048,5 @@ export default class App extends React.Component {
     );
   }
 }
+
 
