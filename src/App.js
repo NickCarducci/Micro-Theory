@@ -159,6 +159,8 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          unitarily temporal
+          <br />
           <span style={{ fontSize: "14px" }}>
             Does Rudy Giuliani prefer the sectoral division of labor potential
             customer material easement over nationalized production protection
