@@ -184,7 +184,8 @@ export default class App extends React.Component {
             <b style={{ color: "navy" }}>testamentary limited familial</b>
             {space}yet nice and good productivity in encroachment of ideas into
             copyright and not better and material easement in sectoral division
-            of labor.
+            of labor.{space}
+            <i>Nice slays, good stays, material eases.</i>
           </div>
           <br />
           Does{space}
