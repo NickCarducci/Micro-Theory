@@ -12,6 +12,7 @@ export default class App extends React.Component {
     const name = parser.getBrowser().name;
     console.log(name);
     this.state = {
+      journal: true,
       browser: name,
       scrollTop: 0,
       serviceCancelingImages: name.includes("Safari")
@@ -154,8 +155,15 @@ export default class App extends React.Component {
             //Was already top, but at finals was 7, 40-1.
             //Champions are usually like that no more than 2 especially 7 seed and above
             //nearly ever satiated
+
+            //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          <span style={{ fontSize: "14px" }}>
+            Does Rudy Giuliani prefer the sectoral division of labor potential
+            customer material easement over nationalized production protection
+            or is he a neocon?
+          </span>
           <iframe
             style={{ float: "left", width: "200px" }}
             src="https://www.youtube.com/embed/GIAAKtVUWV4"
@@ -163,22 +171,32 @@ export default class App extends React.Component {
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
+            //education turns into attack 8299
           ></iframe>
+          <h3 style={{ margin: "4px 0px" }}>Advanced Giffen Intertemporal</h3>
+          <h4 style={{ margin: "4px 0px" }}>Always overtime</h4>
           <div style={{ fontSize: "12px" }}>
             Sell or{space}
             <span style={{ color: "darkviolet" }}>use</span>
             {space}day trading non anonymous account,{space}
             <span style={{ color: "darkviolet" }}>nonsale</span>
-            {space}testamentary limited familial
-            <br />
-            Nice and good productivity in encroachment of ideas into copyright
-            <br />
-            Better and material easement in sectoral division of labor
+            {space}
+            <b style={{ color: "navy" }}>testamentary limited familial</b>
+            {space}yet nice and good productivity in encroachment of ideas into
+            copyright and not better and material easement in sectoral division
+            of labor.
           </div>
           <br />
-          Does everyone have a testamentary account limited to family implicitly
-          for all their assets or does probate have a point and the internal
-          revenue service is guilty of administrative abuse?
+          Does{space}
+          <span style={{ color: "navy" }}>
+            everyone have a testamentary account limited to family implicitly
+          </span>
+          {space}
+          for all their assets or{space}
+          <span style={{ color: "cadetblue" }}>
+            does probate have a point and
+          </span>
+          {space}the internal revenue service is guilty of administrative abuse?
           <div style={{ fontSize: "12px" }}>
             <a href="https://vau.money">Relenting benefactors</a>
             <br />
