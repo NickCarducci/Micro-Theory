@@ -152,6 +152,8 @@ export default class App extends React.Component {
           }}
         >
           <div style={{ fontSize: "12px" }}>
+            <a href="https://vau.money">Relenting benefactors</a>
+            <br />
             inflation without unemployment?
             <br />
             <b>Recession and NAIRU at odds</b>
@@ -7048,5 +7050,3 @@ export default class App extends React.Component {
     );
   }
 }
-
-
