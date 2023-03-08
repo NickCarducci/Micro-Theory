@@ -162,9 +162,15 @@ export default class App extends React.Component {
           unitarily temporal
           <br />
           <span style={{ fontSize: "14px" }}>
-            Does Rudy Giuliani prefer the sectoral division of labor potential
-            customer material easement over nationalized production protection
-            or is he a neocon?
+            Does Rudy Giuliani
+            {space}
+            <i style={{ fontSize: "10px", color: "grey" }}>
+              prefer the sectoral division of labor potential customer material
+              easement
+            </i>
+            {space}over nationalized{space}
+            <span style={{ color: "firebrick" }}>production</span>
+            {space}protection or is he a neocon?
           </span>
           <iframe
             style={{ float: "left", width: "200px" }}
@@ -179,6 +185,10 @@ export default class App extends React.Component {
           <h4 style={{ margin: "4px 0px" }}>
             Always overtime{space}
             <span style={{ color: "blue" }}>claim</span>
+            {space}
+            <i style={{ fontSize: "10px", color: "grey" }}>
+              cardinates positively
+            </i>
           </h4>
           <div style={{ fontSize: "12px" }}>
             Sell or{space}
@@ -187,10 +197,32 @@ export default class App extends React.Component {
             <span style={{ color: "darkviolet" }}>nonsale</span>
             {space}
             <b style={{ color: "navy" }}>testamentary limited familial</b>
-            {space}yet nice and good productivity in encroachment of ideas into
-            copyright and not better and material easement in sectoral division
-            of labor.{space}
-            <i>Nice slays, good stays, material eases.</i>
+            {space}yet nice and good productivity in{space}
+            <span style={{ color: "chocolate" }}>
+              encroachment of ideas into copyright
+            </span>
+            {space}and not better and material easement in sectoral division of
+            labor.
+            {
+              space
+              //not over until it's over or is that the game we play
+            }
+            <i>
+              <span style={{ color: "darkviolet" }}>
+                Nice slays, good stays
+              </span>
+              ,{space}
+              <span style={{ color: "forestgreen" }}>material eases</span>.
+            </i>
+            {space}
+            <a href="https://bankingisnot.biz">
+              <i style={{ color: "lightslategrey" }}>
+                Do losing either folkstyle or freestyle wrestlers ever get
+                called for stalling in regulation time when either in neutral
+                they don't change their crouch-levels or in the top position
+                they ride in parallel to their opponent?
+              </i>
+            </a>
           </div>
           <br />
           Does{space}
