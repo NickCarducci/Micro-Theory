@@ -206,6 +206,7 @@ export default class App extends React.Component {
             {
               space
               //not over until it's over or is that the game we play
+              //tax security first kind plaintiff scramble
             }
             <i>
               <span style={{ color: "darkviolet" }}>
@@ -236,7 +237,9 @@ export default class App extends React.Component {
           </span>
           {space}the internal revenue service is guilty of administrative abuse?
           <div style={{ fontSize: "12px" }}>
-            <a href="https://vau.money">Relenting benefactors</a>
+            <a href="https://vau.money">
+              Relenting benefactors (limited ownership interest)
+            </a>
             <br />
             inflation without unemployment?
             <br />
