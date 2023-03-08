@@ -176,7 +176,10 @@ export default class App extends React.Component {
             //education turns into attack 8299
           ></iframe>
           <h3 style={{ margin: "4px 0px" }}>Advanced Giffen Intertemporal</h3>
-          <h4 style={{ margin: "4px 0px" }}>Always overtime</h4>
+          <h4 style={{ margin: "4px 0px" }}>
+            Always overtime{space}
+            <span style={{ color: "blue" }}>claim</span>
+          </h4>
           <div style={{ fontSize: "12px" }}>
             Sell or{space}
             <span style={{ color: "darkviolet" }}>use</span>
