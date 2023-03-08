@@ -151,6 +151,9 @@ export default class App extends React.Component {
             //comedic gas: Scopes and areas for the win pete rose
           }}
         >
+          Does everyone have a testamentary account limited to family implicitly
+          for all their assets or does probate have a point and the internal
+          revenue service is guilty of administrative abuse?
           <div style={{ fontSize: "12px" }}>
             <a href="https://vau.money">Relenting benefactors</a>
             <br />
