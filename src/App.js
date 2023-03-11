@@ -199,6 +199,12 @@ export default class App extends React.Component {
             //education turns into attack 8299
           ></iframe>
           <h3 style={{ margin: "4px 0px" }}>Advanced Giffen Intertemporal</h3>
+          <span style={{ fontSize: "12px" }}>
+            Do gift card advance acquisitions or estimate-invoice certificate
+            procurements subject labor to consumer fraud penalties? Are coupon
+            books promotional while insurance recurs? Are dollar or percentage
+            discount consumers protected from coupon book fraud?
+          </span>
           <h4 style={{ margin: "4px 0px" }}>
             Always overtime{space}
             <span style={{ color: "blue" }}>claim</span>
@@ -275,6 +281,14 @@ export default class App extends React.Component {
             <br />
             Limited testamentary already or value added sales?
           </div>
+          <span style={{ fontSize: "12px" }}>
+            Why does the Office of the Comptroller of the Currency allow lending
+            if it causes bank runs?{space}
+            <a href="https://vau.money">
+              Should young people pay a mortgage or rent and save income tax
+              free for a primary residence?
+            </a>
+          </span>
           <h3>
             Giffen is intertemporal curve and not complementary game 2:282
             democracy
