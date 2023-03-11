@@ -158,7 +158,16 @@ export default class App extends React.Component {
 
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
-        >Do borrowers ever benefit themselves or at the expense of third party donee beneficiaries' immediate nonsale cash opportunities only just their variable liquid capital factors of good production?<br/><br/>
+        >
+          <h3>
+            Isn’t complementary demand utility substitutive supply? Doesn’t a
+            complementary tax rate hike upon recessions?
+          </h3>
+          Do borrowers ever benefit themselves or at the expense of third party
+          donee beneficiaries' immediate nonsale cash opportunities only just
+          their variable liquid capital factors of good production?
+          <br />
+          <br />
           No need to benefactor tort with reform:{space}
           <a
             href="https://twitter.com/vaultbiz"
