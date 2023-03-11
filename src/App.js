@@ -161,7 +161,11 @@ export default class App extends React.Component {
         >
           <h3>
             Isn’t complementary demand utility substitutive supply? Doesn’t a
-            complementary tax rate hike upon recessions?
+            complementary tax rate hike upon recessions?{space}
+            <i style={{ color: "grey" }}>
+              Is an “efficient” or “risk free” recession-made tax hike popular
+              over quantitative easing?
+            </i>
           </h3>
           Do borrowers ever benefit themselves or at the expense of third party
           donee beneficiaries' immediate nonsale cash opportunities only just
@@ -7168,3 +7172,4 @@ export default class App extends React.Component {
     );
   }
 }
+
