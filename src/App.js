@@ -159,6 +159,11 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          <h4 style={{ float: "left" }}>taxsecurityfirst.com</h4>
+          <h3 style={{ margin: "4px 0px" }}>
+            Does donating to losses or defending customers from losses help them
+            more?
+          </h3>
           My voting base will be alive by 2024 still
           <br />
           <a href="https://humanharvest.info">
@@ -191,8 +196,13 @@ export default class App extends React.Component {
             </i>
           </i>
           {space}
-          Does donating to losses or defending customers from losses help them
-          more?
+          <span style={{ color: "cadetblue" }}>
+            How does marginal utility explain consumer behavior? Marginal
+            utility is a value like material benefit is, actually they require
+            eachother to exist as a plane does this productive matrix-square.
+            That is how economics uses calculus, through time- and
+            section-series relational data for endogenous claims.
+          </span>
           <h3>
             Isn’t complementary demand utility substitutive supply? Doesn’t a
             complementary tax rate hike upon recessions?{space}
