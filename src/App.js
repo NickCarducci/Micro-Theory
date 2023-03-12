@@ -180,13 +180,19 @@ export default class App extends React.Component {
             />
           </a>
           Do beneficiaries or their factors of production benefit from
-          donations?
-          <br />
-          Wouldn't a doctor still perform if their customers had less funds?
-          <br />
-          Do younger people tend to donate to charities that buy from their
-          businesses like old people do in order to act like donations help with
-          market access instead of just inelastic benefactor price?
+          donations?{space}
+          <i style={{ color: "grey" }}>
+            Wouldn't a doctor still perform if their customers had less funds?
+            {space}
+            <i style={{ color: "lightslategray" }}>
+              Do younger people tend to donate to charities that buy from their
+              businesses like old people do in order to act like donations help
+              with market access instead of just inelastic benefactor price?
+            </i>
+          </i>
+          {space}
+          Does donating to losses or defending customers from losses help them
+          more?
           <h3>
             Isn’t complementary demand utility substitutive supply? Doesn’t a
             complementary tax rate hike upon recessions?{space}
