@@ -159,6 +159,34 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          My voting base will be alive by 2024 still
+          <br />
+          <a href="https://humanharvest.info">
+            <Cable
+              style={{ width: "100%", maxWidth: "200px" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.dropbox.com/s/18wml3fg4g0q4yq/old-people-2-1024x860.jpeg?raw=1"
+              }
+              float="right"
+              title="old people"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+          </a>
+          Do beneficiaries or their factors of production benefit from
+          donations?
+          <br />
+          Wouldn't a doctor still perform if their customers had less funds?
+          <br />
+          Do younger people tend to donate to charities that buy from their
+          businesses like old people do in order to act like donations help with
+          market access instead of just inelastic benefactor price?
           <h3>
             Isn’t complementary demand utility substitutive supply? Doesn’t a
             complementary tax rate hike upon recessions?{space}
@@ -7172,4 +7200,3 @@ export default class App extends React.Component {
     );
   }
 }
-
