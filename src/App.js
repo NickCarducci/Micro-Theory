@@ -159,8 +159,24 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
-          <h4 style={{ float: "left" }}>taxsecurityfirst.com</h4>
+          <h4
+            style={{
+              margin: "0px",
+              marginBottom: "8px",
+              float: "right",
+              backgroundColor: "black",
+              color: "white"
+            }}
+          >
+            occupywall.us
+          </h4>
+          Don’t either subpar sales or bankruptcies cause bank failures? Did the
+          banks that failed and were bailed out by FDIC insurance lend to people
+          that are now dead?
           <h3 style={{ margin: "4px 0px" }}>
+            <span style={{ margin: "0px", float: "left", fontSize: "12px" }}>
+              taxsecurityfirst.com
+            </span>
             Does donating to losses or defending customers from losses help them
             more?
           </h3>
