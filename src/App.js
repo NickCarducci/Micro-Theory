@@ -296,7 +296,11 @@ export default class App extends React.Component {
               </i>
             </a>
           </div>
-          <br />
+          <TwitterTweetEmbed
+            style={{ float: "left", width: "400px", maxWidth: "100%" }}
+            key="1635689256105521177"
+            tweetId="1635689256105521177"
+          />
           Does{space}
           <span style={{ color: "navy" }}>
             everyone have a testamentary account limited to family implicitly
