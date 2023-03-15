@@ -159,6 +159,14 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          Is inflation only in certain products if not all of GDP per capita or
+          {space}
+          <h4 style={{ float: "left", margin: "4px 0px" }}>
+            humanharvest.info
+          </h4>
+          is non-inflationary growth material benefit shrinkflation and just as
+          bad as inflation? Can you materially benefit from growth by employment
+          or percentile equality increases?
           <h4
             style={{
               margin: "0px",
