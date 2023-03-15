@@ -159,6 +159,12 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          <h2>2024nj.com (3/15/2023 pending registrar transfer)</h2>
+          <h4>
+            Can either percentile net operating income equalization or
+            retirement match, net out, and obviate any either inflation, labor
+            utilization, or material benefit shrinkflation problem?
+          </h4>
           Is inflation only in certain products if not all of GDP per capita or
           {space}
           <h4 style={{ float: "left", margin: "4px 0px" }}>
