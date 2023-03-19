@@ -159,6 +159,25 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
+          Is the efficiency utility liquid capital or material benefit?{space}
+          <span style={{ color: "forestgreen" }}>
+            <i>
+              Doesn't a diminishing marginal utility value make complements into
+              substitute goods?
+            </i>
+            {space}
+            <span style={{ color: "darkgreen" }}>
+              When is production growth neither inflation nor shrinkflation but
+              when accompanied by either equity and/or deflation?
+            </span>
+            {space}
+            <i>
+              Is incrementally working and using more resources efficiency or
+              productivity?
+            </i>
+          </span>
+          <br />
+          <br />
           nickcarducci.com (sign today) - Isn't inflation a percentage measure
           while material benefit shrinkflation measures bundle velocity? Are
           ratings complementary or substitutive? Do everyday people or bankers
