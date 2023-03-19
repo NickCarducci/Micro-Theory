@@ -159,7 +159,13 @@ export default class App extends React.Component {
             //sectoral division of labor potential customer material easement over nationalized production protection
           }}
         >
-          <h2>2024nj.com (3/15/2023 pending registrar transfer)</h2>
+          nickcarducci.com (sign today) - Isn't inflation a percentage measure
+          while material benefit shrinkflation measures bundle velocity? Are
+          ratings complementary or substitutive? Do everyday people or bankers
+          benefit from shrinkflation in excess of inflation? Can’t value come
+          about by either complementary deflation or substitution? Can you
+          explain to my why inflation is worse than material benefit
+          shrinkflation growth?
           <h4>
             Can either percentile net operating income equalization or
             retirement match, net out, and obviate any either inflation, labor
