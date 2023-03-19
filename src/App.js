@@ -176,6 +176,16 @@ export default class App extends React.Component {
               productivity?
             </i>
           </span>
+          {space}
+          <span style={{ color: "lightslategrey" }}>
+            Isn’t a nominal unit absolutely positive while a relative change
+            either also can or otherwise only matter negatively to another
+            effect marginally?{space}
+            <i style={{ color: "grey" }}>
+              Isn't a simple nominal unit exogenous while a relative change
+              compounds endogenously?
+            </i>
+          </span>
           <br />
           <br />
           nickcarducci.com (sign today) - Isn't inflation a percentage measure
@@ -7275,3 +7285,4 @@ export default class App extends React.Component {
     );
   }
 }
+
