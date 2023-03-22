@@ -176,6 +176,8 @@ export default class App extends React.Component {
             //false legitimacy
           }}
         >
+          war should be a loss not a yield
+          <br />
           "Danger?" State torts can tax by mcc
           <h4 style={{ margin: "4px 0px" }}>
             <a href="https://courttechnology.quora.com/What-basic-insurance-do-I-need-for-my-small-business-1">
