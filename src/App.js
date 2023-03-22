@@ -176,29 +176,43 @@ export default class App extends React.Component {
             //false legitimacy
           }}
         >
-          war should be a loss not a yield
-          <br />
-          "Danger?" State torts can tax by mcc
-          <h4 style={{ margin: "4px 0px" }}>
-            <a href="https://courttechnology.quora.com/What-basic-insurance-do-I-need-for-my-small-business-1">
-              well practiced
-            </a>
+          I can't take crimminal sponsors
+          <div style={{ backgroundColor: "lightgrey" }}>
+            NO ONE has made viruses infect faster than the cell it uses
+            reproduce. it's debris covalent of thousands of 10 per pcr. I can't
+            take criminal sponsors
             <br />
-            Freedom means no risk to whistleblowers like manning
-          </h4>
-          covalent-types withstanding? MDPI now says atherosclerosis is wut it
-          do. Are viruses dangerous because of a covalent-type vanishing
-          genealogy-physiology epiology symptom or atherosclerosis?
-          <br />
-          humanharvest.info{space}
-          <a
-            href="https://rolloverinsurance.quora.com"
-            style={{
-              color: "darkviolet"
-            }}
-          >
-            Do musculoskeletal or epidermal scars heal?
-          </a>
+            Amendment 10 enumerates NOTHING virus need cell means zombie or
+            debris
+            <h4>2025 will be "worse"</h4>
+            war should be a loss not a yield
+            <br />
+            "Danger?" State torts can tax by mcc
+            <h4 style={{ margin: "4px 0px" }}>
+              <a href="https://courttechnology.quora.com/What-basic-insurance-do-I-need-for-my-small-business-1">
+                well practiced
+              </a>
+              {space}
+              <span style={{ color: "cornflowerblue" }}>
+                (They found it outside the report)
+              </span>
+              <br />
+              Freedom means no risk to whistleblowers like manning
+            </h4>
+            covalent-types withstanding? MDPI now says atherosclerosis is wut it
+            do. Are viruses dangerous because of a covalent-type vanishing
+            genealogy-physiology epiology symptom or atherosclerosis?
+            <br />
+            humanharvest.info{space}
+            <a
+              href="https://rolloverinsurance.quora.com"
+              style={{
+                color: "darkviolet"
+              }}
+            >
+              Do musculoskeletal or epidermal scars heal?
+            </a>
+          </div>
           <br />
           inequality isn't populist.{space}
           <i>
@@ -7429,3 +7443,4 @@ export default class App extends React.Component {
     );
   }
 }
+
