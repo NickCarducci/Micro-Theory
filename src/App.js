@@ -167,8 +167,52 @@ export default class App extends React.Component {
             //does alex want me to push his face into my car
 
             //filth with mahr marginalism.uk paydayt.com
+
+            //​Nick you aware rothschildren lieutenant his wh finance [er commerce]
+            //cabinet head Wilbur Ross bailed Dolan out before?
           }}
         >
+          ​government deficit is not inflation bankruptcy is
+          <br />
+          <Cable
+            style={{ width: "100%", maxWidth: "200px" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://www.dropbox.com/s/0riy7lneiqhk7vs/Screen%20Shot%202023-03-22%20at%2012.43.29%20PM.png?raw=1"
+            }
+            float="right"
+            title="john o'shea with rich people's pundit 3/22/23"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          liquid capital is shrinkflation what do you mean booming
+          <br />
+          was checkable deposits not the set up for this from the pervert
+          <br />
+          open market subpar fair. stock banking.
+          <br />
+          total befits factors multilevelcapital.com
+          <br />
+          there is no reason to have safe assets{space}
+          <a href="https://plaintiffrecessiontax.com" style={{ color: "blue" }}>
+            plaintiffrecessiontax.com
+          </a>
+          <br />
+          compel suture practitioners
+          <br />
+          ​if they want to tranche this is what they get
+          <br />
+          bankruptcy any industry is too risky.
+          <br />
+          just like progressive factor tax
+          <br />
+          give an islamist a BIN
+          <br />
           I won't vocalize petty (fraud) cases, you get chats
           <br />
           Santos Trump
@@ -7340,4 +7384,3 @@ export default class App extends React.Component {
     );
   }
 }
-
