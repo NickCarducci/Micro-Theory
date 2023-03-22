@@ -228,7 +228,11 @@ export default class App extends React.Component {
           risk-free banking nickcarducci.com
           <h4>
             codify past liability general interest by merchant code for
-            islamicbanks.quora.com
+            islamicbanks.quora.com (by G-d)
+            <br />
+            insurance is haram for taking combined budgets at once
+            <br />
+            marginalsim.uk (pig)
           </h4>
           Many people are alive doing drugs idiots (who here is against right to
           try)
