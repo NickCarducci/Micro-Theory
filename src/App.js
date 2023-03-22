@@ -187,9 +187,18 @@ export default class App extends React.Component {
             Freedom means no risk to whistleblowers like manning
           </h4>
           covalent-types withstanding? MDPI now says atherosclerosis is wut it
-          do
+          do. Are viruses dangerous because of a covalent-type vanishing
+          genealogy-physiology epiology symptom or atherosclerosis?
           <br />
-          humanharvest.info
+          humanharvest.info{space}
+          <a
+            href="https://rolloverinsurance.quora.com"
+            style={{
+              color: "darkviolet"
+            }}
+          >
+            Do musculoskeletal or epidermal scars heal?
+          </a>
           <br />
           inequality isn't populist.{space}
           <i>
