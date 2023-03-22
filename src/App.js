@@ -167,6 +167,10 @@ export default class App extends React.Component {
             //does alex want me to push his face into my car
           }}
         >
+          just barter no mark. 1031 nonsale currency too
+          <br />
+          5 floors, single family homes, and condos are plausible use
+          <br />
           defaulting conservatives lol only personal credit lfp
           <br />
           risk-free banking nickcarducci.com
