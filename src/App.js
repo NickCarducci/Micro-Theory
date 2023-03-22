@@ -180,6 +180,8 @@ export default class App extends React.Component {
             <a href="https://courttechnology.quora.com/What-basic-insurance-do-I-need-for-my-small-business-1">
               well practiced
             </a>
+            <br />
+            Freedom means no risk to whistleblowers like manning
           </h4>
           covalent-types withstanding? MDPI now says atherosclerosis is wut it
           do
