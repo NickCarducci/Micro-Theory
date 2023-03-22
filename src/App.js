@@ -172,7 +172,9 @@ export default class App extends React.Component {
             //cabinet head Wilbur Ross bailed Dolan out before?
           }}
         >
-          ​government deficit is not inflation bankruptcy is
+          inequality isn't populist.{space}
+          <i>Amendment 10 has no enumerated nothingg. birthright pizzo.</i>
+          {space}​government deficit is not inflation bankruptcy is
           <br />
           <Cable
             style={{ width: "100%", maxWidth: "200px" }}
