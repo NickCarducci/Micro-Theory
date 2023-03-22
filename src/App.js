@@ -176,7 +176,7 @@ export default class App extends React.Component {
             //false legitimacy
           }}
         >
-          I can't take crimminal sponsors
+          I can't take criminal sponsors
           <div style={{ backgroundColor: "lightgrey" }}>
             NO ONE has made viruses infect faster than the cell it uses
             reproduce. it's debris covalent of thousands of 10 per pcr. I can't
@@ -212,6 +212,10 @@ export default class App extends React.Component {
             >
               Do musculoskeletal or epidermal scars heal?
             </a>
+            <br />
+            Is a small sample meaningful, or was the covid pandemic also not
+            significant? THIS IS NOT MY JOB (I win the Nobel and I hold you all
+            accountable for wasting my time)
           </div>
           <br />
           inequality isn't populist.{space}
@@ -7443,4 +7447,3 @@ export default class App extends React.Component {
     );
   }
 }
-
