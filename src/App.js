@@ -170,10 +170,20 @@ export default class App extends React.Component {
 
             //​Nick you aware rothschildren lieutenant his wh finance [er commerce]
             //cabinet head Wilbur Ross bailed Dolan out before?
+
+            //I was made to destroy wall st
           }}
         >
+          covalent-types withstanding? MDPI now says atherosclerosis is wut it
+          do
+          <br />
+          humanharvest.info
+          <br />
           inequality isn't populist.{space}
-          <i>Amendment 10 has no enumerated nothingg. birthright pizzo.</i>
+          <i>
+            Amendment 10 has no enumerated nothingg. birthright pizzo trump or
+            nickcarducci.com.
+          </i>
           {space}​government deficit is not inflation bankruptcy is
           <br />
           <Cable
@@ -205,7 +215,15 @@ export default class App extends React.Component {
             plaintiffrecessiontax.com
           </a>
           <br />
-          compel suture practitioners
+          No bankruptcy nor bailouts
+          <br />
+          <span
+            style={{
+              color: "forestgreen"
+            }}
+          >
+            compel suture practitioners
+          </span>
           <br />
           ​if they want to tranche this is what they get
           <br />
