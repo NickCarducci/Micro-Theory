@@ -151,7 +151,10 @@ export default class Basic extends React.Component {
         >
           more
         </div>
-        All at once - Keynes the plagiarist: Liquid, variable capital
+        I'll vote on the ceiling if you codify debt by mcc.
+        <br />
+        <a href="https://marginalism.uk">All (budgets) at once</a>
+        {space}- Keynes the plagiarist: Liquid, variable capital
         {/* - risk free bank injury plaintiffrecessiontax.com*/}
         <br />
         <br />
