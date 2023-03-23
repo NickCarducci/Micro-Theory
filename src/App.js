@@ -334,7 +334,8 @@ export default class App extends React.Component {
           or complement value? Is advance and invoice service labor or capital
           supply complementary to good demand? Are closed design and source
           developers insider traders if they long themselves and short their
-          competition more than usual?
+          competition more than usual? Is benefit and utility complementary or
+          zero remainder net sum?
           <hr />
           Is the efficiency utility liquid capital or material benefit?{space}
           <span style={{ color: "forestgreen" }}>
