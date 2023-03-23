@@ -327,9 +327,10 @@ export default class App extends React.Component {
           invoice service labor or capital supply complementary to good demand?
           Does subpar indemnity contribute to the federal reserve’s depopulation
           goals? Do surety bonds instead of agile sprint work substitute demand
-          or complement value? Are closed design and source developers insider
-          traders if they long themselves and short their competition more than
-          usual?
+          or complement value? Is advance and invoice service labor or capital
+          supply complementary to good demand? Are closed design and source
+          developers insider traders if they long themselves and short their
+          competition more than usual?
           <hr />
           Is the efficiency utility liquid capital or material benefit?{space}
           <span style={{ color: "forestgreen" }}>
