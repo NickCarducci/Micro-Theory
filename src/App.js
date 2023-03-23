@@ -241,16 +241,21 @@ export default class App extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
-          Is capital goods and accrual or operational losses? Liquid capital is
-          shrinkflation what do you mean booming
+          <div style={{ fontSize: "8px", lineHeight: "8px" }}>
+            Is capital goods and accrual or operational losses? Liquid capital
+            is shrinkflation what do you mean booming? Doesn't experience lower
+            technical, resource, and material costs while competition deflates
+            operational costs of custom advanced work scope requirements as well
+            as usual good products?
+          </div>
+          &bull;{space}was checkable deposits not the set up for this from the
+          pervert
           <br />
-          was checkable deposits not the set up for this from the pervert
+          &bull;{space}open market subpar fair. stock banking.
           <br />
-          open market subpar fair. stock banking.
+          &bull;{space}total befits factors multilevelcapital.com
           <br />
-          total befits factors multilevelcapital.com
-          <br />
-          there is no reason to have safe assets{space}
+          &bull;{space}there is no reason to have safe assets{space}
           <a href="https://plaintiffrecessiontax.com" style={{ color: "blue" }}>
             plaintiffrecessiontax.com
           </a>
