@@ -176,6 +176,24 @@ export default class App extends React.Component {
             //false legitimacy
           }}
         >
+          <a href="https://www.quora.com/unanswered/Is-the-non-accelerating-inflation-rate-of-unemployment-labor-supply-complementary-to-demand-before-or-after-the-x-intercept-of-its-derivative">
+            <Cable
+              style={{ width: "100%", maxWidth: "300px" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.serviceCancelingImages
+                  ? ""
+                  : "https://www.dropbox.com/s/mdpli83y2necqx4/NAIRU%20derivative%20intercept.png?raw=1"
+              }
+              float="right"
+              title="NAIRU minimum"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+          </a>
           I can't take criminal sponsors
           <div style={{ backgroundColor: "lightgrey" }}>
             NO ONE has made viruses infect faster than the cell it uses
@@ -7463,4 +7481,3 @@ export default class App extends React.Component {
     );
   }
 }
-
