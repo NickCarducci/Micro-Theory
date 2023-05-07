@@ -176,6 +176,11 @@ export default class App extends React.Component {
             //false legitimacy
           }}
         >
+          <h3>
+            Monopolies shouldn’t cause an average price, but a total one.
+            Oligopolies could, however, and do by their market share
+            quadrant-skew, through order by propensity.
+          </h3>
           <a href="https://www.quora.com/unanswered/Is-the-non-accelerating-inflation-rate-of-unemployment-labor-supply-complementary-to-demand-before-or-after-the-x-intercept-of-its-derivative">
             <Cable
               style={{ width: "100%", maxWidth: "300px" }}
@@ -7481,3 +7486,4 @@ export default class App extends React.Component {
     );
   }
 }
+
