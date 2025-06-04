@@ -15,7 +15,7 @@ export default class App extends React.Component {
       journal: true,
       browser: name,
       scrollTop: 0,
-      serviceCancelingImages: name.includes("Safari")
+      serviceCancelingImages: name.includes("Safari"),
     };
     this.podcast = React.createRef();
     this.fema = React.createRef();
@@ -40,13 +40,13 @@ export default class App extends React.Component {
       this.setState(
         {
           scrolling: true,
-          scrollTop
+          scrollTop,
         },
         () => {
           clearTimeout(this.scrollTimeout);
           this.scrollTimeout = setTimeout(() => {
             this.setState({
-              scrolling: false
+              scrolling: false,
             });
           }, 900);
         }
@@ -63,7 +63,7 @@ export default class App extends React.Component {
           width,
           availableHeight: this.state.ios
             ? window.screen.availHeight - 20
-            : window.innerHeight
+            : window.innerHeight,
         });
       }, 600);
     }
@@ -104,13 +104,150 @@ export default class App extends React.Component {
     };
     const space = " ";
     return (
+      <div>
+        <hr />
+        <h2>🎙️ Welcome to Micro-Theory.com</h2>
+        <p>
+          <strong>Advanced Microeconomics for a Post-Growth World</strong>
+        </p>
+        <p>
+          We explore economic systems from the ground up—markets, institutions,
+          and incentives—with a skeptical eye toward common assumptions like{" "}
+          <em>growth for growth’s sake</em> or{" "}
+          <em>job creation as a good in itself</em>. Micro-Theory is a podcast
+          for those who want to think critically about the purpose of economics
+          in modern life—and how theory intersects with policy, technology, and
+          ethics.
+        </p>
+        <p>
+          Available on <strong>Spotify</strong>, <strong>Apple Podcasts</strong>
+          , and most major platforms.
+        </p>
+        <hr />
+        <h2>🧠 What We Believe: Less Work, More Thought</h2>
+        <p>
+          Conventional wisdom says job creation is good. But is it?
+          <br />
+          If wages don’t rise faster than inflation, then new jobs are just time
+          drains. Leisure—<em>the freedom to prefer</em>, as Milton Friedman
+          might say—is the only universal utility. Why should we celebrate GDP
+          growth if it's based on shrinking product sizes, wasted natural
+          resources, or forced work that displaces free time?
+        </p>
+        <blockquote>
+          <p>
+            "Economic growth is not inherently good; it's often a sign of
+            inflation or shrinkflation."
+            <br />— Nicholas Matthew Carducci, Host of Micro-Theory
+          </p>
+        </blockquote>
+        <p>At Micro-Theory, we flip traditional logic:</p>
+        <ul>
+          <li>
+            <p>❌ Job creation ≠ economic virtue</p>
+          </li>
+          <li>
+            <p>✅ True utility = leisure, choice, and ecological balance</p>
+          </li>
+          <li>
+            <p>❌ Output gains = often externalized costs, not shared value</p>
+          </li>
+          <li>
+            <p>
+              ✅ Honest accounting starts with knowing what’s not worth
+              producing
+            </p>
+          </li>
+        </ul>
+        <hr />
+        <h2>💡 Original Economic Concepts</h2>
+        <h3>🧾 Monetary Justice</h3>
+        <p>
+          Featured at{" "}
+          <a target="_new" href="https://taxparty.org">
+            TaxParty.org
+          </a>
+          : "Monetary Justice Begins With Honest Accounting."
+          <br />
+          We desire a world where banks do not lend deposits—nor take advantage
+          of central bank access—to perpetuate inflation, and worse, surrender
+          third-party cash donee beneficiaries their own rights to make
+          purchases, promising their money to the lender before the borrower
+          earns it.
+        </p>
+        <h3>💰 Progressive National Sales Tax</h3>
+        <p>
+          We reject identifying as a flat tax: we just want corporations to play
+          on the level with individuals and households through a{" "}
+          <strong>progressive national sales tax</strong>, in place of income,
+          corporate, and capital gains/estate taxes.
+        </p>
+        <h3>🏛️ Property is Not a Pension</h3>
+        <p>
+          We challenge the "equity growth" narratives that insist lenders
+          deserve both payment installments and home equity in the event of
+          repossession.
+          <br />
+          <strong>Down with interest beyond the original term</strong>—and deal
+          with the market you’re dealt.
+        </p>
+        <hr />
+        <h2>🧬 About the Host</h2>
+        <p>
+          <strong>Nicholas Matthew Carducci</strong> is an independent candidate
+          for U.S. Senate (2026), an MS Software Engineering candidate at
+          Monmouth University, and a BA Political Science/Economics graduate of
+          The Johns Hopkins University. He’s a policy skeptic, technologist, and
+          entrepreneurial thinker behind <strong>Guardian Angel</strong> (a
+          privacy-respecting AI support app) and <strong>Moguls</strong> (a
+          cooperative property simulator).
+        </p>
+        <p>
+          His work sits at the intersection of political economy, ethics,
+          software, and the future of human work.
+        </p>
+        <p>
+          📎 <a target="_new">about.me/nicholasmatthewcarducci</a>
+          <br />
+          🏛️{" "}
+          <a target="_new" href="https://nickcarducci.com">
+            nickcarducci.com
+          </a>
+          <br />
+          📧 <a>sayists@icloud.com</a>
+        </p>
+        <hr />
+        <p data-is-last-node="" data-is-only-node="">
+          Let me know if you’d like a blog section added for new episodes, or I
+          can package this in HTML, Markdown, or CMS-ready form (like for
+          WordPress, Ghost, or a static site builder like Hugo).
+        </p>
+
+        <iframe
+          title="Advanced Microeconomics: The Micro-Theory.com Podcast"
+          src="https://embed.podcasts.apple.com/us/podcast/advanced-microeconomics-the-micro-theory-com-podcast/id1629354788?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto"
+          height="450px"
+          frameborder="0"
+          sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+          allow="autoplay *; encrypted-media *; clipboard-write"
+          style={{
+            width: "100%",
+            maxWidth: "660px",
+            overflow: "hidden",
+            borderRadius: "10px",
+            background: "transparent",
+          }}
+        ></iframe>
+      </div>
+    );
+    return (
       <div
         style={{
           overflow: "hidden",
           width: "100%",
           maxWidth: "600px",
           fontFamily: "sans-serif",
-          textAlign: "center"
+          textAlign: "center",
         }}
       >
         <div
@@ -126,7 +263,7 @@ export default class App extends React.Component {
             position: "fixed",
             width: "calc(100% - 42px)",
             fontFamily: "sans-serif",
-            justifyContent: this.state.scrollTop === 0 ? "center" : "flex-end"
+            justifyContent: this.state.scrollTop === 0 ? "center" : "flex-end",
           }}
         >
           {!this.state.journal ? "journal" : "plan"}
@@ -144,7 +281,7 @@ export default class App extends React.Component {
             position: !this.state.journal ? "fixed" : "relative",
             width: "100%",
             maxWidth: "600px",
-            textAlign: "center" //parallel occurance
+            textAlign: "center", //parallel occurance
             //​i'll see to it but it's not looking good (political promises and advice)
             //Are Bondholders Owed a Fiduciary Duty? lmfao to whom donee
             //​point of income fiduciary public payable to sales
@@ -230,7 +367,7 @@ export default class App extends React.Component {
             <a
               href="https://rolloverinsurance.quora.com"
               style={{
-                color: "darkviolet"
+                color: "darkviolet",
               }}
             >
               Do musculoskeletal or epidermal scars heal?
@@ -287,7 +424,7 @@ export default class App extends React.Component {
           <br />
           <span
             style={{
-              color: "forestgreen"
+              color: "forestgreen",
             }}
           >
             compel suture practitioners
@@ -415,7 +552,7 @@ export default class App extends React.Component {
               marginBottom: "8px",
               float: "right",
               backgroundColor: "black",
-              color: "white"
+              color: "white",
             }}
           >
             occupywall.us
@@ -486,7 +623,7 @@ export default class App extends React.Component {
           <a
             href="https://twitter.com/vaultbiz"
             style={{
-              color: "blue"
+              color: "blue",
             }}
           >
             unitarily temporal
@@ -730,7 +867,7 @@ export default class App extends React.Component {
             contract?{space}
             <i
               style={{
-                color: "pink"
+                color: "pink",
               }}
             >
               Should{space}
@@ -789,7 +926,7 @@ export default class App extends React.Component {
           Medical nexus requires indemnity. Not reverse, reduce! That’s{space}
           <i
             style={{
-              color: "darkgreen"
+              color: "darkgreen",
             }}
           >
             reversing to total cash liability to cash future and past, and
@@ -802,7 +939,7 @@ export default class App extends React.Component {
           entertainment, nor advanced payments?{space}
           <i
             style={{
-              color: "firebrick"
+              color: "firebrick",
             }}
           >
             Is a salary used on inventory to be sold later a speculation or
@@ -817,7 +954,7 @@ export default class App extends React.Component {
             degradation over time?{space}
             <span
               style={{
-                color: "grey"
+                color: "grey",
               }}
             >
               How is this natural and/or without indemnity of some criminal?
@@ -840,7 +977,7 @@ export default class App extends React.Component {
           <br />
           <i
             style={{
-              color: "cornflowerblue"
+              color: "cornflowerblue",
             }}
           >
             Why can't retirement be from a primary residence?
@@ -853,14 +990,14 @@ export default class App extends React.Component {
           income?
           <h2
             style={{
-              margin: "4px 0px"
+              margin: "4px 0px",
             }}
           >
             I am electiontechnology.quora.com
           </h2>
           <h3
             style={{
-              margin: "4px 0px"
+              margin: "4px 0px",
             }}
           >
             2024nj.com/Carducci
@@ -879,7 +1016,7 @@ export default class App extends React.Component {
           <br />
           <h2
             style={{
-              margin: "4px 0px"
+              margin: "4px 0px",
             }}
           >
             Trump didn't show - from rally to riot; all white collar crime comes
@@ -959,7 +1096,7 @@ export default class App extends React.Component {
           <div
             style={{
               transition: ".3s ease-in",
-              fontSize: this.state.openMost ? "" : "0px"
+              fontSize: this.state.openMost ? "" : "0px",
             }}
           >
             <i>
@@ -996,7 +1133,7 @@ export default class App extends React.Component {
             {/**and without diminishing supply inventory utility */}?{space}
             <b
               style={{
-                margin: "4px 0px"
+                margin: "4px 0px",
               }}
             >
               Incrementally pricier (xy) or Materiality withstanding (x, units)
@@ -1092,7 +1229,7 @@ export default class App extends React.Component {
             {space}
             <span
               style={{
-                textDecoration: "line-through"
+                textDecoration: "line-through",
               }}
             >
               Does a loaned or advanced purchase increase price the more it is
@@ -1122,7 +1259,7 @@ export default class App extends React.Component {
               title="ponzi multilevelcapital.com"
               style={{
                 width: "100%",
-                height: "300px"
+                height: "300px",
               }}
               src="https://multilevelcapital.com"
             />
@@ -1561,12 +1698,12 @@ export default class App extends React.Component {
             position: this.state.journal ? "fixed" : "relative",
             width: "100%",
             maxWidth: "600px",
-            textAlign: "center"
+            textAlign: "center",
           }}
         >
           <div
             style={{
-              width: "100%"
+              width: "100%",
             }}
           >
             <a
@@ -1578,7 +1715,7 @@ export default class App extends React.Component {
                 fontSize: "20px",
                 fontFamily: "'Pacifico', sans-serif",
                 color: "rgb(230,230,255)",
-                backgroundColor: "rgb(32, 22, 11)"
+                backgroundColor: "rgb(32, 22, 11)",
               }}
               href="https://carducci.us"
             >
@@ -1593,7 +1730,7 @@ export default class App extends React.Component {
                 fontSize: "20px",
                 fontFamily: "'Pacifico', sans-serif",
                 color: "rgb(230,230,255)",
-                backgroundColor: "rgb(32, 22, 11)"
+                backgroundColor: "rgb(32, 22, 11)",
               }}
               href="https://saverparty.xyz"
             >
@@ -1971,7 +2108,7 @@ export default class App extends React.Component {
                 fontSize: "20px",
                 fontFamily: "'Pacifico', sans-serif",
                 color: "rgb(230,230,255)",
-                backgroundColor: "rgb(32, 22, 11)"
+                backgroundColor: "rgb(32, 22, 11)",
               }}
               href="https://moldmask.co"
             >
@@ -1989,7 +2126,7 @@ export default class App extends React.Component {
                 border: "1px solid black",
                 borderRadius: "15px",
                 padding: "10px",
-                margin: "10px"
+                margin: "10px",
               }}
             >
               "5m-250k, 3m peasant farmers starve to death.
@@ -2062,7 +2199,7 @@ export default class App extends React.Component {
                 fontSize: "20px",
                 fontFamily: "'Pacifico', sans-serif",
                 color: "rgb(230,230,255)",
-                backgroundColor: "rgb(32, 22, 11)"
+                backgroundColor: "rgb(32, 22, 11)",
               }}
               href="https://2024nj.com/drugs"
             >
@@ -2153,7 +2290,7 @@ export default class App extends React.Component {
                 fontSize: "20px",
                 fontFamily: "'Pacifico', sans-serif",
                 color: "rgb(230,230,255)",
-                backgroundColor: "rgb(32, 22, 11)"
+                backgroundColor: "rgb(32, 22, 11)",
               }}
               href="https://humanharvest.info/polio"
             >
@@ -2164,7 +2301,7 @@ export default class App extends React.Component {
             <h2>
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 "Rand Paul was the 'first person' to ask Gov for money Kentucky
@@ -2179,7 +2316,7 @@ export default class App extends React.Component {
                     fontSize: "20px",
                     fontFamily: "'Pacifico', sans-serif",
                     color: "rgb(230,230,255)",
-                    backgroundColor: "rgb(32, 22, 11)"
+                    backgroundColor: "rgb(32, 22, 11)",
                   }}
                   href="https://froth.app/debt"
                 >
@@ -2194,7 +2331,7 @@ export default class App extends React.Component {
               <br />
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 “We need to come together whenever there is a national common
@@ -2224,7 +2361,7 @@ export default class App extends React.Component {
               <br />
               <Cable
                 style={{
-                  height: "300px"
+                  height: "300px",
                 }}
                 onError={handleScollImgError}
                 //img={true}
@@ -2266,7 +2403,7 @@ export default class App extends React.Component {
               />
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 “We don’t need manpower nor technology, we need policy to
@@ -2359,7 +2496,7 @@ export default class App extends React.Component {
               <hr ref={this.fema} />
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 “Make sure they get registered with FEMA for assistance,”
@@ -2420,7 +2557,7 @@ export default class App extends React.Component {
             <h3 style={{ fontSize: "24px" }}>
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 Against $32/day/p debt principal $8/day/p bonds, $.18/day/p
@@ -2432,7 +2569,7 @@ export default class App extends React.Component {
               sports.
               <span
                 style={{
-                  fontSize: "9px"
+                  fontSize: "9px",
                 }}
               >
                 “Order to compel, contempt, try abstentia takes property,” as
@@ -2788,7 +2925,7 @@ export default class App extends React.Component {
           <a
             href="https://saverparty.xyz"
             style={{
-              backgroundColor: "rgba(200,100,150,.5)"
+              backgroundColor: "rgba(200,100,150,.5)",
             }}
           >
             pre
@@ -3154,7 +3291,7 @@ export default class App extends React.Component {
             truncated sales tax, and login.gov.&nbsp;
             <span
               style={{
-                fontSize: "9px"
+                fontSize: "9px",
               }}
             >
               consumer surrogate target margin (& jury for business) for public
@@ -3290,7 +3427,7 @@ export default class App extends React.Component {
             <a
               href="https://carducci.us"
               style={{
-                fontSize: "9px"
+                fontSize: "9px",
               }}
             >
               stay in business, without business
@@ -3544,7 +3681,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3561,7 +3698,7 @@ export default class App extends React.Component {
             scrollTop={this.state.scrollTop}
           />
           “Fare-dodging is Libertarian,” to Brits because gov and corps are the
-          same or actually it is… why is port not consumer-surrogate with
+          same or actually it is…why is port not consumer-surrogate with
           target-margin (& jury for business) for infinite producer reason and
           finite producer reality
           <br />
@@ -3573,7 +3710,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3795,7 +3932,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3855,7 +3992,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3951,7 +4088,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3983,14 +4120,14 @@ export default class App extends React.Component {
           <h2
             style={{
               backgroundColor: "black",
-              color: "white"
+              color: "white",
             }}
           >
             Can’t reverse per trial, which the state takes over class-solving
           </h2>
           <Cable
             style={{
-              height: "240px"
+              height: "240px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -4443,7 +4580,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "440px"
+              height: "440px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -4675,7 +4812,7 @@ export default class App extends React.Component {
               border: "3px solid black",
               borderRadius: "30px",
               textAlign: "center",
-              fontSize: "26px"
+              fontSize: "26px",
             }}
           >
             SaverParty.xyz
@@ -4781,7 +4918,7 @@ export default class App extends React.Component {
             Common sense are a bunch of followers&nbsp;
             <span
               style={{
-                color: "grey"
+                color: "grey",
               }}
             >
               10x hours per median home since 1970 half-life ago
@@ -4793,7 +4930,7 @@ export default class App extends React.Component {
           <h2
             style={{
               backgroundColor: "rgb(197, 179, 88)",
-              color: "black"
+              color: "black",
             }}
           >
             Price-deflation over hours halves every 5 years while gdp/p was
@@ -4924,7 +5061,7 @@ export default class App extends React.Component {
           lands, gdp/p before 1913 was nearly constant micro-theory.com&nbsp;
           <span
             style={{
-              fontWeight: "bolder"
+              fontWeight: "bolder",
             }}
           >
             cap 5 units /30 days, non-voters keep winning
@@ -5037,7 +5174,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "470px"
+              height: "470px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -5090,7 +5227,7 @@ export default class App extends React.Component {
           <Cable
             style={{
               width: "615px",
-              height: "470px"
+              height: "470px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -5146,7 +5283,7 @@ export default class App extends React.Component {
           {this.state.openMost && (
             <Cable
               style={{
-                height: "440px"
+                height: "440px",
               }}
               onError={handleScollImgError}
               //img={true}
@@ -5189,7 +5326,7 @@ export default class App extends React.Component {
             <span
               style={{
                 backgroundColor: "green",
-                color: "white"
+                color: "white",
               }}
             >
               Outlay the means of production, durable-parks/hamberger-services,
@@ -5198,7 +5335,7 @@ export default class App extends React.Component {
           </h2>
           <Cable
             style={{
-              height: "440px"
+              height: "440px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -5614,7 +5751,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "440px"
+              height: "440px",
             }}
             onError={handleScollImgError}
             //img={true}
@@ -5883,12 +6020,12 @@ export default class App extends React.Component {
           <br />
           <div
             style={{
-              height: "min-content"
+              height: "min-content",
             }}
           >
             <TwitterTweetEmbed
               style={{
-                float: "left"
+                float: "left",
               }}
               key="1421471623136358405"
               tweetId="1421471623136358405"
@@ -5974,7 +6111,7 @@ export default class App extends React.Component {
           racketeer (compete-with-consumers) means jailtime
           <Cable
             style={{
-              height: "300px"
+              height: "300px",
             }}
             onError={handleScollImgError}
             src={
@@ -5992,7 +6129,7 @@ export default class App extends React.Component {
           <h2>expertise breed complacency and savefacing</h2>
           <Cable
             style={{
-              height: "500px"
+              height: "500px",
             }}
             onError={handleScollImgError}
             src={
@@ -6085,7 +6222,7 @@ export default class App extends React.Component {
           lands
           <Cable
             style={{
-              height: "500px"
+              height: "500px",
             }}
             onError={handleScollImgError}
             src={
@@ -6201,7 +6338,7 @@ export default class App extends React.Component {
             style={{
               borderRadius: "10px",
               border: "1px solid rgb(100,200,255)",
-              textAlign: "center"
+              textAlign: "center",
             }}
           >
             {" "}
@@ -6220,7 +6357,7 @@ export default class App extends React.Component {
                 margin: "10px",
                 borderRadius: "10px",
                 border: "1px solid rgb(100,200,255)",
-                textAlign: "center"
+                textAlign: "center",
               }}
             >
               In the near future we will steward equity+royalty w/max-profit and
@@ -6296,7 +6433,7 @@ export default class App extends React.Component {
               borderRadius: "10px",
               backgroundColor: "rgb(100,200,255)",
               textAlign: "center",
-              padding: "4px 0px"
+              padding: "4px 0px",
             }}
             onClick={() =>
               this.setState({ openMinnesota: !this.state.openMinnesota })
@@ -6311,7 +6448,7 @@ export default class App extends React.Component {
             <div
               style={{
                 borderRadius: "3px",
-                border: "1px solid rgb(100,200,255)"
+                border: "1px solid rgb(100,200,255)",
               }}
             >
               prone-control is not use of force, but should be used as
@@ -6429,7 +6566,7 @@ export default class App extends React.Component {
               borderRadius: "10px",
               backgroundColor: "rgb(100,200,255)",
               textAlign: "center",
-              padding: "4px 0px"
+              padding: "4px 0px",
             }}
             onClick={() => this.setState({ openChase: !this.state.openChase })}
           >
@@ -6440,7 +6577,7 @@ export default class App extends React.Component {
             <div
               style={{
                 borderRadius: "3px",
-                border: "1px solid rgb(100,200,255)"
+                border: "1px solid rgb(100,200,255)",
               }}
             >
               @ChaseSupport We are the official Twitter customer service team
@@ -6573,7 +6710,7 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "76px",
                 backgroundColor: "#c39767ff",
-                color: "white"
+                color: "white",
               }}
             >
               Scopebook
@@ -6609,14 +6746,14 @@ export default class App extends React.Component {
               style={{
                 minWidth: "120px",
                 width: "25%",
-                position: "relative"
+                position: "relative",
               }}
             >
               <img
                 alt=""
                 style={{
                   width: "100%",
-                  height: "auto"
+                  height: "auto",
                 }}
                 src="https://www.dropbox.com/s/9un3448wjl1dnip/IMG_3563.png?raw=1"
               />
@@ -6625,14 +6762,14 @@ export default class App extends React.Component {
               style={{
                 minWidth: "120px",
                 width: "25%",
-                position: "relative"
+                position: "relative",
               }}
             >
               <img
                 alt=""
                 style={{
                   width: "100%",
-                  height: "auto"
+                  height: "auto",
                 }}
                 src="https://www.dropbox.com/s/h03iyt7e8hxa19w/IMG_3562.png?raw=1"
               />
@@ -6641,14 +6778,14 @@ export default class App extends React.Component {
               style={{
                 minWidth: "120px",
                 width: "25%",
-                position: "relative"
+                position: "relative",
               }}
             >
               <img
                 alt=""
                 style={{
                   width: "100%",
-                  height: "auto"
+                  height: "auto",
                 }}
                 src="https://www.dropbox.com/s/esz6ke2xn7fs716/Markey1.png?raw=1"
               />
@@ -6657,14 +6794,14 @@ export default class App extends React.Component {
               style={{
                 minWidth: "120px",
                 width: "25%",
-                position: "relative"
+                position: "relative",
               }}
             >
               <img
                 alt=""
                 style={{
                   width: "100%",
-                  height: "auto"
+                  height: "auto",
                 }}
                 src="https://www.dropbox.com/s/xjhg8b1kcmwxpxz/Markey2.png?raw=1"
               />
@@ -6690,7 +6827,7 @@ export default class App extends React.Component {
               borderRadius: "10px",
               margin: "10px",
               padding: "10px",
-              border: "1px solid grey"
+              border: "1px solid grey",
             }}
           >
             Harder for GA absentee & early-voting somehow from runoff... it
@@ -6906,14 +7043,14 @@ export default class App extends React.Component {
               <div
                 style={{
                   width: "40%",
-                  position: "relative"
+                  position: "relative",
                 }}
               >
                 <img
                   alt=""
                   style={{
                     width: "100%",
-                    height: "auto"
+                    height: "auto",
                   }}
                   src="https://www.dropbox.com/s/alxtqu19s764stl/CountyReimbursements.jpeg?raw=1"
                 />
@@ -6921,14 +7058,14 @@ export default class App extends React.Component {
               <div
                 style={{
                   width: "40%",
-                  position: "relative"
+                  position: "relative",
                 }}
               >
                 <img
                   alt=""
                   style={{
                     width: "100%",
-                    height: "auto"
+                    height: "auto",
                   }}
                   src="https://www.dropbox.com/s/nnv1d4217tjix7b/IMG_0318.jpeg?raw=1"
                 />
@@ -6978,14 +7115,14 @@ export default class App extends React.Component {
             <div
               style={{
                 width: "40%",
-                position: "relative"
+                position: "relative",
               }}
             >
               <img
                 alt=""
                 style={{
                   width: "100%",
-                  height: "auto"
+                  height: "auto",
                 }}
                 src="https://www.dropbox.com/s/fohi9a6fxtrch0q/NeedFundsImmediately.jpeg?raw=1"
               />
@@ -7019,7 +7156,7 @@ export default class App extends React.Component {
           <a
             href="https://saverparty.xyz"
             style={{
-              position: "relative"
+              position: "relative",
             }}
           >
             <img
@@ -7063,7 +7200,7 @@ export default class App extends React.Component {
             Only if you are [ "late on your business-line{" "}
             <span
               style={{
-                textDecoration: "line-through"
+                textDecoration: "line-through",
               }}
             >
               or collateralized debt
@@ -7196,7 +7333,7 @@ export default class App extends React.Component {
               width: "100%",
               height: "76px",
               backgroundColor: "rgb(20,20,25)",
-              color: "rgb(200,200,220)"
+              color: "rgb(200,200,220)",
             }}
           >
             Vaults.biz
@@ -7231,7 +7368,7 @@ export default class App extends React.Component {
             <div
               style={{
                 border: "1px solid",
-                margin: "10px"
+                margin: "10px",
               }}
             >
               A derivative cannot be a constant since apples are not oranges of
@@ -7272,7 +7409,7 @@ export default class App extends React.Component {
             <div
               style={{
                 border: "1px solid",
-                margin: "10px"
+                margin: "10px",
               }}
             >
               <b>
@@ -7331,7 +7468,7 @@ export default class App extends React.Component {
               width: "100%",
               height: "76px",
               backgroundColor: "white",
-              color: "black"
+              color: "black",
             }}
           >
             NationalSecurityCasino.com
@@ -7347,7 +7484,7 @@ export default class App extends React.Component {
               width: "100%",
               height: "76px",
               backgroundColor: "#a64d79ff",
-              color: "rgb(230,230,230)"
+              color: "rgb(230,230,230)",
             }}
           >
             SaverParty.xyz
@@ -7363,7 +7500,7 @@ export default class App extends React.Component {
               width: "100%",
               height: "76px",
               backgroundColor: "#04060aff",
-              color: "#edeac1ef"
+              color: "#edeac1ef",
             }}
           >
             Froth.app
@@ -7420,7 +7557,7 @@ export default class App extends React.Component {
               maxWidth: "660px",
               overflow: "hidden",
               borderRadius: "10px",
-              background: "transparent"
+              background: "transparent",
             }}
           ></iframe>
         </h1>
@@ -7471,7 +7608,7 @@ export default class App extends React.Component {
             padding: "0px 5px",
             borderRadius: "10px",
             border: "1px solid",
-            textDecoration: "none"
+            textDecoration: "none",
           }}
           href="https://www.quora.com/What-is-the-most-effective-way-to-promote-a-podcast/answer/Nick-Carducci"
         >
@@ -7486,4 +7623,3 @@ export default class App extends React.Component {
     );
   }
 }
-
