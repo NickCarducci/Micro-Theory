@@ -130,9 +130,9 @@ export default class App extends React.Component {
           <br />
           If wages don’t rise faster than inflation, then new jobs are just time
           drains. Leisure—<em>the freedom to prefer</em>, as Milton Friedman
-          might say—is the only universal utility. Why should we celebrate GDP
-          growth if it's based on shrinking product sizes, wasted natural
-          resources, or forced work that displaces free time?
+          might say—is the only universal economic utility. Why should we
+          celebrate GDP growth if it's based on shrinking product sizes, wasted
+          natural resources, or forced work that displaces free time?
         </p>
         <blockquote>
           <p>
@@ -175,6 +175,49 @@ export default class App extends React.Component {
           third-party cash donee beneficiaries their own rights to make
           purchases, promising their money to the lender before the borrower
           earns it.
+        </p>
+        <h3>📉 Max-Royalty Payout Contracts</h3>
+        <p>
+          A debt-free alternative to loans or equity dilution,{" "}
+          <strong>payout-schedule contracts</strong> allow entrepreneurs to
+          raise funds by promising revenue shares that phase out once investor
+          returns meet a capped maximum.
+          <br />
+          Popularized by venture capitalists like Shark Tank’s Mr. Wonderful—but
+          rarely disclosed in detail—this model can be made transparent and
+          enforceable:
+        </p>
+        <ul>
+          <li>
+            <p>
+              🧾 <em>Industry-specificity clauses</em> and garnishment options
+              allow investor classes to receive their share automatically upon
+              income withdrawals.
+            </p>
+          </li>
+          <li>
+            <p>
+              💳 Disbursements are tied to withdrawals—not merely
+              spending—giving recipients control and traceability.
+            </p>
+          </li>
+          <li>
+            <p>
+              🔁 Early investor classes get paid out first; later classes are
+              stacked sequentially.
+            </p>
+          </li>
+          <li>
+            <p>
+              ⛔ Once the max royalty (or forecasted profit with implied
+              interest) is met, payments stop.
+            </p>
+          </li>
+        </ul>
+        <p>
+          This model avoids compounding debt and asset forfeiture—providing an
+          ethical, programmatic alternative to collateralized loans or equity
+          sales.
         </p>
         <h3>💰 Progressive National Sales Tax</h3>
         <p>
@@ -7619,3 +7662,4 @@ export default class App extends React.Component {
     );
   }
 }
+
