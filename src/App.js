@@ -137,7 +137,8 @@ export default class App extends React.Component {
         <blockquote>
           <p>
             "Economic growth is not inherently good; it's often a sign of
-            inflation or shrinkflation."
+            inflation, shrinkflation, or investment - a tradeoff - rather than
+            greater access to new products."
             <br />— Nicholas Matthew Carducci, Host of Micro-Theory
           </p>
         </blockquote>
@@ -217,11 +218,6 @@ export default class App extends React.Component {
           📧 <a>sayists@icloud.com</a>
         </p>
         <hr />
-        <p data-is-last-node="" data-is-only-node="">
-          Let me know if you’d like a blog section added for new episodes, or I
-          can package this in HTML, Markdown, or CMS-ready form (like for
-          WordPress, Ghost, or a static site builder like Hugo).
-        </p>
 
         <iframe
           title="Advanced Microeconomics: The Micro-Theory.com Podcast"
