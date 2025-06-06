@@ -138,7 +138,9 @@ export default class App extends React.Component {
           <p>
             "Economic growth is not inherently good; it's often a sign of
             inflation, shrinkflation, or investment - a tradeoff - rather than
-            greater access to new products and dynamic demand."
+            greater access to new products and dynamic demand. Who cares if
+            growth is inclusive if it depletes cash, leisure, and materials more
+            than necessary!"
             <br />— Nicholas Matthew Carducci, Host of Micro-Theory
           </p>
         </blockquote>
