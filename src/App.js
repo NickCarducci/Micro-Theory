@@ -221,6 +221,37 @@ export default class App extends React.Component {
           ethical, programmatic alternative to collateralized loans or equity
           sales.
         </p>
+        <h3>🎁 Baby Bonds Are Not Free</h3>
+        <p>
+          Though well-intentioned, <strong>baby bonds</strong> often rely on
+          flawed funding models that either replicate or deepen inequality:
+        </p>
+        <ul>
+          <li>
+            <p>
+              💸 If funded through debt (like traditional bonds), they{" "}
+              <strong>directly create future inequality</strong>
+              —saddling future workers and children with repayment obligations.
+            </p>
+          </li>
+          <li>
+            <p>
+              🏦 If funded through government-owned enterprise, they{" "}
+              <strong>distort market competition</strong>, introducing public
+              monopolies and inflationary bottlenecks.
+            </p>
+          </li>
+          <li>
+            <p>
+              📈 If funded by taxes, they <strong>shift wealth</strong>{" "}
+              arbitrarily without reforming systemic barriers to opportunity.
+            </p>
+          </li>
+        </ul>
+        <p>
+          Baby bonds are not free—they are <em>prepaid political favors</em>,
+          not structural economic solutions.
+        </p>
         <h3>💰 Progressive National Sales Tax</h3>
         <p>
           We reject identifying as a flat tax: we just want corporations to play
