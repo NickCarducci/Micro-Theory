@@ -259,6 +259,39 @@ export default class App extends React.Component {
           <strong>progressive national sales tax</strong>, in place of income,
           corporate, and capital gains/estate taxes.
         </p>
+        <ul>
+          <li>
+            <p>
+              📊 When the national sales tax is progressive, no amount of saving
+              can make up for the total percentage tax burden on earnings for
+              high-income businesses.
+            </p>
+          </li>
+          <li>
+            <p>
+              🧾 This ensures that highly profitable entities are taxed more on
+              their overall throughput, not just on declared income or
+              reinvested profits.
+            </p>
+          </li>
+          <li>
+            <p>
+              🛒 Although low-income consumers may pay a higher percentage of
+              their <em>after-tax</em> income when they spend, they pay a{" "}
+              <strong>
+                lower percentage of their <em>pre-tax</em> income
+              </strong>{" "}
+              overall.
+            </p>
+          </li>
+          <li>
+            <p>
+              🏢 The total amount of sales falls into a separate tax bracket for
+              each industry so as to not allow businesses to abscond higher
+              progressive (national sales) tax rates.
+            </p>
+          </li>
+        </ul>
         <h3>🏛️ Property is Not a Pension</h3>
         <p>
           We challenge the "equity growth" narratives that insist lenders
