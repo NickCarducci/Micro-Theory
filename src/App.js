@@ -249,9 +249,174 @@ export default class App extends React.Component {
           </li>
         </ul>
         <p>
-          Baby bonds are not free—they are <em>prepaid political favors</em>,
-          not structural economic solutions.
+          <span
+            onClick={() => {
+              this.setState({ openBabyBonds: !this.state.openBabyBonds });
+            }}
+            style={{
+              cursor: "pointer",
+              textDecoration: "underline",
+            }}
+          >
+            Baby bonds are not free
+          </span>
+          —they are <em>prepaid political favors</em>, not structural economic
+          solutions.
         </p>
+        {this.state.openBabyBonds && (
+          <div
+            style={{
+              padding: "10px",
+              backgroundColor: "whitesmoke",
+            }}
+          >
+            Gemini AI attests that baby bonds grow without growing either
+            government revenue or debt paying interest. Isn’t that wrong?
+            <br />
+            <p>
+              Yes,{" "}
+              <strong ata-end="162">
+                Gemini AI's assertion that baby bonds grow without increasing
+                either government revenue or debt paying interest is misleading,
+                if not outright incorrect.
+              </strong>{" "}
+              Let’s break this down:
+            </p>
+            <hr />
+            <h3>🔍 What Are Baby Bonds?</h3>
+            <p>
+              "<strong>Baby bonds</strong>" are publicly funded trust accounts
+              or savings instruments, typically proposed for every child at
+              birth. The most well-known version comes from proposals by Sen.
+              Cory Booker and others, where:
+            </p>
+            <ul>
+              <li>
+                <p>
+                  The government deposits a set amount (e.g., $1,000 at birth),
+                </p>
+              </li>
+              <li>
+                <p>
+                  Additional annual deposits are made, scaled by family income,
+                </p>
+              </li>
+              <li>
+                <p>
+                  Funds grow over time and can be accessed at adulthood (18 or
+                  21),
+                </p>
+              </li>
+              <li>
+                <p>
+                  Intended use: education, homeownership, business investment.
+                </p>
+              </li>
+            </ul>
+            <hr />
+            <h3>🧾 Why the Claim is Misleading</h3>
+            <h4>
+              1. <strong>Where Does the Money Come From?</strong>
+            </h4>
+            <ul>
+              <li>
+                <p>
+                  Baby bonds require <strong>annual funding</strong> from the{" "}
+                  <strong>federal budget</strong>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  If there's no{" "}
+                  <strong>offsetting revenue increase (e.g., new taxes)</strong>{" "}
+                  or <strong>spending cut</strong>, it must be financed by:
+                </p>
+                <ul>
+                  <li>
+                    <p>
+                      <strong>Borrowing</strong> (increasing debt), or
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      <strong>Monetary expansion</strong> (indirectly
+                      inflationary or distortive if monetized by the Fed).
+                    </p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <h4>
+              2. <strong>What Happens in the Meantime?</strong>
+            </h4>
+            <ul>
+              <li>
+                <p>
+                  The government invests the money—often assumed in{" "}
+                  <strong>low-risk Treasury securities</strong>, which{" "}
+                  <strong>pay interest</strong>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Even if deposited into a sovereign wealth fund or index fund,{" "}
+                  <strong>someone pays</strong> to grow the money: it's either
+                  taxpayer money or government borrowing (debt servicing).
+                </p>
+              </li>
+            </ul>
+            <h4>
+              3. <strong>“No added debt or revenue”</strong>?
+            </h4>
+            <ul>
+              <li>
+                <p>
+                  To say baby bonds "grow" without growing{" "}
+                  <strong>debt or revenue</strong> assumes either:
+                </p>
+                <ul>
+                  <li>
+                    <p>
+                      The returns are <strong>magically self-funding</strong>{" "}
+                      (which violates basic public finance),
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Or that the principal comes from{" "}
+                      <strong>existing surplus</strong>, which the U.S. does not
+                      currently have.
+                    </p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <hr />
+            <h3>🧠 Bottom Line</h3>
+            <p>
+              <strong>
+                Baby bonds cannot "grow" without either raising government
+                revenue (via taxes) or issuing debt that pays interest.
+              </strong>{" "}
+              Gemini AI's claim, if taken literally, defies basic economic
+              accounting.
+            </p>
+            <p>
+              <strong>Trump Accounts</strong>, while conceptually vaguer, are{" "}
+              <strong>less fiscally burdensome</strong> but also{" "}
+              <strong>less progressive</strong> in wealth redistribution. They
+              rely more on{" "}
+              <strong>individual savings and market participation</strong>,
+              while baby bonds are a <strong>systematic intervention</strong> in
+              wealth inequality.
+            </p>
+            <p>
+              If you're crafting policy or critiquing current proposals, it’s
+              important to be honest about tradeoffs:{" "}
+              <strong data-is-last-node="">no program grows “for free.”</strong>
+            </p>
+          </div>
+        )}
         <h3>💰 Progressive National Sales Tax</h3>
         <p>
           We reject identifying as a flat tax: we just want corporations to play
@@ -7728,4 +7893,3 @@ export default class App extends React.Component {
     );
   }
 }
-
